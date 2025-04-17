@@ -13,7 +13,7 @@ const bent = require('bent');
 const bentGetTEXT = bent('GET', 'string', 200);
 
 const rootDir = "data";
-const reportDir = "../add-on-reports";
+const reportDir = "../docs";
 const extsAllJsonFileName = `${rootDir}/xall.json`;
 
 const RELEASE = 137;
