@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed|Roboto+Mono&display=swap');
+@font-face {
+	font-family: 'Roboto';
+	src: url("https://fonts.googleapis.com/css?family=Roboto:200")
+}
+
+body {
+	font-family: 'Roboto' !important
+}
+
+.container {
+	margin-right: 20px !important;
+	margin-left: 20px !important
+}
+
+.datatable {
+	width: 100%;
+	max-width: 100%;
+	margin-bottom: 1rem
+}
+
+.datatable th,
+.datatable td {
+	padding: 0.75rem;
+	vertical-align: top;
+	border-top: 1px solid #eceeef
+}
+
+.datatable thead th {
+	vertical-align: bottom;
+	border-bottom: 2px solid #eceeef
+}
+
+.datatable tbody+tbody {
+	border-top: 2px solid #eceeef
+}
+
+.datatable {
+	background-color: #fff
+}
+
+.datatable th,
+.datatable td {
+	padding: 0.3rem
+}
+
+.datatable {
+	border: 1px solid #eceeef
+}
+
+.datatable th,
+.datatable td {
+	border: 1px solid #eceeef
+}
+
+.datatable thead th,
+.datatable thead td {
+	border-bottom-width: 2px
+}
+
+.datatable tbody tr:nth-of-type(odd) {
+	background-color: rgba(0, 0, 0, 0.05)
+}
+
+
+.datatable {
+	border-collapse: collapse
+}
+
+.datatable thead th {
+	background-color: #002275;
+	color: whitesmoke;
+	text-align: left
+}
+
+.datatable td, .statstable td {
+	text-align: left;
+	padding-left: 4px;
+	padding-right: 4px
+}
+
+.statstable td {
+	vertical-align: middle;
+}
+
+.statstable img {
+	vertical-align: middle;
+}
