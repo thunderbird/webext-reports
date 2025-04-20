@@ -277,25 +277,25 @@ const wip = {
 }
 
 const pending_pr = {
-    "327780" : "https://github.com/vanowm/TB-Auto-Select-Latest-Message/pull/6", //Auto Select Latest Message
-    "988715" : "https://github.com/JohannesBuchner/thunderbird-ai-grammar-mailextension/pull/4", //AI Grammar
-    "988698" : "https://github.com/2AStudios/tb-export2csv/pull/3", //tb-export2csv 
+    "327780": "https://github.com/vanowm/TB-Auto-Select-Latest-Message/pull/6", //Auto Select Latest Message
+    "988715": "https://github.com/JohannesBuchner/thunderbird-ai-grammar-mailextension/pull/4", //AI Grammar
+    "988698": "https://github.com/2AStudios/tb-export2csv/pull/3", //tb-export2csv 
     //"711780" : "https://github.com/TB-throwback/LookOut-fix-version/pull/119", //Lookout Fixed 
-    "711456" : "https://drive.google.com/file/d/1PpJO6UjudJF6F_V922-ul1wMphrDBOn3/view?usp=sharing", // TexTra
-    "987900" : "https://github.com/mlazdans/qnote/pull/55", // QNote
+    "711456": "https://drive.google.com/file/d/1PpJO6UjudJF6F_V922-ul1wMphrDBOn3/view?usp=sharing", // TexTra
+    "987900": "https://github.com/mlazdans/qnote/pull/55", // QNote
     //"742199" : "https://github.com/mganss/AttachFromClipboard/pull/16", // Attach from Clipboard
     //"11727"  : "https://github.com/isshiki/ReFwdFormatter/pull/7", // ReFwdFormatter
-    "987865" : "https://github.com/alkatrazstudio/prev-colors/pull/3", // Previous Colors
-    "360086" : "https://drive.google.com/file/d/1QScEmQ-RfzdVeWux6O-GrBmTJpRNyytQ/view?usp=sharing", // Toggle Headers
+    "987865": "https://github.com/alkatrazstudio/prev-colors/pull/3", // Previous Colors
+    "360086": "https://drive.google.com/file/d/1QScEmQ-RfzdVeWux6O-GrBmTJpRNyytQ/view?usp=sharing", // Toggle Headers
     //"987911" : "https://github.com/friedPotat0/Spam-Scores/pull/63", // Spam Scores
     // messagesUpdate
-    "287743" : "https://github.com/MailHops/mailhops-plugin/pull/40", // MailHops
-    "987984" : "https://github.com/justreportit/thunderbird/pull/69", // Just Report It
-    "988314" : "https://github.com/thirdinsight/AutoMarkFolderRead/pull/9", // Auto-Mark Folder Read
-    "988532" : "https://github.com/xot/tagger/pull/4", // Tagger
-    "987823" : "https://github.com/a-tak/auto-bucket/pull/170", // AutoBucket
-    "988069" : "https://github.com/KenichiTanino/spam_header_checker_for_ocn/pull/1", // SPAM Check for OCN
-    "988260" : "https://github.com/peterfab9845/original-to-column/pull/2", // X-Original-To Column
+    "287743": "https://github.com/MailHops/mailhops-plugin/pull/40", // MailHops
+    "987984": "https://github.com/justreportit/thunderbird/pull/69", // Just Report It
+    "988314": "https://github.com/thirdinsight/AutoMarkFolderRead/pull/9", // Auto-Mark Folder Read
+    "988532": "https://github.com/xot/tagger/pull/4", // Tagger
+    "987823": "https://github.com/a-tak/auto-bucket/pull/170", // AutoBucket
+    "988069": "https://github.com/KenichiTanino/spam_header_checker_for_ocn/pull/1", // SPAM Check for OCN
+    "988260": "https://github.com/peterfab9845/original-to-column/pull/2", // X-Original-To Column
     // TB128 updates
     "988096": "https://github.com/thestonehead/ThunderbirdAttachmentExtractor/pull/26", // Attachment Extractor
     "1279": "https://github.com/theodore-tegos/xpunge-tb/pull/1", // XPurge
@@ -459,6 +459,7 @@ var reports = {
         header: "Extensions compatible with Thunderbird 128, as seen by ATN.",
         template: "report-template.html",
         enabled: true,
+        json: true,
         generate: genStandardReport,
         rowData: function (extJson) {
             let v128 = getExtData(extJson, "128").data;
@@ -647,7 +648,7 @@ var reports = {
 
             return { include: false };
         },
-    },*/ 
+    },*/
     "valid-128-according-to-strict-max-but-atn-value-reduced": {
         group: "128",
         header: "Extensions whose strict_max_version allows installation in Thunderbird 128, but ATN value has been lowered to signal incompatibility (which is ignored during install and app upgrade).",
@@ -681,7 +682,7 @@ var reports = {
             if (discontinued.includes(`${extJson.id}`)) {
                 badges.push({ badge: "discontinued" });
             }
-            
+
             if (Object.keys(pending_pr).includes(`${extJson.id}`)) {
                 badges.push({ badge: "pending_pr", link: pending_pr[extJson.id] });
             } else if (Object.keys(contacted).includes(`${extJson.id}`)) {
@@ -763,7 +764,7 @@ var reports = {
             } else if (messagesUpdate.includes(`${extJson.id}`)) {
                 badges.push({ badge: "messages_update", tooltip: "Missing messagesUpdate permission" });
             }
-            
+
             return { include, badges };
         }
     },
@@ -797,7 +798,7 @@ var reports = {
 
             return { include: includeForReal, badges }
         }
-    },    
+    },
     // -- general ----------------------------------------------------------------------------------
     "all": {
         group: "general",
@@ -1040,7 +1041,7 @@ var reports = {
             return { include, badges };
         }
     },
-   "latest-current-mismatch": {
+    "latest-current-mismatch": {
         group: "general",
         header: "Extensions, where the latest upload is for an older release, which will fail to install in current ESR (current = defined current in ATN) from within the add-on manager.",
         template: "report-template.html",
@@ -1352,6 +1353,7 @@ function genStandardReport(extsJson, name, report) {
     let extsListFile = fs.readFileSync(report.template, 'utf8');
     let rows = [];
     let stats = [];
+    let json = [];
 
     function genStandardRow(extJson, rowData) {
         let default_locale = extJson.default_locale;
@@ -1486,6 +1488,10 @@ function genStandardReport(extsJson, name, report) {
         if (rowData.include) {
             rows.push(genStandardRow(extJson, rowData));
             if (rowData.badges) stats.push(...rowData.badges);
+            json.push({
+                id: extJson.guid,
+                badges: rowData.badges ? rowData.badges.map(e => e.badge) : []
+            })
         } else {
             debug('Skip ' + extJson.slug);
         }
@@ -1526,6 +1532,9 @@ function genStandardReport(extsJson, name, report) {
 
     fs.ensureDirSync(`${reportDir}`);
     fs.writeFileSync(`${reportDir}/${name}.html`, extsListFile);
+    if (report.json) {
+        fs.writeFileSync(`${reportDir}/${name}.json`, JSON.stringify(json, null, 2));
+    }
 
     debug('Done');
     return rows.length;
@@ -1544,10 +1553,10 @@ function getBadgeElement(badgeName, bLink, bTooltip) {
     let badgeParts = badgeName.split(".");
     let badgeOpt;
     if (!badge_definitions[badgeName] && Array.isArray(badgeParts) && badge_definitions[badgeParts[0]]) {
-        badgeOpt = {...badge_definitions[badgeParts[0]]};
+        badgeOpt = { ...badge_definitions[badgeParts[0]] };
         badgeOpt.bRightText = badgeParts.slice(1).join(".");
     } else {
-        badgeOpt = {...badge_definitions[badgeName]};
+        badgeOpt = { ...badge_definitions[badgeName] };
     }
     if (bTooltip) {
         badgeOpt.bTooltip = bTooltip
@@ -1559,8 +1568,8 @@ function getBadgeElement(badgeName, bLink, bTooltip) {
 
 function makeBadgeElement(bOpt, bLink) {
     let title = "";
-    if (bOpt.bTooltip) {title = `title='${bOpt.bTooltip}'`;}
-    else if (bLink) {title = `title='${bLink}'`;}
+    if (bOpt.bTooltip) { title = `title='${bOpt.bTooltip}'`; }
+    else if (bLink) { title = `title='${bLink}'`; }
 
     let tag = `<img src='https://img.shields.io/badge/${bOpt.bLeftText}-${bOpt.bRightText}-${bOpt.bColor}.svg' ${title}>`
     return bLink ? `<a href="${bLink}">${tag}</a>` : tag;
