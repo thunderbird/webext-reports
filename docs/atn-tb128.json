@@ -1,0 +1,3266 @@
+[
+  {
+    "id": "ImportExportToolsNG@cleidigh.kokkini.net",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "{a62ef8ec-5fdc-40c2-873c-223b8a6925cc}",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "lookout@s3_fix_version",
+    "badges": [
+      "experiment",
+      "attachment_api"
+    ]
+  },
+  {
+    "id": "{8845E3B3-E8FB-40E2-95E9-EC40294818C4}",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "sendlater3@kamens.us",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "{a300a000-5e21-4ee0-a115-9ec8f4eaa92b}",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "mailmerge@example.net",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "languagetool-mailextension@languagetool.org",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "cardbook@vigneau.philippe",
+    "badges": [
+      "experiment",
+      "filter_api"
+    ]
+  },
+  {
+    "id": "tbsync@jobisoft.de",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "{2ab1b709-ba03-4361-abf9-c50b964ff75d}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "dropbox-cloudfile@darktrojan.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "send@tealdulcet.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "owl@beonex.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "admin@fastaddons.com_WebTranslate",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "dav-cloudfile@darktrojan.net",
+    "badges": [
+      "experiment_migrated",
+      "pure"
+    ]
+  },
+  {
+    "id": "Textmarker@pharqcon.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "minimizeonclose@rsjtdrjgfuzkfg.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "cloud@johannes-endres.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "eas4tbsync@jobisoft.de",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "PrintingToolsNG@cleidigh.kokkini.net",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "lightningcalendartabs@jlx.84",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "addressbookssync@ggbs.de",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "flexible-confirm-mail@clear-code.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "emoji@ganss.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "gconversation@xulforum.org",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "dkim_verifier@pl",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "AutoarchiveReloaded@brummolix.addons.mozilla.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "opengooglecalendar@glicer",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{1B0ADFEC-846C-401D-BA54-7842CBD485D4}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "confirm-address@kenmaz.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "dav4tbsync@jobisoft.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{61A64500-335C-418D-8FCB-E072A9ABF3DA}",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "filtaquilla@mesquilla.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "xnote@froihofer.net",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "signal-spam@signal-spam.fr",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "quickFilters@axelg.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "addoncompatibility@opto.one",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "quickfolders@curious.be",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "icons@dillinger",
+    "badges": [
+      "experiment",
+      "theme_experiment"
+    ]
+  },
+  {
+    "id": "shrunked@darktrojan.net",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "localfolder@philoux.eu",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "box-cloudfile@darktrojan.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "compactHeaders@dillinger",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "DisplayMailUserAgent-T@Toshi_",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "list-addons-in-win-programs@clear-code.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "replywithheader@myjeeva.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "deepl@itagagaki",
+    "badges": [
+      "experiment_migrated",
+      "pure"
+    ]
+  },
+  {
+    "id": "addon@darkreader.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{532269cf-a10e-4396-8613-b5d9a9a516d4}",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "uBlock0@raymondhill.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "myphoneexplorer@fjsoft.at",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "AutoAddressCleaner-T@Toshi_",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "simplemailredirection@ggbs.de",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "EditMailSubject@jcp.convenant",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "bordercolors-d@addonsdev.mozilla.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "googleCalendar@weptun.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "farahats9@yahoo.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{786abda0-fd14-d247-bf69-38b2fc18491b}",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "quickmove@mozilla.kewis.ch",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "the_stonehead@hotmail.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "google-4-tbsync@marcozanon.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "sendtocategory@jobisoft.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "qnote@dqdp.net",
+    "badges": [
+      "experiment",
+      "filter_api"
+    ]
+  },
+  {
+    "id": "French-GC-TB@grammalecte.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "extractem@tmccoid.tech",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "identitychooser@janek.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "clipboard@ganss.org",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "emoji@saveriomorelli.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "mas@aandrzej.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "full-address-column@lukasz.kosson.net",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "admin@fastaddons.com_Darko",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "awesome-emoji-picker@rugk.github.io",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "leworoe@gmail.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "CharsetMenu@jorgk.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "msghdrcustomize@hogi.sakura.ne.jp",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "birthdaycalendar@rsjtdrjgfuzkfg.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "edithtmlsource@jobisoft.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "imageview@opto.one",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "tbkeys-lite@addons.thunderbird.net",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "buttons@dillinger",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "thunderai@micz.it",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "quotecolors@thunderbird-mail.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "thunderkeepplus@gmail.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "exquilla@mesquilla.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "admin@fastaddons.com_AI",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "nomessagepanesort@janek.org",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "thirdstats@devmount.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "mailmindr@arndissler.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "smarttemplate4@thunderbird.extension",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "disable_dnd_tb_v2@pqrs.org",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "thundervoice@chris.schiffner",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{2bc419d0-6cf3-11da-8494-000a95be0946}",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "wa-in-th@ftassy.github.io",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "nostalgy@opto.one",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "SearchButton@pharqcon.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "automatic_dictionary_extension@jordi_beltran.net",
+    "badges": [
+      "experiment",
+      "recipientChanged_api"
+    ]
+  },
+  {
+    "id": "JorgK@dictionaryforrecipient",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "FolderPaneSwitcher@kamens.us",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "{A23E4120-431F-4753-AE53-5D028C42CFDC}",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "plik@johannes-endres.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "warnattachment@jdede.de",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "pswitcher2@dillinger",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "oldicons@deltablast",
+    "badges": [
+      "experiment",
+      "theme_experiment"
+    ]
+  },
+  {
+    "id": "hdrtoolslite@dillinger",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "thunderbird@mailhops.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "headerToolsLite@kaosmos.nnp",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "expressionsearch@opto.one",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "refwdformatter@masahiko.info",
+    "badges": [
+      "experiment_migrated",
+      "pure"
+    ]
+  },
+  {
+    "id": "{47ef7cc0-2201-11da-8cd6-0800200c9a66}",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "StandardTexter@pharqcon.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "mailmergep@example.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "Startup@pharqcon.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "filterManager@dillinger",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "{C8534C26-F59A-11DA-9804-B622A1EF5492}",
+    "badges": [
+      "experiment_migrated"
+    ]
+  },
+  {
+    "id": "{139a120b-c2ea-41d2-bf70-542d9f063dfd}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "lightninginvitationnotifier@markus.pullmann",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "export-to-zip@serna.ar",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "spamscores@czaenker",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "{54e72d7b-ed31-4736-854f-f517358f21ee}",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "send_later123@extension.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "unsubscribe@fra-uas.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "torpedo@tu-darmstadt.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "changequote@caligraf",
+    "badges": [
+      "experiment_migrated"
+    ]
+  },
+  {
+    "id": "clippings-tb@aecreations.github.io",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "previous-colors@alkatrazstudio.net",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "copysent2current@ggbs.de",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "copyaddrs@pqpq.dev",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@dmrhn.googlecalendar.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "google-chat-tab@eternaltyro",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "xmha97@gmail.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "gcaltab@ftassy.github.io",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "searchfor@infonny.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "InsertSignature@digitaldolphins.jp",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "configButton@dillinger",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "x0h44fx9x@relay.firefox.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "gamb@pharqcon.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "spambee@verifrom.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "restartButton@dillinger",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "{4753278b-acea-4b2b-a111-1fc9450d239d}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "keepassxc-mail@kkapsner.de",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "{2af208f6-fdc2-4c74-8db9-bb4a8de6359d}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "ntfntf@dan-sullivan.co.uk",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "markdown-here-revival@xul.calypsoblue.org",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "FoFB@drexler",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "gtasks-thunder@tantely.fr",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "signature-sync@thunderbird.extensions.kam193",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "thunderbird-todoist@apps.smeanox.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "toggle-headers@mattsch.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "outlook-ab-enabler@jorgk.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "quickersearch@opto.one",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "quickarchiver@bergerdata.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "toggleHTML@dillinger",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "links@tealdulcet.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "collectaddresses@ggbs.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "juraj.masiar@gmail.com_LinkInTab",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{12a1584b-2123-473d-8752-e82e74e3cb1b}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "OpenAttachmentByExtension@digitaldolphins.jp",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "@dmrhn.chatgpt.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "marwe@turtletect.ie",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "rspamd-spamness@alexander.moisseev",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "{9de7f477-6a8d-4bf6-932c-1dc736b90394}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "ReplyAsOriginalRecipient@github.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "antidote_uni12_thunderbird@druide.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "filelink-owncloud@thosmos.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "smileyfixer@matthias-g",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "keynav@andrew.hart",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "popmaillistrecipients@funke.nz",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "showInOut@ggbs.de",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "admin@justreport.it",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "gmail-labels@itln.pl",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "read-aloud@lsdsoftware.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "night.and.day@sancus.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "devToolsButton@dillinger",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "filter_button@iconparc.de",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "{3AB03506-4329-483F-BA03-EA5493232260}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "s3-filelink-provider-developer@josephcz.xyz",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "togglelinewrap@kiszka.org",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "spoofdetection@marvin.herrmann",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{2909fbd8-b061-4b52-989e-46b05fbdb650}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "reply-all-auto-cc@github.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{9d8c34df-e80e-4d83-829b-6c9853020d9e}",
+    "badges": [
+      "experiment",
+      "discontinued"
+    ]
+  },
+  {
+    "id": "unmangleOutlookSafelinks@havekes.eu",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "expand_mailing_lists@davero.addons.mozilla.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "limit_non-BCC_recipients@davero.addons.mozilla.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "tls-paranoia@gdr.name",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@dmrhn.whatsapp.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "typical-reply@clear-code.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "autoMarkFolderRead.silvester@addons.thunderbird.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "changelogger@r01",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{d8815e01-8ffc-4d85-a082-d750b35f21c1}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "layoutbutton@turtletec.ie",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{e6696d02-466a-11e3-a162-04e36188709b}",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "te-in-th@ftassy.github.io",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "moresnooze@cyrille.nocus",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "{25156018-d27b-497e-9777-886502ac65ad}",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "thunderbird_extension@wordeep.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "x-pm-headers@danq.me",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "autoprofilepicture@astucesweb.fr",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "egaffiot@outlook.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "RemindIt@o.marce.free.fr",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "admin@justverify.it",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "thunderstats@micz.it",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "OpenTab@Toshi_",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "open-image-in-new-tab@rmmccann.github.io",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{43ed69b5-6fb0-44d0-b200-d1b26d3fed39}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{282C3C7A-15A8-4037-A30D-BBEB17FFC76B}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@dmrhn.microsoftteams.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "mailMoveShortcuts@extension",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "macrotemplate@nattoheaven.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "check-before-sending-email@apar.jp",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "drsjb80@gmail.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "toggleMessagePane@dillinger",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "@dmrhn.mstodo.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "FrameWhite@Sungho.Hwang",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "helpdesk@eledia.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "quickfilterby@extensions.thunderbird.net",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "advanced-composer@thunderbird.extension",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "deselectondelete@baz.pw",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "tb-addtomailinglists@tb.dev",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "gmessages_sigurd@dagestad.info",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "archive-old-messagesr@adamreichold.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "ObsidianClipper@KevinHaw.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{957509b1-217a-46c7-b08b-f67d08d53883}",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "joplin-export@martin.doerfelt",
+    "badges": [
+      "experiment_migrated",
+      "pure"
+    ]
+  },
+  {
+    "id": "messagemover@michele.locati.it",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "unicodify@rugk.github.io",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "tagger@xot.nl",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "jorgk@sender-frequency",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "@eddie.outlookcalendar.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "RemindMed@cparg.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "copy-message-id@j.kahn",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@thundersuite.da.gammla",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "aify@shoryuken.me",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "gchat-thunder@tantely.fr",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "unified-folders@extensions.thunderbird.net",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "tabcontrol@nuitcodecitoyen.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@dmrhn.gemini.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "copyfolderAddOn1@datawave.sk",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "JunkMailByeBye@example.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "carddavbrowser@mtalbot.addons.mozilla.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "topic-tree@opto-one",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "ContactFinder@DegrangeM.addons.thunderbird.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "addon_simple_template@forest-soft.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "kickofitall@gmail.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "external-editor-revived@tsundere.moe",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "persiancity@gmail.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "enygmail@dyrk.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "weatherlicious@ntim.ml",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{88B31EFE-2E3B-43a6-A805-B53433C3B265}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "open-in-browser@adamreichold.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "calendarsearchexport@ggbs.de",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "sub@pharqcon.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "freecosys_filelink@birdiecode.ru",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "thunderhawkmailer@gmail.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "prefsButton@dillinger",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "thunderwebtabs@gmail.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{b1a994eb-f617-4a56-a4a4-e073e2310f07}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{5ce3f3ea-38fc-11eb-adc1-0242ac120002}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "userChromeJS@kamens.us",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "togglereplied@kamens.us",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "autofile@oasisllc.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "ab102-maps@xul.calypsoblue.org",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "newthreadall@opto.one",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "juraj.masiar@gmail.com_ScrollAnywhere",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "sync@opto.one",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "pywalfox@frewacom.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "get-all-senders@CicadaCinema",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "mhublite@schiffner.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "alldaytasks@ggbs.de",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "{8f168a36-1dc7-11ea-9233-f290ba9c1df4}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "llama3-grammar-thunderbird@johannes.buchner.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "auto-mark-as-read@mllr.pl",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "allevents@ggbs.de",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "gkeep-thunder@tantely.fr",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "mailAlert@einKnie",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "chatgpt@example.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "mozilla@nwex.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "tidybird@ganast.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "emptyfolder.freshlabs@search.mozilla.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "threaded-list-switch@thunderbird.extension",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "maxime.dubreuil.ddf@gmail.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@dmrhn.tutamail.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "ai-mail-support@yellowsakura.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "MarkButton@pharqcon.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "ms365linkopener@micz.it",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "gmessages-thunder@tantely.fr",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "textinsert@opto-one",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "stripImages@mi.tal",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@dmrhn.slack.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@dmrhn.messenger.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{59812185-ea92-4cca-8ab7-cfcacee81281}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "compose-responsive-images@lionel-holt.addons.thunderbird.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "autocopy@jimdanner",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "one-click-forward@david-trapp.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "thunderai-sparks@micz.it",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "@dmrhn.protonmail.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "two.dynamic.birds@indcpa.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@dmrhn.trello.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "ungender@gegen-links.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "iOSNotes@siliconvenice.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "CustomCSS@GrantEdwards.github.io",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "undo-button@example.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "spamtester@cestoliv.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "whatsapp-tb@hou-rui",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{ECFD45DC-CEE2-4784-BEEC-A33713B2288D}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "plugins@europeanmx.eu",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "list-unsubscribe@addons.amunak.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "calendar-tools@opto.one",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "{3341d8a8-69f5-4ae3-a365-980a65d560f8}",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "redthunderminebird-plus@clear-code.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@dmrhn.telegram.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "enhancedreplyheaders@docgunthrop.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "addAccent@jeanlaroche.github.io",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "gtrash@roy-orbison.test",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "helpme@2advancedlabs.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "logout@heilbit.de",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "@dmrhn.googlekeep.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "RainbowNote@Sungho.Hwang",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@dmrhn.todoist.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "yaofei@www",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "safelinks-removal@cphyc.me",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "quotes@dillinger",
+    "badges": [
+      "experiment_migrated"
+    ]
+  },
+  {
+    "id": "axel@rossberg.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "phishreport@cert.tu-dresden.de",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "email@openfolder.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "spamreport@expertspam.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "strip-images@mitxela.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "pastecode@wellnerbou.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "auto-avatars@falco.fun",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "received@alexander.moisseev",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "addon-info-sync-compatibility@opto.one",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "cloneMessage@vigneau.philippe",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "louisjulien.mail_to_event@addons.thunderbird.net",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "@dmrhn.discord.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "filelink-seafile@mathrice.fr",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{a29be6e4-276b-35c7-7a16-28170470bac3}",
+    "badges": [
+      "experiment",
+      "experiment_new"
+    ]
+  },
+  {
+    "id": "notebird@saveriomorelli.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "autoZoom@gracile-software.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "renderMarkdownMessages@gileadi.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "opengooglevoice@rubenordonez.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "autobacket@a-tak.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{DAE1031B-CD52-42CA-AE84-3B3F5B2C1593}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "xrechnung-viewer@example.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@dmrhn.notion.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "nextUnreadGroup@dillinger",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "mailing-list-filter@peci1.cz",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "{bf78d95a-70bd-4f42-a244-64ce76fcb43d}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "safelinks-cleaner-thunderbird@it.liu.se",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "todowebapp@bt-w.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "jydidier.icanban@addons.thunderbird.net",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "redo-button@example.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "audiopreview@fx-world.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "mark-gmail-read@peci1.cz",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "googlesearchwebapp@bt-w.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "NewTab@Meetanshi",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "repsel@rhodin.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "thunderbird-tabs@joschka-huellmann.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "toggleInline@dillinger",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "nextUnreadThread@dillinger",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "emptyfolder@extensions.thunderbird.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "olivier.poujade@fredon-corse.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "deepl-write@itagagaki",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "thunderbird-openproject@addons.thunderbird.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "catchallbird@jabb0",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "marksubfolderread.dex@search.mozilla.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "change-link-appearance@thunderbird.extension",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "remote-content-by-folder@kamens.us",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "platinummyr.replyAllButton@addons.thunderbird.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "singledomain@graeme.henry",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "gtasks-default-thunder@tantely.fr",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "aman.proj.rel@gmail.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "{9584f686-8c77-460f-a3fd-1f6c7ed038fe}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "msofficewebapp@bt-w.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "toggleSummary@dillinger",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "telegramwebapp@bt-w.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "copypatch@kiszka.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "emailFinder@accessibility.extensions.makingStuffForFun.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{cab12c02-bc33-4b9e-a28f-b198aa5d7549}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "bprasannakumar@gmail.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "thunderbird@sms77.io",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "email-address-extractor@jsksoft",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "onedrivewebapp@bt-w.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "keiratreialdev@proton.me",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "enextools@hogi.sakura.ne.jp",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "l-rod@gmx.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "service@gracile-software.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "techyguyaditya@gmail.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "clrHistButton@gerardr",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "tb.spaceapper@mmk2410.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "filemail@bernd.brot",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "data-detection@cphyc.me",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "pt@rolustech.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "support@5613117.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{3c4f38c0-cc71-4fed-8518-823a59badd25}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "mahour@zmim.ir",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "subaddress-reply@swebhosting.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "recently-extension@arndissler.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "toggleAddressBox@dillinger",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "f9-hides-the-folderbar@dreadnaut",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "quick-spaces-thunder@tantely.fr",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "estimate-your-CO2@harfeur.fr",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "ifttt@opto-one",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "messagelinks4events@ggbs.de",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "seafilecloud@bastien-coco.fr",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "ResizeTbWidth@Sungho.Hwang",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{6a5fc2f3-e8eb-4897-81b8-432ffe6ea016}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "safelinks-cleanup@cimba.li",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "kenichi-tanino-Thunderbird-addon-ocnspam@a2.mbn.or.jp",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "mail_sent_notifier@phpeppershop.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "TileNote@Sungho.Hwang",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "g.nappo@ldcsoftware.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "l.mazzei@ldcsoftware.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "petty@chasegoodgold.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "info@vault56.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{7a43661d-9ce4-4693-9dbd-f68cfc673618}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "run-filters@IsoNovio",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "supplementary-compose-menu@thunderbird.extension",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "mail@fdk.app",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "threadInSameFolder@pklampros.io",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "skypewebapp@bt-w.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "copy-timestamp@halmai.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "deselector@unknown.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "steinert@steinertstrafrecht.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "markread@ontabopen.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "infonew@powerfolder.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "original-to-column@peterfab.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "@dmrhn.yandexmail.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "thunderbird-addon-reply-with-attachments_bitranox@gmail.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "dms-params-ext-bybabach@babach.work.gd",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "open-lab.dev@proton.me",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "compose-select@stacksoft.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "identityselector@codifier.nl",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "findnow@pegenau.de",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "clacks@eskritt.ca",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "transliterussian@koutsenok.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "scf@m.a",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "support@cypher.dog",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "bugs@tealdulcet.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "glodaquilla-ng@opto.one",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "customoji.thunderbirdextension@riedler.wien",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "simplelogin@sebastianwie.land",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "denizoutimothee@gmail.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "office@kundenmeister.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "rescue-conflicting-alternatives@clear-code.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "birdbox@mozilla.kewis.ch",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "WEbpageOpener@pharqcon.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "custom-subject-column@kirurobo.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "welpy-cw.rot13@addons.thunderbird.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "archive3month.tb@tese.se",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "RainbowMemo@Sungho.Hwang",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "se@ms",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "send@thunderbird.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "sendandarchive@filippodebortoli",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "support@digitmedia.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "pushover-notifier@monumental.at",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "developer@tomba.io",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "snakes@bluemods.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "AnonAddyTB@kamens.us",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{7FC3F36F-1DFF-4FC6-8815-C873E5199F5D}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "newunec@example.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{968dafaa-fcff-407d-9e1b-59d11d6e3262}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{ce388d37-dc8e-4349-abe2-f3136867a946}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "pop-jump@a-tak.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "tb-send@thunderbird.net",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "custom_headers_view@z-aki",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "austin.keenan@protonmail.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "email-cleaner@example.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "antispam@platon.sk",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "ollamasummarizer@matthewcasperson.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "syntaxright@gmail.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "welpy-cw.open-by-message-id@addons.thunderbird.net",
+    "badges": [
+      "experiment_migrated"
+    ]
+  },
+  {
+    "id": "@dmrhn.bard.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "support@getmyinvoices.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "arcus@bitkeks.eu",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "duck_email_converter@z-aki",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@8jo8.bb.skype",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "d.lascaris@bestreply.ai",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{e5624468-77f1-4fdd-8c4c-0a061b54794f}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "safelinks-offr@mkmelin.iki.fi",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "gemini-proofreader@thunderbird",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "articles-toolbar@bfffggh.github.io",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "thunderthings@gajong.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "tulpe@spe.it",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "proofreader@thunderbird",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "sentautomove@micz.it",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "regimail@regify.com",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "ThunderCalc@jacques",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "MyTickets@clamsen.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{521ffaAe-Ba52-fBc5-13e6-fdEF01A6BDaB}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{190196ac-c45b-4cfb-8d5a-2adc582abf98}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "thunderpocket@lol.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "wikipediasearchwebapp@bt-w.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "replaceholder@lndbl.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{001f6fd1-1afd-4928-a95e-f92c70563643}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "account-check@extensions.thunderbird.net",
+    "badges": [
+      "experiment"
+    ]
+  },
+  {
+    "id": "@jcosenti.groupme.webtab",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{42e1f9f2-d354-4508-95be-9c3f898ce98d}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@8jo8.bb.gMessages",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "candiceetdefondouze@gmail.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "tejasmate@pm.me",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "addon2@docsummarizer.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "webpageprintfromcontextmenu@jacques",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "inbox-summary@example.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "webext-zivver-thunderbird@n04m.nl",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "thundersearch@jacques",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "TimetableForWeb@Sungho.Hwang",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "autoRemove@gracile-software.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@dmrhn.mailfence.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@dmrhn.uninbox.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "uuid@wes.dev",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "netiquette@duboin.fr",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "thunderbird-imagewidth@suyo.be",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "thunderbird-cloudlink@manderla.dev",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "CalculationPad@jaques",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "copy-on-mouse-select@rigaux.org",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "gimps@tealdulcet.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "openTicketsXPS@xpslogic.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@cypheroxide.owui-thunderbird.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "daily.report@massick.dev",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "austin.keenan@protonmail.com2",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@dmrhn.zulip.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@dmrhn.onmail.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@dmrhn.skiffmail.qa",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "AwoZipper2@awo-bnsu.de",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "liujianhao@eagleyun.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "TriliumClipper@TriliumNext.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "acus@bitkeks.eu",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "admin@clickspeedtester.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "quickersearch1@opto.one",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "sato-t@east.ntt.co.jp",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "console-test@Ximi1970",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "adm@verytel.ru",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "elshelpext@mail.ru",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "admin@cpstest.pro",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "c.mazzei@ldcsoftware.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "iases3@iase.one",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "@ryan.spacehey",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{f8ac1910-a081-4808-b6cf-5d4d7170bbc4}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "{B46754F2-3791-11EB-B059-1D42FC2CA371}",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "metamorfik@ajsb85.com",
+    "badges": [
+      "pure"
+    ]
+  },
+  {
+    "id": "thunderbirdbravoclick2call@dplatforms.it",
+    "badges": [
+      "pure"
+    ]
+  }
+]
