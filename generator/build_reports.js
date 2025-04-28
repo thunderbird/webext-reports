@@ -1501,6 +1501,7 @@ function genStandardReport(extsJson, name, report) {
             if (rowData.badges) stats.push(...rowData.badges);
             json.push({
                 id: extJson.guid,
+                icons: extJson.icons,
                 compat: [
                     getJsonData(extJson, "115 (ESR)", "115"),
                     getJsonData(extJson, "128 (ESR)", "128"),

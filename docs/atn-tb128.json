@@ -1,6 +1,10 @@
 [
   {
     "id": "ImportExportToolsNG@cleidigh.kokkini.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986686-32.png?modified=ebf6e624",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986686-64.png?modified=ebf6e624"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -27,6 +31,10 @@
   },
   {
     "id": "{a62ef8ec-5fdc-40c2-873c-223b8a6925cc}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/4/4631-32.png?modified=75868503",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/4/4631-64.png?modified=75868503"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -53,6 +61,10 @@
   },
   {
     "id": "lookout@s3_fix_version",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/711/711780-32.png?modified=ebeaf2a5",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/711/711780-64.png?modified=ebeaf2a5"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -80,6 +92,10 @@
   },
   {
     "id": "{8845E3B3-E8FB-40E2-95E9-EC40294818C4}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/0/640-32.png?modified=1598539928",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/0/640-64.png?modified=1598539928"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -106,6 +122,10 @@
   },
   {
     "id": "sendlater3@kamens.us",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/195/195275-32.png?modified=b68a75c6",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/195/195275-64.png?modified=b68a75c6"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -132,6 +152,10 @@
   },
   {
     "id": "{a300a000-5e21-4ee0-a115-9ec8f4eaa92b}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/4/4654-32.png?modified=1722356924",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/4/4654-64.png?modified=1722356924"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -158,6 +182,10 @@
   },
   {
     "id": "mailmerge@example.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/47/47144-32.png?modified=88544e5d",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/47/47144-64.png?modified=88544e5d"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -184,6 +212,10 @@
   },
   {
     "id": "languagetool-mailextension@languagetool.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988138-32.png?modified=351041e0",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988138-64.png?modified=351041e0"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -210,6 +242,10 @@
   },
   {
     "id": "cardbook@vigneau.philippe",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/634/634298-32.png?modified=mcrushed",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/634/634298-64.png?modified=mcrushed"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -237,6 +273,10 @@
   },
   {
     "id": "tbsync@jobisoft.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/773/773590-32.png?modified=1724029497",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/773/773590-64.png?modified=1724029497"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -263,6 +303,10 @@
   },
   {
     "id": "{2ab1b709-ba03-4361-abf9-c50b964ff75d}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/0/611-32.png?modified=50734552",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/0/611-64.png?modified=50734552"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -289,6 +333,10 @@
   },
   {
     "id": "dropbox-cloudfile@darktrojan.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986436-32.png?modified=1bc42309",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986436-64.png?modified=1bc42309"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -315,6 +363,10 @@
   },
   {
     "id": "send@tealdulcet.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988136-32.png?modified=817edf01",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988136-64.png?modified=817edf01"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -341,6 +393,10 @@
   },
   {
     "id": "owl@beonex.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986325-32.png?modified=61143e90",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986325-64.png?modified=61143e90"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -367,6 +423,10 @@
   },
   {
     "id": "admin@fastaddons.com_WebTranslate",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987924-32.png?modified=ef8b476e",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987924-64.png?modified=ef8b476e"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -393,6 +453,10 @@
   },
   {
     "id": "dav-cloudfile@darktrojan.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986643-32.png?modified=4f3cc79f",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986643-64.png?modified=4f3cc79f"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -420,6 +484,10 @@
   },
   {
     "id": "Textmarker@pharqcon.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987967-32.png?modified=0f4786bb",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987967-64.png?modified=0f4786bb"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -446,6 +514,10 @@
   },
   {
     "id": "minimizeonclose@rsjtdrjgfuzkfg.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987716-32.png?modified=42fb83a3",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987716-64.png?modified=42fb83a3"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -469,6 +541,10 @@
   },
   {
     "id": "cloud@johannes-endres.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987761-32.png?modified=f78ef3a5",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987761-64.png?modified=f78ef3a5"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -495,6 +571,10 @@
   },
   {
     "id": "eas4tbsync@jobisoft.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986338-32.png?modified=fd851275",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986338-64.png?modified=fd851275"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -521,6 +601,10 @@
   },
   {
     "id": "PrintingToolsNG@cleidigh.kokkini.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987840-32.png?modified=85dbfe79",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987840-64.png?modified=85dbfe79"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -547,6 +631,10 @@
   },
   {
     "id": "lightningcalendartabs@jlx.84",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/tabs-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/tabs-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -573,6 +661,10 @@
   },
   {
     "id": "addressbookssync@ggbs.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -599,6 +691,10 @@
   },
   {
     "id": "flexible-confirm-mail@clear-code.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/487/487108-32.png?modified=6f5c3f71",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/487/487108-64.png?modified=6f5c3f71"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -625,6 +721,10 @@
   },
   {
     "id": "emoji@ganss.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/708/708783-32.png?modified=1657033389",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/708/708783-64.png?modified=1657033389"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -651,6 +751,10 @@
   },
   {
     "id": "gconversation@xulforum.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/54/54035-32.png?modified=1717325006",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/54/54035-64.png?modified=1717325006"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -677,6 +781,10 @@
   },
   {
     "id": "dkim_verifier@pl",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/438/438634-32.png?modified=6327d36b",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/438/438634-64.png?modified=6327d36b"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -703,6 +811,10 @@
   },
   {
     "id": "AutoarchiveReloaded@brummolix.addons.mozilla.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -729,6 +841,10 @@
   },
   {
     "id": "opengooglecalendar@glicer",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986386-32.png?modified=8e63f3f6",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986386-64.png?modified=8e63f3f6"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -755,6 +871,10 @@
   },
   {
     "id": "{1B0ADFEC-846C-401D-BA54-7842CBD485D4}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -781,6 +901,10 @@
   },
   {
     "id": "confirm-address@kenmaz.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/5/5582-32.png?modified=83a8cc31",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/5/5582-64.png?modified=83a8cc31"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -807,6 +931,10 @@
   },
   {
     "id": "dav4tbsync@jobisoft.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986258-32.png?modified=ec225e68",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986258-64.png?modified=ec225e68"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -833,6 +961,10 @@
   },
   {
     "id": "{61A64500-335C-418D-8FCB-E072A9ABF3DA}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/4/4970-32.png?modified=b1c016e5",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/4/4970-64.png?modified=b1c016e5"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -859,6 +991,10 @@
   },
   {
     "id": "filtaquilla@mesquilla.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/10/10052-32.png?modified=e96b8765",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/10/10052-64.png?modified=e96b8765"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -885,6 +1021,10 @@
   },
   {
     "id": "xnote@froihofer.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/64/64758-32.png?modified=1741700323",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/64/64758-64.png?modified=1741700323"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -911,6 +1051,10 @@
   },
   {
     "id": "signal-spam@signal-spam.fr",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/217/217293-32.png?modified=1534930204",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/217/217293-64.png?modified=1534930204"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -937,6 +1081,10 @@
   },
   {
     "id": "quickFilters@axelg.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/372/372870-32.png?modified=1722679243",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/372/372870-64.png?modified=1722679243"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -963,6 +1111,10 @@
   },
   {
     "id": "addoncompatibility@opto.one",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988127-32.png?modified=c3dc421e",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988127-64.png?modified=c3dc421e"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -989,6 +1141,10 @@
   },
   {
     "id": "quickfolders@curious.be",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/3/3254-32.png?modified=1742226222",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/3/3254-64.png?modified=1742226222"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1015,6 +1171,10 @@
   },
   {
     "id": "icons@dillinger",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986685-32.png?modified=dae8a351",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986685-64.png?modified=dae8a351"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1042,6 +1202,10 @@
   },
   {
     "id": "shrunked@darktrojan.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/11/11005-32.png?modified=1672190665",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/11/11005-64.png?modified=1672190665"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1065,6 +1229,10 @@
   },
   {
     "id": "localfolder@philoux.eu",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/90/90003-32.png?modified=23d22229",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/90/90003-64.png?modified=23d22229"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1088,6 +1256,10 @@
   },
   {
     "id": "box-cloudfile@darktrojan.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986635-32.png?modified=49a9a123",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986635-64.png?modified=49a9a123"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1114,6 +1286,10 @@
   },
   {
     "id": "compactHeaders@dillinger",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987783-32.png?modified=8669be88",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987783-64.png?modified=8669be88"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1140,6 +1316,10 @@
   },
   {
     "id": "DisplayMailUserAgent-T@Toshi_",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987719-32.png?modified=d1bef206",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987719-64.png?modified=d1bef206"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1166,6 +1346,10 @@
   },
   {
     "id": "list-addons-in-win-programs@clear-code.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1192,6 +1376,10 @@
   },
   {
     "id": "replywithheader@myjeeva.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/605/605874-32.png?modified=bc40876d",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/605/605874-64.png?modified=bc40876d"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1218,6 +1406,10 @@
   },
   {
     "id": "deepl@itagagaki",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987908-32.png?modified=47ba17df",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987908-64.png?modified=47ba17df"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1245,6 +1437,10 @@
   },
   {
     "id": "addon@darkreader.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988018-32.png?modified=e27ace0a",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988018-64.png?modified=e27ace0a"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1271,6 +1467,10 @@
   },
   {
     "id": "{532269cf-a10e-4396-8613-b5d9a9a516d4}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/1/1556-32.png?modified=1718730580",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/1/1556-64.png?modified=1718730580"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1297,6 +1497,10 @@
   },
   {
     "id": "uBlock0@raymondhill.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988489-32.png?modified=6992e692",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988489-64.png?modified=6992e692"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1323,6 +1527,10 @@
   },
   {
     "id": "myphoneexplorer@fjsoft.at",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987798-32.png?modified=237ff099",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987798-64.png?modified=237ff099"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1349,6 +1557,10 @@
   },
   {
     "id": "AutoAddressCleaner-T@Toshi_",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987708-32.png?modified=e6874ab0",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987708-64.png?modified=e6874ab0"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1375,6 +1587,10 @@
   },
   {
     "id": "simplemailredirection@ggbs.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987934-32.png?modified=23fafaa9",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987934-64.png?modified=23fafaa9"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1401,6 +1617,10 @@
   },
   {
     "id": "EditMailSubject@jcp.convenant",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/330/330066-32.png?modified=d3126a4b",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/330/330066-64.png?modified=d3126a4b"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1427,6 +1647,10 @@
   },
   {
     "id": "bordercolors-d@addonsdev.mozilla.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986372-32.png?modified=db1b1514",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986372-64.png?modified=db1b1514"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1453,6 +1677,10 @@
   },
   {
     "id": "googleCalendar@weptun.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987780-32.png?modified=47d1a7d2",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987780-64.png?modified=47d1a7d2"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1479,6 +1707,10 @@
   },
   {
     "id": "farahats9@yahoo.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987960-32.png?modified=345d2e65",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987960-64.png?modified=345d2e65"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1505,6 +1737,10 @@
   },
   {
     "id": "{786abda0-fd14-d247-bf69-38b2fc18491b}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/1/1279-32.png?modified=1732132539",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/1/1279-64.png?modified=1732132539"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1531,6 +1767,10 @@
   },
   {
     "id": "quickmove@mozilla.kewis.ch",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/12/12018-32.png?modified=3c37ac57",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/12/12018-64.png?modified=3c37ac57"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1557,6 +1797,10 @@
   },
   {
     "id": "the_stonehead@hotmail.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988096-32.png?modified=06aa4d49",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988096-64.png?modified=06aa4d49"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1580,6 +1824,10 @@
   },
   {
     "id": "google-4-tbsync@marcozanon.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988090-32.png?modified=83c5b8a4",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988090-64.png?modified=83c5b8a4"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1603,6 +1851,10 @@
   },
   {
     "id": "sendtocategory@jobisoft.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/472/472193-32.png?modified=1673359986",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/472/472193-64.png?modified=1673359986"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1629,6 +1881,10 @@
   },
   {
     "id": "qnote@dqdp.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987900-32.png?modified=e8b24e1c",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987900-64.png?modified=e8b24e1c"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1656,6 +1912,10 @@
   },
   {
     "id": "French-GC-TB@grammalecte.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/809/809689-32.png?modified=1602750472",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/809/809689-64.png?modified=1602750472"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1682,6 +1942,10 @@
   },
   {
     "id": "extractem@tmccoid.tech",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988617-32.png?modified=8b449342",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988617-64.png?modified=8b449342"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1708,6 +1972,10 @@
   },
   {
     "id": "identitychooser@janek.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1734,6 +2002,10 @@
   },
   {
     "id": "clipboard@ganss.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/742/742199-32.png?modified=1583770340",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/742/742199-64.png?modified=1583770340"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1760,6 +2032,10 @@
   },
   {
     "id": "emoji@saveriomorelli.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988175-32.png?modified=4e674739",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988175-64.png?modified=4e674739"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1786,6 +2062,10 @@
   },
   {
     "id": "mas@aandrzej.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988296-32.png?modified=b7d86011",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988296-64.png?modified=b7d86011"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1812,6 +2092,10 @@
   },
   {
     "id": "full-address-column@lukasz.kosson.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987906-32.png?modified=664df68d",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987906-64.png?modified=664df68d"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1838,6 +2122,10 @@
   },
   {
     "id": "admin@fastaddons.com_Darko",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987944-32.png?modified=5bc34215",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987944-64.png?modified=5bc34215"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1864,6 +2152,10 @@
   },
   {
     "id": "awesome-emoji-picker@rugk.github.io",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988161-32.png?modified=2b07bd7b",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988161-64.png?modified=2b07bd7b"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1890,6 +2182,10 @@
   },
   {
     "id": "leworoe@gmail.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988164-32.png?modified=4ff27769",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988164-64.png?modified=4ff27769"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1916,6 +2212,10 @@
   },
   {
     "id": "CharsetMenu@jorgk.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1939,6 +2239,10 @@
   },
   {
     "id": "msghdrcustomize@hogi.sakura.ne.jp",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1965,6 +2269,10 @@
   },
   {
     "id": "birthdaycalendar@rsjtdrjgfuzkfg.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987931-32.png?modified=e7b02908",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987931-64.png?modified=e7b02908"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -1988,6 +2296,10 @@
   },
   {
     "id": "edithtmlsource@jobisoft.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988542-32.png?modified=57bd1a18",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988542-64.png?modified=57bd1a18"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2014,6 +2326,10 @@
   },
   {
     "id": "imageview@opto.one",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988001-32.png?modified=8128c1a0",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988001-64.png?modified=8128c1a0"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2037,6 +2353,10 @@
   },
   {
     "id": "tbkeys-lite@addons.thunderbird.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2063,6 +2383,10 @@
   },
   {
     "id": "buttons@dillinger",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/12/12802-32.png?modified=1687010053",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/12/12802-64.png?modified=1687010053"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2089,6 +2413,10 @@
   },
   {
     "id": "thunderai@micz.it",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988699-32.png?modified=9eff4f90",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988699-64.png?modified=9eff4f90"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2115,6 +2443,10 @@
   },
   {
     "id": "quotecolors@thunderbird-mail.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987892-32.png?modified=6b821931",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987892-64.png?modified=6b821931"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2141,6 +2473,10 @@
   },
   {
     "id": "thunderkeepplus@gmail.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/747/747286-32.png?modified=1616504328",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/747/747286-64.png?modified=1616504328"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2167,6 +2503,10 @@
   },
   {
     "id": "exquilla@mesquilla.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/244/244848-32.png?modified=1707777314",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/244/244848-64.png?modified=1707777314"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2193,6 +2533,10 @@
   },
   {
     "id": "admin@fastaddons.com_AI",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988429-32.png?modified=0838217b",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988429-64.png?modified=0838217b"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2219,6 +2563,10 @@
   },
   {
     "id": "nomessagepanesort@janek.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2245,6 +2593,10 @@
   },
   {
     "id": "thirdstats@devmount.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987909-32.png?modified=f94ea3b9",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987909-64.png?modified=f94ea3b9"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2271,6 +2623,10 @@
   },
   {
     "id": "mailmindr@arndissler.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/46/46207-32.png?modified=4f92b651",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/46/46207-64.png?modified=4f92b651"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2294,6 +2650,10 @@
   },
   {
     "id": "smarttemplate4@thunderbird.extension",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/324/324497-32.png?modified=1742776737",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/324/324497-64.png?modified=1742776737"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2320,6 +2680,10 @@
   },
   {
     "id": "disable_dnd_tb_v2@pqrs.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2346,6 +2710,10 @@
   },
   {
     "id": "thundervoice@chris.schiffner",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/59/59195-32.png?modified=1637215982",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/59/59195-64.png?modified=1637215982"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2372,6 +2740,10 @@
   },
   {
     "id": "{2bc419d0-6cf3-11da-8494-000a95be0946}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/1/1898-32.png?modified=1349882062",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/1/1898-64.png?modified=1349882062"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2395,6 +2767,10 @@
   },
   {
     "id": "wa-in-th@ftassy.github.io",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988333-32.png?modified=c026a32e",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988333-64.png?modified=c026a32e"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2421,6 +2797,10 @@
   },
   {
     "id": "nostalgy@opto.one",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987740-32.png?modified=1e77c3ca",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987740-64.png?modified=1e77c3ca"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2444,6 +2824,10 @@
   },
   {
     "id": "SearchButton@pharqcon.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987775-32.png?modified=e27694bd",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987775-64.png?modified=e27694bd"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2470,6 +2854,10 @@
   },
   {
     "id": "automatic_dictionary_extension@jordi_beltran.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/116/116388-32.png?modified=1717853528",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/116/116388-64.png?modified=1717853528"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2497,6 +2885,10 @@
   },
   {
     "id": "JorgK@dictionaryforrecipient",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2520,6 +2912,10 @@
   },
   {
     "id": "FolderPaneSwitcher@kamens.us",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/331/331319-32.png?modified=1693896280",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/331/331319-64.png?modified=1693896280"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2546,6 +2942,10 @@
   },
   {
     "id": "{A23E4120-431F-4753-AE53-5D028C42CFDC}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/6/6533-32.png?modified=1667044197",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/6/6533-64.png?modified=1667044197"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2569,6 +2969,10 @@
   },
   {
     "id": "plik@johannes-endres.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987801-32.png?modified=21c61eae",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987801-64.png?modified=21c61eae"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2595,6 +2999,10 @@
   },
   {
     "id": "warnattachment@jdede.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/811/811161-32.png?modified=1726417637",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/811/811161-64.png?modified=1726417637"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2618,6 +3026,10 @@
   },
   {
     "id": "pswitcher2@dillinger",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986692-32.png?modified=d121d784",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986692-64.png?modified=d121d784"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2644,6 +3056,10 @@
   },
   {
     "id": "oldicons@deltablast",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988190-32.png?modified=57aeece8",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988190-64.png?modified=57aeece8"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2671,6 +3087,10 @@
   },
   {
     "id": "hdrtoolslite@dillinger",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987764-32.png?modified=df8c9bef",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987764-64.png?modified=df8c9bef"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2697,6 +3117,10 @@
   },
   {
     "id": "thunderbird@mailhops.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/287/287743-32.png?modified=1605200311",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/287/287743-64.png?modified=1605200311"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2723,6 +3147,10 @@
   },
   {
     "id": "headerToolsLite@kaosmos.nnp",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2746,6 +3174,10 @@
   },
   {
     "id": "expressionsearch@opto.one",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988091-32.png?modified=90e28eaf",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988091-64.png?modified=90e28eaf"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2769,6 +3201,10 @@
   },
   {
     "id": "refwdformatter@masahiko.info",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2796,6 +3232,10 @@
   },
   {
     "id": "{47ef7cc0-2201-11da-8cd6-0800200c9a66}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2822,6 +3262,10 @@
   },
   {
     "id": "StandardTexter@pharqcon.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987932-32.png?modified=ac00b414",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987932-64.png?modified=ac00b414"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2848,6 +3292,10 @@
   },
   {
     "id": "mailmergep@example.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987734-32.png?modified=c030432f",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987734-64.png?modified=c030432f"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2874,6 +3322,10 @@
   },
   {
     "id": "Startup@pharqcon.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988215-32.png?modified=2d4af44d",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988215-64.png?modified=2d4af44d"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2900,6 +3352,10 @@
   },
   {
     "id": "filterManager@dillinger",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988195-32.png?modified=2aefba7f",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988195-64.png?modified=2aefba7f"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2926,6 +3382,10 @@
   },
   {
     "id": "{C8534C26-F59A-11DA-9804-B622A1EF5492}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/2/2874-32.png?modified=da807e7c",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/2/2874-64.png?modified=da807e7c"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2952,6 +3412,10 @@
   },
   {
     "id": "{139a120b-c2ea-41d2-bf70-542d9f063dfd}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986300-32.png?modified=8d6db138",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986300-64.png?modified=8d6db138"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -2978,6 +3442,10 @@
   },
   {
     "id": "lightninginvitationnotifier@markus.pullmann",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/769/769143-32.png?modified=8e4859ba",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/769/769143-64.png?modified=8e4859ba"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3001,6 +3469,10 @@
   },
   {
     "id": "export-to-zip@serna.ar",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3027,6 +3499,10 @@
   },
   {
     "id": "spamscores@czaenker",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987911-32.png?modified=5515d2cb",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987911-64.png?modified=5515d2cb"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3053,6 +3529,10 @@
   },
   {
     "id": "{54e72d7b-ed31-4736-854f-f517358f21ee}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/0/310-32.png?modified=1722356737",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/0/310-64.png?modified=1722356737"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3079,6 +3559,10 @@
   },
   {
     "id": "send_later123@extension.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988546-32.png?modified=a20e7cdb",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988546-64.png?modified=a20e7cdb"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3105,6 +3589,10 @@
   },
   {
     "id": "unsubscribe@fra-uas.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988059-32.png?modified=14b944e0",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988059-64.png?modified=14b944e0"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3131,6 +3619,10 @@
   },
   {
     "id": "torpedo@tu-darmstadt.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/705/705889-32.png?modified=1715702190",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/705/705889-64.png?modified=1715702190"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3157,6 +3649,10 @@
   },
   {
     "id": "changequote@caligraf",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987689-32.png?modified=6e395434",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987689-64.png?modified=6e395434"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3183,6 +3679,10 @@
   },
   {
     "id": "clippings-tb@aecreations.github.io",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988115-32.png?modified=024ac538",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988115-64.png?modified=024ac538"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3209,6 +3709,10 @@
   },
   {
     "id": "previous-colors@alkatrazstudio.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987865-32.png?modified=3ae8a46a",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987865-64.png?modified=3ae8a46a"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3232,6 +3736,10 @@
   },
   {
     "id": "copysent2current@ggbs.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/2/2561-32.png?modified=1727811590",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/2/2561-64.png?modified=1727811590"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3258,6 +3766,10 @@
   },
   {
     "id": "copyaddrs@pqpq.dev",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987800-32.png?modified=851e52d3",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987800-64.png?modified=851e52d3"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3284,6 +3796,10 @@
   },
   {
     "id": "@dmrhn.googlecalendar.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988663-32.png?modified=8538738a",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988663-64.png?modified=8538738a"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3310,6 +3826,10 @@
   },
   {
     "id": "google-chat-tab@eternaltyro",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988187-32.png?modified=078ab96c",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988187-64.png?modified=078ab96c"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3336,6 +3856,10 @@
   },
   {
     "id": "xmha97@gmail.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988057-32.png?modified=572b1326",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988057-64.png?modified=572b1326"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3362,6 +3886,10 @@
   },
   {
     "id": "gcaltab@ftassy.github.io",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987833-32.png?modified=9f58c7cd",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987833-64.png?modified=9f58c7cd"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3388,6 +3916,10 @@
   },
   {
     "id": "searchfor@infonny.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987966-32.png?modified=33b49fbd",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987966-64.png?modified=33b49fbd"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3414,6 +3946,10 @@
   },
   {
     "id": "InsertSignature@digitaldolphins.jp",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987844-32.png?modified=1a444696",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987844-64.png?modified=1a444696"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3440,6 +3976,10 @@
   },
   {
     "id": "configButton@dillinger",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987784-32.png?modified=f776c207",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987784-64.png?modified=f776c207"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3466,6 +4006,10 @@
   },
   {
     "id": "x0h44fx9x@relay.firefox.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988108-32.png?modified=fa6fa58f",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988108-64.png?modified=fa6fa58f"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3489,6 +4033,10 @@
   },
   {
     "id": "gamb@pharqcon.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988056-32.png?modified=217e2827",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988056-64.png?modified=217e2827"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3515,6 +4063,10 @@
   },
   {
     "id": "spambee@verifrom.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986632-32.png?modified=56f47df7",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986632-64.png?modified=56f47df7"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3541,6 +4093,10 @@
   },
   {
     "id": "restartButton@dillinger",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987787-32.png?modified=bb13a955",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987787-64.png?modified=bb13a955"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3567,6 +4123,10 @@
   },
   {
     "id": "{4753278b-acea-4b2b-a111-1fc9450d239d}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988787-32.png?modified=14b944e0",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988787-64.png?modified=14b944e0"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3593,6 +4153,10 @@
   },
   {
     "id": "keepassxc-mail@kkapsner.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988289-32.png?modified=9bdc9c1b",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988289-64.png?modified=9bdc9c1b"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3619,6 +4183,10 @@
   },
   {
     "id": "{2af208f6-fdc2-4c74-8db9-bb4a8de6359d}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3645,6 +4213,10 @@
   },
   {
     "id": "ntfntf@dan-sullivan.co.uk",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988691-32.png?modified=f0194ec3",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988691-64.png?modified=f0194ec3"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3671,6 +4243,10 @@
   },
   {
     "id": "markdown-here-revival@xul.calypsoblue.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988035-32.png?modified=79012b8f",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988035-64.png?modified=79012b8f"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3694,6 +4270,10 @@
   },
   {
     "id": "FoFB@drexler",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987914-32.png?modified=292b118c",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987914-64.png?modified=292b118c"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3717,6 +4297,10 @@
   },
   {
     "id": "gtasks-thunder@tantely.fr",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988615-32.png?modified=e0793eb1",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988615-64.png?modified=e0793eb1"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3743,6 +4327,10 @@
   },
   {
     "id": "signature-sync@thunderbird.extensions.kam193",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988067-32.png?modified=0f72bfa4",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988067-64.png?modified=0f72bfa4"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3769,6 +4357,10 @@
   },
   {
     "id": "thunderbird-todoist@apps.smeanox.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988098-32.png?modified=b990d400",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988098-64.png?modified=b990d400"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3795,6 +4387,10 @@
   },
   {
     "id": "toggle-headers@mattsch.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3821,6 +4417,10 @@
   },
   {
     "id": "outlook-ab-enabler@jorgk.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988081-32.png?modified=87587191",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988081-64.png?modified=87587191"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3844,6 +4444,10 @@
   },
   {
     "id": "quickersearch@opto.one",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3870,6 +4474,10 @@
   },
   {
     "id": "quickarchiver@bergerdata.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/331/331666-32.png?modified=74e4b35c",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/331/331666-64.png?modified=74e4b35c"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3896,6 +4504,10 @@
   },
   {
     "id": "toggleHTML@dillinger",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987987-32.png?modified=172dd610",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987987-64.png?modified=172dd610"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3922,6 +4534,10 @@
   },
   {
     "id": "links@tealdulcet.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988353-32.png?modified=5187b4b1",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988353-64.png?modified=5187b4b1"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3948,6 +4564,10 @@
   },
   {
     "id": "collectaddresses@ggbs.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988718-32.png?modified=0ed6c038",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988718-64.png?modified=0ed6c038"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -3974,6 +4594,10 @@
   },
   {
     "id": "juraj.masiar@gmail.com_LinkInTab",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988099-32.png?modified=97590601",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988099-64.png?modified=97590601"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4000,6 +4624,10 @@
   },
   {
     "id": "{12a1584b-2123-473d-8752-e82e74e3cb1b}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/0/612-32.png?modified=79a89bdc",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/0/612-64.png?modified=79a89bdc"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4026,6 +4654,10 @@
   },
   {
     "id": "OpenAttachmentByExtension@digitaldolphins.jp",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987821-32.png?modified=aa4fbd80",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987821-64.png?modified=aa4fbd80"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4049,6 +4681,10 @@
   },
   {
     "id": "@dmrhn.chatgpt.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988586-32.png?modified=1ed2cd0e",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988586-64.png?modified=1ed2cd0e"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4075,6 +4711,10 @@
   },
   {
     "id": "marwe@turtletect.ie",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987858-32.png?modified=19f1937d",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987858-64.png?modified=19f1937d"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4101,6 +4741,10 @@
   },
   {
     "id": "rspamd-spamness@alexander.moisseev",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/676/676875-32.png?modified=3e4b8ed1",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/676/676875-64.png?modified=3e4b8ed1"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4127,6 +4771,10 @@
   },
   {
     "id": "{9de7f477-6a8d-4bf6-932c-1dc736b90394}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988396-32.png?modified=958d34cd",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988396-64.png?modified=958d34cd"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4153,6 +4801,10 @@
   },
   {
     "id": "ReplyAsOriginalRecipient@github.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4179,6 +4831,10 @@
   },
   {
     "id": "antidote_uni12_thunderbird@druide.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988746-32.png?modified=5a9365fa",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988746-64.png?modified=5a9365fa"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4205,6 +4861,10 @@
   },
   {
     "id": "filelink-owncloud@thosmos.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987746-32.png?modified=4112086b",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987746-64.png?modified=4112086b"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4231,6 +4891,10 @@
   },
   {
     "id": "smileyfixer@matthias-g",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987964-32.png?modified=d4e42d93",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987964-64.png?modified=d4e42d93"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4257,6 +4921,10 @@
   },
   {
     "id": "keynav@andrew.hart",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4283,6 +4951,10 @@
   },
   {
     "id": "popmaillistrecipients@funke.nz",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986522-32.png?modified=c9fcbfae",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986522-64.png?modified=c9fcbfae"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4309,6 +4981,10 @@
   },
   {
     "id": "showInOut@ggbs.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/3/3492-32.png?modified=1715238249",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/3/3492-64.png?modified=1715238249"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4335,6 +5011,10 @@
   },
   {
     "id": "admin@justreport.it",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987984-32.png?modified=206a8bf9",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987984-64.png?modified=206a8bf9"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4361,6 +5041,10 @@
   },
   {
     "id": "gmail-labels@itln.pl",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988447-32.png?modified=d21142fd",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988447-64.png?modified=d21142fd"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4387,6 +5071,10 @@
   },
   {
     "id": "read-aloud@lsdsoftware.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988068-32.png?modified=cccc5f2c",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988068-64.png?modified=cccc5f2c"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4413,6 +5101,10 @@
   },
   {
     "id": "night.and.day@sancus.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987651-32.png?modified=9b8296be",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987651-64.png?modified=9b8296be"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4439,6 +5131,10 @@
   },
   {
     "id": "devToolsButton@dillinger",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987786-32.png?modified=2ad88956",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987786-64.png?modified=2ad88956"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4465,6 +5161,10 @@
   },
   {
     "id": "filter_button@iconparc.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/407/407832-32.png?modified=1be08555",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/407/407832-64.png?modified=1be08555"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4488,6 +5188,10 @@
   },
   {
     "id": "{3AB03506-4329-483F-BA03-EA5493232260}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/10/10149-32.png?modified=1598542468",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/10/10149-64.png?modified=1598542468"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4514,6 +5218,10 @@
   },
   {
     "id": "s3-filelink-provider-developer@josephcz.xyz",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988513-32.png?modified=f40fd7f4",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988513-64.png?modified=f40fd7f4"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4540,6 +5248,10 @@
   },
   {
     "id": "togglelinewrap@kiszka.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987933-32.png?modified=e9cff5c0",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987933-64.png?modified=e9cff5c0"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4563,6 +5275,10 @@
   },
   {
     "id": "spoofdetection@marvin.herrmann",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987834-32.png?modified=b700bb5d",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987834-64.png?modified=b700bb5d"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4589,6 +5305,10 @@
   },
   {
     "id": "{2909fbd8-b061-4b52-989e-46b05fbdb650}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988382-32.png?modified=9217d3a2",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988382-64.png?modified=9217d3a2"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4615,6 +5335,10 @@
   },
   {
     "id": "reply-all-auto-cc@github.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4641,6 +5365,10 @@
   },
   {
     "id": "{9d8c34df-e80e-4d83-829b-6c9853020d9e}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987729-32.png?modified=f0f22d24",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987729-64.png?modified=f0f22d24"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4665,6 +5393,10 @@
   },
   {
     "id": "unmangleOutlookSafelinks@havekes.eu",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/984/984085-32.png?modified=6b88f37c",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/984/984085-64.png?modified=6b88f37c"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4691,6 +5423,10 @@
   },
   {
     "id": "expand_mailing_lists@davero.addons.mozilla.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987803-32.png?modified=effa2d6a",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987803-64.png?modified=effa2d6a"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4717,6 +5453,10 @@
   },
   {
     "id": "limit_non-BCC_recipients@davero.addons.mozilla.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987776-32.png?modified=9012d703",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987776-64.png?modified=9012d703"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4743,6 +5483,10 @@
   },
   {
     "id": "tls-paranoia@gdr.name",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/451/451482-32.png?modified=1578510144",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/451/451482-64.png?modified=1578510144"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4769,6 +5513,10 @@
   },
   {
     "id": "@dmrhn.whatsapp.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988582-32.png?modified=2d87d1ca",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988582-64.png?modified=2d87d1ca"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4795,6 +5543,10 @@
   },
   {
     "id": "typical-reply@clear-code.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -4818,6 +5570,10 @@
   },
   {
     "id": "autoMarkFolderRead.silvester@addons.thunderbird.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988314-32.png?modified=54b07d0d",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988314-64.png?modified=54b07d0d"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4844,6 +5600,10 @@
   },
   {
     "id": "changelogger@r01",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/983/983832-32.png?modified=7071dd79",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/983/983832-64.png?modified=7071dd79"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4870,6 +5630,10 @@
   },
   {
     "id": "{d8815e01-8ffc-4d85-a082-d750b35f21c1}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988553-32.png?modified=e4d0f403",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988553-64.png?modified=e4d0f403"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4896,6 +5660,10 @@
   },
   {
     "id": "layoutbutton@turtletec.ie",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/714/714655-32.png?modified=1719496976",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/714/714655-64.png?modified=1719496976"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4922,6 +5690,10 @@
   },
   {
     "id": "{e6696d02-466a-11e3-a162-04e36188709b}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4945,6 +5717,10 @@
   },
   {
     "id": "te-in-th@ftassy.github.io",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987994-32.png?modified=f8d93110",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987994-64.png?modified=f8d93110"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4971,6 +5747,10 @@
   },
   {
     "id": "moresnooze@cyrille.nocus",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/161/161710-32.png?modified=1647804462",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/161/161710-64.png?modified=1647804462"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -4997,6 +5777,10 @@
   },
   {
     "id": "{25156018-d27b-497e-9777-886502ac65ad}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5020,6 +5804,10 @@
   },
   {
     "id": "thunderbird_extension@wordeep.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988256-32.png?modified=4d464006",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988256-64.png?modified=4d464006"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5046,6 +5834,10 @@
   },
   {
     "id": "x-pm-headers@danq.me",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987920-32.png?modified=404bd401",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987920-64.png?modified=404bd401"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5072,6 +5864,10 @@
   },
   {
     "id": "autoprofilepicture@astucesweb.fr",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988770-32.png?modified=bb239fdd",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988770-64.png?modified=bb239fdd"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5098,6 +5894,10 @@
   },
   {
     "id": "egaffiot@outlook.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988751-32.png?modified=2fb2884d",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988751-64.png?modified=2fb2884d"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5124,6 +5924,10 @@
   },
   {
     "id": "RemindIt@o.marce.free.fr",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/320/320395-32.png?modified=1664438040",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/320/320395-64.png?modified=1664438040"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5150,6 +5954,10 @@
   },
   {
     "id": "admin@justverify.it",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988488-32.png?modified=3c01b6d7",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988488-64.png?modified=3c01b6d7"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5176,6 +5984,10 @@
   },
   {
     "id": "thunderstats@micz.it",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/596/596736-32.png?modified=1733150087",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/596/596736-64.png?modified=1733150087"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5202,6 +6014,10 @@
   },
   {
     "id": "OpenTab@Toshi_",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987705-32.png?modified=5710f0a2",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987705-64.png?modified=5710f0a2"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5228,6 +6044,10 @@
   },
   {
     "id": "open-image-in-new-tab@rmmccann.github.io",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988079-32.png?modified=a0eb203e",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988079-64.png?modified=a0eb203e"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5254,6 +6074,10 @@
   },
   {
     "id": "{43ed69b5-6fb0-44d0-b200-d1b26d3fed39}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988418-32.png?modified=8b6909ba",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988418-64.png?modified=8b6909ba"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5280,6 +6104,10 @@
   },
   {
     "id": "{282C3C7A-15A8-4037-A30D-BBEB17FFC76B}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/4/4268-32.png?modified=1695035498",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/4/4268-64.png?modified=1695035498"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5306,6 +6134,10 @@
   },
   {
     "id": "@dmrhn.microsoftteams.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988800-32.png?modified=e08b7f68",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988800-64.png?modified=e08b7f68"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5332,6 +6164,10 @@
   },
   {
     "id": "mailMoveShortcuts@extension",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987923-32.png?modified=87fb97f5",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987923-64.png?modified=87fb97f5"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5358,6 +6194,10 @@
   },
   {
     "id": "macrotemplate@nattoheaven.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5384,6 +6224,10 @@
   },
   {
     "id": "check-before-sending-email@apar.jp",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988748-32.png?modified=a5804308",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988748-64.png?modified=a5804308"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5410,6 +6254,10 @@
   },
   {
     "id": "drsjb80@gmail.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5436,6 +6284,10 @@
   },
   {
     "id": "toggleMessagePane@dillinger",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987785-32.png?modified=8858999c",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987785-64.png?modified=8858999c"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5462,6 +6314,10 @@
   },
   {
     "id": "@dmrhn.mstodo.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988596-32.png?modified=824968f8",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988596-64.png?modified=824968f8"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5488,6 +6344,10 @@
   },
   {
     "id": "FrameWhite@Sungho.Hwang",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986655-32.png?modified=106a4e2e",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986655-64.png?modified=106a4e2e"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5514,6 +6374,10 @@
   },
   {
     "id": "helpdesk@eledia.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988442-32.png?modified=74e0b882",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988442-64.png?modified=74e0b882"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5540,6 +6404,10 @@
   },
   {
     "id": "quickfilterby@extensions.thunderbird.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5563,6 +6431,10 @@
   },
   {
     "id": "advanced-composer@thunderbird.extension",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988365-32.png?modified=79a76066",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988365-64.png?modified=79a76066"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5589,6 +6461,10 @@
   },
   {
     "id": "deselectondelete@baz.pw",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5615,6 +6491,10 @@
   },
   {
     "id": "tb-addtomailinglists@tb.dev",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987807-32.png?modified=34062c31",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987807-64.png?modified=34062c31"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5641,6 +6521,10 @@
   },
   {
     "id": "gmessages_sigurd@dagestad.info",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988145-32.png?modified=e43b38bc",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988145-64.png?modified=e43b38bc"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5667,6 +6551,10 @@
   },
   {
     "id": "archive-old-messagesr@adamreichold.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5693,6 +6581,10 @@
   },
   {
     "id": "ObsidianClipper@KevinHaw.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988625-32.png?modified=5d422268",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988625-64.png?modified=5d422268"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5719,6 +6611,10 @@
   },
   {
     "id": "{957509b1-217a-46c7-b08b-f67d08d53883}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/49/49594-32.png?modified=1731099219",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/49/49594-64.png?modified=1731099219"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5745,6 +6641,10 @@
   },
   {
     "id": "joplin-export@martin.doerfelt",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988293-32.png?modified=7af3b728",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988293-64.png?modified=7af3b728"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5772,6 +6672,10 @@
   },
   {
     "id": "messagemover@michele.locati.it",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988087-32.png?modified=8dbdb99a",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988087-64.png?modified=8dbdb99a"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5798,6 +6702,10 @@
   },
   {
     "id": "unicodify@rugk.github.io",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988160-32.png?modified=0b1609fc",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988160-64.png?modified=0b1609fc"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5824,6 +6732,10 @@
   },
   {
     "id": "tagger@xot.nl",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988532-32.png?modified=fbffbceb",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988532-64.png?modified=fbffbceb"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5850,6 +6762,10 @@
   },
   {
     "id": "jorgk@sender-frequency",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5876,6 +6792,10 @@
   },
   {
     "id": "@eddie.outlookcalendar.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988838-32.png?modified=feb4a753",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988838-64.png?modified=feb4a753"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5902,6 +6822,10 @@
   },
   {
     "id": "RemindMed@cparg.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988439-32.png?modified=8a103eb9",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988439-64.png?modified=8a103eb9"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5928,6 +6852,10 @@
   },
   {
     "id": "copy-message-id@j.kahn",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/805/805362-32.png?modified=a6ada4c9",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/805/805362-64.png?modified=a6ada4c9"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5954,6 +6882,10 @@
   },
   {
     "id": "@thundersuite.da.gammla",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988614-32.png?modified=740d3977",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988614-64.png?modified=740d3977"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -5980,6 +6912,10 @@
   },
   {
     "id": "aify@shoryuken.me",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988493-32.png?modified=3822da70",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988493-64.png?modified=3822da70"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6006,6 +6942,10 @@
   },
   {
     "id": "gchat-thunder@tantely.fr",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988608-32.png?modified=7386bed9",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988608-64.png?modified=7386bed9"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6032,6 +6972,10 @@
   },
   {
     "id": "unified-folders@extensions.thunderbird.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6055,6 +6999,10 @@
   },
   {
     "id": "tabcontrol@nuitcodecitoyen.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988197-32.png?modified=bb58059e",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988197-64.png?modified=bb58059e"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6081,6 +7029,10 @@
   },
   {
     "id": "@dmrhn.gemini.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988666-32.png?modified=5f1b2d33",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988666-64.png?modified=5f1b2d33"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6107,6 +7059,10 @@
   },
   {
     "id": "copyfolderAddOn1@datawave.sk",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988814-32.png?modified=d063cd6f",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988814-64.png?modified=d063cd6f"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -6130,6 +7086,10 @@
   },
   {
     "id": "JunkMailByeBye@example.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988766-32.png?modified=b34088d6",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988766-64.png?modified=b34088d6"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6156,6 +7116,10 @@
   },
   {
     "id": "carddavbrowser@mtalbot.addons.mozilla.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/532/532656-32.png?modified=1735908439",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/532/532656-64.png?modified=1735908439"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6182,6 +7146,10 @@
   },
   {
     "id": "topic-tree@opto-one",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988255-32.png?modified=ac2011a3",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988255-64.png?modified=ac2011a3"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6208,6 +7176,10 @@
   },
   {
     "id": "ContactFinder@DegrangeM.addons.thunderbird.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988304-32.png?modified=23b72b60",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988304-64.png?modified=23b72b60"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6234,6 +7206,10 @@
   },
   {
     "id": "addon_simple_template@forest-soft.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988422-32.png?modified=d1b6d1f5",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988422-64.png?modified=d1b6d1f5"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6260,6 +7236,10 @@
   },
   {
     "id": "kickofitall@gmail.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988572-32.png?modified=ceff1a4c",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988572-64.png?modified=ceff1a4c"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6286,6 +7266,10 @@
   },
   {
     "id": "external-editor-revived@tsundere.moe",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988342-32.png?modified=96a44356",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988342-64.png?modified=96a44356"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6312,6 +7296,10 @@
   },
   {
     "id": "persiancity@gmail.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/tabs-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/tabs-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6335,6 +7323,10 @@
   },
   {
     "id": "enygmail@dyrk.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987852-32.png?modified=52041906",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987852-64.png?modified=52041906"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6361,6 +7353,10 @@
   },
   {
     "id": "weatherlicious@ntim.ml",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987806-32.png?modified=4740c877",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987806-64.png?modified=4740c877"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6387,6 +7383,10 @@
   },
   {
     "id": "{88B31EFE-2E3B-43a6-A805-B53433C3B265}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6413,6 +7413,10 @@
   },
   {
     "id": "open-in-browser@adamreichold.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6439,6 +7443,10 @@
   },
   {
     "id": "calendarsearchexport@ggbs.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988724-32.png?modified=4e92598e",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988724-64.png?modified=4e92598e"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6465,6 +7473,10 @@
   },
   {
     "id": "sub@pharqcon.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988567-32.png?modified=3b983a7f",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988567-64.png?modified=3b983a7f"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6491,6 +7503,10 @@
   },
   {
     "id": "freecosys_filelink@birdiecode.ru",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988561-32.png?modified=28cbc09a",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988561-64.png?modified=28cbc09a"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6517,6 +7533,10 @@
   },
   {
     "id": "thunderhawkmailer@gmail.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988765-32.png?modified=251ac75d",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988765-64.png?modified=251ac75d"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6543,6 +7563,10 @@
   },
   {
     "id": "prefsButton@dillinger",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987857-32.png?modified=2cbeabd0",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987857-64.png?modified=2cbeabd0"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6569,6 +7593,10 @@
   },
   {
     "id": "thunderwebtabs@gmail.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988540-32.png?modified=56441374",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988540-64.png?modified=56441374"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6595,6 +7623,10 @@
   },
   {
     "id": "{b1a994eb-f617-4a56-a4a4-e073e2310f07}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988279-32.png?modified=a01777c4",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988279-64.png?modified=a01777c4"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6621,6 +7653,10 @@
   },
   {
     "id": "{5ce3f3ea-38fc-11eb-adc1-0242ac120002}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987980-32.png?modified=d23b0dc7",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987980-64.png?modified=d23b0dc7"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6647,6 +7683,10 @@
   },
   {
     "id": "userChromeJS@kamens.us",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6673,6 +7713,10 @@
   },
   {
     "id": "togglereplied@kamens.us",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6699,6 +7743,10 @@
   },
   {
     "id": "autofile@oasisllc.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988002-32.png?modified=4c75d285",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988002-64.png?modified=4c75d285"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6725,6 +7773,10 @@
   },
   {
     "id": "ab102-maps@xul.calypsoblue.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988383-32.png?modified=550b3dbb",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988383-64.png?modified=550b3dbb"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6748,6 +7800,10 @@
   },
   {
     "id": "newthreadall@opto.one",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6774,6 +7830,10 @@
   },
   {
     "id": "juraj.masiar@gmail.com_ScrollAnywhere",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987894-32.png?modified=faa4ca6c",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987894-64.png?modified=faa4ca6c"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6800,6 +7860,10 @@
   },
   {
     "id": "sync@opto.one",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6826,6 +7890,10 @@
   },
   {
     "id": "pywalfox@frewacom.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987859-32.png?modified=d7d7fbf6",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987859-64.png?modified=d7d7fbf6"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6852,6 +7920,10 @@
   },
   {
     "id": "get-all-senders@CicadaCinema",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988238-32.png?modified=29fdd2e3",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988238-64.png?modified=29fdd2e3"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6878,6 +7950,10 @@
   },
   {
     "id": "mhublite@schiffner.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987701-32.png?modified=ac549680",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987701-64.png?modified=ac549680"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6904,6 +7980,10 @@
   },
   {
     "id": "alldaytasks@ggbs.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988806-32.png?modified=54298803",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988806-64.png?modified=54298803"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6930,6 +8010,10 @@
   },
   {
     "id": "{8f168a36-1dc7-11ea-9233-f290ba9c1df4}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6956,6 +8040,10 @@
   },
   {
     "id": "llama3-grammar-thunderbird@johannes.buchner.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988715-32.png?modified=57b1198d",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988715-64.png?modified=57b1198d"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -6982,6 +8070,10 @@
   },
   {
     "id": "auto-mark-as-read@mllr.pl",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988356-32.png?modified=6c4dc646",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988356-64.png?modified=6c4dc646"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7008,6 +8100,10 @@
   },
   {
     "id": "allevents@ggbs.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988772-32.png?modified=0f4d6392",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988772-64.png?modified=0f4d6392"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -7031,6 +8127,10 @@
   },
   {
     "id": "gkeep-thunder@tantely.fr",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988612-32.png?modified=387cd4f4",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988612-64.png?modified=387cd4f4"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7057,6 +8157,10 @@
   },
   {
     "id": "mailAlert@einKnie",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987926-32.png?modified=c501d97a",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987926-64.png?modified=c501d97a"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7083,6 +8187,10 @@
   },
   {
     "id": "chatgpt@example.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/social-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/social-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7109,6 +8217,10 @@
   },
   {
     "id": "mozilla@nwex.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7135,6 +8247,10 @@
   },
   {
     "id": "tidybird@ganast.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/559/559954-32.png?modified=1728939635",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/559/559954-64.png?modified=1728939635"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7158,6 +8274,10 @@
   },
   {
     "id": "emptyfolder.freshlabs@search.mozilla.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/tabs-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/tabs-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7184,6 +8304,10 @@
   },
   {
     "id": "threaded-list-switch@thunderbird.extension",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7210,6 +8334,10 @@
   },
   {
     "id": "maxime.dubreuil.ddf@gmail.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7236,6 +8364,10 @@
   },
   {
     "id": "@dmrhn.tutamail.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988587-32.png?modified=a9927373",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988587-64.png?modified=a9927373"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7262,6 +8394,10 @@
   },
   {
     "id": "ai-mail-support@yellowsakura.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988788-32.png?modified=edf11fec",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988788-64.png?modified=edf11fec"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7288,6 +8424,10 @@
   },
   {
     "id": "MarkButton@pharqcon.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988597-32.png?modified=45ed52a9",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988597-64.png?modified=45ed52a9"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7314,6 +8454,10 @@
   },
   {
     "id": "ms365linkopener@micz.it",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988611-32.png?modified=8f545f87",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988611-64.png?modified=8f545f87"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7340,6 +8484,10 @@
   },
   {
     "id": "gmessages-thunder@tantely.fr",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988613-32.png?modified=116c4153",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988613-64.png?modified=116c4153"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7366,6 +8514,10 @@
   },
   {
     "id": "textinsert@opto-one",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7389,6 +8541,10 @@
   },
   {
     "id": "stripImages@mi.tal",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7415,6 +8571,10 @@
   },
   {
     "id": "@dmrhn.slack.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988585-32.png?modified=dd3994cd",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988585-64.png?modified=dd3994cd"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7441,6 +8601,10 @@
   },
   {
     "id": "@dmrhn.messenger.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988664-32.png?modified=560cc4b9",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988664-64.png?modified=560cc4b9"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7467,6 +8631,10 @@
   },
   {
     "id": "{59812185-ea92-4cca-8ab7-cfcacee81281}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988319-32.png?modified=28ae2e35",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988319-64.png?modified=28ae2e35"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7493,6 +8661,10 @@
   },
   {
     "id": "compose-responsive-images@lionel-holt.addons.thunderbird.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988391-32.png?modified=1666595741",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988391-64.png?modified=1666595741"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7519,6 +8691,10 @@
   },
   {
     "id": "autocopy@jimdanner",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988271-32.png?modified=d15ba831",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988271-64.png?modified=d15ba831"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7545,6 +8721,10 @@
   },
   {
     "id": "one-click-forward@david-trapp.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988591-32.png?modified=5886860d",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988591-64.png?modified=5886860d"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7571,6 +8751,10 @@
   },
   {
     "id": "thunderai-sparks@micz.it",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988875-32.png?modified=acd1e1aa",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988875-64.png?modified=acd1e1aa"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -7594,6 +8778,10 @@
   },
   {
     "id": "@dmrhn.protonmail.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988588-32.png?modified=2ea8aa2c",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988588-64.png?modified=2ea8aa2c"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7620,6 +8808,10 @@
   },
   {
     "id": "two.dynamic.birds@indcpa.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988738-32.png?modified=c586ca53",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988738-64.png?modified=c586ca53"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7646,6 +8838,10 @@
   },
   {
     "id": "@dmrhn.trello.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988726-32.png?modified=b7562119",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988726-64.png?modified=b7562119"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7672,6 +8868,10 @@
   },
   {
     "id": "ungender@gegen-links.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7698,6 +8898,10 @@
   },
   {
     "id": "iOSNotes@siliconvenice.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/415/415184-32.png?modified=1692901186",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/415/415184-64.png?modified=1692901186"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7724,6 +8928,10 @@
   },
   {
     "id": "CustomCSS@GrantEdwards.github.io",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988292-32.png?modified=211903f6",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988292-64.png?modified=211903f6"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7750,6 +8958,10 @@
   },
   {
     "id": "undo-button@example.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988804-32.png?modified=91a53da0",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988804-64.png?modified=91a53da0"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7776,6 +8988,10 @@
   },
   {
     "id": "spamtester@cestoliv.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988423-32.png?modified=a68fb992",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988423-64.png?modified=a68fb992"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7802,6 +9018,10 @@
   },
   {
     "id": "whatsapp-tb@hou-rui",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7828,6 +9048,10 @@
   },
   {
     "id": "{ECFD45DC-CEE2-4784-BEEC-A33713B2288D}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988576-32.png?modified=4caee524",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988576-64.png?modified=4caee524"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7854,6 +9078,10 @@
   },
   {
     "id": "plugins@europeanmx.eu",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/704/704523-32.png?modified=20544f77",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/704/704523-64.png?modified=20544f77"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7880,6 +9108,10 @@
   },
   {
     "id": "list-unsubscribe@addons.amunak.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988634-32.png?modified=6ca6e970",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988634-64.png?modified=6ca6e970"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7906,6 +9138,10 @@
   },
   {
     "id": "calendar-tools@opto.one",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988837-32.png?modified=931e6ac7",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988837-64.png?modified=931e6ac7"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7932,6 +9168,10 @@
   },
   {
     "id": "{3341d8a8-69f5-4ae3-a365-980a65d560f8}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7955,6 +9195,10 @@
   },
   {
     "id": "redthunderminebird-plus@clear-code.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987935-32.png?modified=ba0dbf44",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987935-64.png?modified=ba0dbf44"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -7981,6 +9225,10 @@
   },
   {
     "id": "@dmrhn.telegram.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988660-32.png?modified=f933bdca",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988660-64.png?modified=f933bdca"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8007,6 +9255,10 @@
   },
   {
     "id": "enhancedreplyheaders@docgunthrop.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8033,6 +9285,10 @@
   },
   {
     "id": "addAccent@jeanlaroche.github.io",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8059,6 +9315,10 @@
   },
   {
     "id": "gtrash@roy-orbison.test",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988268-32.png?modified=e2feeedf",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988268-64.png?modified=e2feeedf"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8085,6 +9345,10 @@
   },
   {
     "id": "helpme@2advancedlabs.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8111,6 +9375,10 @@
   },
   {
     "id": "logout@heilbit.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8134,6 +9402,10 @@
   },
   {
     "id": "@dmrhn.googlekeep.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988659-32.png?modified=1a271215",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988659-64.png?modified=1a271215"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8160,6 +9432,10 @@
   },
   {
     "id": "RainbowNote@Sungho.Hwang",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988094-32.png?modified=0e448a95",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988094-64.png?modified=0e448a95"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8186,6 +9462,10 @@
   },
   {
     "id": "@dmrhn.todoist.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988815-32.png?modified=e13b8bd0",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988815-64.png?modified=e13b8bd0"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8212,6 +9492,10 @@
   },
   {
     "id": "yaofei@www",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8238,6 +9522,10 @@
   },
   {
     "id": "safelinks-removal@cphyc.me",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987921-32.png?modified=389ddc12",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987921-64.png?modified=389ddc12"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8264,6 +9552,10 @@
   },
   {
     "id": "quotes@dillinger",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/615/615980-32.png?modified=b2c0a4a7",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/615/615980-64.png?modified=b2c0a4a7"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8290,6 +9582,10 @@
   },
   {
     "id": "axel@rossberg.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8316,6 +9612,10 @@
   },
   {
     "id": "phishreport@cert.tu-dresden.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988303-32.png?modified=b8f0aec9",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988303-64.png?modified=b8f0aec9"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8339,6 +9639,10 @@
   },
   {
     "id": "email@openfolder.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988070-32.png?modified=bf123e35",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988070-64.png?modified=bf123e35"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8365,6 +9669,10 @@
   },
   {
     "id": "spamreport@expertspam.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/566/566490-32.png?modified=1419390294",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/566/566490-64.png?modified=1419390294"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8391,6 +9699,10 @@
   },
   {
     "id": "strip-images@mitxela.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8417,6 +9729,10 @@
   },
   {
     "id": "pastecode@wellnerbou.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/webdev-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/webdev-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8443,6 +9759,10 @@
   },
   {
     "id": "auto-avatars@falco.fun",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988661-32.png?modified=ddf93d42",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988661-64.png?modified=ddf93d42"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8469,6 +9789,10 @@
   },
   {
     "id": "received@alexander.moisseev",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/534/534258-32.png?modified=a79b77e6",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/534/534258-64.png?modified=a79b77e6"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8495,6 +9819,10 @@
   },
   {
     "id": "addon-info-sync-compatibility@opto.one",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988122-32.png?modified=c3dc421e",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988122-64.png?modified=c3dc421e"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8521,6 +9849,10 @@
   },
   {
     "id": "cloneMessage@vigneau.philippe",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988183-32.png?modified=e6fbbed8",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988183-64.png?modified=e6fbbed8"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8547,6 +9879,10 @@
   },
   {
     "id": "louisjulien.mail_to_event@addons.thunderbird.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988849-32.png?modified=f4c242e0",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988849-64.png?modified=f4c242e0"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -8567,6 +9903,10 @@
   },
   {
     "id": "@dmrhn.discord.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988584-32.png?modified=32f8bf73",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988584-64.png?modified=32f8bf73"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8593,6 +9933,10 @@
   },
   {
     "id": "filelink-seafile@mathrice.fr",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988243-32.png?modified=e6c149a7",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988243-64.png?modified=e6c149a7"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8619,6 +9963,10 @@
   },
   {
     "id": "{a29be6e4-276b-35c7-7a16-28170470bac3}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8646,6 +9994,10 @@
   },
   {
     "id": "notebird@saveriomorelli.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988176-32.png?modified=e41bd2c0",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988176-64.png?modified=e41bd2c0"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8672,6 +10024,10 @@
   },
   {
     "id": "autoZoom@gracile-software.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988841-32.png?modified=0a576a0d",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988841-64.png?modified=0a576a0d"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8698,6 +10054,10 @@
   },
   {
     "id": "renderMarkdownMessages@gileadi.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988227-32.png?modified=c356eb82",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988227-64.png?modified=c356eb82"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8724,6 +10084,10 @@
   },
   {
     "id": "opengooglevoice@rubenordonez.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8750,6 +10114,10 @@
   },
   {
     "id": "autobacket@a-tak.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987823-32.png?modified=800e1cfb",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987823-64.png?modified=800e1cfb"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8776,6 +10144,10 @@
   },
   {
     "id": "{DAE1031B-CD52-42CA-AE84-3B3F5B2C1593}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -8799,6 +10171,10 @@
   },
   {
     "id": "xrechnung-viewer@example.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988862-32.png?modified=a7f57781",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988862-64.png?modified=a7f57781"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8825,6 +10201,10 @@
   },
   {
     "id": "@dmrhn.notion.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988824-32.png?modified=34386516",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988824-64.png?modified=34386516"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8851,6 +10231,10 @@
   },
   {
     "id": "nextUnreadGroup@dillinger",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987868-32.png?modified=ff61022c",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987868-64.png?modified=ff61022c"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8877,6 +10261,10 @@
   },
   {
     "id": "mailing-list-filter@peci1.cz",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986230-32.png?modified=d1f3b01b",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986230-64.png?modified=d1f3b01b"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8903,6 +10291,10 @@
   },
   {
     "id": "{bf78d95a-70bd-4f42-a244-64ce76fcb43d}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988821-32.png?modified=820f78f7",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988821-64.png?modified=820f78f7"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8929,6 +10321,10 @@
   },
   {
     "id": "safelinks-cleaner-thunderbird@it.liu.se",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988025-32.png?modified=430168bc",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988025-64.png?modified=430168bc"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8955,6 +10351,10 @@
   },
   {
     "id": "todowebapp@bt-w.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988167-32.png?modified=92b9a16b",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988167-64.png?modified=92b9a16b"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -8981,6 +10381,10 @@
   },
   {
     "id": "jydidier.icanban@addons.thunderbird.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988794-32.png?modified=5b4ca824",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988794-64.png?modified=5b4ca824"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -9001,6 +10405,10 @@
   },
   {
     "id": "redo-button@example.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988803-32.png?modified=e39df175",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988803-64.png?modified=e39df175"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9027,6 +10435,10 @@
   },
   {
     "id": "audiopreview@fx-world.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/music-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/music-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9053,6 +10465,10 @@
   },
   {
     "id": "mark-gmail-read@peci1.cz",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987907-32.png?modified=91908ca7",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987907-64.png?modified=91908ca7"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9079,6 +10495,10 @@
   },
   {
     "id": "googlesearchwebapp@bt-w.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988166-32.png?modified=2ac96915",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988166-64.png?modified=2ac96915"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9105,6 +10525,10 @@
   },
   {
     "id": "NewTab@Meetanshi",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988531-32.png?modified=31e95fc3",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988531-64.png?modified=31e95fc3"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9131,6 +10555,10 @@
   },
   {
     "id": "repsel@rhodin.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/dictionary-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/dictionary-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9157,6 +10585,10 @@
   },
   {
     "id": "thunderbird-tabs@joschka-huellmann.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9183,6 +10615,10 @@
   },
   {
     "id": "toggleInline@dillinger",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987988-32.png?modified=94488074",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987988-64.png?modified=94488074"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9209,6 +10645,10 @@
   },
   {
     "id": "nextUnreadThread@dillinger",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987869-32.png?modified=ee983564",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987869-64.png?modified=ee983564"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9235,6 +10675,10 @@
   },
   {
     "id": "emptyfolder@extensions.thunderbird.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9261,6 +10705,10 @@
   },
   {
     "id": "olivier.poujade@fredon-corse.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988845-32.png?modified=004effa4",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988845-64.png?modified=004effa4"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -9284,6 +10732,10 @@
   },
   {
     "id": "deepl-write@itagagaki",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988817-32.png?modified=e2fd68ab",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988817-64.png?modified=e2fd68ab"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -9304,6 +10756,10 @@
   },
   {
     "id": "thunderbird-openproject@addons.thunderbird.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9330,6 +10786,10 @@
   },
   {
     "id": "catchallbird@jabb0",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9356,6 +10816,10 @@
   },
   {
     "id": "marksubfolderread.dex@search.mozilla.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9382,6 +10846,10 @@
   },
   {
     "id": "change-link-appearance@thunderbird.extension",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988557-32.png?modified=13db1cdc",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988557-64.png?modified=13db1cdc"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9408,6 +10876,10 @@
   },
   {
     "id": "remote-content-by-folder@kamens.us",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/852/852623-32.png?modified=c4f70f4a",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/852/852623-64.png?modified=c4f70f4a"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9434,6 +10906,10 @@
   },
   {
     "id": "platinummyr.replyAllButton@addons.thunderbird.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9460,6 +10936,10 @@
   },
   {
     "id": "singledomain@graeme.henry",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/546/546538-32.png?modified=1629544223",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/546/546538-64.png?modified=1629544223"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9486,6 +10966,10 @@
   },
   {
     "id": "gtasks-default-thunder@tantely.fr",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988889-32.png?modified=d63ce5ed",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988889-64.png?modified=d63ce5ed"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9512,6 +10996,10 @@
   },
   {
     "id": "aman.proj.rel@gmail.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988728-32.png?modified=633eac97",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988728-64.png?modified=633eac97"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9535,6 +11023,10 @@
   },
   {
     "id": "{9584f686-8c77-460f-a3fd-1f6c7ed038fe}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988445-32.png?modified=8a08ccee",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988445-64.png?modified=8a08ccee"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9561,6 +11053,10 @@
   },
   {
     "id": "msofficewebapp@bt-w.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988171-32.png?modified=c07031e7",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988171-64.png?modified=c07031e7"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9587,6 +11083,10 @@
   },
   {
     "id": "toggleSummary@dillinger",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987989-32.png?modified=a53ad99e",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987989-64.png?modified=a53ad99e"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9613,6 +11113,10 @@
   },
   {
     "id": "telegramwebapp@bt-w.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987916-32.png?modified=8533d7b5",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987916-64.png?modified=8533d7b5"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9639,6 +11143,10 @@
   },
   {
     "id": "copypatch@kiszka.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987664-32.png?modified=ddd1e0ea",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987664-64.png?modified=ddd1e0ea"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9665,6 +11173,10 @@
   },
   {
     "id": "emailFinder@accessibility.extensions.makingStuffForFun.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988877-32.png?modified=9a5e9219",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988877-64.png?modified=9a5e9219"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9691,6 +11203,10 @@
   },
   {
     "id": "{cab12c02-bc33-4b9e-a28f-b198aa5d7549}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986363-32.png?modified=2c8bae46",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986363-64.png?modified=2c8bae46"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9717,6 +11233,10 @@
   },
   {
     "id": "bprasannakumar@gmail.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988300-32.png?modified=d77a898d",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988300-64.png?modified=d77a898d"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9743,6 +11263,10 @@
   },
   {
     "id": "thunderbird@sms77.io",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988288-32.png?modified=2d81b842",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988288-64.png?modified=2d81b842"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9769,6 +11293,10 @@
   },
   {
     "id": "email-address-extractor@jsksoft",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988853-32.png?modified=9a3d5b55",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988853-64.png?modified=9a3d5b55"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9795,6 +11323,10 @@
   },
   {
     "id": "onedrivewebapp@bt-w.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988168-32.png?modified=08fde27f",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988168-64.png?modified=08fde27f"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9821,6 +11353,10 @@
   },
   {
     "id": "keiratreialdev@proton.me",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988871-32.png?modified=1df86652",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988871-64.png?modified=1df86652"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9847,6 +11383,10 @@
   },
   {
     "id": "enextools@hogi.sakura.ne.jp",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9873,6 +11413,10 @@
   },
   {
     "id": "l-rod@gmx.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9899,6 +11443,10 @@
   },
   {
     "id": "service@gracile-software.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988813-32.png?modified=4a12ed26",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988813-64.png?modified=4a12ed26"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9925,6 +11473,10 @@
   },
   {
     "id": "techyguyaditya@gmail.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9951,6 +11503,10 @@
   },
   {
     "id": "clrHistButton@gerardr",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988530-32.png?modified=17cddc5c",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988530-64.png?modified=17cddc5c"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -9977,6 +11533,10 @@
   },
   {
     "id": "tb.spaceapper@mmk2410.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988854-32.png?modified=ef144129",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988854-64.png?modified=ef144129"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -10000,6 +11560,10 @@
   },
   {
     "id": "filemail@bernd.brot",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10026,6 +11590,10 @@
   },
   {
     "id": "data-detection@cphyc.me",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987922-32.png?modified=4cfa6434",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987922-64.png?modified=4cfa6434"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10049,6 +11617,10 @@
   },
   {
     "id": "pt@rolustech.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988199-32.png?modified=f1b76015",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988199-64.png?modified=f1b76015"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10075,6 +11647,10 @@
   },
   {
     "id": "support@5613117.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988402-32.png?modified=245e2909",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988402-64.png?modified=245e2909"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10101,6 +11677,10 @@
   },
   {
     "id": "{3c4f38c0-cc71-4fed-8518-823a59badd25}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10127,6 +11707,10 @@
   },
   {
     "id": "mahour@zmim.ir",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987915-32.png?modified=ccec9218",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987915-64.png?modified=ccec9218"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10153,6 +11737,10 @@
   },
   {
     "id": "subaddress-reply@swebhosting.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10179,6 +11767,10 @@
   },
   {
     "id": "recently-extension@arndissler.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988258-32.png?modified=5c9f63e3",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988258-64.png?modified=5c9f63e3"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10205,6 +11797,10 @@
   },
   {
     "id": "toggleAddressBox@dillinger",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988106-32.png?modified=84887439",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988106-64.png?modified=84887439"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10231,6 +11827,10 @@
   },
   {
     "id": "f9-hides-the-folderbar@dreadnaut",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988880-32.png?modified=e1aba9d5",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988880-64.png?modified=e1aba9d5"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -10254,6 +11854,10 @@
   },
   {
     "id": "quick-spaces-thunder@tantely.fr",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988610-32.png?modified=deecaf2f",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988610-64.png?modified=deecaf2f"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10280,6 +11884,10 @@
   },
   {
     "id": "estimate-your-CO2@harfeur.fr",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988125-32.png?modified=08ddd7aa",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988125-64.png?modified=08ddd7aa"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10306,6 +11914,10 @@
   },
   {
     "id": "ifttt@opto-one",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10332,6 +11944,10 @@
   },
   {
     "id": "messagelinks4events@ggbs.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988816-32.png?modified=f056a623",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988816-64.png?modified=f056a623"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10358,6 +11974,10 @@
   },
   {
     "id": "seafilecloud@bastien-coco.fr",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988462-32.png?modified=e6c149a7",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988462-64.png?modified=e6c149a7"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10384,6 +12004,10 @@
   },
   {
     "id": "ResizeTbWidth@Sungho.Hwang",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988126-32.png?modified=b6c8f596",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988126-64.png?modified=b6c8f596"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10410,6 +12034,10 @@
   },
   {
     "id": "{6a5fc2f3-e8eb-4897-81b8-432ffe6ea016}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988565-32.png?modified=9162dee4",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988565-64.png?modified=9162dee4"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10436,6 +12064,10 @@
   },
   {
     "id": "safelinks-cleanup@cimba.li",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10462,6 +12094,10 @@
   },
   {
     "id": "kenichi-tanino-Thunderbird-addon-ocnspam@a2.mbn.or.jp",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988069-32.png?modified=a121d0c7",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988069-64.png?modified=a121d0c7"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10488,6 +12124,10 @@
   },
   {
     "id": "mail_sent_notifier@phpeppershop.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/feeds-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/feeds-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10514,6 +12154,10 @@
   },
   {
     "id": "TileNote@Sungho.Hwang",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988428-32.png?modified=138e7ab5",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988428-64.png?modified=138e7ab5"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10540,6 +12184,10 @@
   },
   {
     "id": "g.nappo@ldcsoftware.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10566,6 +12214,10 @@
   },
   {
     "id": "l.mazzei@ldcsoftware.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10592,6 +12244,10 @@
   },
   {
     "id": "petty@chasegoodgold.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -10615,6 +12271,10 @@
   },
   {
     "id": "info@vault56.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988510-32.png?modified=f36a9cf8",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988510-64.png?modified=f36a9cf8"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10641,6 +12301,10 @@
   },
   {
     "id": "{7a43661d-9ce4-4693-9dbd-f68cfc673618}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988917-32.png?modified=f1810ac6",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988917-64.png?modified=f1810ac6"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10667,6 +12331,10 @@
   },
   {
     "id": "run-filters@IsoNovio",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -10687,6 +12355,10 @@
   },
   {
     "id": "supplementary-compose-menu@thunderbird.extension",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10713,6 +12385,10 @@
   },
   {
     "id": "mail@fdk.app",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988441-32.png?modified=17bc470f",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988441-64.png?modified=17bc470f"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10739,6 +12415,10 @@
   },
   {
     "id": "threadInSameFolder@pklampros.io",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988380-32.png?modified=751afebe",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988380-64.png?modified=751afebe"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10765,6 +12445,10 @@
   },
   {
     "id": "skypewebapp@bt-w.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988170-32.png?modified=dd44e3d9",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988170-64.png?modified=dd44e3d9"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10791,6 +12475,10 @@
   },
   {
     "id": "copy-timestamp@halmai.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988494-32.png?modified=8776576f",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988494-64.png?modified=8776576f"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10817,6 +12505,10 @@
   },
   {
     "id": "deselector@unknown.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988735-32.png?modified=06527792",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988735-64.png?modified=06527792"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10843,6 +12535,10 @@
   },
   {
     "id": "steinert@steinertstrafrecht.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988635-32.png?modified=d198c953",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988635-64.png?modified=d198c953"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10869,6 +12565,10 @@
   },
   {
     "id": "markread@ontabopen.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10895,6 +12595,10 @@
   },
   {
     "id": "infonew@powerfolder.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988451-32.png?modified=507b2ca6",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988451-64.png?modified=507b2ca6"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10921,6 +12625,10 @@
   },
   {
     "id": "original-to-column@peterfab.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10944,6 +12652,10 @@
   },
   {
     "id": "@dmrhn.yandexmail.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988589-32.png?modified=18c9ad70",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988589-64.png?modified=18c9ad70"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -10970,6 +12682,10 @@
   },
   {
     "id": "thunderbird-addon-reply-with-attachments_bitranox@gmail.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988881-32.png?modified=e026e74a",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988881-64.png?modified=e026e74a"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -10993,6 +12709,10 @@
   },
   {
     "id": "dms-params-ext-bybabach@babach.work.gd",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988669-32.png?modified=55188e96",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988669-64.png?modified=55188e96"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11019,6 +12739,10 @@
   },
   {
     "id": "open-lab.dev@proton.me",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988545-32.png?modified=f345d1c8",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988545-64.png?modified=f345d1c8"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11045,6 +12769,10 @@
   },
   {
     "id": "compose-select@stacksoft.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988270-32.png?modified=91a577ce",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988270-64.png?modified=91a577ce"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11071,6 +12799,10 @@
   },
   {
     "id": "identityselector@codifier.nl",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988740-32.png?modified=a82c51b6",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988740-64.png?modified=a82c51b6"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11097,6 +12829,10 @@
   },
   {
     "id": "findnow@pegenau.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988571-32.png?modified=f4bd8e87",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988571-64.png?modified=f4bd8e87"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11120,6 +12856,10 @@
   },
   {
     "id": "clacks@eskritt.ca",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987849-32.png?modified=2f066f21",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987849-64.png?modified=2f066f21"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11146,6 +12886,10 @@
   },
   {
     "id": "transliterussian@koutsenok.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987816-32.png?modified=8e092cff",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987816-64.png?modified=8e092cff"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11172,6 +12916,10 @@
   },
   {
     "id": "scf@m.a",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988541-32.png?modified=ee75968b",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988541-64.png?modified=ee75968b"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11198,6 +12946,10 @@
   },
   {
     "id": "support@cypher.dog",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988459-32.png?modified=92d03945",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988459-64.png?modified=92d03945"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11224,6 +12976,10 @@
   },
   {
     "id": "bugs@tealdulcet.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988354-32.png?modified=39b188ef",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988354-64.png?modified=39b188ef"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11250,6 +13006,10 @@
   },
   {
     "id": "glodaquilla-ng@opto.one",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -11273,6 +13033,10 @@
   },
   {
     "id": "customoji.thunderbirdextension@riedler.wien",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988757-32.png?modified=4f5b2a11",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988757-64.png?modified=4f5b2a11"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11299,6 +13063,10 @@
   },
   {
     "id": "simplelogin@sebastianwie.land",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11325,6 +13093,10 @@
   },
   {
     "id": "denizoutimothee@gmail.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/search-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/search-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11351,6 +13123,10 @@
   },
   {
     "id": "office@kundenmeister.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987848-32.png?modified=63b0134e",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987848-64.png?modified=63b0134e"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11377,6 +13153,10 @@
   },
   {
     "id": "rescue-conflicting-alternatives@clear-code.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11403,6 +13183,10 @@
   },
   {
     "id": "birdbox@mozilla.kewis.ch",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988790-32.png?modified=7c2841a4",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988790-64.png?modified=7c2841a4"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11426,6 +13210,10 @@
   },
   {
     "id": "WEbpageOpener@pharqcon.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988782-32.png?modified=0d9128f4",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988782-64.png?modified=0d9128f4"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11452,6 +13240,10 @@
   },
   {
     "id": "custom-subject-column@kirurobo.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988722-32.png?modified=130d2b1f",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988722-64.png?modified=130d2b1f"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11475,6 +13267,10 @@
   },
   {
     "id": "welpy-cw.rot13@addons.thunderbird.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988836-32.png?modified=1dd8039e",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988836-64.png?modified=1dd8039e"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11501,6 +13297,10 @@
   },
   {
     "id": "archive3month.tb@tese.se",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11527,6 +13327,10 @@
   },
   {
     "id": "RainbowMemo@Sungho.Hwang",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988431-32.png?modified=4130171b",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988431-64.png?modified=4130171b"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11553,6 +13357,10 @@
   },
   {
     "id": "se@ms",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987941-32.png?modified=9de30ea6",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987941-64.png?modified=9de30ea6"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11579,6 +13387,10 @@
   },
   {
     "id": "send@thunderbird.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988811-32.png?modified=b9d37650",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988811-64.png?modified=b9d37650"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -11602,6 +13414,10 @@
   },
   {
     "id": "sendandarchive@filippodebortoli",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11628,6 +13444,10 @@
   },
   {
     "id": "support@digitmedia.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988904-32.png?modified=926d9871",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988904-64.png?modified=926d9871"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11654,6 +13474,10 @@
   },
   {
     "id": "pushover-notifier@monumental.at",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988784-32.png?modified=6148237c",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988784-64.png?modified=6148237c"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11680,6 +13504,10 @@
   },
   {
     "id": "developer@tomba.io",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988213-32.png?modified=6319a13f",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988213-64.png?modified=6319a13f"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11706,6 +13534,10 @@
   },
   {
     "id": "snakes@bluemods.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987760-32.png?modified=ea9a8e3e",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987760-64.png?modified=ea9a8e3e"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11732,6 +13564,10 @@
   },
   {
     "id": "AnonAddyTB@kamens.us",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988872-32.png?modified=7b5c07f0",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988872-64.png?modified=7b5c07f0"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -11755,6 +13591,10 @@
   },
   {
     "id": "{7FC3F36F-1DFF-4FC6-8815-C873E5199F5D}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987927-32.png?modified=3a89d280",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987927-64.png?modified=3a89d280"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11781,6 +13621,10 @@
   },
   {
     "id": "newunec@example.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988903-32.png?modified=f559c5e9",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988903-64.png?modified=f559c5e9"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11807,6 +13651,10 @@
   },
   {
     "id": "{968dafaa-fcff-407d-9e1b-59d11d6e3262}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988463-32.png?modified=c3b62663",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988463-64.png?modified=c3b62663"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11833,6 +13681,10 @@
   },
   {
     "id": "{ce388d37-dc8e-4349-abe2-f3136867a946}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988399-32.png?modified=01dca905",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988399-64.png?modified=01dca905"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11859,6 +13711,10 @@
   },
   {
     "id": "pop-jump@a-tak.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11885,6 +13741,10 @@
   },
   {
     "id": "tb-send@thunderbird.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988891-32.png?modified=6f659f9e",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988891-64.png?modified=6f659f9e"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -11908,6 +13768,10 @@
   },
   {
     "id": "custom_headers_view@z-aki",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -11931,6 +13795,10 @@
   },
   {
     "id": "austin.keenan@protonmail.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988771-32.png?modified=26dd0c84",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988771-64.png?modified=26dd0c84"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -11957,6 +13825,10 @@
   },
   {
     "id": "email-cleaner@example.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988935-32.png?modified=27f30dfd",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988935-64.png?modified=27f30dfd"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -11980,6 +13852,10 @@
   },
   {
     "id": "antispam@platon.sk",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988840-32.png?modified=8f0eeaa3",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988840-64.png?modified=8f0eeaa3"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -12003,6 +13879,10 @@
   },
   {
     "id": "ollamasummarizer@matthewcasperson.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988807-32.png?modified=c3ffde73",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988807-64.png?modified=c3ffde73"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -12026,6 +13906,10 @@
   },
   {
     "id": "syntaxright@gmail.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988482-32.png?modified=b62a6bde",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988482-64.png?modified=b62a6bde"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12052,6 +13936,10 @@
   },
   {
     "id": "welpy-cw.open-by-message-id@addons.thunderbird.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -12075,6 +13963,10 @@
   },
   {
     "id": "@dmrhn.bard.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988662-32.png?modified=39ef64bc",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988662-64.png?modified=39ef64bc"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12101,6 +13993,10 @@
   },
   {
     "id": "support@getmyinvoices.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988692-32.png?modified=422ad17e",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988692-64.png?modified=422ad17e"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12124,6 +14020,10 @@
   },
   {
     "id": "arcus@bitkeks.eu",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988448-32.png?modified=464e7e93",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988448-64.png?modified=464e7e93"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12150,6 +14050,10 @@
   },
   {
     "id": "duck_email_converter@z-aki",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988856-32.png?modified=20721970",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988856-64.png?modified=20721970"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -12173,6 +14077,10 @@
   },
   {
     "id": "@8jo8.bb.skype",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988828-32.png?modified=33e93041",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988828-64.png?modified=33e93041"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12199,6 +14107,10 @@
   },
   {
     "id": "d.lascaris@bestreply.ai",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988754-32.png?modified=896efb26",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988754-64.png?modified=896efb26"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12225,6 +14137,10 @@
   },
   {
     "id": "{e5624468-77f1-4fdd-8c4c-0a061b54794f}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988515-32.png?modified=5df29b92",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988515-64.png?modified=5df29b92"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12251,6 +14167,10 @@
   },
   {
     "id": "safelinks-offr@mkmelin.iki.fi",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12277,6 +14197,10 @@
   },
   {
     "id": "gemini-proofreader@thunderbird",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12303,6 +14227,10 @@
   },
   {
     "id": "articles-toolbar@bfffggh.github.io",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988622-32.png?modified=6ae80605",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988622-64.png?modified=6ae80605"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12329,6 +14257,10 @@
   },
   {
     "id": "thunderthings@gajong.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988276-32.png?modified=a713f95b",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988276-64.png?modified=a713f95b"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12355,6 +14287,10 @@
   },
   {
     "id": "tulpe@spe.it",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988107-32.png?modified=ce3c64a5",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988107-64.png?modified=ce3c64a5"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12381,6 +14317,10 @@
   },
   {
     "id": "proofreader@thunderbird",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12407,6 +14347,10 @@
   },
   {
     "id": "sentautomove@micz.it",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988826-32.png?modified=1d4a233e",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988826-64.png?modified=1d4a233e"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12430,6 +14374,10 @@
   },
   {
     "id": "regimail@regify.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988281-32.png?modified=beb735c3",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988281-64.png?modified=beb735c3"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12456,6 +14404,10 @@
   },
   {
     "id": "ThunderCalc@jacques",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988947-32.png?modified=3c4501cf",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988947-64.png?modified=3c4501cf"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12482,6 +14434,10 @@
   },
   {
     "id": "MyTickets@clamsen.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12508,6 +14464,10 @@
   },
   {
     "id": "{521ffaAe-Ba52-fBc5-13e6-fdEF01A6BDaB}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988397-32.png?modified=5bd9ef3f",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988397-64.png?modified=5bd9ef3f"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12534,6 +14494,10 @@
   },
   {
     "id": "{190196ac-c45b-4cfb-8d5a-2adc582abf98}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988859-32.png?modified=e0f79ff2",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988859-64.png?modified=e0f79ff2"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12560,6 +14524,10 @@
   },
   {
     "id": "thunderpocket@lol.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988812-32.png?modified=11c3d02b",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988812-64.png?modified=11c3d02b"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -12583,6 +14551,10 @@
   },
   {
     "id": "wikipediasearchwebapp@bt-w.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988169-32.png?modified=e4ca28a1",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988169-64.png?modified=e4ca28a1"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12609,6 +14581,10 @@
   },
   {
     "id": "replaceholder@lndbl.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12635,6 +14611,10 @@
   },
   {
     "id": "{001f6fd1-1afd-4928-a95e-f92c70563643}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988858-32.png?modified=5fae5051",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988858-64.png?modified=5fae5051"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12661,6 +14641,10 @@
   },
   {
     "id": "account-check@extensions.thunderbird.net",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -12681,6 +14665,10 @@
   },
   {
     "id": "@jcosenti.groupme.webtab",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988768-32.png?modified=1c035bb8",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988768-64.png?modified=1c035bb8"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12707,6 +14695,10 @@
   },
   {
     "id": "{42e1f9f2-d354-4508-95be-9c3f898ce98d}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988398-32.png?modified=6b5bb778",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988398-64.png?modified=6b5bb778"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12733,6 +14725,10 @@
   },
   {
     "id": "@8jo8.bb.gMessages",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988948-32.png?modified=5e5f2c24",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988948-64.png?modified=5e5f2c24"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12759,6 +14755,10 @@
   },
   {
     "id": "candiceetdefondouze@gmail.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988623-32.png?modified=7e83a06b",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988623-64.png?modified=7e83a06b"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12785,6 +14785,10 @@
   },
   {
     "id": "tejasmate@pm.me",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988538-32.png?modified=4812fc05",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988538-64.png?modified=4812fc05"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12811,6 +14815,10 @@
   },
   {
     "id": "addon2@docsummarizer.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988483-32.png?modified=9239e86e",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988483-64.png?modified=9239e86e"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12837,6 +14845,10 @@
   },
   {
     "id": "webpageprintfromcontextmenu@jacques",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988951-32.png?modified=8117dc5c",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988951-64.png?modified=8117dc5c"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12863,6 +14875,10 @@
   },
   {
     "id": "inbox-summary@example.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12889,6 +14905,10 @@
   },
   {
     "id": "webext-zivver-thunderbird@n04m.nl",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12915,6 +14935,10 @@
   },
   {
     "id": "thundersearch@jacques",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988952-32.png?modified=1fccc2b0",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988952-64.png?modified=1fccc2b0"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12941,6 +14965,10 @@
   },
   {
     "id": "TimetableForWeb@Sungho.Hwang",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988023-32.png?modified=cf9acffd",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988023-64.png?modified=cf9acffd"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12967,6 +14995,10 @@
   },
   {
     "id": "autoRemove@gracile-software.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988844-32.png?modified=08e15e7a",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988844-64.png?modified=08e15e7a"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -12993,6 +15025,10 @@
   },
   {
     "id": "@dmrhn.mailfence.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988777-32.png?modified=9a09fc5b",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988777-64.png?modified=9a09fc5b"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13019,6 +15055,10 @@
   },
   {
     "id": "@dmrhn.uninbox.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988702-32.png?modified=33904327",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988702-64.png?modified=33904327"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13045,6 +15085,10 @@
   },
   {
     "id": "uuid@wes.dev",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13071,6 +15115,10 @@
   },
   {
     "id": "netiquette@duboin.fr",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988405-32.png?modified=f1a190c5",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988405-64.png?modified=f1a190c5"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13097,6 +15145,10 @@
   },
   {
     "id": "thunderbird-imagewidth@suyo.be",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988955-32.png?modified=2e783ad1",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988955-64.png?modified=2e783ad1"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -13120,6 +15172,10 @@
   },
   {
     "id": "thunderbird-cloudlink@manderla.dev",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988953-32.png?modified=03193759",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988953-64.png?modified=03193759"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13146,6 +15202,10 @@
   },
   {
     "id": "CalculationPad@jaques",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988945-32.png?modified=e0c0c07e",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988945-64.png?modified=e0c0c07e"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13172,6 +15232,10 @@
   },
   {
     "id": "copy-on-mouse-select@rigaux.org",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -13195,6 +15259,10 @@
   },
   {
     "id": "gimps@tealdulcet.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988355-32.png?modified=97cca7a1",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988355-64.png?modified=97cca7a1"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13221,6 +15289,10 @@
   },
   {
     "id": "openTicketsXPS@xpslogic.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988328-32.png?modified=0c0b13ad",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988328-64.png?modified=0c0b13ad"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13247,6 +15319,10 @@
   },
   {
     "id": "@cypheroxide.owui-thunderbird.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988869-32.png?modified=ec245382",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988869-64.png?modified=ec245382"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13273,6 +15349,10 @@
   },
   {
     "id": "daily.report@massick.dev",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13299,6 +15379,10 @@
   },
   {
     "id": "austin.keenan@protonmail.com2",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988829-32.png?modified=0c67744b",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988829-64.png?modified=0c67744b"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13325,6 +15409,10 @@
   },
   {
     "id": "@dmrhn.zulip.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988753-32.png?modified=06bc1597",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988753-64.png?modified=06bc1597"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13351,6 +15439,10 @@
   },
   {
     "id": "@dmrhn.onmail.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988700-32.png?modified=bfd7fb74",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988700-64.png?modified=bfd7fb74"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13377,6 +15469,10 @@
   },
   {
     "id": "@dmrhn.skiffmail.qa",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988583-32.png?modified=f4f8dddb",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988583-64.png?modified=f4f8dddb"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13403,6 +15499,10 @@
   },
   {
     "id": "AwoZipper2@awo-bnsu.de",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988381-32.png?modified=a8aaab96",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988381-64.png?modified=a8aaab96"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13429,6 +15529,10 @@
   },
   {
     "id": "liujianhao@eagleyun.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13455,6 +15559,10 @@
   },
   {
     "id": "TriliumClipper@TriliumNext.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988938-32.png?modified=7ed76edd",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988938-64.png?modified=7ed76edd"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13481,6 +15589,10 @@
   },
   {
     "id": "acus@bitkeks.eu",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988297-32.png?modified=e48a53c4",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988297-64.png?modified=e48a53c4"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13507,6 +15619,10 @@
   },
   {
     "id": "admin@clickspeedtester.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988133-32.png?modified=ac1d8be7",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988133-64.png?modified=ac1d8be7"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13533,6 +15649,10 @@
   },
   {
     "id": "quickersearch1@opto.one",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13559,6 +15679,10 @@
   },
   {
     "id": "sato-t@east.ntt.co.jp",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987951-32.png?modified=51055739",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987951-64.png?modified=51055739"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13585,6 +15709,10 @@
   },
   {
     "id": "console-test@Ximi1970",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13611,6 +15739,10 @@
   },
   {
     "id": "adm@verytel.ru",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13637,6 +15769,10 @@
   },
   {
     "id": "elshelpext@mail.ru",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988785-32.png?modified=630bf2d1",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988785-64.png?modified=630bf2d1"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)"
@@ -13660,6 +15796,10 @@
   },
   {
     "id": "admin@cpstest.pro",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988140-32.png?modified=86e78725",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988140-64.png?modified=86e78725"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13686,6 +15826,10 @@
   },
   {
     "id": "c.mazzei@ldcsoftware.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+      "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13712,6 +15856,10 @@
   },
   {
     "id": "iases3@iase.one",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988937-32.png?modified=ad7778ff",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988937-64.png?modified=ad7778ff"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13738,6 +15886,10 @@
   },
   {
     "id": "@ryan.spacehey",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988931-32.png?modified=1ee8441e",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988931-64.png?modified=1ee8441e"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13764,6 +15916,10 @@
   },
   {
     "id": "{f8ac1910-a081-4808-b6cf-5d4d7170bbc4}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988857-32.png?modified=e4bae552",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988857-64.png?modified=e4bae552"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13790,6 +15946,10 @@
   },
   {
     "id": "{B46754F2-3791-11EB-B059-1D42FC2CA371}",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987974-32.png?modified=55ed5439",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987974-64.png?modified=55ed5439"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13816,6 +15976,10 @@
   },
   {
     "id": "metamorfik@ajsb85.com",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987864-32.png?modified=1dce83ca",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987864-64.png?modified=1dce83ca"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
@@ -13842,6 +16006,10 @@
   },
   {
     "id": "thunderbirdbravoclick2call@dplatforms.it",
+    "icons": {
+      "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988703-32.png?modified=add2fbf6",
+      "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988703-64.png?modified=add2fbf6"
+    },
     "compat": [
       {
         "appVersion": "115 (ESR)",
