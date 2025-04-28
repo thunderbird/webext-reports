@@ -1503,9 +1503,9 @@ function genStandardReport(extsJson, name, report) {
                 id: extJson.guid,
                 icons: extJson.icons,
                 compat: [
-                    getJsonData(extJson, "115 (ESR)", "115"),
-                    getJsonData(extJson, "128 (ESR)", "128"),
-                    getJsonData(extJson, `${RELEASE} (Release)`, RELEASE),
+                    getJsonData(extJson, "TB 115 (ESR)", "115"),
+                    getJsonData(extJson, "TB 128 (ESR)", "128"),
+                    getJsonData(extJson, `TB ${RELEASE} (Release)`, RELEASE),
                 ],
                 badges: rowData.badges ? rowData.badges.map(e => e.badge) : []
             })
