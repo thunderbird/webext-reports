@@ -1472,10 +1472,11 @@ function genStandardReport(extsJson, name, report) {
 		</tr>`;
     }
 
-    const getJsonData = (extJson, appVersion, v) => {
+    const getJsonData = (extJson, isReleaseChannel, v) => {
         let data = getExtData(extJson, v);
         return {
-            appVersion,
+            isReleaseChannel,
+            appVersion: v,
             extVersion: data.version,
             webextension: data?.data?.mext,
             experiment: data?.data?.experiment,
@@ -1503,9 +1504,9 @@ function genStandardReport(extsJson, name, report) {
                 id: extJson.guid,
                 icons: extJson.icons,
                 compat: [
-                    getJsonData(extJson, "TB 115 (ESR)", "115"),
-                    getJsonData(extJson, "TB 128 (ESR)", "128"),
-                    getJsonData(extJson, `TB ${RELEASE} (Release)`, RELEASE),
+                    getJsonData(extJson, false, "115"),
+                    getJsonData(extJson, false, "128"),
+                    getJsonData(extJson, true, `${RELEASE}`),
                 ],
                 badges: rowData.badges ? rowData.badges.map(e => e.badge) : []
             })
