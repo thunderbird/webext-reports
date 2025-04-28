@@ -1472,10 +1472,11 @@ function genStandardReport(extsJson, name, report) {
 		</tr>`;
     }
 
-    const getJsonData = (extJson, v) => {
+    const getJsonData = (extJson, appVersion, v) => {
         let data = getExtData(extJson, v);
         return {
-            version: data.version,
+            appVersion,
+            extVersion: data.version,
             webextension: data?.data?.mext,
             experiment: data?.data?.experiment,
         }
@@ -1500,9 +1501,11 @@ function genStandardReport(extsJson, name, report) {
             if (rowData.badges) stats.push(...rowData.badges);
             json.push({
                 id: extJson.guid,
-                "115 (ESR)": getJsonData(extJson, "115"),
-                "128 (ESR)": getJsonData(extJson, "128"),
-                [`${RELEASE} (Release)`]: getJsonData(extJson, RELEASE),
+                compat: [
+                    getJsonData(extJson, "115 (ESR)", "115"),
+                    getJsonData(extJson, "128 (ESR)", "128"),
+                    getJsonData(extJson, `${RELEASE} (Release)`, RELEASE),
+                ],
                 badges: rowData.badges ? rowData.badges.map(e => e.badge) : []
             })
         } else {
