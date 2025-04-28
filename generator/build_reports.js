@@ -1061,6 +1061,7 @@ var reports = {
         header: "Extensions compatible with Thunderbird 115 as seen by ATN.",
         template: "report-template.html",
         enabled: true,
+        json: true,
         generate: genStandardReport,
         rowData: function (extJson) {
             let v115 = getExtData(extJson, "115").data;
@@ -1471,6 +1472,15 @@ function genStandardReport(extsJson, name, report) {
 		</tr>`;
     }
 
+    const getJsonData = (extJson, v) => {
+        let data = getExtData(extJson, v);
+        return {
+            version: data.version,
+            webextension: data?.data?.mext,
+            experiment: data?.data?.experiment,
+        }
+    }
+
     extsJson.map((extJson, index) => {
         debug('Extension ' + extJson.id + ' Index: ' + index);
 
@@ -1490,6 +1500,9 @@ function genStandardReport(extsJson, name, report) {
             if (rowData.badges) stats.push(...rowData.badges);
             json.push({
                 id: extJson.guid,
+                "115 (ESR)": getJsonData(extJson, "115"),
+                "128 (ESR)": getJsonData(extJson, "128"),
+                [`${RELEASE} (Release)`]: getJsonData(extJson, RELEASE),
                 badges: rowData.badges ? rowData.badges.map(e => e.badge) : []
             })
         } else {
