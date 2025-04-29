@@ -16,8 +16,14 @@ const rootDir = "data";
 const reportDir = "../docs";
 const extsAllJsonFileName = `${rootDir}/xall.json`;
 
+const ESR = 128;
+const NEXT_ESR = null;
 const RELEASE = 137;
-const SUPPORTED_VERSIONS = [60, 68, 78, 91, 102, 115, 128, RELEASE];
+
+let SUPPORTED_VERSIONS = [68, 78, 91, 102, 115];
+if (ESR) SUPPORTED_VERSIONS.push(ESR);
+if (NEXT_ESR) SUPPORTED_VERSIONS.push(NEXT_ESR);
+if (RELEASE) SUPPORTED_VERSIONS.push(RELEASE);
 
 //const {fastFindInFiles} = require('fast-find-in-files');
 
@@ -1455,14 +1461,8 @@ function genStandardReport(extsJson, name, report) {
 		  <td style="text-align: right" valign="top">${extJson.id}</td>
 		  <td style="text-align: left"  valign="top">${name_link}${getAlternativeLinks(extJson)}</td>
 		  <td style="text-align: right" valign="top">${extJson.average_daily_users}</td>
-		  <td style="text-align: right" valign="top">${cv("60")}</td>
-		  <td style="text-align: right" valign="top">${cv("68")}</td>
-		  <td style="text-align: right" valign="top">${cv("78")}</td>
-		  <td style="text-align: right" valign="top">${cv("91")}</td>
-		  <td style="text-align: right" valign="top">${cv("102")}</td>
-		  <td style="text-align: right" valign="top">${cv("115")}</td>
-		  <td style="text-align: right" valign="top">${cv("128")}</td>
-		  <td style="text-align: right" valign="top">${cv(`${RELEASE}`)}</td>
+		  ${SUPPORTED_VERSIONS.map(v => `<td style="text-align: right" valign="top">${cv(`${v}`)}</td>`).join("\n")
+            }
 		  <td style="text-align: right" valign="top">${current_version?.atn.files[0].created.split('T')[0]}</td>
 		  <td style="text-align: right" valign="top">${cv("current")}</td>
 		  <td style="text-align: right" valign="top">${v_min}</td>
@@ -1483,6 +1483,24 @@ function genStandardReport(extsJson, name, report) {
         }
     }
 
+    // Gerate headers.
+    let headers = `
+    <tr>
+        <th style="text-align: right">#</th>
+        <th style="text-align: right">Id</th>
+        <th style="text-align: left" >Name</th>
+        <th style="text-align: right">Users</th>
+        ${SUPPORTED_VERSIONS.map(v => `<th style="text-align: right">TB${v}</th>`).join("\n")
+        }
+        <th style="text-align: right">Activity</th>
+        <th style="text-align: right">Current</th>
+        <th style="text-align: right">Min (ATN)</th>
+        <th style="text-align: right">Max (XPI)</th>
+        <th style="text-align: right">Max (ATN)</th>
+        <th style="text-align: right;">Notes</th>
+    </tr>`;
+
+    // Generate rows.
     extsJson.map((extJson, index) => {
         debug('Extension ' + extJson.id + ' Index: ' + index);
 
@@ -1500,14 +1518,16 @@ function genStandardReport(extsJson, name, report) {
         if (rowData.include) {
             rows.push(genStandardRow(extJson, rowData));
             if (rowData.badges) stats.push(...rowData.badges);
+
+            let compat = [];
+            compat.push(getJsonData(extJson, { isRelease: true }, `${RELEASE}`))
+            if (NEXT_ESR) compat.push(getJsonData(extJson, { isNextEsr: true }, `${NEXT_ESR}`));
+            compat.push(getJsonData(extJson, { isEsr: true }, `${ESR}`));
+
             json.push({
                 id: extJson.guid,
                 icons: extJson.icons,
-                compat: [
-                    getJsonData(extJson, { isPreviousEsr: true }, "115"),
-                    getJsonData(extJson, { isEsr: true }, "128"),
-                    getJsonData(extJson, { isRelease: true }, `${RELEASE}`),
-                ],
+                compat,
                 alternatives: getAlternativeEntries(extJson),
                 badges: rowData.badges ? rowData.badges.map(e => e.badge) : []
             })
@@ -1545,6 +1565,7 @@ function genStandardReport(extsJson, name, report) {
     extsListFile = extsListFile.replace('__count__', rows.length);
     let today = new Date().toISOString().split('T')[0];
     extsListFile = extsListFile.replace('__date__', today);
+    extsListFile = extsListFile.replace('__table_header__', headers);
     extsListFile = extsListFile.replace('__table__', rows.join("\n"));
 
     extsListFile = extsListFile.replace('__stats__', stats_entries.join("\n"));
