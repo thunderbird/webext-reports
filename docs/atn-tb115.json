@@ -3902,6 +3902,12 @@
         "type": "current-esr"
       }
     ],
+    "alternatives": [
+      {
+        "name": "Thunderbird Supernova native support",
+        "link": "https://bugzilla.mozilla.org/show_bug.cgi?id=1817913#c10"
+      }
+    ],
     "badges": [
       "experiment"
     ]

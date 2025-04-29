@@ -1669,7 +1669,7 @@ function getExtData(extJson, v) {
 }
 
 async function loadAlternativeData() {
-    return bentGetTEXT("https://raw.githubusercontent.com/thundernest/extension-finder/master/data.yaml").then(parseAlternativeData);
+    return bentGetTEXT("https://raw.githubusercontent.com/thunderbird/extension-finder/master/data.yaml").then(parseAlternativeData);
 }
 
 async function parseAlternativeData(data) {
