@@ -1476,10 +1476,10 @@ function genStandardReport(extsJson, name, report) {
         let data = getExtData(extJson, v);
         return {
             appVersion: v,
+            ...properties,
             extVersion: data.version,
             isWebExtension: data?.data?.mext,
             isExperiment: data?.data?.experiment,
-            ...properties,
         }
     }
 
@@ -1520,9 +1520,9 @@ function genStandardReport(extsJson, name, report) {
             if (rowData.badges) stats.push(...rowData.badges);
 
             let compat = [];
-            compat.push(getJsonData(extJson, { isRelease: true }, `${RELEASE}`))
-            if (NEXT_ESR) compat.push(getJsonData(extJson, { isNextEsr: true }, `${NEXT_ESR}`));
-            compat.push(getJsonData(extJson, { isEsr: true }, `${ESR}`));
+            compat.push(getJsonData(extJson, { type: "release" }, `${RELEASE}`))
+            if (NEXT_ESR) compat.push(getJsonData(extJson, { type: "next-esr" }, `${NEXT_ESR}`));
+            compat.push(getJsonData(extJson, { type: "current-esr" }, `${ESR}`));
 
             json.push({
                 id: extJson.guid,
