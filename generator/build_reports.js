@@ -1360,7 +1360,10 @@ function genStandardReport(extsJson, name, report) {
     let extsListFile = fs.readFileSync(report.template, 'utf8');
     let rows = [];
     let stats = [];
-    let json = [];
+    let json = {
+        generated: Date.now(),
+        addons: []
+    };
 
     function genStandardRow(extJson, rowData) {
         let default_locale = extJson.default_locale;
@@ -1524,7 +1527,7 @@ function genStandardReport(extsJson, name, report) {
             if (NEXT_ESR) compat.push(getJsonData(extJson, { type: "next-esr" }, `${NEXT_ESR}`));
             compat.push(getJsonData(extJson, { type: "current-esr" }, `${ESR}`));
 
-            json.push({
+            json.addons.push({
                 id: extJson.guid,
                 icons: extJson.icons,
                 compat,
