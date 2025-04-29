@@ -1477,7 +1477,7 @@ function genStandardReport(extsJson, name, report) {
         return {
             appVersion: v,
             extVersion: data.version,
-            isWebextension: data?.data?.mext,
+            isWebExtension: data?.data?.mext,
             isExperiment: data?.data?.experiment,
             ...properties,
         }
