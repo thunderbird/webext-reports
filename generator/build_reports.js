@@ -1203,7 +1203,7 @@ var reports = {
 
             let badges = [];
             if (include) {
-                if (getAlternative(extJson)) {
+                if (getAlternativeEntries(extJson)) {
                     badges.push({ badge: "alternative_available" });
                 }
                 if (discontinued.includes(`${extJson.id}`)) {
@@ -1260,7 +1260,7 @@ var reports = {
 
             let badges = [];
             if (include) {
-                if (getAlternative(extJson)) {
+                if (getAlternativeEntries(extJson)) {
                     badges.push({ badge: "alternative_available" });
                 } else {
                     badges.push({ badge: "unknown" });
@@ -1453,7 +1453,7 @@ function genStandardReport(extsJson, name, report) {
 		<tr>
 		  <td style="text-align: right" valign="top">${rank}</td>
 		  <td style="text-align: right" valign="top">${extJson.id}</td>
-		  <td style="text-align: left"  valign="top">${name_link}${getAlternative(extJson) ? getAlternative(extJson).join("") : ""}</td>
+		  <td style="text-align: left"  valign="top">${name_link}${getAlternativeLinks(extJson)}</td>
 		  <td style="text-align: right" valign="top">${extJson.average_daily_users}</td>
 		  <td style="text-align: right" valign="top">${cv("60")}</td>
 		  <td style="text-align: right" valign="top">${cv("68")}</td>
@@ -1472,14 +1472,14 @@ function genStandardReport(extsJson, name, report) {
 		</tr>`;
     }
 
-    const getJsonData = (extJson, isReleaseChannel, v) => {
+    const getJsonData = (extJson, properties, v) => {
         let data = getExtData(extJson, v);
         return {
-            isReleaseChannel,
             appVersion: v,
             extVersion: data.version,
-            webextension: data?.data?.mext,
-            experiment: data?.data?.experiment,
+            isWebextension: data?.data?.mext,
+            isExperiment: data?.data?.experiment,
+            ...properties,
         }
     }
 
@@ -1504,10 +1504,11 @@ function genStandardReport(extsJson, name, report) {
                 id: extJson.guid,
                 icons: extJson.icons,
                 compat: [
-                    getJsonData(extJson, false, "115"),
-                    getJsonData(extJson, false, "128"),
-                    getJsonData(extJson, true, `${RELEASE}`),
+                    getJsonData(extJson, { isPreviousEsr: true }, "115"),
+                    getJsonData(extJson, { isEsr: true }, "128"),
+                    getJsonData(extJson, { isRelease: true }, `${RELEASE}`),
                 ],
+                alternatives: getAlternativeEntries(extJson),
                 badges: rowData.badges ? rowData.badges.map(e => e.badge) : []
             })
         } else {
@@ -1647,10 +1648,10 @@ function getExtData(extJson, v) {
 }
 
 async function loadAlternativeData() {
-    return bentGetTEXT("https://raw.githubusercontent.com/thundernest/extension-finder/master/data.yaml").then(alternativeDataToLinks);
+    return bentGetTEXT("https://raw.githubusercontent.com/thundernest/extension-finder/master/data.yaml").then(parseAlternativeData);
 }
 
-async function alternativeDataToLinks(data) {
+async function parseAlternativeData(data) {
     let entries = {};
 
     let lines = data.split(/\r\n|\n/);
@@ -1683,19 +1684,34 @@ async function alternativeDataToLinks(data) {
             if (!entries[entry.u_id]) {
                 entries[entry.u_id] = [];
             }
-            if (entry.r_link)
-                entries[entry.u_id].push(`<br> &#8627; <a href="${entry.r_link}">${entry.r_name}</a>`);
-            else
-                entries[entry.u_id].push(`<br> &#8627; ${entry.r_name}`);
-
+            entries[entry.u_id].push({
+                name: entry.r_name,
+                link: entry.r_link,
+                id: entry.r_id,
+            });
         }
     } while (i < lines.length);
 
     return entries;
 }
 
-function getAlternative(extJson) {
+function getAlternativeEntries(extJson) {
     return gAlternativeData[extJson.guid];
+}
+
+function getAlternativeLinks(extJson) {
+    let entries = getAlternativeEntries(extJson);
+    if (!entries) {
+        return ""
+    }
+
+    let links = entries.map(entry => {
+        if (entry.link) {
+            return `<br> &#8627; <a href="${entry.link}">${entry.name}</a>`;
+        }
+        return `<br> &#8627; ${entry.name}`;
+    })
+    return links.join("");
 }
 
 // -----------------------------------------------------------------------------
