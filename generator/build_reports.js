@@ -3,27 +3,19 @@
  * https://github.com/cleidigh/ThunderKdB/blob/master/scripts/genExtensionList.js
  */
 
-// Debug logging (0 - errors and basic logs only, 1 - verbose debug)
-const debugLevel = 0;
-
-const fs = require('fs-extra');
-
-// replacement for deprecated request
-const bent = require('bent');
-const bentGetTEXT = bent('GET', 'string', 200);
+import fs from 'node:fs/promises';
+import * as utils from "./modules/utils.mjs";
 
 const rootDir = "data";
 const reportDir = "../docs";
-const extsAllJsonFileName = `${rootDir}/xall.json`;
+const extsAllJsonFileName = `${rootDir}/data.json`;
 
-const ESR = 128;
-const NEXT_ESR = null;
-const RELEASE = 137;
-
-let SUPPORTED_VERSIONS = [68, 78, 91, 102, 115];
-if (ESR) SUPPORTED_VERSIONS.push(ESR);
-if (NEXT_ESR) SUPPORTED_VERSIONS.push(NEXT_ESR);
-if (RELEASE) SUPPORTED_VERSIONS.push(RELEASE);
+const {
+    ESR,
+    NEXT_ESR,
+    RELEASE,
+    SUPPORTED_VERSIONS
+} = await utils.getThunderbirdVersions();
 
 //const {fastFindInFiles} = require('fast-find-in-files');
 
@@ -463,7 +455,7 @@ var reports = {
     "atn-tb128": {
         group: "128",
         header: "Extensions compatible with Thunderbird 128, as seen by ATN.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         json: true,
         generate: genStandardReport,
@@ -472,6 +464,8 @@ var reports = {
             let vRelease = getExtData(extJson, `${RELEASE}`).data;
             let include = !!v128;
             let badges = [];
+
+
 
             if (include) {
                 let isExperiment = vRelease ? vRelease.experiment : v128.experiment;
@@ -501,7 +495,7 @@ var reports = {
                 if (themeExperiment) {
                     badges.push({ badge: "theme_experiment" });
                 }
-                if (!v128.legacy && v128.mext && !v128.experiment && !themeExperiment) {
+                if (!v128.legacy && v128.webExtension && !v128.experiment && !themeExperiment) {
                     badges.push({ badge: "pure" });
                 }
             };
@@ -512,7 +506,7 @@ var reports = {
     "lost-tb115-to-tb128": {
         group: "128",
         header: "Extensions which have been lost from TB115 to TB128, as seen by ATN.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -579,7 +573,7 @@ var reports = {
     /*"missing-messagesUpdate-permission": {
         group: "128",
         header: "Extensions using <i>messages.update()</i> or <i>folders.markAsRead()</i>in Thunderbird 128, without requesting the <i>messagesUpdate</i> permission.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -626,7 +620,7 @@ var reports = {
     /*"mail-folder-picker": {
         group: "general",
         header: "Extensions which use a mail folder picker",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -658,7 +652,7 @@ var reports = {
     "valid-128-according-to-strict-max-but-atn-value-reduced": {
         group: "128",
         header: "Extensions whose strict_max_version allows installation in Thunderbird 128, but ATN value has been lowered to signal incompatibility (which is ignored during install and app upgrade).",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -674,15 +668,15 @@ var reports = {
             let baseReport = reports["max-atn-value-reduced-below-max-xpi-value"].rowData(extJson);
             let badges = [];
             let manually_lowered = baseReport.include &&
-                compareVer(strict_max, 128) > 0 && // xpi limit > 115
-                compareVer(atn_max, "128.*") < 0; // atn limit < 115.*
+                utils.compareVer(strict_max, 128) > 0 && // xpi limit > 115
+                utils.compareVer(atn_max, "128.*") < 0; // atn limit < 115.*
 
 
             let themeExperiment = vCurrent.manifest?.theme_experiment;
             if (themeExperiment) {
                 badges.push({ badge: "theme_experiment" });
             }
-            if (!vCurrent.legacy && vCurrent.mext && !vCurrent.experiment && !themeExperiment) {
+            if (!vCurrent.legacy && vCurrent.webExtension && !vCurrent.experiment && !themeExperiment) {
                 badges.push({ badge: "pure" });
             }
             if (discontinued.includes(`${extJson.id}`)) {
@@ -703,14 +697,14 @@ var reports = {
     "experiments-without-upper-limit": {
         group: "128",
         header: "Experiments without upper limit in ATN.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
             let vCurrent = getExtData(extJson, "current").data;
             let atn_max = vCurrent?.atn?.compatibility?.thunderbird?.max || "*";
             let atn_min = vCurrent?.atn?.compatibility?.thunderbird?.min || "*";
-            let include = !ignored.includes(`${extJson.id}`) && !!vCurrent && vCurrent.mext && vCurrent.experiment && atn_max == "*";
+            let include = !ignored.includes(`${extJson.id}`) && !!vCurrent && vCurrent.webExtension && vCurrent.experiment && atn_max == "*";
             let badges = [];
 
             if (discontinued.includes(`${extJson.id}`)) {
@@ -740,7 +734,7 @@ var reports = {
     "lost-pure-webext-with-upper-limit": {
         group: "128",
         header: "Lost pure WebExtensions with an unnecessary max_version_setting (excluding theme_experiments).",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -750,7 +744,7 @@ var reports = {
                 return { include: false };
 
             let themeExperiment = vCurrent.manifest?.theme_experiment;
-            let include = !discontinued.includes(`${extJson.id}`) && !v128 && !themeExperiment && !vCurrent.legacy && vCurrent.mext && !vCurrent.experiment;
+            let include = !discontinued.includes(`${extJson.id}`) && !v128 && !themeExperiment && !vCurrent.legacy && vCurrent.webExtension && !vCurrent.experiment;
 
             let badges = [];
             if (compatible_128.includes(`${extJson.id}`)) {
@@ -777,7 +771,7 @@ var reports = {
     "experiment-status": {
         group: "128",
         header: "Extensions with added or removed Experiments.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -809,7 +803,7 @@ var reports = {
     "all": {
         group: "general",
         header: "All Extensions compatible with TB60 or newer.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -820,7 +814,7 @@ var reports = {
     "wrong-order": {
         group: "general",
         header: "Extension with wrong upper limit setting in older versions, which will lead to the wrong version reported compatible by ATN.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -831,25 +825,25 @@ var reports = {
             let v68 = getExtData(extJson, "68").version;
             let v60 = getExtData(extJson, "60").version;
 
-            if (v60 && v68 && compareVer(v60, v68) > 0) return { include: true };
-            if (v60 && v78 && compareVer(v60, v78) > 0) return { include: true };
-            if (v60 && v91 && compareVer(v60, v91) > 0) return { include: true };
-            if (v60 && v102 && compareVer(v60, v102) > 0) return { include: true };
-            if (v60 && v115 && compareVer(v60, v115) > 0) return { include: true };
+            if (v60 && v68 && utils.compareVer(v60, v68) > 0) return { include: true };
+            if (v60 && v78 && utils.compareVer(v60, v78) > 0) return { include: true };
+            if (v60 && v91 && utils.compareVer(v60, v91) > 0) return { include: true };
+            if (v60 && v102 && utils.compareVer(v60, v102) > 0) return { include: true };
+            if (v60 && v115 && utils.compareVer(v60, v115) > 0) return { include: true };
 
-            if (v68 && v78 && compareVer(v68, v78) > 0) return { include: true };
-            if (v68 && v91 && compareVer(v68, v91) > 0) return { include: true };
-            if (v68 && v102 && compareVer(v68, v102) > 0) return { include: true };
-            if (v68 && v115 && compareVer(v68, v115) > 0) return { include: true };
+            if (v68 && v78 && utils.compareVer(v68, v78) > 0) return { include: true };
+            if (v68 && v91 && utils.compareVer(v68, v91) > 0) return { include: true };
+            if (v68 && v102 && utils.compareVer(v68, v102) > 0) return { include: true };
+            if (v68 && v115 && utils.compareVer(v68, v115) > 0) return { include: true };
 
-            if (v78 && v91 && compareVer(v78, v91) > 0) return { include: true };
-            if (v78 && v102 && compareVer(v78, v102) > 0) return { include: true };
-            if (v78 && v115 && compareVer(v78, v115) > 0) return { include: true };
+            if (v78 && v91 && utils.compareVer(v78, v91) > 0) return { include: true };
+            if (v78 && v102 && utils.compareVer(v78, v102) > 0) return { include: true };
+            if (v78 && v115 && utils.compareVer(v78, v115) > 0) return { include: true };
 
-            if (v91 && v102 && compareVer(v91, v102) > 0) return { include: true };
-            if (v91 && v115 && compareVer(v91, v115) > 0) return { include: true };
+            if (v91 && v102 && utils.compareVer(v91, v102) > 0) return { include: true };
+            if (v91 && v115 && utils.compareVer(v91, v115) > 0) return { include: true };
 
-            if (v102 && v115 && compareVer(v102, v115) > 0) return { include: true };
+            if (v102 && v115 && utils.compareVer(v102, v115) > 0) return { include: true };
 
             return { include: false };
         },
@@ -857,7 +851,7 @@ var reports = {
     "purge-candidates": {
         group: "general",
         header: "All Extensions not compatible with TB68, which should be purged from ATN.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -868,7 +862,7 @@ var reports = {
     "parsing-error": {
         group: "general",
         header: "Extensions whose XPI files could not be parsed properly and are excluded from analysis.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -879,7 +873,7 @@ var reports = {
     "recent-activity": {
         group: "general",
         header: "Extensions updated within the last 2 weeks.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -898,7 +892,7 @@ var reports = {
     "recent-addition": {
         group: "general",
         header: "Extensions created within the last year.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -917,7 +911,7 @@ var reports = {
     "requested-permissions": {
         group: "general",
         header: "Extensions requesting WebExtension permissions.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -955,7 +949,7 @@ var reports = {
     "max-atn-value-raised-above-max-xpi-value": {
         group: "general",
         header: "Extensions whose max version has been raised in ATN above the XPI value (excluding legacy extensions).",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -968,7 +962,7 @@ var reports = {
                 vCurrent.manifest?.browser_specific_settings?.gecko?.strict_max_version ||
                 "*";
 
-            let include = vCurrent.mext && !vCurrent.legacy && (compareVer(strict_max, atn_max) < 0);
+            let include = vCurrent.webExtension && !vCurrent.legacy && (utils.compareVer(strict_max, atn_max) < 0);
             let badges = [];
             if (discontinued.includes(`${extJson.id}`)) {
                 badges.push({ badge: "discontinued" });
@@ -979,7 +973,7 @@ var reports = {
     "max-atn-value-reduced-below-max-xpi-value": {
         group: "general",
         header: "Extensions whose max version has been reduced in ATN below the XPI value, which is ignored during install and app upgrade (excluding legacy).",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -992,7 +986,7 @@ var reports = {
                 vCurrent.manifest?.browser_specific_settings?.gecko?.strict_max_version ||
                 "*";
 
-            let include = vCurrent.mext && !vCurrent.legacy && (compareVer(strict_max, atn_max) > 0);
+            let include = vCurrent.webExtension && !vCurrent.legacy && (utils.compareVer(strict_max, atn_max) > 0);
             let badges = [];
             if (discontinued.includes(`${extJson.id}`)) {
                 badges.push({ badge: "discontinued" });
@@ -1001,7 +995,7 @@ var reports = {
             if (themeExperiment) {
                 badges.push({ badge: "theme_experiment" });
             }
-            if (!vCurrent.legacy && vCurrent.mext && !vCurrent.experiment && !themeExperiment) {
+            if (!vCurrent.legacy && vCurrent.webExtension && !vCurrent.experiment && !themeExperiment) {
                 badges.push({ badge: "pure" });
             }
 
@@ -1021,7 +1015,7 @@ var reports = {
     "pure-webext-with-upper-limit": {
         group: "general",
         header: "Pure WebExtensions with an unnecessary max_version_setting (excluding theme_experiments).",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -1034,7 +1028,7 @@ var reports = {
             let strict_max = vCurrent.manifest?.applications?.gecko?.strict_max_version ||
                 vCurrent.manifest?.browser_specific_settings?.gecko?.strict_max_version ||
                 "*";
-            let include = !themeExperiment && !vCurrent.legacy && vCurrent.mext && !vCurrent.experiment && (strict_max != "*" || atn_max != "*");
+            let include = !themeExperiment && !vCurrent.legacy && vCurrent.webExtension && !vCurrent.experiment && (strict_max != "*" || atn_max != "*");
 
 
             let badges = [];
@@ -1050,7 +1044,7 @@ var reports = {
     "latest-current-mismatch": {
         group: "general",
         header: "Extensions, where the latest upload is for an older release, which will fail to install in current ESR (current = defined current in ATN) from within the add-on manager.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -1065,7 +1059,7 @@ var reports = {
     "atn-tb115": {
         group: "115",
         header: "Extensions compatible with Thunderbird 115 as seen by ATN.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         json: true,
         generate: genStandardReport,
@@ -1091,7 +1085,7 @@ var reports = {
                 if (themeExperiment) {
                     badges.push({ badge: "theme_experiment" });
                 }
-                if (!v115.legacy && v115.mext && !v115.experiment && !themeExperiment) {
+                if (!v115.legacy && v115.webExtension && !v115.experiment && !themeExperiment) {
                     badges.push({ badge: "pure" });
                 }
             };
@@ -1102,7 +1096,7 @@ var reports = {
     "lost-tb102-to-tb115": {
         group: "115",
         header: "Extensions which have been lost from TB102 to TB115, as seen by ATN.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -1172,7 +1166,7 @@ var reports = {
     "atn-tb102": {
         group: "102",
         header: "Extensions compatible with Thunderbird 102 as seen by ATN.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -1188,7 +1182,7 @@ var reports = {
                 if (v102.experiment) {
                     badges.push({ badge: "experiment" });
                 }
-                if (!v102.legacy && v102.mext && !v102.experiment && !themeExperiment) {
+                if (!v102.legacy && v102.webExtension && !v102.experiment && !themeExperiment) {
                     badges.push({ badge: "pure" });
                 }
             }
@@ -1199,7 +1193,7 @@ var reports = {
     "lost-tb91-to-tb102": {
         group: "102",
         header: "Extensions which have been lost from TB91 to TB102, as seen by ATN.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -1229,7 +1223,7 @@ var reports = {
     "atn-tb91": {
         group: "91",
         header: "Extensions compatible with Thunderbird 91 as seen by ATN.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -1245,7 +1239,7 @@ var reports = {
                 if (v91.experiment) {
                     badges.push({ badge: "experiment" });
                 }
-                if (!v91.legacy && v91.mext && !v91.experiment && !themeExperiment) {
+                if (!v91.legacy && v91.webExtension && !v91.experiment && !themeExperiment) {
                     badges.push({ badge: "pure" });
                 }
             };
@@ -1256,7 +1250,7 @@ var reports = {
     "lost-tb78-to-tb91": {
         group: "91",
         header: "Extensions which have been lost from TB78 to TB91, as seen by ATN.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -1279,7 +1273,7 @@ var reports = {
     "atn-tb78": {
         group: "78",
         header: "Extensions compatible with Thunderbird 78 as seen by ATN.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -1295,7 +1289,7 @@ var reports = {
                 if (v78.experiment) {
                     badges.push({ badge: "experiment" });
                 }
-                if (!v78.legacy && v78.mext && !v78.experiment && !themeExperiment) {
+                if (!v78.legacy && v78.webExtension && !v78.experiment && !themeExperiment) {
                     badges.push({ badge: "pure" });
                 }
             };
@@ -1306,7 +1300,7 @@ var reports = {
     "lost-tb68-to-tb78": {
         group: "78",
         header: "Extensions which have been lost from TB68 to TB78, as seen by ATN.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -1319,7 +1313,7 @@ var reports = {
     "atn-tb68": {
         group: "68",
         header: "Extensions compatible with Thunderbird 68 as seen by ATN.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -1332,7 +1326,7 @@ var reports = {
                 if (themeExperiment) {
                     badges.push({ badge: "theme_experiment" });
                 }
-                if (!v68.legacy && v68.mext && !v68.experiment && !themeExperiment) {
+                if (!v68.legacy && v68.webExtension && !v68.experiment && !themeExperiment) {
                     badges.push({ badge: "pure" });
                 }
             };
@@ -1343,7 +1337,7 @@ var reports = {
     "lost-tb60-to-tb68": {
         group: "68",
         header: "Extensions which have been lost from TB60 to TB68, as seen by ATN.",
-        template: "report-template.html",
+        template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
@@ -1356,8 +1350,8 @@ var reports = {
 
 // -----------------------------------------------------------------------------
 
-function genStandardReport(extsJson, name, report) {
-    let extsListFile = fs.readFileSync(report.template, 'utf8');
+async function genStandardReport(extsJson, name, report) {
+    let extsListFile = await fs.readFile(report.template, 'utf8');
     let rows = [];
     let stats = [];
     let json = {
@@ -1406,10 +1400,10 @@ function genStandardReport(extsJson, name, report) {
                 let cBadge_legacy_setup = { bLeftText: 'L', bRightText: '+', bColor: 'green', bTooltip: "Legacy Type:" };
                 let cBadge_experiment_setup = { bLeftText: 'E', bRightText: '+', bColor: 'blue', bTooltip: "Experiment APIs: " };
 
-                if (data.mext == true && data.legacy == false) {
+                if (data.webExtension == true && data.legacy == false) {
                     cBadge_type_setup.bRightText = "MX"
                     cBadge_type_setup.bTooltip += "&#10; - MX : MailExtension (manifest.json)";
-                } else if (data.mext == true && data.legacy == true) {
+                } else if (data.webExtension == true && data.legacy == true) {
                     cBadge_type_setup.bRightText = "WE"
                     cBadge_type_setup.bTooltip += "&#10; - WE : Legacy WebExtension (manifest.json)";
                 } else {
@@ -1464,9 +1458,8 @@ function genStandardReport(extsJson, name, report) {
 		  <td style="text-align: right" valign="top">${extJson.id}</td>
 		  <td style="text-align: left"  valign="top">${name_link}${getAlternativeLinks(extJson)}</td>
 		  <td style="text-align: right" valign="top">${extJson.average_daily_users}</td>
-		  ${SUPPORTED_VERSIONS.map(v => `<td style="text-align: right" valign="top">${cv(`${v}`)}</td>`).join("\n")
-            }
-		  <td style="text-align: right" valign="top">${current_version?.atn.files[0].created.split('T')[0]}</td>
+		  ${SUPPORTED_VERSIONS.map(v => `<td style="text-align: right" valign="top">${cv(`${v}`)}</td>`).join("\n")}
+		  <td style="text-align: right" valign="top">${current_version?.atn.files[0].created?.split('T')[0]}</td>
 		  <td style="text-align: right" valign="top">${cv("current")}</td>
 		  <td style="text-align: right" valign="top">${v_min}</td>
 		  <td style="text-align: right" valign="top">${v_strict_max}</td>
@@ -1481,7 +1474,7 @@ function genStandardReport(extsJson, name, report) {
             appVersion: v,
             ...properties,
             extVersion: data.version,
-            isWebExtension: data?.data?.mext,
+            isWebExtension: data?.data?.webExtension,
             isExperiment: data?.data?.experiment,
         }
     }
@@ -1505,7 +1498,7 @@ function genStandardReport(extsJson, name, report) {
 
     // Generate rows.
     extsJson.map((extJson, index) => {
-        debug('Extension ' + extJson.id + ' Index: ' + index);
+        utils.debug('Extension ' + extJson.id + ' Index: ' + index);
 
         if (extJson === null) {
             return "";
@@ -1536,7 +1529,7 @@ function genStandardReport(extsJson, name, report) {
                 badges: rowData.badges ? rowData.badges.map(e => e.badge) : []
             })
         } else {
-            debug('Skip ' + extJson.slug);
+            utils.debug('Skip ' + extJson.slug);
         }
     })
 
@@ -1574,23 +1567,17 @@ function genStandardReport(extsJson, name, report) {
 
     extsListFile = extsListFile.replace('__stats__', stats_entries.join("\n"));
 
-    fs.ensureDirSync(`${reportDir}`);
-    fs.writeFileSync(`${reportDir}/${name}.html`, extsListFile);
+    await fs.mkdir(`${reportDir}`, { recursive: true });
+    await fs.writeFile(`${reportDir}/${name}.html`, extsListFile);
     if (report.json) {
-        fs.writeFileSync(`${reportDir}/${name}.json`, JSON.stringify(json, null, 2));
+        await fs.writeFile(`${reportDir}/${name}.json`, JSON.stringify(json, null, 2));
     }
 
-    debug('Done');
+    utils.debug('Done');
     return rows.length;
 }
 
 // -----------------------------------------------------------------------------
-
-function debug(...args) {
-    if (debugLevel > 0) {
-        console.debug(...args);
-    }
-}
 
 function getBadgeElement(badgeName, bLink, bTooltip) {
     // Manipulate bRightText to reuse base badge.
@@ -1619,36 +1606,6 @@ function makeBadgeElement(bOpt, bLink) {
     return bLink ? `<a href="${bLink}">${tag}</a>` : tag;
 }
 
-// A versioncompare, taken from https://jsfiddle.net/vanowm/p7uvtbor/
-function compareVer(a, b) {
-    function prep(t) {
-        return ("" + t)
-            //treat non-numerical characters as lower version
-            //replacing them with a negative number based on charcode of first character
-            .replace(/[^0-9\.]+/g, function (c) { return "." + ((c = c.replace(/[\W_]+/, "")) ? c.toLowerCase().charCodeAt(0) - 65536 : "") + "." })
-            //remove trailing "." and "0" if followed by non-numerical characters (1.0.0b);
-            .replace(/(?:\.0+)*(\.-[0-9]+)(\.[0-9]+)?\.*$/g, "$1$2")
-            .split('.');
-    }
-
-    if (a != "*" && b == "*") return -1;
-    if (a == "*" && b != "*") return 1;
-    if (a == "*" && b == "*") return 0;
-
-    a = prep(a);
-    b = prep(b);
-    for (var i = 0; i < Math.max(a.length, b.length); i++) {
-        //convert to integer the most efficient way
-        a[i] = ~~a[i];
-        b[i] = ~~b[i];
-        if (a[i] > b[i])
-            return 1;
-        else if (a[i] < b[i])
-            return -1;
-    }
-    return 0;
-}
-
 function getAllData(extJson) {
     let data = {}
     for (let version of SUPPORTED_VERSIONS) {
@@ -1673,7 +1630,7 @@ function getExtData(extJson, v) {
 }
 
 async function loadAlternativeData() {
-    return bentGetTEXT("https://raw.githubusercontent.com/thunderbird/extension-finder/master/data.yaml").then(parseAlternativeData);
+    return utils.requestText("https://raw.githubusercontent.com/thunderbird/extension-finder/master/data.yaml").then(parseAlternativeData);
 }
 
 async function parseAlternativeData(data) {
@@ -1741,13 +1698,13 @@ function getAlternativeLinks(extJson) {
 
 // -----------------------------------------------------------------------------
 
-function genIndex(index) {
-    let extsListFile = fs.readFileSync("index-template.html", 'utf8');
+async function genIndex(index) {
+    let extsListFile = await fs.readFile("templates/index-template.html", 'utf8');
     let today = new Date().toISOString().split('T')[0];
     extsListFile = extsListFile.replace('__date__', today);
     extsListFile = extsListFile.replace('__index__', index.join(""));
-    fs.ensureDirSync(`${reportDir}`);
-    fs.writeFileSync(`${reportDir}/index.html`, extsListFile);
+    await fs.mkdir(`${reportDir}`, { recursive: true });
+    await fs.writeFile(`${reportDir}/index.html`, extsListFile);
 }
 
 async function main() {
@@ -1755,19 +1712,29 @@ async function main() {
     gAlternativeData = await loadAlternativeData();
 
     console.log('Generating reports...');
-    let extsJson = fs.readJSONSync(extsAllJsonFileName);
+    let data = await fs.readFile(extsAllJsonFileName).then(rv => JSON.parse(rv));
+    let extsJson = data.extension_data.sort((a, b) => {
+        if (a.average_daily_users < b.average_daily_users) {
+            return 1;
+        } else if (a.average_daily_users > b.average_daily_users) {
+            return -1;
+        } else {
+            return 0;
+        };
+    });
+
     let index = [];
     for (let group of groups) {
         index.push(`<h1><a name="group${group.id}"></a>${group.header}</h1>`);
         for (let [name, report] of Object.entries(reports)) {
             if (report.enabled && report.group == group.id) {
                 console.log("  -> " + name);
-                let counts = report.generate(extsJson, name, report);
+                let counts = await report.generate(extsJson, name, report);
                 index.push(`<p><a href="${name}.html">${name}</a> (${counts})</p><blockquote><p>${report.header}</p></blockquote>`);
             }
         }
     }
-    genIndex(index);
+    await genIndex(index);
 }
 
 main();

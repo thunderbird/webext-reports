@@ -777,7 +777,7 @@
     "48585-{480adee0-f020-4fef-917d-b05502b17aaf}-minimize-on-start-and-close",
     "4868-{9533f794-00b4-4354-aa15-c2bbda6989f8}-firetray",
     "487102-force-addon-status@clear-code.com-force-addon-status",
-    "487108-flexible-confirm-mail@clear-code.com-flex-confirm-mail",
+    "487108-flexible-confirm-mail@clear-code.com-flex-confirm-mail-stable",
     "487112-clearimapcache@clear-code.com-clear-imap-local-cache",
     "487114-attachment-encoding-localized-autodetect@clear-code.com-attachemnt-encoding-detecto",
     "487120-insertlinkfromlocalfile@clear-code.com-insert-link-from-local-file",
@@ -1800,6 +1800,7 @@
     "988952-thundersearch@jacques-thundersearch",
     "988953-thunderbird-cloudlink@manderla.dev-thunderbird-cloudlink",
     "988955-thunderbird-imagewidth@suyo.be-max-image-width",
+    "988979-quicktext.scripts@community.jobisoft.de-quicktext-community-scripts",
     "9893-fastclosetabs@extensions.geckozone.org-fast-close-tabs",
     "9956-tonequilla@mesquilla.com-tonequilla",
     "9995-emailcrawler@torge.kummerow-email-address-crawler"
