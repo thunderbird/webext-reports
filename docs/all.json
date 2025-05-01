@@ -1,5 +1,5 @@
 {
-  "generated": 1746108211666,
+  "generated": 1746141681202,
   "addons": [
     {
       "id": "{001f6fd1-1afd-4928-a95e-f92c70563643}",
@@ -947,11 +947,17 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.0.4",
+          "isWebExtension": true,
+          "isExperiment": false
         },
         {
           "appVersion": "128",
-          "type": "current-esr"
+          "type": "current-esr",
+          "extVersion": "1.0.4",
+          "isWebExtension": true,
+          "isExperiment": false
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -5424,7 +5430,10 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false
         },
         {
           "appVersion": "128",
@@ -8646,6 +8655,27 @@
       "badges": []
     },
     {
+      "id": "layout@sample.extensions.thunderbird.net",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "138",
+          "type": "release",
+          "extVersion": "1.0"
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "1.0"
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "layoutbutton@turtletec.ie",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/714/714655-32.png?modified=1719496976",
@@ -9233,7 +9263,10 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.7.1",
+          "isWebExtension": true,
+          "isExperiment": false
         },
         {
           "appVersion": "128",
@@ -11497,7 +11530,10 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release"
+          "type": "release",
+          "extVersion": "6.6",
+          "isWebExtension": true,
+          "isExperiment": true
         },
         {
           "appVersion": "128",
@@ -11519,7 +11555,10 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release"
+          "type": "release",
+          "extVersion": "6.10.3",
+          "isWebExtension": true,
+          "isExperiment": true
         },
         {
           "appVersion": "128",
@@ -13733,7 +13772,10 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.0.4",
+          "isWebExtension": true,
+          "isExperiment": false
         },
         {
           "appVersion": "128",
@@ -13912,11 +13954,17 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release"
+          "type": "release",
+          "extVersion": "9.1",
+          "isWebExtension": true,
+          "isExperiment": false
         },
         {
           "appVersion": "128",
-          "type": "current-esr"
+          "type": "current-esr",
+          "extVersion": "9.1",
+          "isWebExtension": true,
+          "isExperiment": false
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14327,7 +14375,10 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.5.7",
+          "isWebExtension": true,
+          "isExperiment": false
         },
         {
           "appVersion": "128",
@@ -14374,11 +14425,17 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.18.0",
+          "isWebExtension": true,
+          "isExperiment": false
         },
         {
           "appVersion": "128",
-          "type": "current-esr"
+          "type": "current-esr",
+          "extVersion": "1.18.0",
+          "isWebExtension": true,
+          "isExperiment": false
         }
       ],
       "dedicatedSupportOnRelease": false,
