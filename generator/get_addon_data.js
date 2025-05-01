@@ -76,7 +76,7 @@ async function requestATN(addon_id, query_type, options) {
   return rv;
 }
 
-async function getExtensionFiles(extension) {
+async function getExtensionFiles(reportsLastUpdated, extension) {
   const addon_identifier = extension.guid;
   const extRootName = `${extension.id}-${extension.slug}`;
 
@@ -101,7 +101,7 @@ async function getExtensionFiles(extension) {
 
   const reduceVersionData = (entry) => ({
     id: entry.id,
-    compatibility: entry.compatibility.thunderbird 
+    compatibility: entry.compatibility.thunderbird
       ? { thunderbird: entry.compatibility.thunderbird }
       : null,
     files: entry.files.map(f => ({
@@ -112,35 +112,38 @@ async function getExtensionFiles(extension) {
   });
 
   try {
-    // Get the full version history.
-    let qs = { page: 0, page_size: 50 };
-    let r = null;
-    do {
-      qs.page++;
-      utils.debug('    Requesting version page: ' + qs.page);
-      r = await requestATN(addon_identifier, 'versions', qs);
-      if (r && r.results) {
-        let newVersions = r.results
-          .filter(v => !extension.versions.some(e => e.id == v.id))
-          .map(v => reduceVersionData(v));
 
-        // Note: r.results is an array of results, not a single result
-        for (let newVersion of newVersions) {
-          extension.versions.push(newVersion);
-        }
+    // Get the full version history if the add-on was recently updated.
+    if (extension.last_updated && new Date(extension.last_updated) > reportsLastUpdated) {
+      let qs = { page: 0, page_size: 50 };
+      let r = null;
+      do {
+        qs.page++;
+        utils.debug('    Requesting version page: ' + qs.page);
+        r = await requestATN(addon_identifier, 'versions', qs);
+        if (r && r.results) {
+          let newVersions = r.results
+            .filter(v => !extension.versions.some(e => e.id == v.id))
+            .map(v => reduceVersionData(v));
 
-        // If we reached a page with no new entries, abort.
-        if (newVersions.length == 0) {
-          break;
+          // Note: r.results is an array of results, not a single result
+          for (let newVersion of newVersions) {
+            extension.versions.push(newVersion);
+          }
+
+          // If we reached a page with no new entries, abort.
+          if (newVersions.length == 0) {
+            break;
+          }
         }
+      } while (r && r.next !== null);
+
+      if (DEBUG_STORE_MANIFESTS) {
+        // Save individual JSON version file.
+        await fs.mkdir(`${rootDir}/versiondata/`, { recursive: true });
+        let versionsFile = `${rootDir}/versiondata/${extRootName}.json`;
+        await utils.writePrettyJSONFile(versionsFile, extension.versions);
       }
-    } while (r && r.next !== null);
-
-    if (DEBUG_STORE_MANIFESTS) {
-      // Save individual JSON version file.
-      await fs.mkdir(`${rootDir}/versiondata/`, { recursive: true });
-      let versionsFile = `${rootDir}/versiondata/${extRootName}.json`;
-      await utils.writePrettyJSONFile(versionsFile, extension.versions);
     }
 
     // Extract compat information of supported ESR
@@ -192,7 +195,6 @@ async function getExtensionFiles(extension) {
 
       // Prepare default xpi data.
       let data = {
-        atn: esr_data[ESR],
         webExtension: false,
         legacy: false,
         experiment: false,
@@ -261,7 +263,7 @@ async function getExtensionFiles(extension) {
   }
 }
 
-async function getExtensions(last_updated, extensions) {
+async function getExtensions(reportsLastUpdated, extensions) {
   let startTime = new Date();
   let knownExtensions = new Set(Array.from(extensions.values()).map(e => e.id));
 
@@ -295,22 +297,29 @@ async function getExtensions(last_updated, extensions) {
     if (r && r.results) {
       for (let entry of r.results) {
         knownExtensions.delete(entry.id);
-        // Skip unmodified extensions.
+        let reducedEntry = reduceExtensionData(entry)
+        let alreadyStoredEntry = extensions.get(entry.id);
+
+        // Merge pre-processed data from the already stored entry.
+        if (alreadyStoredEntry) {
+          reducedEntry.versions = alreadyStoredEntry.versions ?? []
+          reducedEntry.xpilib = alreadyStoredEntry.xpilib ?? {}
+
+          // This is the correct place to fix data stored in data.json.
+          let ext_data_keys = Object.keys(reducedEntry.xpilib.ext_data);
+          for (let ext_data_key of ext_data_keys) {
+            delete reducedEntry.xpilib.ext_data[ext_data_key].atn;
+          }
+        }
+
+        // Count only modified extensions.
         if (
           entry.last_updated &&
-          new Date(entry.last_updated) <= last_updated
+          new Date(entry.last_updated) > reportsLastUpdated
         ) {
-          continue;
+          updated++;
         }
-        updated++;
-        let reducedEntry = reduceExtensionData(entry)
 
-        // Get the pre-processed data from the already stored entry.
-        let oldVersionEntry = extensions.get(reducedEntry.id);
-        if (oldVersionEntry) {
-          reducedEntry.versions = oldVersionEntry.versions ?? []
-          reducedEntry.xpilib = oldVersionEntry.xpilib ?? {}
-        }
         extensions.set(reducedEntry.id, reducedEntry);
       };
     }
@@ -337,7 +346,7 @@ async function main() {
 
   // Read current state
   let extensions = new Map();
-  let lastUpdated = 0;
+  let reportsLastUpdated = 0;
   await fs.mkdir(`${rootDir}`, { recursive: true });
   if (!DEBUG_FORCE_REPROCESSING && await utils.exists(extsAllJsonFileName)) {
     let data = await fs.readFile(extsAllJsonFileName, 'utf-8').then(rv => JSON.parse(rv))
@@ -345,22 +354,19 @@ async function main() {
       extensions = new Map(data.extension_data.map(e => [e.id, e]));
     }
     if (data.last_updated) {
-      lastUpdated = new Date(data.last_updated);
+      reportsLastUpdated = new Date(data.last_updated);
     }
   }
 
   console.log(" => Requesting information from ATN...");
-  await getExtensions(lastUpdated, extensions);
+  await getExtensions(reportsLastUpdated, extensions);
 
   console.log(" => Downloading XPIs and additional version Information from ATN ...");
   let total = extensions.size;
   let current = 1;
   for (let [id, extension] of extensions) {
-    if (!extension.last_updated || new Date(extension.last_updated) < lastUpdated) {
-      continue;
-    }
-    console.log(`    Getting files for ${extension.guid} (${current}/${total})`);
-    await getExtensionFiles(extension);
+    console.log(`    Processing ${extension.guid} (${current}/${total})`);
+    await getExtensionFiles(reportsLastUpdated, extension);
     current++;
   };
 

@@ -460,8 +460,8 @@ var reports = {
         json: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let v128 = getExtData(extJson, "128").data;
-            let vRelease = getExtData(extJson, `${RELEASE}`).data;
+            let v128 = getExtData(extJson, "128").ext_data;
+            let vRelease = getExtData(extJson, `${RELEASE}`).ext_data;
             let include = !!v128;
             let badges = [];
 
@@ -510,8 +510,8 @@ var reports = {
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let v128 = getExtData(extJson, "128").data;
-            let v115 = getExtData(extJson, "115").data;
+            let v128 = getExtData(extJson, "128").ext_data;
+            let v115 = getExtData(extJson, "115").ext_data;
             let include = (!!v115 && !v128 && !ignored.includes(`${extJson.id}`))
             let badges = [];
 
@@ -577,7 +577,7 @@ var reports = {
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let data = getExtData(extJson, "128").data;
+            let data = getExtData(extJson, "128").ext_data;
             if (!data) {
                 return { include: false };
             }
@@ -635,7 +635,7 @@ var reports = {
                 return { include: true };
             }
 
-            let data = getExtData(extJson, "102").data;
+            let data = getExtData(extJson, "102").ext_data;
             if (data) {
                 const result = fastFindInFiles({ 
                     directory: `${data.localExtensionDir}/src`, 
@@ -656,7 +656,7 @@ var reports = {
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let vCurrent = getExtData(extJson, "current").data;
+            let vCurrent = getExtData(extJson, "current").ext_data;
             if (!vCurrent)
                 return { include: false };
 
@@ -701,7 +701,7 @@ var reports = {
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let vCurrent = getExtData(extJson, "current").data;
+            let vCurrent = getExtData(extJson, "current").ext_data;
             let atn_max = vCurrent?.atn?.compatibility?.thunderbird?.max || "*";
             let atn_min = vCurrent?.atn?.compatibility?.thunderbird?.min || "*";
             let include = !ignored.includes(`${extJson.id}`) && !!vCurrent && vCurrent.webExtension && vCurrent.experiment && atn_max == "*";
@@ -738,8 +738,8 @@ var reports = {
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let vCurrent = getExtData(extJson, "current").data;
-            let v128 = getExtData(extJson, "128").data;
+            let vCurrent = getExtData(extJson, "current").ext_data;
+            let v128 = getExtData(extJson, "128").ext_data;
             if (!vCurrent)
                 return { include: false };
 
@@ -775,8 +775,8 @@ var reports = {
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let v128 = getExtData(extJson, "128").data;
-            let vRelease = getExtData(extJson, `${RELEASE}`).data;
+            let v128 = getExtData(extJson, "128").ext_data;
+            let vRelease = getExtData(extJson, `${RELEASE}`).ext_data;
             let include = !!v128;
             let badges = [];
             let includeForReal = false;
@@ -866,7 +866,7 @@ var reports = {
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let current_version = getExtData(extJson, "current").data;
+            let current_version = getExtData(extJson, "current").ext_data;
             return { include: !current_version };
         }
     },
@@ -877,9 +877,9 @@ var reports = {
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let current_version = getExtData(extJson, "current").data;
-            if (current_version) {
-                let c = current_version.atn.files[0].created;
+            let { atn_data } = getExtData(extJson, "current");
+            if (atn_data) {
+                let c = atn_data.files[0].created;
                 let cv = new Date(c);
                 let today = new Date();
                 const msDay = 24 * 60 * 60 * 1000;
@@ -896,7 +896,7 @@ var reports = {
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let current_version = getExtData(extJson, "current").data;
+            let current_version = getExtData(extJson, "current").ext_data;
             if (current_version) {
                 let c = extJson.created;
                 let cv = new Date(c);
@@ -915,7 +915,7 @@ var reports = {
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let data = getExtData(extJson, "current").data;
+            let data = getExtData(extJson, "current").ext_data;
             let badges = [];
 
             let permissions = data?.manifest?.permissions;
@@ -953,7 +953,7 @@ var reports = {
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let vCurrent = getExtData(extJson, "current").data;
+            let vCurrent = getExtData(extJson, "current").ext_data;
             if (!vCurrent)
                 return { include: false };
 
@@ -977,7 +977,7 @@ var reports = {
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let vCurrent = getExtData(extJson, "current").data;
+            let vCurrent = getExtData(extJson, "current").ext_data;
             if (!vCurrent)
                 return { include: false };
 
@@ -1019,7 +1019,7 @@ var reports = {
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let vCurrent = getExtData(extJson, "current").data;
+            let vCurrent = getExtData(extJson, "current").ext_data;
             if (!vCurrent)
                 return { include: false };
 
@@ -1064,7 +1064,7 @@ var reports = {
         json: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let v115 = getExtData(extJson, "115").data;
+            let v115 = getExtData(extJson, "115").ext_data;
             let include = !!v115;
             let badges = [];
 
@@ -1100,8 +1100,8 @@ var reports = {
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let v115 = getExtData(extJson, "115").data;
-            let v102 = getExtData(extJson, "102").data;
+            let v115 = getExtData(extJson, "115").ext_data;
+            let v102 = getExtData(extJson, "102").ext_data;
 
             let include = (!!v102 && !v115 && !ignored.includes(`${extJson.id}`));
             let badges = [];
@@ -1170,7 +1170,7 @@ var reports = {
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let v102 = getExtData(extJson, "102").data;
+            let v102 = getExtData(extJson, "102").ext_data;
             let include = !!v102;
             let badges = [];
 
@@ -1227,7 +1227,7 @@ var reports = {
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let v91 = getExtData(extJson, "91").data;
+            let v91 = getExtData(extJson, "91").ext_data;
             let include = !!v91;
             let badges = [];
 
@@ -1277,7 +1277,7 @@ var reports = {
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let v78 = getExtData(extJson, "78").data;
+            let v78 = getExtData(extJson, "78").ext_data;
             let include = !!v78;
             let badges = [];
 
@@ -1317,7 +1317,7 @@ var reports = {
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            let v68 = getExtData(extJson, "68").data;
+            let v68 = getExtData(extJson, "68").ext_data;
             let include = !!v68;
             let badges = [];
 
@@ -1379,31 +1379,34 @@ async function genStandardReport(extsJson, name, report) {
         const name_link = `<a id="${idSlug}" href="${extJson.url}">${extJson.name[default_locale].substr(0, 38)}</a>`;
 
         let rank = extJson.xpilib.rank;
-        let current_version = getExtData(extJson, "current").data;
-        let v_min = current_version?.atn.compatibility.thunderbird.min || "*";
-        let v_max = current_version?.atn.compatibility.thunderbird.max || "*";
-        let v_strict_max = current_version?.manifest?.applications?.gecko?.strict_max_version ||
-            current_version?.manifest?.browser_specific_settings?.gecko?.strict_max_version ||
+        let {
+            ext_data: current_ext_data,
+            atn_data: current_atn_data,
+        } = getExtData(extJson, "current");
+        let v_min = current_atn_data?.compatibility.thunderbird.min || "*";
+        let v_max = current_atn_data?.compatibility.thunderbird.max || "*";
+        let v_strict_max = current_ext_data?.manifest?.applications?.gecko?.strict_max_version ||
+            current_ext_data?.manifest?.browser_specific_settings?.gecko?.strict_max_version ||
             "*";
 
         // Helper function to return the version cell for a given version
         const cv = (v) => {
             let rv = [];
-            let { version, data } = getExtData(extJson, v);
+            let { version, ext_data } = getExtData(extJson, v);
 
             if (version) {
                 rv.push(version);
             }
 
-            if (data) {
+            if (ext_data) {
                 let cBadge_type_setup = { bLeftText: 'T', bRightText: 'MX', bColor: 'purple', bTooltip: "Extension Type:" };
                 let cBadge_legacy_setup = { bLeftText: 'L', bRightText: '+', bColor: 'green', bTooltip: "Legacy Type:" };
                 let cBadge_experiment_setup = { bLeftText: 'E', bRightText: '+', bColor: 'blue', bTooltip: "Experiment APIs: " };
 
-                if (data.webExtension == true && data.legacy == false) {
+                if (ext_data.webExtension == true && ext_data.legacy == false) {
                     cBadge_type_setup.bRightText = "MX"
                     cBadge_type_setup.bTooltip += "&#10; - MX : MailExtension (manifest.json)";
-                } else if (data.webExtension == true && data.legacy == true) {
+                } else if (ext_data.webExtension == true && ext_data.legacy == true) {
                     cBadge_type_setup.bRightText = "WE"
                     cBadge_type_setup.bTooltip += "&#10; - WE : Legacy WebExtension (manifest.json)";
                 } else {
@@ -1412,8 +1415,8 @@ async function genStandardReport(extsJson, name, report) {
                 }
                 rv.push(makeBadgeElement(cBadge_type_setup));
 
-                if (data.legacy == true) {
-                    if (data.legacy_type == 'xul') {
+                if (ext_data.legacy == true) {
+                    if (ext_data.legacy_type == 'xul') {
                         cBadge_legacy_setup.bRightText = "XUL"
                         cBadge_legacy_setup.bTooltip += "&#10; - XUL : XUL overlay (requires restart)";
                     } else {
@@ -1423,25 +1426,25 @@ async function genStandardReport(extsJson, name, report) {
                     rv.push(makeBadgeElement(cBadge_legacy_setup));
                 }
 
-                if (data.manifest?.theme_experiment) {
+                if (ext_data.manifest?.theme_experiment) {
                     rv.push(makeBadgeElement({ bLeftText: 'E', bRightText: 'Theme', bColor: 'blue', bTooltip: "Theme Experiment" }));
                 }
 
-                if (data.experiment) {
-                    if (data.experimentSchemaNames.includes("WindowListener")) {
+                if (ext_data.experiment) {
+                    if (ext_data.experimentSchemaNames.includes("WindowListener")) {
                         cBadge_experiment_setup.bRightText = "WL"
-                    } else if (data.experimentSchemaNames.includes("BootstrapLoader")) {
+                    } else if (ext_data.experimentSchemaNames.includes("BootstrapLoader")) {
                         cBadge_experiment_setup.bRightText = "BL"
                     }
 
-                    let schema = data.experimentSchemaNames;
+                    let schema = ext_data.experimentSchemaNames;
                     if (schema) {
                         let max = Math.min(schema.length, 14);
                         for (let index = 0; index < max; index++) {
                             cBadge_experiment_setup.bTooltip += `&#10; - ${schema[index]}`;
                         };
 
-                        if (data.experimentSchemaNames.length > 15) {
+                        if (ext_data.experimentSchemaNames.length > 15) {
                             cBadge_experiment_setup.bTooltip += "&#10; ...";
                         }
                     }
@@ -1459,7 +1462,7 @@ async function genStandardReport(extsJson, name, report) {
 		  <td style="text-align: left"  valign="top">${name_link}${getAlternativeLinks(extJson)}</td>
 		  <td style="text-align: right" valign="top">${extJson.average_daily_users}</td>
 		  ${SUPPORTED_VERSIONS.map(v => `<td style="text-align: right" valign="top">${cv(`${v}`)}</td>`).join("\n")}
-		  <td style="text-align: right" valign="top">${current_version?.atn.files[0].created?.split('T')[0]}</td>
+		  <td style="text-align: right" valign="top">${current_atn_data?.files[0].created?.split('T')[0]}</td>
 		  <td style="text-align: right" valign="top">${cv("current")}</td>
 		  <td style="text-align: right" valign="top">${v_min}</td>
 		  <td style="text-align: right" valign="top">${v_strict_max}</td>
@@ -1469,13 +1472,13 @@ async function genStandardReport(extsJson, name, report) {
     }
 
     const getJsonData = (extJson, properties, v) => {
-        let data = getExtData(extJson, v);
+        let { ext_data, version } = getExtData(extJson, v);
         return {
             appVersion: v,
             ...properties,
-            extVersion: data.version,
-            isWebExtension: data?.data?.webExtension,
-            isExperiment: data?.data?.experiment,
+            extVersion: version,
+            isWebExtension: ext_data?.webExtension,
+            isExperiment: ext_data?.experiment,
         }
     }
 
@@ -1622,11 +1625,12 @@ function getExtData(extJson, v) {
         : null;
 
     let ext_data = extJson?.xpilib?.ext_data;
-    let data = version && ext_data
-        ? ext_data[version]
-        : null;
 
-    return { version, data };
+    return {
+        version,
+        ext_data: version && ext_data ? ext_data[version] : null,
+        atn_data: version && extJson?.versions ? extJson.versions.find(e => e.version == version) : null
+    };
 }
 
 async function loadAlternativeData() {
