@@ -21,7 +21,7 @@ const downloadDir = 'downloads';
 const extsAllJsonFileName = `${rootDir}/data.json`;
 const extsAllLogFileName = `log.json`;
 
-const { SUPPORTED_VERSIONS } = await utils.getThunderbirdVersions();
+const { SUPPORTED_VERSIONS, ESR, NEXT_ESR, RELEASE } = await utils.getThunderbirdVersions();
 
 async function requestATN(addon_id, query_type, options) {
   let url;
@@ -332,10 +332,37 @@ async function getExtensions(reportsLastUpdated, extensions) {
   for (let deletedExtension of knownExtensions) {
     extensions.delete(deletedExtension);
   }
-
-  return extensions;
 }
 
+// Developers can update ATN without uploading new versions, which does not set
+// the last_updated. Use the appversion search to find versions compatible with
+// each supported version and update the compat data.
+async function checkATN(extensions) {
+  for (let appversion of [ESR, NEXT_ESR, RELEASE]) {
+    if (!appversion) {
+      continue;
+    }
+
+    // We need to sort by created, which is a non-changing order, users broke the pagination.
+    let qs = { page: 0, app: "thunderbird", type: "extension", sort: "created", appversion };
+    let r = null;
+    do {
+      qs.page++;
+      console.log(`    Requesting ESR ${appversion} page: ` + qs.page);
+      r = await requestATN(null, 'search', qs);
+      if (r && r.results) {
+        for (let entry of r.results) {
+          let alreadyStoredEntry = extensions.get(entry.id);
+          alreadyStoredEntry.xpilib.cmp_data[appversion] = entry.current_version.version;
+          let version_entry = alreadyStoredEntry.versions.find(e => e.version == entry.current_version.version);
+          if (version_entry) {
+            version_entry.compatibility = entry.current_version.compatibility;
+          }
+        };
+      }
+    } while (r && r.next !== null);
+  }
+}
 
 // -----------------------------------------------------------------------------
 
@@ -360,6 +387,7 @@ async function main() {
 
   console.log(" => Requesting information from ATN...");
   await getExtensions(reportsLastUpdated, extensions);
+  await checkATN(extensions);
 
   console.log(" => Downloading XPIs and additional version Information from ATN ...");
   let total = extensions.size;

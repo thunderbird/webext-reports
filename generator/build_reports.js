@@ -799,7 +799,7 @@ for (let version of [...SUPPORTED_VERSIONS].sort((a, b) => b - a)) {
     reports.push({
         id: `atn-${groupName}`,
         group,
-        header: `Extensions compatible with Thunderbird ${group} as seen by ATN.`,
+        header: `Extensions compatible with Thunderbird ${version} as seen by ATN.`,
         template: "templates/report-template.html",
         enabled: true,
         generate: genStandardReport,
