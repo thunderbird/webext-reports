@@ -101,7 +101,9 @@ async function getExtensionFiles(extension) {
 
   const reduceVersionData = (entry) => ({
     id: entry.id,
-    compatibility: entry.compatibility,
+    compatibility: entry.compatibility.thunderbird 
+      ? { thunderbird: entry.compatibility.thunderbird }
+      : null,
     files: entry.files.map(f => ({
       created: f.created,
       url: f.url
@@ -278,7 +280,6 @@ async function getExtensions(last_updated, extensions) {
     last_updated: entry.last_updated,
     name: entry.name,
     slug: entry.slug,
-    status: entry.status,
     type: entry.type,
     url: entry.url,
   });
