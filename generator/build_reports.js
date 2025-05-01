@@ -197,6 +197,7 @@ const ignored = [
     "986223", // Thunderbird Addons Test
     "988559", // Unified Folders Debugging
     "988827", // Account check
+    "986549", // layout@sample.extensions.thunderbird.net - broken DB, points to a theme
 ]
 const discontinued = [
     "702920", //addon/thunderhtmledit/
@@ -752,7 +753,10 @@ var reports = [
             let sorted = data.sort(([a], [b]) => parseInt(a) - parseInt(b));
             let vHighest = sorted.map(([v, d]) => d).filter(d => d.version).pop();
             let vCurrent = getExtData(extJson, "current");
-            return { include: !reports.find(r => r.id == "wrong-order").rowData(extJson).include && !!vHighest && vHighest.version != vCurrent.version };
+
+            let include = !reports.find(r => r.id == "wrong-order").rowData(extJson).include && !!vHighest && vHighest.version != vCurrent.version;
+
+            return { include };
         },
     },
     {

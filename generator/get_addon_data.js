@@ -348,7 +348,7 @@ async function checkATN(extensions) {
     let r = null;
     do {
       qs.page++;
-      console.log(`    Requesting ESR ${appversion} page: ` + qs.page);
+      console.log(`    Requesting add-ons for TB ${appversion}, page: ` + qs.page);
       r = await requestATN(null, 'search', qs);
       if (r && r.results) {
         for (let entry of r.results) {

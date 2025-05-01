@@ -1,5 +1,5 @@
 {
-  "generated": 1746141681202,
+  "generated": 1746143380445,
   "addons": [
     {
       "id": "{001f6fd1-1afd-4928-a95e-f92c70563643}",
@@ -8649,27 +8649,6 @@
         {
           "appVersion": "128",
           "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "layout@sample.extensions.thunderbird.net",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "138",
-          "type": "release",
-          "extVersion": "1.0"
-        },
-        {
-          "appVersion": "128",
-          "type": "current-esr",
-          "extVersion": "1.0"
         }
       ],
       "dedicatedSupportOnRelease": false,
