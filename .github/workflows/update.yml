@@ -1,0 +1,92 @@
+name: Update Reports
+
+on:
+  workflow_dispatch:
+
+jobs:
+  get-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create data directory
+        run: mkdir -p data
+        working-directory: generator
+
+      - name: Try to download cached JSON artifact
+        id: download_artifact
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          name: cached-data
+          path: generator/data
+
+      - name: Check if artifact was downloaded
+        id: check_artifact
+        run: |
+          if [ -f "generator/data/data.json" ]; then
+            echo "Artifact found"
+            echo "found=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Artifact not found"
+            echo "found=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Download fallback from latest release with data.json
+        if: steps.check_artifact.outputs.found == 'false'
+        run: |
+          echo "Looking for data.json in GitHub releases..."
+          releases=$(curl -s https://api.github.com/repos/thunderbird/webext-reports/releases)
+
+          for url in $(echo "$releases" | jq -r '.[].assets[]? | select(.name == "data.json") | .browser_download_url'); do
+            echo "Found data.json at: $url"
+            curl -L -o generator/data/data.json "$url"
+            echo "Download successful."
+            exit 0
+          done
+
+          echo "No data.json found in any release."
+          exit 1
+
+      - name: Install dependencies
+        run: npm install
+        working-directory: generator
+
+      - name: Fetch updated add-ons from ATN and build reports
+        run: |
+          node get_addon_data.js
+          node build_reports.js
+        working-directory: generator
+
+      - name: Upload updated JSON as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: cached-data
+          path: generator/data/data.json
+
+      - name: Check for changes in reports
+        id: git-check
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "Changes detected."
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git commit -m "Update reports"
+          git push origin
