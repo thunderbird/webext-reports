@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  get-data:
+  update-reports:
     runs-on: ubuntu-latest
 
     steps:
@@ -20,29 +20,20 @@ jobs:
         run: mkdir -p data
         working-directory: generator
 
-      - name: Try to download cached JSON artifact
-        id: download_artifact
-        continue-on-error: true
-        uses: actions/download-artifact@v4
+      # Restore the last cached version of data.json if available
+      - name: Restore cached data.json (if available)
+        uses: actions/cache@v3
         with:
-          name: cached-data
-          path: generator/data
+          path: generator/data/data.json
+          key: data-json
+          restore-keys: |
+            data-json
 
-      - name: Check if artifact was downloaded
-        id: check_artifact
+      # Download fallback from the latest release if cache is not found
+      - name: Download fallback from latest release if cache is not found
+        if: !steps.cache.outputs.cache-hit
         run: |
-          if [ -f "generator/data/data.json" ]; then
-            echo "Artifact found"
-            echo "found=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "Artifact not found"
-            echo "found=false" >> "$GITHUB_OUTPUT"
-          fi
-
-      - name: Download fallback from latest release with data.json
-        if: steps.check_artifact.outputs.found == 'false'
-        run: |
-          echo "Looking for data.json in GitHub releases..."
+          echo "No cached version found. Looking for data.json in a GitHub release..."
           releases=$(curl -s https://api.github.com/repos/thunderbird/webext-reports/releases)
 
           for url in $(echo "$releases" | jq -r '.[].assets[]? | select(.name == "data.json") | .browser_download_url'); do
@@ -55,22 +46,26 @@ jobs:
           echo "No data.json found in any release."
           exit 1
 
+      # Install dependencies
       - name: Install dependencies
         run: npm install
         working-directory: generator
 
+      # Fetch updated add-ons from ATN and build reports
       - name: Fetch updated add-ons from ATN and build reports
         run: |
           node get_addon_data.js
           node build_reports.js
         working-directory: generator
 
-      - name: Upload updated JSON as artifact
-        uses: actions/upload-artifact@v4
+      # Update the cache with the new data.json after processing
+      - name: Update cache with new data.json
+        uses: actions/cache@v3
         with:
-          name: cached-data
           path: generator/data/data.json
+          key: data-json
 
+      # Check for changes in reports
       - name: Check for changes in reports
         id: git-check
         run: |
@@ -85,6 +80,7 @@ jobs:
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
+      # Commit and push changes
       - name: Commit and push changes
         if: steps.git-check.outputs.changed == 'true'
         run: |
