@@ -82,7 +82,7 @@ async function getExtensionFiles(extension) {
   if (!extension.xpilib) {
     extension.xpilib = {};
   }
-  
+
   // Reset found versions.
   extension.versions = [];
   // Reset version numbers for each ESR + current.
@@ -262,7 +262,6 @@ async function getExtensionFiles(extension) {
 async function getExtensions(extensions) {
   let startTime = new Date();
   let knownExtensions = new Set(Array.from(extensions.values()).map(e => e.id));
-  let foundExtensions = new Set();
 
   utils.debug('Requesting information about all Thunderbird extensions using ATN API v4.');
 
@@ -283,60 +282,52 @@ async function getExtensions(extensions) {
     url: entry.url,
   });
 
+  // We need to sort by created, which is a non-changing order, using average
+  // daily users broke the pagination.
+  let qs = { page: 0, app: "thunderbird", type: "extension", sort: "created" };
+  let r = null;
+  do {
+    qs.page++;
+    console.log(`    Searching for add-ons, page: ` + qs.page);
+    r = await requestATN(null, 'search', qs);
+    if (r && r.results) {
+      for (let entry of r.results) {
 
-  for (let appversion of SUPPORTED_VERSIONS) {
-    if (!appversion) {
-      continue;
+        if (entry.guid == "confirmbeforedelete@caligraf") {
+          console.log(entry);
+        }
+        if (entry.guid == "layout@sample.extensions.thunderbird.net") {
+          // This add-on is broken and cannot be retrieved via APIs.
+          continue;
+        }
+
+        knownExtensions.delete(entry.id);
+        let reducedEntry = reduceExtensionData(entry)
+        reducedEntry.versions = [];
+        reducedEntry.xpilib = { "cmp_data": {}, "ext_data": {} };
+
+        // Merge pre-processed data from the already stored entry.
+        let alreadyStoredEntry = extensions.get(entry.id);
+        if (alreadyStoredEntry?.xpilib) {
+          reducedEntry.xpilib = alreadyStoredEntry.xpilib
+        }
+
+        // This is the correct place to fix data stored in data.json.
+        //let ext_data_keys = Object.keys(reducedEntry.xpilib.ext_data);
+        //for (let ext_data_key of ext_data_keys) {
+        //  delete reducedEntry.xpilib.ext_data[ext_data_key].atn;
+        //}
+
+        extensions.set(reducedEntry.id, reducedEntry);
+      };
     }
-
-    // We need to sort by created, which is a non-changing order, users broke the pagination.
-    let qs = { page: 0, app: "thunderbird", type: "extension", sort: "created", appversion };
-    let r = null;
-    do {
-      qs.page++;
-      console.log(`    Requesting add-ons for TB ${appversion}, page: ` + qs.page);
-      r = await requestATN(null, 'search', qs);
-      if (r && r.results) {
-        for (let entry of r.results) {
-          if (foundExtensions.has(entry.id)) {
-            continue;
-          }
-          foundExtensions.add(entry.id);
-
-          if (entry.guid == "layout@sample.extensions.thunderbird.net") {
-            // This add-on is broken and cannot be retrieved via APIs.
-            continue;
-          }
-
-          knownExtensions.delete(entry.id);
-          let reducedEntry = reduceExtensionData(entry)
-          reducedEntry.versions = [];
-          reducedEntry.xpilib = { "cmp_data": {}, "ext_data": {} };
-
-          // Merge pre-processed data from the already stored entry.
-          let alreadyStoredEntry = extensions.get(entry.id);
-          if (alreadyStoredEntry?.xpilib) {
-            reducedEntry.xpilib = alreadyStoredEntry.xpilib
-          }
-
-          // This is the correct place to fix data stored in data.json.
-          //let ext_data_keys = Object.keys(reducedEntry.xpilib.ext_data);
-          //for (let ext_data_key of ext_data_keys) {
-          //  delete reducedEntry.xpilib.ext_data[ext_data_key].atn;
-          //}
-
-          extensions.set(reducedEntry.id, reducedEntry);
-        };
-      }
-    } while ((DEBUG_MAX_NUMBER_OF_ADDON_PAGES == 0 || DEBUG_MAX_NUMBER_OF_ADDON_PAGES > qs.page) && r && r.next !== null);
-
-  }
+  } while ((DEBUG_MAX_NUMBER_OF_ADDON_PAGES == 0 || DEBUG_MAX_NUMBER_OF_ADDON_PAGES > qs.page) && r && r.next !== null);
 
   // Remove deleted extensions.
   for (let deletedExtension of knownExtensions) {
     extensions.delete(deletedExtension);
   }
-  
+
   console.log(`Execution time for getExtensions(): ${(new Date() - startTime) / 1000}`);
   console.log(`Total Extensions: ${extensions.size}`);
 }
