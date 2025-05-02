@@ -6,7 +6,6 @@ on:
 jobs:
   update-reports:
     runs-on: ubuntu-latest
-    retention-days: 7
 
     steps:
       - name: Set up Node.js
