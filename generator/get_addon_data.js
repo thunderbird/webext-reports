@@ -263,7 +263,7 @@ async function getExtensionFiles(reportsLastUpdated, extension) {
   }
 }
 
-async function getExtensions(reportsLastUpdated, extensions) {
+async function getExtensions(extensions) {
   let startTime = new Date();
   let knownExtensions = new Set(Array.from(extensions.values()).map(e => e.id));
 
@@ -288,7 +288,6 @@ async function getExtensions(reportsLastUpdated, extensions) {
 
   // We need to sort by created, which is a non-changing order, users broke the pagination.
   let qs = { page: 0, app: "thunderbird", type: "extension", sort: "created" };
-  let updated = 0;
   let r = null;
   do {
     qs.page++;
@@ -312,21 +311,13 @@ async function getExtensions(reportsLastUpdated, extensions) {
           }
         }
 
-        // Count only modified extensions.
-        if (
-          entry.last_updated &&
-          new Date(entry.last_updated) > reportsLastUpdated
-        ) {
-          updated++;
-        }
-
         extensions.set(reducedEntry.id, reducedEntry);
       };
     }
   } while ((DEBUG_MAX_NUMBER_OF_ADDON_PAGES == 0 || DEBUG_MAX_NUMBER_OF_ADDON_PAGES > qs.page) && r && r.next !== null);
 
   console.log(`Execution time for getExtensions(): ${(new Date() - startTime) / 1000}`);
-  console.log(`Total Extensions: ${extensions.size} (${updated} updated)`);
+  console.log(`Total Extensions: ${extensions.size}`);
 
   // Remove deleted extensions.
   for (let deletedExtension of knownExtensions) {
@@ -386,7 +377,7 @@ async function main() {
   }
 
   console.log(" => Requesting information from ATN...");
-  await getExtensions(reportsLastUpdated, extensions);
+  await getExtensions(extensions);
   await checkATN(extensions);
 
   console.log(" => Downloading XPIs and additional version Information from ATN ...");

@@ -199,6 +199,7 @@ const ignored = [
     "988827", // Account check
     "986549", // layout@sample.extensions.thunderbird.net - broken DB, points to a theme
 ]
+
 const discontinued = [
     "702920", //addon/thunderhtmledit/
     "219725", //addon/autoslide/
@@ -503,7 +504,6 @@ var reports = [
                 for (let idx2 = idx1 + 1; idx2 < data.length; idx2++) {
                     if (!data[idx2]) continue;
                     if (utils.compareVer(data[idx1], data[idx2]) > 0) {
-                        console.log({ data, idx1, idx2, v1: data[idx1], v2: data[idx2] })
                         return { include: true }
                     }
                 }
