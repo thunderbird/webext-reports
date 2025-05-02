@@ -6,6 +6,7 @@ on:
 jobs:
   update-reports:
     runs-on: ubuntu-latest
+    retention-days: 7
 
     steps:
       - name: Set up Node.js
@@ -73,6 +74,8 @@ jobs:
       - name: Delete Previous Cache
         if: ${{ steps.cache-restore.outputs.cache-hit == 'true' }}
         continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh extension install actions/gh-actions-cache
           gh actions-cache delete "data-json" --confirm
