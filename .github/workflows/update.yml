@@ -22,6 +22,7 @@ jobs:
 
       # Restore the last cached version of data.json if available
       - name: Restore cached data.json (if available)
+        id: cache-restore
         uses: actions/cache@v3
         with:
           path: generator/data/data.json
@@ -68,6 +69,14 @@ jobs:
           node build_reports.js
         working-directory: generator
 
+      # Delete the cache, so we can update it
+      - name: Delete Previous Cache
+        if: ${{ steps.cache-restore.outputs.cache-hit == 'true' }}
+        continue-on-error: true
+        run: |
+          gh extension install actions/gh-actions-cache
+          gh actions-cache delete "data-json" --confirm
+          
       # Update the cache with the new data.json after processing
       - name: Update cache with new data.json
         uses: actions/cache@v3
