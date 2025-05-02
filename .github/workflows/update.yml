@@ -1,6 +1,8 @@
 name: Update Reports
 
 on:
+  schedule:
+    - cron: '0 11 * * *'   # 09:00 UTC daily
   workflow_dispatch:
 
 jobs:
