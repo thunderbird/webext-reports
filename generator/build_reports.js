@@ -915,7 +915,7 @@ for (let version of [...SUPPORTED_VERSIONS].sort((a, b) => b - a)) {
 
     if ([ESR, NEXT_ESR, RELEASE].includes(version)) {
         reports.push({
-            id: `valid-${version}-according-to-strict-max-but-atn-value-reduced`,
+            id: `valid-${group}-according-to-strict-max-but-atn-value-reduced`,
             group,
             header: `Extensions whose strict_max_version allows installation in Thunderbird ${version}, but ATN value has been lowered to signal incompatibility (which is ignored during install and app upgrade).`,
             template: "templates/report-template.html",
@@ -979,7 +979,7 @@ for (let version of [...SUPPORTED_VERSIONS].sort((a, b) => b - a)) {
             }
         });
         reports.push({
-            id: `experiments-${version}-without-upper-limit`,
+            id: `experiments-${group}-without-upper-limit`,
             group,
             header: `Experiments without upper limit in ATN for which can be installed in Thunderbird ${version}.`,
             template: "templates/report-template.html",
@@ -1011,7 +1011,7 @@ for (let version of [...SUPPORTED_VERSIONS].sort((a, b) => b - a)) {
             }
         });
         reports.push({
-            id: `lost-${version}-pure-webext-with-upper-limit`,
+            id: `lost-${group}-pure-webext-with-upper-limit`,
             group,
             header: `Lost pure WebExtensions for Thunderbird ${version} with an unnecessary max_version_setting (excluding theme_experiments).`,
             template: "templates/report-template.html",
