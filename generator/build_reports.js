@@ -1376,10 +1376,14 @@ async function genStandardReport(extsJson, name, report) {
     if (report.json) {
         json.addons.sort((a, b) => a.id.localeCompare(b.id));
         // Compare content before generating a new file.
-        let curContent = JSON.stringify(JSON.parse(await fs.readFile(`${reportDir}/${name}.json`, 'utf8')).addons);
+        let curContent = "";
+        let filename = `${reportDir}/${name}.json`;
+        if (await utils.exists(filename)) {
+            curContent = JSON.stringify(JSON.parse(await fs.readFile(filename, 'utf8')).addons);
+        }
         let newContent = JSON.stringify(json.addons);
         if (curContent != newContent) {
-            await fs.writeFile(`${reportDir}/${name}.json`, JSON.stringify(json, null, 2));
+            await fs.writeFile(filename, JSON.stringify(json, null, 2));
         }
     }
 
