@@ -29,9 +29,19 @@ jobs:
           restore-keys: |
             data-json
 
+      # Check if data.json was restored
+      - name: Check if data.json exists
+        id: check_data
+        run: |
+          if [ -f "generator/data/data.json" ]; then
+            echo "found=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "found=false" >> "$GITHUB_OUTPUT"
+          fi
+
       # Download fallback from the latest release if cache is not found
       - name: Download fallback from latest release if cache is not found
-        if: !steps.cache.outputs.cache-hit
+        if: steps.check_data.outputs.found == 'false'
         run: |
           echo "No cached version found. Looking for data.json in a GitHub release..."
           releases=$(curl -s https://api.github.com/repos/thunderbird/webext-reports/releases)
