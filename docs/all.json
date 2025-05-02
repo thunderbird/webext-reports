@@ -1,5 +1,5 @@
 {
-  "generated": 1746184285928,
+  "generated": 1746212714436,
   "addons": [
     {
       "id": "{001f6fd1-1afd-4928-a95e-f92c70563643}",
@@ -947,17 +947,11 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release",
-          "extVersion": "1.0.4",
-          "isWebExtension": true,
-          "isExperiment": false
+          "type": "release"
         },
         {
           "appVersion": "128",
-          "type": "current-esr",
-          "extVersion": "1.0.4",
-          "isWebExtension": true,
-          "isExperiment": false
+          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -1363,14 +1357,14 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "3.0.1",
+          "extVersion": "2.2.1",
           "isWebExtension": true,
           "isExperiment": false
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.0.1",
+          "extVersion": "2.2.1",
           "isWebExtension": true,
           "isExperiment": false
         }
@@ -3332,25 +3326,6 @@
       "badges": []
     },
     {
-      "id": "asdf@d.lech",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "138",
-          "type": "release"
-        },
-        {
-          "appVersion": "128",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "attachmentcount@mozdev.org",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987979-32.png?modified=f1230425",
@@ -3679,12 +3654,16 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "2.2.0"
+          "extVersion": "2.2.0",
+          "isWebExtension": true,
+          "isExperiment": true
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "2.2.0"
+          "extVersion": "2.2.0",
+          "isWebExtension": true,
+          "isExperiment": true
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -4212,7 +4191,7 @@
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "99.4",
+          "extVersion": "99.5",
           "isWebExtension": true,
           "isExperiment": true
         }
@@ -4609,12 +4588,16 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "3.5"
+          "extVersion": "3.5",
+          "isWebExtension": true,
+          "isExperiment": true
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.5"
+          "extVersion": "3.5",
+          "isWebExtension": true,
+          "isExperiment": true
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -4832,25 +4815,6 @@
       "icons": {
         "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
         "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "138",
-          "type": "release"
-        },
-        {
-          "appVersion": "128",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "confirmbeforedelete@caligraf",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986323-32.png?modified=bb96a84c",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986323-64.png?modified=bb96a84c"
       },
       "compat": [
         {
@@ -5375,10 +5339,7 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release",
-          "extVersion": "1.0.1",
-          "isWebExtension": true,
-          "isExperiment": false
+          "type": "release"
         },
         {
           "appVersion": "128",
@@ -7709,6 +7670,31 @@
       "badges": []
     },
     {
+      "id": "iases3@iase.one",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988937-32.png?modified=ad7778ff",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988937-64.png?modified=ad7778ff"
+      },
+      "compat": [
+        {
+          "appVersion": "138",
+          "type": "release",
+          "extVersion": "0.1.5",
+          "isWebExtension": true,
+          "isExperiment": false
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "0.1.5",
+          "isWebExtension": true,
+          "isExperiment": false
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "icons@dillinger",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986685-32.png?modified=dae8a351",
@@ -8154,12 +8140,16 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "0.3.1"
+          "extVersion": "0.3.1",
+          "isWebExtension": true,
+          "isExperiment": false
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.3.1"
+          "extVersion": "0.3.1",
+          "isWebExtension": true,
+          "isExperiment": false
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8251,25 +8241,6 @@
           "extVersion": "1.2.0",
           "isWebExtension": true,
           "isExperiment": true
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "keebird@kee-org",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/975/975494-32.png?modified=5e31ecaf",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/975/975494-64.png?modified=5e31ecaf"
-      },
-      "compat": [
-        {
-          "appVersion": "138",
-          "type": "release"
-        },
-        {
-          "appVersion": "128",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9133,10 +9104,7 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release",
-          "extVersion": "1.7.1",
-          "isWebExtension": true,
-          "isExperiment": false
+          "type": "release"
         },
         {
           "appVersion": "128",
@@ -11401,12 +11369,16 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "6.6.1"
+          "extVersion": "6.6.1",
+          "isWebExtension": true,
+          "isExperiment": true
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "6.6.1"
+          "extVersion": "6.6.1",
+          "isWebExtension": true,
+          "isExperiment": true
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -11447,12 +11419,16 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "3.2.0"
+          "extVersion": "3.2.0",
+          "isWebExtension": true,
+          "isExperiment": true
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.2.0"
+          "extVersion": "3.2.0",
+          "isWebExtension": true,
+          "isExperiment": true
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13634,10 +13610,7 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release",
-          "extVersion": "3.0.4",
-          "isWebExtension": true,
-          "isExperiment": false
+          "type": "release"
         },
         {
           "appVersion": "128",
@@ -13816,17 +13789,11 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release",
-          "extVersion": "9.1",
-          "isWebExtension": true,
-          "isExperiment": false
+          "type": "release"
         },
         {
           "appVersion": "128",
-          "type": "current-esr",
-          "extVersion": "9.1",
-          "isWebExtension": true,
-          "isExperiment": false
+          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14218,10 +14185,7 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release",
-          "extVersion": "1.5.7",
-          "isWebExtension": true,
-          "isExperiment": false
+          "type": "release"
         },
         {
           "appVersion": "128",
@@ -14268,17 +14232,11 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release",
-          "extVersion": "1.18.0",
-          "isWebExtension": true,
-          "isExperiment": false
+          "type": "release"
         },
         {
           "appVersion": "128",
-          "type": "current-esr",
-          "extVersion": "1.18.0",
-          "isWebExtension": true,
-          "isExperiment": false
+          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14693,25 +14651,6 @@
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987873-32.png?modified=6611a1b7",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987873-64.png?modified=6611a1b7"
-      },
-      "compat": [
-        {
-          "appVersion": "138",
-          "type": "release"
-        },
-        {
-          "appVersion": "128",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "thunderbook@julien1001.devel",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/dictionary-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/dictionary-64.png"
       },
       "compat": [
         {
@@ -16223,7 +16162,9 @@
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "4.5.47"
+          "extVersion": "4.5.47",
+          "isWebExtension": true,
+          "isExperiment": true
         }
       ],
       "dedicatedSupportOnRelease": false,
