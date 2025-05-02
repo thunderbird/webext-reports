@@ -7,7 +7,6 @@
  * and will download its sources and extract information for later analysis.
  */
 
-const DEBUG_STORE_MANIFESTS = false;
 const DEBUG_FORCE_REPROCESSING = false;
 const DEBUG_MAX_NUMBER_OF_ADDON_PAGES = 0;
 
@@ -21,7 +20,7 @@ const downloadDir = 'downloads';
 const extsAllJsonFileName = `${rootDir}/data.json`;
 const extsAllLogFileName = `log.json`;
 
-const { SUPPORTED_VERSIONS, ESR, NEXT_ESR, RELEASE } = await utils.getThunderbirdVersions();
+const { SUPPORTED_VERSIONS } = await utils.getThunderbirdVersions();
 
 async function requestATN(addon_id, query_type, options) {
   let url;
@@ -76,26 +75,23 @@ async function requestATN(addon_id, query_type, options) {
   return rv;
 }
 
-async function getExtensionFiles(reportsLastUpdated, extension) {
+async function getExtensionFiles(extension) {
   const addon_identifier = extension.guid;
   const extRootName = `${extension.id}-${extension.slug}`;
 
-  if (!extension.versions) {
-    extension.versions = [];
-  }
-
-  // Pre-processed data generated from XPI files.
   if (!extension.xpilib) {
     extension.xpilib = {};
   }
-  // Contains version numbers for each ESR + current.
-  if (!extension.xpilib.cmp_data) {
-    extension.xpilib.cmp_data = {}
-  }
-  // Contains extension data for each ESR relevant version.
+  
+  // Reset found versions.
+  extension.versions = [];
+  // Reset version numbers for each ESR + current.
+  extension.xpilib.cmp_data = {}
+  // Keep processed extension data for relevant versions.
   if (!extension.xpilib.ext_data) {
     extension.xpilib.ext_data = {}
   }
+
   let cmp_data = extension.xpilib.cmp_data;
   let ext_data = extension.xpilib.ext_data;
 
@@ -111,45 +107,48 @@ async function getExtensionFiles(reportsLastUpdated, extension) {
     version: entry.version
   });
 
+  const foundVersions = [];
+
   try {
+    // Get the full version history.
+    let qs = { page: 0, page_size: 50 };
+    let r = null;
+    do {
+      qs.page++;
+      utils.debug('    Requesting version page: ' + qs.page);
+      r = await requestATN(addon_identifier, 'versions', qs);
+      if (r && r.results) {
+        // Note: r.results is an array of results, not a single result
+        let xpiFiles = r.results.map(reduceVersionData)
+        let foundLegacyExtensions = 0;
 
-    // Get the full version history if the add-on was recently updated.
-    if (extension.last_updated && new Date(extension.last_updated) > reportsLastUpdated) {
-      let qs = { page: 0, page_size: 50 };
-      let r = null;
-      do {
-        qs.page++;
-        utils.debug('    Requesting version page: ' + qs.page);
-        r = await requestATN(addon_identifier, 'versions', qs);
-        if (r && r.results) {
-          let newVersions = r.results
-            .filter(v => !extension.versions.some(e => e.id == v.id))
-            .map(v => reduceVersionData(v));
+        for (let xpiFile of xpiFiles) {
+          foundVersions.push(xpiFile.version);
+          extension.versions.push(xpiFile);
 
-          // Note: r.results is an array of results, not a single result
-          for (let newVersion of newVersions) {
-            extension.versions.push(newVersion);
-          }
-
-          // If we reached a page with no new entries, abort.
-          if (newVersions.length == 0) {
-            break;
+          if (ext_data[xpiFile.version] && !ext_data[xpiFile.version].webExtension) {
+            foundLegacyExtensions++;
           }
         }
-      } while (r && r.next !== null);
 
-      if (DEBUG_STORE_MANIFESTS) {
-        // Save individual JSON version file.
-        await fs.mkdir(`${rootDir}/versiondata/`, { recursive: true });
-        let versionsFile = `${rootDir}/versiondata/${extRootName}.json`;
-        await utils.writePrettyJSONFile(versionsFile, extension.versions);
+        // Check if we only found really old versions, to exit early on re-runs.
+        if (foundLegacyExtensions == xpiFiles.length) {
+          break;
+        }
+      }
+    } while (r && r.next !== null);
+
+    // Remove no longer existing versions from ext_data
+    for (let version of Object.keys(ext_data)) {
+      if (!foundVersions.includes(version)) {
+        delete ext_data[version];
       }
     }
 
     // Extract compat information of supported ESR
     let esr_data = {}; // ext version data for each supported ESR
     for (let result of extension.versions) {
-      if (!result.compatibility.thunderbird)
+      if (!result.compatibility || !result.compatibility.thunderbird)
         continue;
 
       // Add current version (but use the data from the versions query, to avoid caching issues).
@@ -167,9 +166,6 @@ async function getExtensionFiles(reportsLastUpdated, extension) {
         }
       }
     }
-
-    // Some logs
-    console.log(`    Current version for ${addon_identifier} is ${esr_data.current.version} with ATN compMax = ${esr_data.current.compatibility.thunderbird.max || "*"}`);
 
     // Download the XPI for each ESR
     for (let ESR of ["current"].concat(SUPPORTED_VERSIONS)) {
@@ -202,12 +198,12 @@ async function getExtensionFiles(reportsLastUpdated, extension) {
 
       for (let run = 0; run < 2; run++) {
         if (run > 0) {
-          console.log(`    Re-trying to unzip ${extRootDir}/xpi/${xpiFileName} (run #${run + 1})`);
+          console.log(`     -> Re-trying to unzip ${extRootDir}/xpi/${xpiFileName} (run #${run + 1})`);
         }
 
         // Skip download if it exists already.
         if (!await utils.exists(`${extRootDir}/xpi/${xpiFileName}`)) {
-          utils.debug(`Downloading to ${extRootDir}/xpi/${xpiFileName}`);
+          console.log(`     -> Downloading to ${addon_identifier} ${ext_version} ${extRootDir}/xpi/${xpiFileName}`);
           await fs.mkdir(`${extRootDir}/xpi`, { recursive: true });
           await utils.downloadToFile(xpiFileURL, `${extRootDir}/xpi/${xpiFileName}`);
         }
@@ -266,6 +262,7 @@ async function getExtensionFiles(reportsLastUpdated, extension) {
 async function getExtensions(extensions) {
   let startTime = new Date();
   let knownExtensions = new Set(Array.from(extensions.values()).map(e => e.id));
+  let foundExtensions = new Set();
 
   utils.debug('Requesting information about all Thunderbird extensions using ATN API v4.');
 
@@ -286,50 +283,8 @@ async function getExtensions(extensions) {
     url: entry.url,
   });
 
-  // We need to sort by created, which is a non-changing order, users broke the pagination.
-  let qs = { page: 0, app: "thunderbird", type: "extension", sort: "created" };
-  let r = null;
-  do {
-    qs.page++;
-    console.log('    Requesting search page: ' + qs.page);
-    r = await requestATN(null, 'search', qs);
-    if (r && r.results) {
-      for (let entry of r.results) {
-        knownExtensions.delete(entry.id);
-        let reducedEntry = reduceExtensionData(entry)
-        let alreadyStoredEntry = extensions.get(entry.id);
 
-        // Merge pre-processed data from the already stored entry.
-        if (alreadyStoredEntry) {
-          reducedEntry.versions = alreadyStoredEntry.versions ?? []
-          reducedEntry.xpilib = alreadyStoredEntry.xpilib ?? {}
-
-          // This is the correct place to fix data stored in data.json.
-          let ext_data_keys = Object.keys(reducedEntry.xpilib.ext_data);
-          for (let ext_data_key of ext_data_keys) {
-            delete reducedEntry.xpilib.ext_data[ext_data_key].atn;
-          }
-        }
-
-        extensions.set(reducedEntry.id, reducedEntry);
-      };
-    }
-  } while ((DEBUG_MAX_NUMBER_OF_ADDON_PAGES == 0 || DEBUG_MAX_NUMBER_OF_ADDON_PAGES > qs.page) && r && r.next !== null);
-
-  console.log(`Execution time for getExtensions(): ${(new Date() - startTime) / 1000}`);
-  console.log(`Total Extensions: ${extensions.size}`);
-
-  // Remove deleted extensions.
-  for (let deletedExtension of knownExtensions) {
-    extensions.delete(deletedExtension);
-  }
-}
-
-// Developers can update ATN without uploading new versions, which does not set
-// the last_updated. Use the appversion search to find versions compatible with
-// each supported version and update the compat data.
-async function checkATN(extensions) {
-  for (let appversion of [ESR, NEXT_ESR, RELEASE]) {
+  for (let appversion of SUPPORTED_VERSIONS) {
     if (!appversion) {
       continue;
     }
@@ -343,20 +298,50 @@ async function checkATN(extensions) {
       r = await requestATN(null, 'search', qs);
       if (r && r.results) {
         for (let entry of r.results) {
-          let alreadyStoredEntry = extensions.get(entry.id);
-          alreadyStoredEntry.xpilib.cmp_data[appversion] = entry.current_version.version;
-          let version_entry = alreadyStoredEntry.versions.find(e => e.version == entry.current_version.version);
-          if (version_entry) {
-            version_entry.compatibility = entry.current_version.compatibility;
+          if (foundExtensions.has(entry.id)) {
+            continue;
           }
+          foundExtensions.add(entry.id);
+
+          if (entry.guid == "layout@sample.extensions.thunderbird.net") {
+            // This add-on is broken and cannot be retrieved via APIs.
+            continue;
+          }
+
+          knownExtensions.delete(entry.id);
+          let reducedEntry = reduceExtensionData(entry)
+          reducedEntry.versions = [];
+          reducedEntry.xpilib = { "cmp_data": {}, "ext_data": {} };
+
+          // Merge pre-processed data from the already stored entry.
+          let alreadyStoredEntry = extensions.get(entry.id);
+          if (alreadyStoredEntry?.xpilib) {
+            reducedEntry.xpilib = alreadyStoredEntry.xpilib
+          }
+
+          // This is the correct place to fix data stored in data.json.
+          //let ext_data_keys = Object.keys(reducedEntry.xpilib.ext_data);
+          //for (let ext_data_key of ext_data_keys) {
+          //  delete reducedEntry.xpilib.ext_data[ext_data_key].atn;
+          //}
+
+          extensions.set(reducedEntry.id, reducedEntry);
         };
       }
-    } while (r && r.next !== null);
+    } while ((DEBUG_MAX_NUMBER_OF_ADDON_PAGES == 0 || DEBUG_MAX_NUMBER_OF_ADDON_PAGES > qs.page) && r && r.next !== null);
+
   }
+
+  // Remove deleted extensions.
+  for (let deletedExtension of knownExtensions) {
+    extensions.delete(deletedExtension);
+  }
+  
+  console.log(`Execution time for getExtensions(): ${(new Date() - startTime) / 1000}`);
+  console.log(`Total Extensions: ${extensions.size}`);
 }
 
 // -----------------------------------------------------------------------------
-
 
 async function main() {
   console.log("Starting...");
@@ -364,28 +349,23 @@ async function main() {
 
   // Read current state
   let extensions = new Map();
-  let reportsLastUpdated = 0;
   await fs.mkdir(`${rootDir}`, { recursive: true });
   if (!DEBUG_FORCE_REPROCESSING && await utils.exists(extsAllJsonFileName)) {
     let data = await fs.readFile(extsAllJsonFileName, 'utf-8').then(rv => JSON.parse(rv))
     if (data.extension_data) {
       extensions = new Map(data.extension_data.map(e => [e.id, e]));
     }
-    if (data.last_updated) {
-      reportsLastUpdated = new Date(data.last_updated);
-    }
   }
 
   console.log(" => Requesting information from ATN...");
   await getExtensions(extensions);
-  await checkATN(extensions);
 
   console.log(" => Downloading XPIs and additional version Information from ATN ...");
   let total = extensions.size;
   let current = 1;
   for (let [id, extension] of extensions) {
-    console.log(`    Processing ${extension.guid} (${current}/${total})`);
-    await getExtensionFiles(reportsLastUpdated, extension);
+    utils.debug(`    Processing ${extension.slug} / ${id} (${current}/${total})`);
+    await getExtensionFiles(extension);
     current++;
   };
 
