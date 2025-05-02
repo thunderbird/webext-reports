@@ -1,5 +1,5 @@
 {
-  "generated": 1746169297938,
+  "generated": 1746184285928,
   "addons": [
     {
       "id": "{001f6fd1-1afd-4928-a95e-f92c70563643}",
@@ -2550,31 +2550,6 @@
       "badges": []
     },
     {
-      "id": "@thundersuite.da.gammla",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988614-32.png?modified=740d3977",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988614-64.png?modified=740d3977"
-      },
-      "compat": [
-        {
-          "appVersion": "138",
-          "type": "release",
-          "extVersion": "0.13",
-          "isWebExtension": true,
-          "isExperiment": false
-        },
-        {
-          "appVersion": "128",
-          "type": "current-esr",
-          "extVersion": "0.13",
-          "isWebExtension": true,
-          "isExperiment": false
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "ab102-maps@xul.calypsoblue.org",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988383-32.png?modified=550b3dbb",
@@ -3704,16 +3679,12 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "2.1.1",
-          "isWebExtension": true,
-          "isExperiment": true
+          "extVersion": "2.2.0"
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "2.1.1",
-          "isWebExtension": true,
-          "isExperiment": true
+          "extVersion": "2.2.0"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -4134,31 +4105,6 @@
       "badges": []
     },
     {
-      "id": "CalculationPad@jaques",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988945-32.png?modified=e0c0c07e",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988945-64.png?modified=e0c0c07e"
-      },
-      "compat": [
-        {
-          "appVersion": "138",
-          "type": "release",
-          "extVersion": "0.24",
-          "isWebExtension": true,
-          "isExperiment": false
-        },
-        {
-          "appVersion": "128",
-          "type": "current-esr",
-          "extVersion": "0.24",
-          "isWebExtension": true,
-          "isExperiment": false
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "calendar-tools@opto.one",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988837-32.png?modified=931e6ac7",
@@ -4258,7 +4204,10 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release"
+          "type": "release",
+          "extVersion": "99.5",
+          "isWebExtension": true,
+          "isExperiment": true
         },
         {
           "appVersion": "128",
@@ -4660,16 +4609,12 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "3.4",
-          "isWebExtension": true,
-          "isExperiment": true
+          "extVersion": "3.5"
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.4",
-          "isWebExtension": true,
-          "isExperiment": true
+          "extVersion": "3.5"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7764,31 +7709,6 @@
       "badges": []
     },
     {
-      "id": "iases3@iase.one",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988937-32.png?modified=ad7778ff",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988937-64.png?modified=ad7778ff"
-      },
-      "compat": [
-        {
-          "appVersion": "138",
-          "type": "release",
-          "extVersion": "0.1.4",
-          "isWebExtension": true,
-          "isExperiment": false
-        },
-        {
-          "appVersion": "128",
-          "type": "current-esr",
-          "extVersion": "0.1.4",
-          "isWebExtension": true,
-          "isExperiment": false
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "icons@dillinger",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986685-32.png?modified=dae8a351",
@@ -8234,16 +8154,12 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "0.2.4",
-          "isWebExtension": true,
-          "isExperiment": false
+          "extVersion": "0.3.1"
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.2.4",
-          "isWebExtension": true,
-          "isExperiment": false
+          "extVersion": "0.3.1"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9203,31 +9119,6 @@
           "extVersion": "11.0.0",
           "isWebExtension": true,
           "isExperiment": true
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "mailmergep@example.net",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987734-32.png?modified=c030432f",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987734-64.png?modified=c030432f"
-      },
-      "compat": [
-        {
-          "appVersion": "138",
-          "type": "release",
-          "extVersion": "2.7.0",
-          "isWebExtension": true,
-          "isExperiment": false
-        },
-        {
-          "appVersion": "128",
-          "type": "current-esr",
-          "extVersion": "2.7.0",
-          "isWebExtension": true,
-          "isExperiment": false
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -11510,16 +11401,12 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "6.6",
-          "isWebExtension": true,
-          "isExperiment": true
+          "extVersion": "6.6.1"
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "6.6",
-          "isWebExtension": true,
-          "isExperiment": true
+          "extVersion": "6.6.1"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -11560,16 +11447,12 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "3.1.1",
-          "isWebExtension": true,
-          "isExperiment": true
+          "extVersion": "3.2.0"
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.1.1",
-          "isWebExtension": true,
-          "isExperiment": true
+          "extVersion": "3.2.0"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14233,25 +14116,6 @@
       "badges": []
     },
     {
-      "id": "team@hotelresbot.com",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988123-32.png?modified=d7ed9a2e",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988123-64.png?modified=d7ed9a2e"
-      },
-      "compat": [
-        {
-          "appVersion": "138",
-          "type": "release"
-        },
-        {
-          "appVersion": "128",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "techyguyaditya@gmail.com",
       "icons": {
         "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
@@ -16359,9 +16223,7 @@
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "4.5.45",
-          "isWebExtension": true,
-          "isExperiment": true
+          "extVersion": "4.5.47"
         }
       ],
       "dedicatedSupportOnRelease": false,
