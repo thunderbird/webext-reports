@@ -14,6 +14,8 @@ const {
     ESR,
     NEXT_ESR,
     RELEASE,
+    ESR_VERSION,
+    RELEASE_VERSION,
     SUPPORTED_VERSIONS
 } = await utils.getThunderbirdVersions();
 
@@ -1550,6 +1552,11 @@ async function main() {
         }
     }
     await genIndex(index);
+    const githubWorkflowOutput = process.env.GITHUB_OUTPUT;
+    if (githubWorkflowOutput) {
+        await fs.appendFile(githubWorkflowOutput, `esr_version=${ESR_VERSION}\n`);
+        await fs.appendFile(githubWorkflowOutput, `release_version=${RELEASE_VERSION}\n`);
+    }
 }
 
 main();

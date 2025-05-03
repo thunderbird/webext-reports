@@ -50,8 +50,10 @@ export async function getThunderbirdVersions() {
 
     return {
         ESR,
+        ESR_VERSION: THUNDERBIRD_ESR,
         NEXT_ESR,
         RELEASE,
+        RELEASE_VERSION: LATEST_THUNDERBIRD_VERSION,
         SUPPORTED_VERSIONS,
     }
 }
