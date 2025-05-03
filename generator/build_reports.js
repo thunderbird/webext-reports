@@ -769,16 +769,13 @@ var reports = [
         enabled: true,
         generate: genStandardReport,
         rowData: function (extJson) {
-            // This is indeed measured against 128, to see pure WebExtension which
-            // have newly added Experiments.
-            let v128 = getExtData(extJson, "128").ext_data;
-            let current_ext_data = getExtData(extJson, "current").ext_data;
-            if (!v128 || !current_ext_data)
+            let release_ext_data = getExtData(extJson, `${RELEASE}`).ext_data;
+            if (!release_ext_data)
                 return { include: false }
 
             let badges = [];
             let include = false;
-            let isExperiment = current_ext_data ? current_ext_data.experiment : v128.experiment;
+            let isExperiment = release_ext_data.experiment;
 
             if (isExperiment) {
                 badges.push({ badge: "experiment" });
@@ -793,6 +790,23 @@ var reports = [
             }
 
             return { include, badges }
+        }
+    },
+    {
+        id: "unsafe-eval",
+        group: "general",
+        header: "Extensions using unsafe-eval CSP, which is not permitted on ATN.",
+        template: "templates/report-template.html",
+        enabled: true,
+        generate: genStandardReport,
+        rowData: function (extJson) {
+            let current_ext_data = getExtData(extJson, `current`).ext_data;
+            if (!current_ext_data)
+                return { include: false }
+
+            let include = /['"]unsafe-eval['"]/.test(JSON.stringify(current_ext_data.manifest));
+
+            return { include }
         }
     },
 ]
