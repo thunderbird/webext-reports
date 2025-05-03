@@ -1,5 +1,5 @@
 {
-  "generated": 1746220815561,
+  "generated": 1746261390524,
   "addons": [
     {
       "id": "{001f6fd1-1afd-4928-a95e-f92c70563643}",
@@ -2536,6 +2536,31 @@
           "appVersion": "128",
           "type": "current-esr",
           "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "1984signin@gmail.com",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/webdev-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/webdev-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "138",
+          "type": "release",
+          "extVersion": "1.1",
+          "isWebExtension": true,
+          "isExperiment": false
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "1.1",
           "isWebExtension": true,
           "isExperiment": false
         }
@@ -6793,6 +6818,31 @@
         {
           "appVersion": "128",
           "type": "current-esr"
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "flexible-confirm-mail-progressive@clear-code.com",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988988-32.png?modified=0e17bbd3",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988988-64.png?modified=0e17bbd3"
+      },
+      "compat": [
+        {
+          "appVersion": "138",
+          "type": "release",
+          "extVersion": "4.2.5",
+          "isWebExtension": true,
+          "isExperiment": false
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "4.2.5",
+          "isWebExtension": true,
+          "isExperiment": false
         }
       ],
       "dedicatedSupportOnRelease": false,
