@@ -491,6 +491,24 @@ var reports = [
             return { include: !!Object.values(data).find(version => version.version) };
         },
     },
+
+    {
+        id: "unsafe-eval",
+        group: "general",
+        header: "Extensions using unsafe-eval CSP, which is not permitted on ATN.",
+        template: "templates/report-template.html",
+        enabled: true,
+        generate: genStandardReport,
+        rowData: function (extJson) {
+            let current_ext_data = getExtData(extJson, `current`).ext_data;
+            if (!current_ext_data)
+                return { include: false }
+
+            let include = /['"]unsafe-eval['"]/.test(JSON.stringify(current_ext_data.manifest));
+
+            return { include }
+        }
+    },
     {
         id: "wrong-order",
         group: "general",
@@ -542,6 +560,24 @@ var reports = [
             */
 
             return { include: false };
+        },
+    },
+    {
+        id: "latest-current-mismatch",
+        group: "general",
+        header: "Extensions, where the latest upload is for an older release, which will fail to install in current ESR (current = defined current in ATN) from within the add-on manager.",
+        template: "templates/report-template.html",
+        enabled: true,
+        generate: genStandardReport,
+        rowData: function (extJson) {
+            let data = Object.entries(getAllData(extJson));
+            let sorted = data.sort(([a], [b]) => parseInt(a) - parseInt(b));
+            let vHighest = sorted.map(([v, d]) => d).filter(d => d.version).pop();
+            let vCurrent = getExtData(extJson, "current");
+
+            let include = !reports.find(r => r.id == "wrong-order").rowData(extJson).include && !!vHighest && vHighest.version != vCurrent.version;
+
+            return { include };
         },
     },
     {
@@ -744,24 +780,6 @@ var reports = [
         }
     },
     {
-        id: "latest-current-mismatch",
-        group: "general",
-        header: "Extensions, where the latest upload is for an older release, which will fail to install in current ESR (current = defined current in ATN) from within the add-on manager.",
-        template: "templates/report-template.html",
-        enabled: true,
-        generate: genStandardReport,
-        rowData: function (extJson) {
-            let data = Object.entries(getAllData(extJson));
-            let sorted = data.sort(([a], [b]) => parseInt(a) - parseInt(b));
-            let vHighest = sorted.map(([v, d]) => d).filter(d => d.version).pop();
-            let vCurrent = getExtData(extJson, "current");
-
-            let include = !reports.find(r => r.id == "wrong-order").rowData(extJson).include && !!vHighest && vHighest.version != vCurrent.version;
-
-            return { include };
-        },
-    },
-    {
         id: "experiment-status",
         group: "general",
         header: "Extensions with added or removed Experiments.",
@@ -790,23 +808,6 @@ var reports = [
             }
 
             return { include, badges }
-        }
-    },
-    {
-        id: "unsafe-eval",
-        group: "general",
-        header: "Extensions using unsafe-eval CSP, which is not permitted on ATN.",
-        template: "templates/report-template.html",
-        enabled: true,
-        generate: genStandardReport,
-        rowData: function (extJson) {
-            let current_ext_data = getExtData(extJson, `current`).ext_data;
-            if (!current_ext_data)
-                return { include: false }
-
-            let include = /['"]unsafe-eval['"]/.test(JSON.stringify(current_ext_data.manifest));
-
-            return { include }
         }
     },
 ]

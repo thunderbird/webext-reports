@@ -203,7 +203,7 @@ async function getExtensionFiles(extension) {
 
         // Skip download if it exists already.
         if (!await utils.exists(`${extRootDir}/xpi/${xpiFileName}`)) {
-          console.log(`     -> Downloading to ${addon_identifier} ${ext_version} ${extRootDir}/xpi/${xpiFileName}`);
+          console.log(`     -> Downloading ${addon_identifier} (v${ext_version}) to ${extRootDir}/xpi/${xpiFileName}`);
           await fs.mkdir(`${extRootDir}/xpi`, { recursive: true });
           await utils.downloadToFile(xpiFileURL, `${extRootDir}/xpi/${xpiFileName}`);
         }
@@ -292,10 +292,6 @@ async function getExtensions(extensions) {
     r = await requestATN(null, 'search', qs);
     if (r && r.results) {
       for (let entry of r.results) {
-
-        if (entry.guid == "confirmbeforedelete@caligraf") {
-          console.log(entry);
-        }
         if (entry.guid == "layout@sample.extensions.thunderbird.net") {
           // This add-on is broken and cannot be retrieved via APIs.
           continue;
@@ -355,7 +351,7 @@ async function main() {
   let total = extensions.size;
   let current = 1;
   for (let [id, extension] of extensions) {
-    utils.debug(`    Processing ${extension.slug} / ${id} (${current}/${total})`);
+    utils.debug(`    Processing ${extension.slug} (${current}/${total})`);
     await getExtensionFiles(extension);
     current++;
   };
