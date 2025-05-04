@@ -1168,7 +1168,7 @@ async function genStandardReport(extsJson, name, report) {
     let extsListFile = await fs.readFile(report.template, 'utf8');
     let rows = [];
     let stats = [];
-    let json = {
+    let newJson = {
         generated: Date.now(),
         addons: []
     };
@@ -1341,13 +1341,13 @@ async function genStandardReport(extsJson, name, report) {
             if (NEXT_ESR) compat.push(getJsonData(extJson, { type: "next-esr" }, `${NEXT_ESR}`));
             compat.push(getJsonData(extJson, { type: "current-esr" }, `${ESR}`));
 
-            json.addons.push({
+            newJson.addons.push({
                 id: extJson.guid,
                 icons: extJson.icons,
                 compat,
                 alternatives: getAlternativeEntries(extJson),
                 dedicatedSupportOnRelease: extJson.guid == "{8845E3B3-E8FB-40E2-95E9-EC40294818C4}", // TEST
-                badges: rowData.badges ? rowData.badges.map(e => e.badge) : []
+                badges: rowData.badges ? rowData.badges.map(e => e.badge) : [],
             })
         } else {
             utils.debug('Skip ' + extJson.slug);
@@ -1391,16 +1391,19 @@ async function genStandardReport(extsJson, name, report) {
     await fs.mkdir(`${reportDir}`, { recursive: true });
     await fs.writeFile(`${reportDir}/${name}.html`, extsListFile);
     if (report.json) {
-        json.addons.sort((a, b) => a.id.localeCompare(b.id));
+        newJson.addons.sort((a, b) => a.id.localeCompare(b.id));
         // Compare content before generating a new file.
-        let curContent = "";
+        let curJson = null;
         let filename = `${reportDir}/${name}.json`;
         if (await utils.exists(filename)) {
-            curContent = JSON.stringify(JSON.parse(await fs.readFile(filename, 'utf8')).addons);
+            curJson = JSON.parse(await fs.readFile(filename, 'utf8'));
         }
-        let newContent = JSON.stringify(json.addons);
-        if (curContent != newContent) {
-            await fs.writeFile(filename, JSON.stringify(json, null, 2));
+        if (
+            !curJson ||
+            (newJson.generated - curJson.generated > 7 * 24 * 60 * 60 * 1000) ||
+            (JSON.stringify(newJson.addons) != JSON.stringify(curJson.addons))
+        ) {
+            await fs.writeFile(filename, JSON.stringify(newJson, null, 2));
         }
     }
 
