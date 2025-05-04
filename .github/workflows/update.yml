@@ -89,13 +89,13 @@ jobs:
           path: generator/data/data.json
           key: data-json
 
-      # Check for changes in reports
+      # Check for real changes (via docs/all.json)
       - name: Check for changes in reports
         id: git-check
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add docs
+          git add docs/all.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
             echo "changed=false" >> "$GITHUB_OUTPUT"
@@ -104,9 +104,10 @@ jobs:
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
-      # Commit and push changes
+      # Commit and push all report files if all.json changed
       - name: Commit and push changes
         if: steps.git-check.outputs.changed == 'true'
         run: |
+          git add docs
           git commit -m "Update reports (esr: ${{ steps.generate.outputs.esr_version }}, release: ${{ steps.generate.outputs.release_version }})"
           git push origin
