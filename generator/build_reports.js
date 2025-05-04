@@ -1170,6 +1170,7 @@ async function genStandardReport(extsJson, name, report) {
     let stats = [];
     let newJson = {
         generated: Date.now(),
+        supported_versions: SUPPORTED_VERSIONS,
         addons: []
     };
 
@@ -1290,13 +1291,14 @@ async function genStandardReport(extsJson, name, report) {
     }
 
     const getJsonData = (extJson, properties, v) => {
-        let { ext_data, version } = getExtData(extJson, v);
+        let { ext_data, atn_data, version } = getExtData(extJson, v);
         return {
             appVersion: v,
             ...properties,
             extVersion: version,
             isWebExtension: ext_data?.webExtension,
             isExperiment: ext_data?.experiment,
+            url: atn_data?.files[0].url,
         }
     }
 
