@@ -1,5 +1,5 @@
 {
-  "generated": 1746358423413,
+  "generated": 1746434464602,
   "supported_versions": [
     68,
     78,
@@ -32,6 +32,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035701/have_i_been_pwned_easy_reach-1.0.0-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "{06776688-583a-4fee-be98-6e256a38c1cf}",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988957-32.png?modified=e769d01a",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988957-64.png?modified=e769d01a"
+      },
+      "compat": [
+        {
+          "appVersion": "138",
+          "type": "release",
+          "extVersion": "1.1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038093/inbox_actions-1.1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "1.1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038093/inbox_actions-1.1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -1367,18 +1394,18 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "128.5.5",
+          "extVersion": "128.5.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037851/provider_for_google_calendar-128.5.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038434/provider_for_google_calendar-128.5.6-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "128.5.5",
+          "extVersion": "128.5.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037851/provider_for_google_calendar-128.5.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038434/provider_for_google_calendar-128.5.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -3947,18 +3974,18 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "2.2.0",
+          "extVersion": "2.2.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038430/auto_profile_picture-2.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038442/auto_profile_picture-2.2.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "2.2.0",
+          "extVersion": "2.2.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038430/auto_profile_picture-2.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038442/auto_profile_picture-2.2.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7329,15 +7356,19 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.6.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038445/filter_on_folder_button-1.6.2-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.6.1",
+          "extVersion": "1.6.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031663/filter_on_folder_button-1.6.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038445/filter_on_folder_button-1.6.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7646,18 +7677,18 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "4.2.8",
+          "extVersion": "4.3.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037838/thunderbird_conversations-4.2.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038439/thunderbird_conversations-4.3.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "4.2.8",
+          "extVersion": "4.3.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037838/thunderbird_conversations-4.2.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038439/thunderbird_conversations-4.3.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8631,6 +8662,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1025034/ios_imap_notes-1.0.1-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "izamai.gr@addons.thunderbird.net",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988973-32.png?modified=02de4726",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988973-64.png?modified=02de4726"
+      },
+      "compat": [
+        {
+          "appVersion": "138",
+          "type": "release",
+          "extVersion": "1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038205/crossborderscam_canceler-1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038205/crossborderscam_canceler-1.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -11057,18 +11115,18 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "1.7",
+          "extVersion": "1.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1036935/ollama_summarizer-1.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038443/ollama_summarizer-1.8-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.7",
+          "extVersion": "1.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1036935/ollama_summarizer-1.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038443/ollama_summarizer-1.8-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14020,18 +14078,18 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "4.11.2",
+          "extVersion": "4.11.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038086/smarttemplates-4.11.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038441/smarttemplates-4.11.3-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "4.11.2",
+          "extVersion": "4.11.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038086/smarttemplates-4.11.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038441/smarttemplates-4.11.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -17304,17 +17362,17 @@
     {
       "id": "xnote@froihofer.net",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/64/64758-32.png?modified=1741700323",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/64/64758-64.png?modified=1741700323"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/64/64758-32.png?modified=1746392630",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/64/64758-64.png?modified=1746392630"
       },
       "compat": [
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "4.5.45",
+          "extVersion": "4.5.47",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037833/xnote-4.5.45-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038209/xnote-4.5.47-tb.xpi?src="
         },
         {
           "appVersion": "128",
