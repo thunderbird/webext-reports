@@ -109,5 +109,6 @@ jobs:
         if: steps.git-check.outputs.changed == 'true'
         run: |
           git add docs
+          git add generator/log.json
           git commit -m "Update reports (esr: ${{ steps.generate.outputs.esr_version }}, release: ${{ steps.generate.outputs.release_version }})"
           git push origin
