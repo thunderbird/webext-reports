@@ -1,5 +1,5 @@
 {
-  "generated": 1746520813437,
+  "generated": 1746607270421,
   "supported_versions": [
     68,
     78,
@@ -1862,10 +1862,10 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "1.2.0",
+          "extVersion": "1.3.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031747/eds_calendar_integration-1.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038461/eds_calendar_integration-1.3.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -2976,18 +2976,18 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "2.3",
+          "extVersion": "2.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038454/add_on_compatibility_check-2.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038460/add_on_kompatibilitatsprufung-2.4-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "2.3",
+          "extVersion": "2.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038454/add_on_compatibility_check-2.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038460/add_on_kompatibilitatsprufung-2.4-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -3947,18 +3947,18 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "4.2.0",
+          "extVersion": "4.3.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037933/automatic_dictionary-4.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038459/automatic_dictionary-4.3.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "4.2.0",
+          "extVersion": "4.3.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037933/automatic_dictionary-4.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038459/automatic_dictionary-4.3.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7946,7 +7946,11 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release"
+          "type": "release",
+          "extVersion": "0.8.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038463/google_4_tbsync-0.8.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -10935,10 +10939,10 @@
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "4.5.43",
+          "extVersion": "4.5.33",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038453/nostalgy_emails_verwalten_suchen_archivieren-4.5.43-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037104/nostalgy_emails_verwalten_suchen_archivieren-4.5.33-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
