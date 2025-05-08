@@ -216,6 +216,7 @@ async function getExtensionFiles(extension) {
 
         try {
           await utils.fileUnzip(path.resolve(`${extRootDir}/xpi/${xpiFileName}`), { dir: path.resolve(`${extRootDir}/src`) });
+          console.log(`     -> Successfully unzipped ${extRootDir}/xpi/${xpiFileName}`);
           break;
         } catch {
           // Failed to unzip, remove broken download and retry.
@@ -250,6 +251,7 @@ async function getExtensionFiles(extension) {
         console.error(`Error in getExtensionFiles() for ${extension.slug} (v${esr_data[ESR].version}), no manifest.json found (broken or really old add-on).`)
       }
       ext_data[ext_version] = data;
+      console.log(ext_data[ext_version])
     }
 
     return 1;
