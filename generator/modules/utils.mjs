@@ -135,7 +135,12 @@ export function compareVer(a, b) {
  * @param {string} filePath - The path to write the downloaded file to.
  */
 export async function downloadToFile(url, filePath) {
-    let task = Promise.withResolvers();
+    let task = {}
+    task.promise = new Promise((res, rej) => {
+        task.resolve = res;
+        task.reject = rej;
+    });
+
     const file = createWriteStream(filePath);
     https
         .get(url, (response) => {
