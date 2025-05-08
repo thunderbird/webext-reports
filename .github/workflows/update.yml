@@ -106,7 +106,7 @@ jobs:
 
       # Commit and push all report files if at least one JSON file changed
       - name: Commit and push changes
-        if: steps.git-check.outputs.changed == 'true'
+        #if: steps.git-check.outputs.changed == 'true'
         run: |
           git add docs
           git add generator/log.json
