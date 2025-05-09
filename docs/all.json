@@ -1,5 +1,5 @@
 {
-  "generated": 1746781310090,
+  "generated": 1746783072766,
   "supported_versions": [
     68,
     78,
@@ -15475,6 +15475,60 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1021284/thread_in_same_folder-1.0-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "thunderai-sparks@micz.it",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988875-32.png?modified=acd1e1aa",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988875-64.png?modified=acd1e1aa"
+      },
+      "compat": [
+        {
+          "appVersion": "138",
+          "type": "release",
+          "extVersion": "1.2.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038542/thunderai_sparks-1.2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "1.2.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038542/thunderai_sparks-1.2.0-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "thunderai@micz.it",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988699-32.png?modified=9eff4f90",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988699-64.png?modified=9eff4f90"
+      },
+      "compat": [
+        {
+          "appVersion": "138",
+          "type": "release",
+          "extVersion": "3.4.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038543/thunderai_chatgpt_gemini_ollama_in_your_emails-3.4.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "3.4.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038543/thunderai_chatgpt_gemini_ollama_in_your_emails-3.4.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
