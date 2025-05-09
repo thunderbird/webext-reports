@@ -10,12 +10,6 @@
 const DEBUG_FORCE_REPROCESSING = false;
 const DEBUG_MAX_NUMBER_OF_ADDON_PAGES = 0;
 
-const CHECK_ADDONS = [
-  "savedsearchthemall@micz.it",
-  "thunderai@micz.it",
-  "thunderai-sparks@micz.it",
-];
-
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { parse } from 'comment-json';
@@ -337,14 +331,12 @@ async function getExtensions(extensions) {
 
 
         // Merge pre-processed data from the already stored entry.
-        if (!CHECK_ADDONS.includes(entry.guid)) {
-          let alreadyStoredEntry = extensions.get(entry.id);
-          if (alreadyStoredEntry?.xpilib) {
-            reducedEntry.xpilib = alreadyStoredEntry.xpilib
-          }
-          if (alreadyStoredEntry?.versions) {
-            reducedEntry.versions = alreadyStoredEntry.versions
-          }
+        let alreadyStoredEntry = extensions.get(entry.id);
+        if (alreadyStoredEntry?.xpilib) {
+          reducedEntry.xpilib = alreadyStoredEntry.xpilib
+        }
+        if (alreadyStoredEntry?.versions) {
+          reducedEntry.versions = alreadyStoredEntry.versions
         }
 
         // This is the correct place to fix data stored in data.json.
@@ -390,11 +382,9 @@ async function main() {
   let total = extensions.size;
   let current = 1;
   for (let [id, extension] of extensions) {
-    if (CHECK_ADDONS.includes(extension.guid)) {
-      utils.debug(`    Processing ${extension.slug} (${current}/${total})`);
-      await getExtensionFiles(extension);
-      utils.debug(`    -> Done`);
-    }
+    utils.debug(`    Processing ${extension.slug} (${current}/${total})`);
+    await getExtensionFiles(extension);
+    utils.debug(`    -> Done`);
     current++;
   };
 
