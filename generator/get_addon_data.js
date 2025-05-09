@@ -10,6 +10,12 @@
 const DEBUG_FORCE_REPROCESSING = false;
 const DEBUG_MAX_NUMBER_OF_ADDON_PAGES = 0;
 
+const CHECK_ADDONS = [
+  "savedsearchthemall@micz.it",
+  "thunderai@micz.it",
+  "thunderai-sparks@micz.it",
+];
+
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { parse } from 'comment-json';
@@ -196,6 +202,8 @@ async function getExtensionFiles(extension) {
         experiment: false,
       };
 
+      console.log(`     -> [${addon_identifier} (v${esr_data[ESR].version})]`);
+
       const MAX_RUNS = 2;
       for (let run = 1; run <= MAX_RUNS; run++) {
         let freshDownload = false;
@@ -207,14 +215,14 @@ async function getExtensionFiles(extension) {
 
         // Skip download if it exists already.
         if (!await utils.exists(`${extRootDir}/xpi/${xpiFileName}`)) {
-          console.log(`     -> Downloading (${run}/${MAX_RUNS}) ${addon_identifier} (v${ext_version}) to ${extRootDir}/xpi/${xpiFileName}`);
+          console.log(`         - Downloading (${run}/${MAX_RUNS}) ${extRootDir}/xpi/${xpiFileName}`);
           freshDownload = true;
           await fs.mkdir(`${extRootDir}/xpi`, { recursive: true });
           try {
             await utils.downloadToFile(xpiFileURL, `${extRootDir}/xpi/${xpiFileName}`);
-            console.log(`     -> Download succeeded`);
+            console.log(`         - Download succeeded`);
           } catch (ex) {
-            console.log(`     -> Download failed`, ex);
+            console.log(`         - Download failed`, ex);
             continue;
           }
         }
@@ -226,24 +234,29 @@ async function getExtensionFiles(extension) {
         
         // Extract XPI.
         try {
+          console.log(`         - Unzipping ${extRootDir}/xpi/${xpiFileName}`);
           await utils.fileUnzip(path.resolve(`${extRootDir}/xpi/${xpiFileName}`), path.resolve(`${extRootDir}/src`));
-          console.log(`     -> Unzip to ${extRootDir}/xpi/${xpiFileName} succeeded`);
+          console.log(`         - Unzip succeeded`);
           break;
         } catch (ex) {
-          console.log(`     -> Unzip to ${extRootDir}/xpi/${xpiFileName} failed`, ex);
+          console.log(`         - Unzip failed`, ex);
         }
 
         try {
           if (freshDownload) {
+            console.log(`         - Removing ${extRootDir}/xpi/${xpiFileName}`);
             await fs.unlink(`${extRootDir}/xpi/${xpiFileName}`);
+            console.log(`         - Removing succeeded`, ex);
           }
         } catch (ex) {
-          console.log(`     -> Removal of ${extRootDir}/xpi/${xpiFileName} failed`, ex);
+          console.log(`         - Removing failed`, ex);
         }
       }
 
       // Try to read the manifest.json.
+      console.log(`         - Reading ${extRootDir}/src/manifest.json`);
       if (await utils.exists(`${extRootDir}/src/manifest.json`)) {
+        await fs.chmod(`${extRootDir}/src/manifest.json`, 0o644);
         let manifest = await fs.readFile(`${extRootDir}/src/manifest.json`, 'utf-8');
         let manifestJson = parse(manifest.toString());
 
@@ -263,17 +276,18 @@ async function getExtensionFiles(extension) {
           data.experiment = true;
           data.experimentSchemaNames = Object.keys(exp_apis);
         }
+        console.log(`         - Reading succeeded`);
       } else {
         // This is either a rdf or something really old. Ignore it.
         data.legacy_type = 'xul';
-        console.error(`Error in getExtensionFiles() for ${extension.slug} (v${esr_data[ESR].version}), no manifest.json found (broken or really old add-on).`)
+        console.log(`         - Reading failed (or a really old add-on)`);
       }
       ext_data[ext_version] = data;
     }
 
     return 1;
-  } catch (e) {
-    console.error(`Error in getExtensionFiles() for ${extension.slug}`, e);
+  } catch (ex) {
+    console.error(`     -> Unexpected error in getExtensionFiles() for ${extension.slug}`, ex);
     return 0;
   }
 }
@@ -323,12 +337,14 @@ async function getExtensions(extensions) {
 
 
         // Merge pre-processed data from the already stored entry.
-        let alreadyStoredEntry = extensions.get(entry.id);
-        if (alreadyStoredEntry?.xpilib) {
-          reducedEntry.xpilib = alreadyStoredEntry.xpilib
-        }
-        if (alreadyStoredEntry?.versions) {
-          reducedEntry.versions = alreadyStoredEntry.versions
+        if (!CHECK_ADDONS.includes(entry.guid)) {
+          let alreadyStoredEntry = extensions.get(entry.id);
+          if (alreadyStoredEntry?.xpilib) {
+            reducedEntry.xpilib = alreadyStoredEntry.xpilib
+          }
+          if (alreadyStoredEntry?.versions) {
+            reducedEntry.versions = alreadyStoredEntry.versions
+          }
         }
 
         // This is the correct place to fix data stored in data.json.
@@ -374,9 +390,11 @@ async function main() {
   let total = extensions.size;
   let current = 1;
   for (let [id, extension] of extensions) {
-    utils.debug(`    Processing ${extension.slug} (${current}/${total})`);
-    await getExtensionFiles(extension);
-    utils.debug(`    -> Done`);
+    if (CHECK_ADDONS.includes(extension.guid)) {
+      utils.debug(`    Processing ${extension.slug} (${current}/${total})`);
+      await getExtensionFiles(extension);
+      utils.debug(`    -> Done`);
+    }
     current++;
   };
 
