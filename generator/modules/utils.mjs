@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
 import https from 'node:https';
-import extract from 'extract-zip';
+import decompress from 'decompress';
 import bent from 'bent';
 
 import { createWriteStream } from 'node:fs';
@@ -82,11 +82,10 @@ export async function writePrettyJSONFile(f, json) {
     }
 }
 
-export function fileUnzip(source, options) {
-    return extract(source, options, function (err) {
-        // extraction is complete. make sure to handle the err
-        console.error("Error in fileUnzip()", source, err);
-    });
+export function fileUnzip(source, destination) {
+    return decompress(source, destination, {
+        filter: file => !file.path.endsWith('/') // Skip directory entries
+      });
 }
 
 export function isCompatible(esr, min, max) {
@@ -134,18 +133,16 @@ export function compareVer(a, b) {
  * @param {string} url - The URL to download.
  * @param {string} filePath - The path to write the downloaded file to.
  */
-export async function downloadToFile(url, filePath) {
+export function downloadToFile(url, filePath) {
     let task = {}
     task.promise = new Promise((res, rej) => {
         task.resolve = res;
         task.reject = rej;
     });
 
-    const file = createWriteStream(filePath);
     https
         .get(url, (response) => {
             const { statusCode, headers } = response;
-
 
             // Handle redirects (3xx)
             if (statusCode >= 300 && statusCode < 400 && headers.location) {
@@ -161,6 +158,7 @@ export async function downloadToFile(url, filePath) {
                 return task.reject(new Error(`Request Failed. Status Code: ${statusCode}`));
             }
 
+            const file = createWriteStream(filePath);
             response.pipe(file);
             file.on("finish", () => {
                 file.close(() => {
@@ -171,5 +169,6 @@ export async function downloadToFile(url, filePath) {
         .on("error", (err) => {
             task.reject(err);
         });
+
     return task.promise;
 }

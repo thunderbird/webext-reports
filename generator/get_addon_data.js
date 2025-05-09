@@ -54,7 +54,7 @@ async function requestATN(addon_id, query_type, options) {
   for (let i = 0; (!rv && i < 10); i++) {
     if (i > 0) {
       console.error("Retry", i);
-      await new Promise(resolve => setTimeout(resolve, 10000));
+      await new Promise(resolve => setTimeout(resolve, 2000));
     } else {
       await new Promise(resolve => setTimeout(resolve, 100));
     }
@@ -196,31 +196,49 @@ async function getExtensionFiles(extension) {
         experiment: false,
       };
 
-      for (let run = 0; run < 2; run++) {
-        if (run > 0) {
-          console.log(`     -> Re-trying to unzip ${extRootDir}/xpi/${xpiFileName} (run #${run + 1})`);
+      const MAX_RUNS = 2;
+      for (let run = 1; run <= MAX_RUNS; run++) {
+        let freshDownload = false;
+        if (run > 1) {
+          await new Promise(resolve => setTimeout(resolve, 2000));
+        } else {
+          await new Promise(resolve => setTimeout(resolve, 100));
         }
 
         // Skip download if it exists already.
         if (!await utils.exists(`${extRootDir}/xpi/${xpiFileName}`)) {
-          console.log(`     -> Downloading ${addon_identifier} (v${ext_version}) to ${extRootDir}/xpi/${xpiFileName}`);
+          console.log(`     -> Downloading (${run}/${MAX_RUNS}) ${addon_identifier} (v${ext_version}) to ${extRootDir}/xpi/${xpiFileName}`);
+          freshDownload = true;
           await fs.mkdir(`${extRootDir}/xpi`, { recursive: true });
-          await utils.downloadToFile(xpiFileURL, `${extRootDir}/xpi/${xpiFileName}`);
+          try {
+            await utils.downloadToFile(xpiFileURL, `${extRootDir}/xpi/${xpiFileName}`);
+            console.log(`     -> Download succeeded`);
+          } catch (ex) {
+            console.log(`     -> Download failed`, ex);
+            continue;
+          }
         }
 
-        // Extract XPI.
         if (await utils.exists(`${extRootDir}/src`)) {
           await fs.rm(`${extRootDir}/src`, { recursive: true, force: true });
           await fs.mkdir(`${extRootDir}/src`, { recursive: true });
         }
+        
+        // Extract XPI.
+        try {
+          await utils.fileUnzip(path.resolve(`${extRootDir}/xpi/${xpiFileName}`), path.resolve(`${extRootDir}/src`));
+          console.log(`     -> Unzip to ${extRootDir}/xpi/${xpiFileName} succeeded`);
+          break;
+        } catch (ex) {
+          console.log(`     -> Unzip to ${extRootDir}/xpi/${xpiFileName} failed`, ex);
+        }
 
         try {
-          await utils.fileUnzip(path.resolve(`${extRootDir}/xpi/${xpiFileName}`), { dir: path.resolve(`${extRootDir}/src`) });
-          console.log(`     -> Successfully unzipped ${extRootDir}/xpi/${xpiFileName}`);
-          break;
-        } catch {
-          // Failed to unzip, remove broken download and retry.
-          await fs.unlink(`${extRootDir}/xpi/${xpiFileName}`);
+          if (freshDownload) {
+            await fs.unlink(`${extRootDir}/xpi/${xpiFileName}`);
+          }
+        } catch (ex) {
+          console.log(`     -> Removal of ${extRootDir}/xpi/${xpiFileName} failed`, ex);
         }
       }
 
@@ -251,7 +269,6 @@ async function getExtensionFiles(extension) {
         console.error(`Error in getExtensionFiles() for ${extension.slug} (v${esr_data[ESR].version}), no manifest.json found (broken or really old add-on).`)
       }
       ext_data[ext_version] = data;
-      console.log(ext_data[ext_version])
     }
 
     return 1;
@@ -304,10 +321,14 @@ async function getExtensions(extensions) {
         reducedEntry.versions = [];
         reducedEntry.xpilib = { "cmp_data": {}, "ext_data": {} };
 
+
         // Merge pre-processed data from the already stored entry.
         let alreadyStoredEntry = extensions.get(entry.id);
         if (alreadyStoredEntry?.xpilib) {
           reducedEntry.xpilib = alreadyStoredEntry.xpilib
+        }
+        if (alreadyStoredEntry?.versions) {
+          reducedEntry.versions = alreadyStoredEntry.versions
         }
 
         // This is the correct place to fix data stored in data.json.
@@ -355,6 +376,7 @@ async function main() {
   for (let [id, extension] of extensions) {
     utils.debug(`    Processing ${extension.slug} (${current}/${total})`);
     await getExtensionFiles(extension);
+    utils.debug(`    -> Done`);
     current++;
   };
 
