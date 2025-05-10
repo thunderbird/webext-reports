@@ -1,5 +1,5 @@
 {
-  "generated": 1746783072766,
+  "generated": 1746866395770,
   "supported_versions": [
     68,
     78,
@@ -2984,18 +2984,18 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "2.4",
+          "extVersion": "2.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038460/add_on_kompatibilitatsprufung-2.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038549/add_on_kompatibilitatsprufung-2.5-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "2.4",
+          "extVersion": "2.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038460/add_on_kompatibilitatsprufung-2.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038549/add_on_kompatibilitatsprufung-2.5-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13628,18 +13628,18 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "2.1.5",
+          "extVersion": "2.1.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038544/thunderbird_send_stage-2.1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038552/thunderbird_send_stage-2.1.9-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "2.1.5",
+          "extVersion": "2.1.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038544/thunderbird_send_stage-2.1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038552/thunderbird_send_stage-2.1.9-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
