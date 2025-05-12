@@ -1,5 +1,5 @@
 {
-  "generated": 1746866395770,
+  "generated": 1747039312276,
   "supported_versions": [
     68,
     78,
@@ -11171,18 +11171,18 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "1.8",
+          "extVersion": "1.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038443/ollama_summarizer-1.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038567/ollama_summarizer-1.9-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.8",
+          "extVersion": "1.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038443/ollama_summarizer-1.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038567/ollama_summarizer-1.9-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
