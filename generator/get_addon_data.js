@@ -378,6 +378,10 @@ async function main() {
   console.log(" => Requesting information from ATN...");
   await getExtensions(extensions);
 
+  if (extensions.size == 0) {
+    throw new Error("Failed to download resources from ATNs")
+  }
+
   console.log(" => Downloading XPIs and additional version Information from ATN ...");
   let total = extensions.size;
   let current = 1;
