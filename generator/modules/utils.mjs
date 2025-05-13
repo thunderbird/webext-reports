@@ -140,6 +140,9 @@ export function downloadToFile(url, filePath) {
         task.reject = rej;
     });
 
+    // By-pass CDN, which may throw a 403 at us.
+    url = url.replace("//addons.thunderbird.net/", "//services.addons.thunderbird.net/")
+
     https
         .get(url, (response) => {
             const { statusCode, headers } = response;
