@@ -26,15 +26,15 @@ async function requestATN(addon_id, query_type, options) {
   let url;
   switch (query_type) {
     case "details":
-      url = `https://addons.thunderbird.net/api/v4/addons/addon/${addon_id}`;
+      url = `https://services.addons.thunderbird.net/api/v4/addons/addon/${addon_id}`;
       break;
 
     case "versions":
-      url = `https://addons.thunderbird.net/api/v4/addons/addon/${addon_id}/versions/`;
+      url = `https://services.addons.thunderbird.net/api/v4/addons/addon/${addon_id}/versions/`;
       break;
 
     case "search":
-      url = "https://addons.thunderbird.net/api/v4/addons/search/";
+      url = "https://services.addons.thunderbird.net/api/v4/addons/search/";
       break;
 
     default:
