@@ -1,5 +1,5 @@
 {
-  "generated": 1747133443221,
+  "generated": 1747211689380,
   "supported_versions": [
     68,
     78,
@@ -4181,7 +4181,11 @@
       "compat": [
         {
           "appVersion": "138",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.0.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038568/birdbox-2.0.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -6024,18 +6028,18 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "6.0.0",
+          "extVersion": "6.1.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037244/disable_draganddrop_new-6.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038573/disable_draganddrop_new-6.1.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "6.0.0",
+          "extVersion": "6.1.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037244/disable_draganddrop_new-6.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038573/disable_draganddrop_new-6.1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7012,18 +7016,18 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "1.7.3",
+          "extVersion": "1.8.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037822/extract_em-1.7.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038574/extract_em-1.8.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.7.3",
+          "extVersion": "1.8.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037822/extract_em-1.7.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038574/extract_em-1.8.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7193,18 +7197,18 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "5.1",
+          "extVersion": "5.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037935/filtaquilla-5.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038572/filtaquilla-5.2-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "5.1",
+          "extVersion": "5.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037935/filtaquilla-5.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038572/filtaquilla-5.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15333,18 +15337,18 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "6.2.0",
+          "extVersion": "7.0.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030618/textmarker-6.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038575/textmarker-7.0.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "6.2.0",
+          "extVersion": "7.0.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030618/textmarker-6.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038575/textmarker-7.0.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15517,18 +15521,18 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "3.4.0",
+          "extVersion": "3.4.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038543/thunderai_chatgpt_gemini_ollama_in_your_emails-3.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038571/thunderai_chatgpt_gemini_ollama_in_your_emails-3.4.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.4.0",
+          "extVersion": "3.4.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038543/thunderai_chatgpt_gemini_ollama_in_your_emails-3.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038571/thunderai_chatgpt_gemini_ollama_in_your_emails-3.4.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -16018,8 +16022,8 @@
     {
       "id": "thundersigneditor@proton.me",
       "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/webdev-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/webdev-64.png"
       },
       "compat": [
         {
