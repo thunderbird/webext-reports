@@ -1,5 +1,5 @@
 {
-  "generated": 1747211689380,
+  "generated": 1747298747347,
   "supported_versions": [
     68,
     78,
@@ -1077,8 +1077,8 @@
     {
       "id": "{8845E3B3-E8FB-40E2-95E9-EC40294818C4}",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/0/640-32.png?modified=1598539928",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/0/640-64.png?modified=1598539928"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/0/640-32.png?modified=57cb9460",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/0/640-64.png?modified=57cb9460"
       },
       "compat": [
         {
@@ -2984,18 +2984,18 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "2.5",
+          "extVersion": "2.5.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038549/add_on_kompatibilitatsprufung-2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038577/add_on_kompatibilitatsprufung-2.5.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "2.5",
+          "extVersion": "2.5.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038549/add_on_kompatibilitatsprufung-2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038577/add_on_kompatibilitatsprufung-2.5.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -3982,18 +3982,18 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "2.2.1",
+          "extVersion": "2.2.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038442/auto_profile_picture-2.2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038576/photo_de_profil_automatique-2.2.2-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "2.2.1",
+          "extVersion": "2.2.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038442/auto_profile_picture-2.2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038576/photo_de_profil_automatique-2.2.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
