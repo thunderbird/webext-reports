@@ -1,5 +1,5 @@
 {
-  "generated": 1747298747347,
+  "generated": 1747643896270,
   "supported_versions": [
     68,
     78,
@@ -4959,18 +4959,18 @@
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "3.16.0",
+          "extVersion": "3.16.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037936/cloud_filelink_for_nextcloud_and_owncloud-3.16.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038725/cloud_filelink_for_nextcloud_and_owncloud-3.16.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.16.0",
+          "extVersion": "3.16.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037936/cloud_filelink_for_nextcloud_and_owncloud-3.16.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038725/cloud_filelink_for_nextcloud_and_owncloud-3.16.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
