@@ -1,5 +1,5 @@
 {
-  "generated": 1747949844965,
+  "generated": 1748036010284,
   "supported_versions": [
     68,
     78,
@@ -16199,25 +16199,25 @@
     {
       "id": "tidysubject@alanjyu.com",
       "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988999-32.png?modified=7c508a81",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988999-64.png?modified=7c508a81"
       },
       "compat": [
         {
           "appVersion": "138",
           "type": "release",
-          "extVersion": "0.2.0",
+          "extVersion": "0.3.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038870/tidysubject-0.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038880/tidysubject-0.3.4-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.2.0",
+          "extVersion": "0.3.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038870/tidysubject-0.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038880/tidysubject-0.3.4-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
