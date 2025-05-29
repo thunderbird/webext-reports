@@ -514,7 +514,6 @@
     "372870-quickFilters@axelg.com-quickfilters",
     "372883-amcontextmenu@loucypher-am-context",
     "372910-websites@without.ads-no-ads",
-    "372924-spoofdetector@alice.cruel-spoof-detector",
     "372945-sortcustomizationdialog@mozdev.org-sortcustomizationdialog",
     "372981-workspace@mikeconley.ca-workspace-for-thunderbird",
     "372990-cairo-dock-unread-messages@glxdock.org-cairo-dock-unread-messages",
@@ -1804,6 +1803,7 @@
     "988993-export-calendar@example.com-экспорт-календаря-в-excel",
     "988999-tidysubject@alanjyu.com-tidysubject",
     "989005-jb14.googledrive@qa-google-drive-quick-access",
+    "989013-paste-file-as-attachments@simple.addons-paste-files-as-attachments",
     "9893-fastclosetabs@extensions.geckozone.org-fast-close-tabs",
     "9956-tonequilla@mesquilla.com-tonequilla",
     "9995-emailcrawler@torge.kummerow-email-address-crawler"
