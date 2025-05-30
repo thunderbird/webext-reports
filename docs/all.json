@@ -1,5 +1,5 @@
 {
-  "generated": 1748554453667,
+  "generated": 1748640893581,
   "supported_versions": [
     68,
     78,
@@ -4954,18 +4954,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "3.5",
+          "extVersion": "3.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038350/clear_history_button-3.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039044/clear_history_button-3.6-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.5",
+          "extVersion": "3.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038350/clear_history_button-3.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039044/clear_history_button-3.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -12284,10 +12284,10 @@
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "11",
+          "extVersion": "13",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1036048/quick_filter_by-11-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039051/quick_filter_by-13-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14401,18 +14401,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "1.1.9",
+          "extVersion": "1.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038875/j_lawyerorg_thunderbird_extension-1.1.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039053/j_lawyerorg_thunderbird_extension-1.2-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.1.9",
+          "extVersion": "1.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038875/j_lawyerorg_thunderbird_extension-1.1.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039053/j_lawyerorg_thunderbird_extension-1.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
