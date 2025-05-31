@@ -1,5 +1,5 @@
 {
-  "generated": 1748640893581,
+  "generated": 1748727275395,
   "supported_versions": [
     68,
     78,
@@ -5473,18 +5473,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "3.37",
+          "extVersion": "3.38",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038098/copy_sent_to_current-3.37-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039060/copy_sent_to_current-3.38-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.37",
+          "extVersion": "3.38",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038098/copy_sent_to_current-3.37-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039060/copy_sent_to_current-3.38-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -10614,7 +10614,11 @@
       "compat": [
         {
           "appVersion": "139",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037126/myphoneexplorer-4.7-tb.xpi?src="
         },
         {
           "appVersion": "128",
