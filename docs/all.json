@@ -1,5 +1,5 @@
 {
-  "generated": 1748727275395,
+  "generated": 1748813573430,
   "supported_versions": [
     68,
     78,
@@ -4426,7 +4426,11 @@
       "compat": [
         {
           "appVersion": "139",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.8",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037856/calendarproject_tools_gantt_year_view_planner-2.4.8-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -6898,7 +6902,11 @@
       "compat": [
         {
           "appVersion": "139",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.4.24",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038449/expression_power_messagecalendar_search_ng-4.4.24-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -7826,7 +7834,11 @@
       "compat": [
         {
           "appVersion": "139",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.8.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037846/folders_for_search_ondisk_status_glodaquilla_ng-1.8.3-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -8161,7 +8173,11 @@
       "compat": [
         {
           "appVersion": "139",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.6",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038089/header_tools_lite-2.4.6-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -9627,15 +9643,19 @@
       "compat": [
         {
           "appVersion": "139",
-          "type": "release"
+          "type": "release",
+          "extVersion": "6.6",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039062/lookout_fix_version-6.6-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "6.5",
+          "extVersion": "6.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037403/lookout_fix_version-6.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039062/lookout_fix_version-6.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -10167,6 +10187,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031960/google_contact_raccourci-0.1-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "me@shiquda.link",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989012-32.png?modified=1032eea5",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989012-64.png?modified=1032eea5"
+      },
+      "compat": [
+        {
+          "appVersion": "139",
+          "type": "release",
+          "extVersion": "0.0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039048/thunderbird_vericode-0.0.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "0.0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039048/thunderbird_vericode-0.0.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -10929,7 +10976,11 @@
       "compat": [
         {
           "appVersion": "139",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.5.43",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038453/nostalgy_emails_verwalten_suchen_archivieren-4.5.43-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -12152,15 +12203,19 @@
       "compat": [
         {
           "appVersion": "139",
-          "type": "release"
+          "type": "release",
+          "extVersion": "0.14.8",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039046/qnote-0.14.8-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.14.7",
+          "extVersion": "0.14.8",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037396/qnote-0.14.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039046/qnote-0.14.8-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13326,6 +13381,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1019064/safelink_removal-0.0.4d-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "Sage@facilit-info.fr",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989017-32.png?modified=12f75ab4",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989017-64.png?modified=12f75ab4"
+      },
+      "compat": [
+        {
+          "appVersion": "139",
+          "type": "release",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039057/sage-1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039057/sage-1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15487,18 +15569,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "3.4.1",
+          "extVersion": "3.5.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038571/thunderai_chatgpt_gemini_ollama_in_your_emails-3.4.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039061/thunderai_chatgpt_gemini_ollama_in_your_emails-3.5.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.4.1",
+          "extVersion": "3.5.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038571/thunderai_chatgpt_gemini_ollama_in_your_emails-3.4.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039061/thunderai_chatgpt_gemini_ollama_in_your_emails-3.5.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -17448,7 +17530,11 @@
       "compat": [
         {
           "appVersion": "139",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.5.48",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038446/xnote-4.5.48-tb.xpi?src="
         },
         {
           "appVersion": "128",
