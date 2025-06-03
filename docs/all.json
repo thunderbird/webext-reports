@@ -1,5 +1,5 @@
 {
-  "generated": 1748813573430,
+  "generated": 1748986497260,
   "supported_versions": [
     68,
     78,
@@ -4158,10 +4158,10 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "2.0.0",
+          "extVersion": "2.1.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038568/birdbox-2.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039059/birdbox-2.1.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -6073,18 +6073,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "6.0.1",
+          "extVersion": "6.1.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037135/dkim_verifier-6.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039067/dkim_verifier-6.1.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "6.0.1",
+          "extVersion": "6.1.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037135/dkim_verifier-6.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039067/dkim_verifier-6.1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13776,18 +13776,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "10.6.5",
+          "extVersion": "10.6.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038717/send_later-10.6.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039069/send_later-10.6.6-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "10.6.5",
+          "extVersion": "10.6.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038717/send_later-10.6.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039069/send_later-10.6.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14024,7 +14024,11 @@
       "compat": [
         {
           "appVersion": "139",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.2.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031406/signal_spam-4.2.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -14202,18 +14206,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "4.11.4",
+          "extVersion": "4.12",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038866/smarttemplates-4.11.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039068/smarttemplates-4.12-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "4.11.4",
+          "extVersion": "4.12",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038866/smarttemplates-4.11.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039068/smarttemplates-4.12-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14282,7 +14286,11 @@
       "compat": [
         {
           "appVersion": "139",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.3.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031432/spambee-3.3.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
