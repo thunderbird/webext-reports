@@ -1,5 +1,5 @@
 {
-  "generated": 1748986497260,
+  "generated": 1749072569763,
   "supported_versions": [
     68,
     78,
@@ -4931,18 +4931,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "3.16.1",
+          "extVersion": "3.17.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038725/cloud_filelink_for_nextcloud_and_owncloud-3.16.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039071/cloud_filelink_for_nextcloud_and_owncloud-3.17.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.16.1",
+          "extVersion": "3.17.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038725/cloud_filelink_for_nextcloud_and_owncloud-3.16.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039071/cloud_filelink_for_nextcloud_and_owncloud-3.17.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -6112,6 +6112,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031390/dms_headers_extractor-0.0.0.2-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "doli.connector@therane.fr",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988707-32.png?modified=8bc10874",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988707-64.png?modified=8bc10874"
+      },
+      "compat": [
+        {
+          "appVersion": "139",
+          "type": "release",
+          "extVersion": "1.7",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038796/dolibarr_connector-1.7-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "1.7",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038796/dolibarr_connector-1.7-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
