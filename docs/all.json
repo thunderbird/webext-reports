@@ -1,5 +1,5 @@
 {
-  "generated": 1749072569763,
+  "generated": 1749159134219,
   "supported_versions": [
     68,
     78,
@@ -640,15 +640,19 @@
       "compat": [
         {
           "appVersion": "139",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.6.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039075/correct_identity-2.6.3-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "2.6.1",
+          "extVersion": "2.6.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037826/correct_identity-2.6.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039075/correct_identity-2.6.3-tb.xpi?src="
         }
       ],
       "alternatives": [
@@ -4877,18 +4881,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "7.0.4",
+          "extVersion": "7.0.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039033/clippings_for_thunderbird-7.0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039077/clippings_for_thunderbird-7.0.5-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "7.0.4",
+          "extVersion": "7.0.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039033/clippings_for_thunderbird-7.0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039077/clippings_for_thunderbird-7.0.5-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
