@@ -1,5 +1,5 @@
 {
-  "generated": 1749159134219,
+  "generated": 1749245655398,
   "supported_versions": [
     68,
     78,
@@ -11654,18 +11654,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "1.3.9",
+          "extVersion": "1.3.9.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038873/eule_fur_exchange-1.3.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039079/eule_fur_exchange-1.3.9.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.3.9",
+          "extVersion": "1.3.9.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038873/eule_fur_exchange-1.3.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039079/eule_fur_exchange-1.3.9.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15608,18 +15608,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "3.5.1",
+          "extVersion": "3.5.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039061/thunderai_chatgpt_gemini_ollama_in_your_emails-3.5.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039078/thunderai_chatgpt_gemini_ollama_in_your_emails-3.5.2-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.5.1",
+          "extVersion": "3.5.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039061/thunderai_chatgpt_gemini_ollama_in_your_emails-3.5.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039078/thunderai_chatgpt_gemini_ollama_in_your_emails-3.5.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
