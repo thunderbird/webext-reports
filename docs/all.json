@@ -1,5 +1,5 @@
 {
-  "generated": 1749245655398,
+  "generated": 1749418346132,
   "supported_versions": [
     68,
     78,
@@ -695,25 +695,25 @@
     {
       "id": "{532269cf-a10e-4396-8613-b5d9a9a516d4}",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/1/1556-32.png?modified=1718730580",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/1/1556-64.png?modified=1718730580"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/1/1556-32.png?modified=1749398111",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/1/1556-64.png?modified=1749398111"
       },
       "compat": [
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "10.0.7",
+          "extVersion": "10.0.8",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035743/allow_html_temp-10.0.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039084/allow_html_temp-10.0.8-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "10.0.7",
+          "extVersion": "10.0.8",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035743/allow_html_temp-10.0.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039084/allow_html_temp-10.0.8-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
