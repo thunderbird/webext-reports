@@ -1,5 +1,5 @@
 {
-  "generated": 1749418346132,
+  "generated": 1749504814193,
   "supported_versions": [
     68,
     78,
@@ -728,7 +728,11 @@
       "compat": [
         {
           "appVersion": "139",
-          "type": "release"
+          "type": "release",
+          "extVersion": "0.16.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037744/bidi_mail_ui-0.16.2-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -1362,7 +1366,11 @@
       "compat": [
         {
           "appVersion": "139",
-          "type": "release"
+          "type": "release",
+          "extVersion": "0.6.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037930/remove_duplicate_messages-0.6.3-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -4935,18 +4943,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "3.17.0",
+          "extVersion": "3.17.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039071/cloud_filelink_for_nextcloud_and_owncloud-3.17.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039157/cloud_filelink_for_nextcloud_and_owncloud-3.17.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.17.0",
+          "extVersion": "3.17.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039071/cloud_filelink_for_nextcloud_and_owncloud-3.17.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039157/cloud_filelink_for_nextcloud_and_owncloud-3.17.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9420,15 +9428,19 @@
       "compat": [
         {
           "appVersion": "139",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039158/lightning_calendar_tabs-3.7-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.6",
+          "extVersion": "3.7",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037218/lightning_calendar_tabs-3.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039158/lightning_calendar_tabs-3.7-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
