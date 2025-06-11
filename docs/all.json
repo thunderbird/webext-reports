@@ -1,5 +1,5 @@
 {
-  "generated": 1749591410359,
+  "generated": 1749677804246,
   "supported_versions": [
     68,
     78,
@@ -3377,18 +3377,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "2.1.0",
+          "extVersion": "2.1.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039230/date_time_formatter-2.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039303/date_time_formatter-2.1.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "2.1.0",
+          "extVersion": "2.1.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039230/date_time_formatter-2.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039303/date_time_formatter-2.1.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -3947,18 +3947,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "4.3.0",
+          "extVersion": "4.5.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038459/automatic_dictionary-4.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039302/automatic_dictionary-4.5.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "4.3.0",
+          "extVersion": "4.5.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038459/automatic_dictionary-4.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039302/automatic_dictionary-4.5.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8401,18 +8401,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "0.1.5",
+          "extVersion": "0.1.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038435/interstellar_alliance_social_experiment_step_3-0.1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039383/interstellar_alliance_social_experiment_step_3-0.1.9-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.1.5",
+          "extVersion": "0.1.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038435/interstellar_alliance_social_experiment_step_3-0.1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039383/interstellar_alliance_social_experiment_step_3-0.1.9-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9721,7 +9721,11 @@
       "compat": [
         {
           "appVersion": "139",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1032447/logout-3.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -14307,18 +14311,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "4.12",
+          "extVersion": "4.12.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039068/smarttemplates-4.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039310/smarttemplates-4.12.2-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "4.12",
+          "extVersion": "4.12.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039068/smarttemplates-4.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039310/smarttemplates-4.12.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -17257,6 +17261,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1021064/uuid_wes-0.0.3-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "veilig-verzenden@zorgmail.nl",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989023-32.png?modified=7c93ded6",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989023-64.png?modified=7c93ded6"
+      },
+      "compat": [
+        {
+          "appVersion": "139",
+          "type": "release",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039379/veilig_verzenden-1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039379/veilig_verzenden-1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
