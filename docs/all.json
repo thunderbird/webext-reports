@@ -1,5 +1,5 @@
 {
-  "generated": 1749677804246,
+  "generated": 1749764102869,
   "supported_versions": [
     68,
     78,
@@ -6573,18 +6573,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "1.4",
+          "extVersion": "1.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039074/email_original-1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039382/email_original-1.5-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.4",
+          "extVersion": "1.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039074/email_original-1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039382/email_original-1.5-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8401,18 +8401,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "0.1.9",
+          "extVersion": "0.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039383/interstellar_alliance_social_experiment_step_3-0.1.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039402/interstellar_alliance_social_experiment_step_3-0.2.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.1.9",
+          "extVersion": "0.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039383/interstellar_alliance_social_experiment_step_3-0.1.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039402/interstellar_alliance_social_experiment_step_3-0.2.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9722,18 +9722,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "3.0",
+          "extVersion": "3.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1032447/logout-3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039308/logout-3.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.0",
+          "extVersion": "3.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1032447/logout-3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039308/logout-3.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -10517,15 +10517,19 @@
       "compat": [
         {
           "appVersion": "139",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.0.2.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039309/minimize_on_close-2.0.2.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "2.0.1.4",
+          "extVersion": "2.0.2.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030066/minimize_on_close-2.0.1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039309/minimize_on_close-2.0.2.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13519,6 +13523,33 @@
       "badges": []
     },
     {
+      "id": "sample-addon-v3@example.com",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "139",
+          "type": "release",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039398/simplestaddon-1.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039398/simplestaddon-1.0.1-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "sato-t@east.ntt.co.jp",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987951-32.png?modified=51055739",
@@ -16363,18 +16394,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "0.5.0",
+          "extVersion": "0.6.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039040/tidysubject-0.5.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039407/tidysubject-0.6.2-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.5.0",
+          "extVersion": "0.6.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039040/tidysubject-0.5.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039407/tidysubject-0.6.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
