@@ -1,5 +1,5 @@
 {
-  "generated": 1749764102869,
+  "generated": 1749936905326,
   "supported_versions": [
     68,
     78,
@@ -14323,6 +14323,29 @@
         {
           "appVersion": "139",
           "type": "release"
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr"
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "smarten-quotes-button@example.com",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "139",
+          "type": "release",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039415/smart_quotes-1.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
