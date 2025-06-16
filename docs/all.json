@@ -1,5 +1,5 @@
 {
-  "generated": 1749936905326,
+  "generated": 1750109872743,
   "supported_versions": [
     68,
     78,
@@ -15712,7 +15712,11 @@
       "compat": [
         {
           "appVersion": "139",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.2.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038542/thunderai_sparks-1.2.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
