@@ -1,5 +1,5 @@
 {
-  "generated": 1750282657580,
+  "generated": 1750455338435,
   "supported_versions": [
     68,
     78,
@@ -8405,18 +8405,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "0.2.0",
+          "extVersion": "0.2.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039402/interstellar_alliance_social_experiment_step_3-0.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039499/interstellar_alliance_social_experiment_step_3-0.2.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.2.0",
+          "extVersion": "0.2.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039402/interstellar_alliance_social_experiment_step_3-0.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039499/interstellar_alliance_social_experiment_step_3-0.2.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14608,18 +14608,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "1.5.1",
+          "extVersion": "1.5.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039489/standardtexter-1.5.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039496/standardtexter-1.5.2-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.5.1",
+          "extVersion": "1.5.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039489/standardtexter-1.5.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039496/standardtexter-1.5.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
