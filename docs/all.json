@@ -1,5 +1,5 @@
 {
-  "generated": 1750714562233,
+  "generated": 1750801020157,
   "supported_versions": [
     68,
     78,
@@ -3897,18 +3897,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "2.0.5",
+          "extVersion": "2.0.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039400/autofile_fast_e_mail_to_folder_filing-2.0.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039495/autofile_fast_e_mail_to_folder_filing-2.0.6-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "2.0.5",
+          "extVersion": "2.0.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039400/autofile_fast_e_mail_to_folder_filing-2.0.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039495/autofile_fast_e_mail_to_folder_filing-2.0.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7089,18 +7089,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "1.8.3",
+          "extVersion": "1.8.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039301/extract_em-1.8.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039516/extract_em-1.8.4-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.8.3",
+          "extVersion": "1.8.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039301/extract_em-1.8.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039516/extract_em-1.8.4-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8436,18 +8436,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "0.2.2",
+          "extVersion": "0.2.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039512/interstellar_alliance_social_experiment_step_3-0.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039521/interstellar_alliance_social_experiment_step_3-0.2.3-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.2.2",
+          "extVersion": "0.2.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039512/interstellar_alliance_social_experiment_step_3-0.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039521/interstellar_alliance_social_experiment_step_3-0.2.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9572,18 +9572,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "1.1.1",
+          "extVersion": "1.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039226/link_check-1.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039520/link_check-1.4.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.1.1",
+          "extVersion": "1.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039226/link_check-1.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039520/link_check-1.4.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -11767,18 +11767,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "1.4.0",
+          "extVersion": "1.4.0.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039497/eule_fur_exchange-1.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039518/eule_fur_exchange-1.4.0.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.4.0",
+          "extVersion": "1.4.0.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039497/eule_fur_exchange-1.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039518/eule_fur_exchange-1.4.0.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -12560,18 +12560,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "6.10.4",
+          "extVersion": "6.11",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038448/quickfolders_tabbed_folders-6.10.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039511/quickfolders_tabbed_folders-6.11-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "6.10.4",
+          "extVersion": "6.11",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038448/quickfolders_tabbed_folders-6.10.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039511/quickfolders_tabbed_folders-6.11-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14766,18 +14766,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "1.0.16",
+          "extVersion": "1.0.20",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039517/strikethrough_button-1.0.16-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039523/strikethrough_button-1.0.20-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.0.16",
+          "extVersion": "1.0.20",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039517/strikethrough_button-1.0.16-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039523/strikethrough_button-1.0.20-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
