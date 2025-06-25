@@ -1,5 +1,5 @@
 {
-  "generated": 1750801020157,
+  "generated": 1750887393716,
   "supported_versions": [
     68,
     78,
@@ -7089,18 +7089,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "1.8.4",
+          "extVersion": "1.8.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039516/extract_em-1.8.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039526/extract_em-1.8.5-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.8.4",
+          "extVersion": "1.8.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039516/extract_em-1.8.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039526/extract_em-1.8.5-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -11329,18 +11329,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "1.9",
+          "extVersion": "1.10",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038567/ollama_summarizer-1.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039528/ollama_summarizer-1.10-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.9",
+          "extVersion": "1.10",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038567/ollama_summarizer-1.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039528/ollama_summarizer-1.10-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -12560,18 +12560,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "6.11",
+          "extVersion": "6.11.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039511/quickfolders_tabbed_folders-6.11-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039527/quickfolders_tabbed_folders-6.11.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "6.11",
+          "extVersion": "6.11.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039511/quickfolders_tabbed_folders-6.11-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039527/quickfolders_tabbed_folders-6.11.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13167,6 +13167,33 @@
         {
           "appVersion": "128",
           "type": "current-esr"
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "replyagentteam@gmail.com",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989024-32.png?modified=97646e3f",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989024-64.png?modified=97646e3f"
+      },
+      "compat": [
+        {
+          "appVersion": "139",
+          "type": "release",
+          "extVersion": "1.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039525/replyagent-1.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "1.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039525/replyagent-1.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
