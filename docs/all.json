@@ -1,5 +1,5 @@
 {
-  "generated": 1750887393716,
+  "generated": 1750973759696,
   "supported_versions": [
     68,
     78,
@@ -3897,18 +3897,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "2.0.6",
+          "extVersion": "2.0.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039495/autofile_fast_e_mail_to_folder_filing-2.0.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039530/autofile_fast_e_mail_to_folder_filing-2.0.7-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "2.0.6",
+          "extVersion": "2.0.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039495/autofile_fast_e_mail_to_folder_filing-2.0.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039530/autofile_fast_e_mail_to_folder_filing-2.0.7-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -5724,18 +5724,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "0.0.9",
+          "extVersion": "0.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035395/daily_reports-0.0.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039531/daily_reports-0.1.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.0.9",
+          "extVersion": "0.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035395/daily_reports-0.0.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039531/daily_reports-0.1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7270,18 +7270,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "5.2",
+          "extVersion": "5.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038572/filtaquilla-5.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039529/filtaquilla-5.3-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "5.2",
+          "extVersion": "5.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038572/filtaquilla-5.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039529/filtaquilla-5.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
