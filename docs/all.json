@@ -1,5 +1,5 @@
 {
-  "generated": 1750973759696,
+  "generated": 1751060018372,
   "supported_versions": [
     68,
     78,
@@ -8436,18 +8436,18 @@
         {
           "appVersion": "139",
           "type": "release",
-          "extVersion": "0.2.3",
+          "extVersion": "0.2.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039521/interstellar_alliance_social_experiment_step_3-0.2.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039543/interstellar_alliance_social_experiment_step_3-0.2.4-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.2.3",
+          "extVersion": "0.2.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039521/interstellar_alliance_social_experiment_step_3-0.2.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039543/interstellar_alliance_social_experiment_step_3-0.2.4-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
