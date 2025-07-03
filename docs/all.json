@@ -1,5 +1,5 @@
 {
-  "generated": 1751492077258,
+  "generated": 1751578411382,
   "supported_versions": [
     68,
     78,
@@ -910,8 +910,8 @@
     {
       "id": "{786abda0-fd14-d247-bf69-38b2fc18491b}",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/1/1279-32.png?modified=1732132539",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/1/1279-64.png?modified=1732132539"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/1/1279-32.png?modified=1751543606",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/1/1279-64.png?modified=1751543606"
       },
       "compat": [
         {
@@ -8432,18 +8432,18 @@
         {
           "appVersion": "140",
           "type": "release",
-          "extVersion": "0.2.4",
+          "extVersion": "0.2.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039543/interstellar_alliance_social_experiment_step_3-0.2.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039839/interstellar_alliance_social_experiment_step_3-0.2.5-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.2.4",
+          "extVersion": "0.2.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039543/interstellar_alliance_social_experiment_step_3-0.2.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039839/interstellar_alliance_social_experiment_step_3-0.2.5-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9756,7 +9756,11 @@
       "compat": [
         {
           "appVersion": "140",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039308/logout-3.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -11063,7 +11067,11 @@
       "compat": [
         {
           "appVersion": "140",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.0.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1023037/no_message_pane_sort-3.0.2-tb.xpi?src="
         },
         {
           "appVersion": "128",
