@@ -1,5 +1,5 @@
 {
-  "generated": 1751578411382,
+  "generated": 1751751245164,
   "supported_versions": [
     68,
     78,
@@ -3269,18 +3269,18 @@
         {
           "appVersion": "140",
           "type": "release",
-          "extVersion": "0.91",
+          "extVersion": "0.92",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038444/ai_mail_support-0.91-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039847/ai_mail_support-0.92-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.91",
+          "extVersion": "0.92",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038444/ai_mail_support-0.91-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039847/ai_mail_support-0.92-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -3947,18 +3947,18 @@
         {
           "appVersion": "140",
           "type": "release",
-          "extVersion": "4.5.0",
+          "extVersion": "4.6.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039302/automatic_dictionary-4.5.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039846/automatic_dictionary-4.6.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "4.5.0",
+          "extVersion": "4.6.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039302/automatic_dictionary-4.5.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039846/automatic_dictionary-4.6.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -5005,18 +5005,18 @@
         {
           "appVersion": "140",
           "type": "release",
-          "extVersion": "3.6",
+          "extVersion": "3.7",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039044/clear_history_button-3.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039698/clear_history_button-3.7-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.6",
+          "extVersion": "3.7",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039044/clear_history_button-3.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039698/clear_history_button-3.7-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9757,18 +9757,18 @@
         {
           "appVersion": "140",
           "type": "release",
-          "extVersion": "3.1",
+          "extVersion": "3.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039308/logout-3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039835/logout-3.2-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.1",
+          "extVersion": "3.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039308/logout-3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039835/logout-3.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
