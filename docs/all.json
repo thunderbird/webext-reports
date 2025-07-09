@@ -1,5 +1,5 @@
 {
-  "generated": 1752010574093,
+  "generated": 1752096998373,
   "supported_versions": [
     68,
     78,
@@ -971,26 +971,26 @@
         {
           "appVersion": "140",
           "type": "release",
-          "extVersion": "1.24.2",
+          "extVersion": "1.25.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037672/10ten_japanese_reader_rikaichamp-1.24.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039841/10ten_japanese_reader_rikaichamp-1.25.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "1.24.2",
+          "extVersion": "1.25.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037672/10ten_japanese_reader_rikaichamp-1.24.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039841/10ten_japanese_reader_rikaichamp-1.25.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.24.2",
+          "extVersion": "1.25.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037672/10ten_japanese_reader_rikaichamp-1.24.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039841/10ten_japanese_reader_rikaichamp-1.25.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -5791,26 +5791,26 @@
         {
           "appVersion": "140",
           "type": "release",
-          "extVersion": "100.0",
+          "extVersion": "100.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039073/cardbook-100.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039837/cardbook-100.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "100.0",
+          "extVersion": "100.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039073/cardbook-100.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039837/cardbook-100.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "100.0",
+          "extVersion": "100.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039073/cardbook-100.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039837/cardbook-100.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -5895,15 +5895,27 @@
       "compat": [
         {
           "appVersion": "140",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.9.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039849/cb_thunderlink-1.9.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "1.9.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039849/cb_thunderlink-1.9.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
-          "type": "current-esr"
+          "type": "current-esr",
+          "extVersion": "1.9.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039849/cb_thunderlink-1.9.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -6244,19 +6256,27 @@
       "compat": [
         {
           "appVersion": "140",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039880/anhang_aus_zwischenablage-2.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "2.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039880/anhang_aus_zwischenablage-2.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "2",
+          "extVersion": "2.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037513/anhang_aus_zwischenablage-2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039880/anhang_aus_zwischenablage-2.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13789,26 +13809,26 @@
         {
           "appVersion": "140",
           "type": "release",
-          "extVersion": "1.1",
+          "extVersion": "2.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1029667/mytickets-1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039872/mytickets-2.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "1.1",
+          "extVersion": "2.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1029667/mytickets-1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039872/mytickets-2.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.1",
+          "extVersion": "2.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1029667/mytickets-1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039872/mytickets-2.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14716,6 +14736,41 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1036375/openattachmentbyextension-0.10.5-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "opendetachedattachments@ggbs.de",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989021-32.png?modified=7fea8cac",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989021-64.png?modified=7fea8cac"
+      },
+      "compat": [
+        {
+          "appVersion": "140",
+          "type": "release",
+          "extVersion": "3.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039833/opendetachedattachments-3.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "next-esr",
+          "extVersion": "3.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039833/opendetachedattachments-3.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "3.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039833/opendetachedattachments-3.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15754,19 +15809,27 @@
       "compat": [
         {
           "appVersion": "140",
-          "type": "release"
+          "type": "release",
+          "extVersion": "0.14.9",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039865/qnote-0.14.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "0.14.9",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039865/qnote-0.14.9-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.14.8",
+          "extVersion": "0.14.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039046/qnote-0.14.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039865/qnote-0.14.9-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -17037,6 +17100,37 @@
       "badges": []
     },
     {
+      "id": "retrieveRemoteAvatar@com.melissaautumn",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989042-32.png?modified=3452b5fc",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989042-64.png?modified=3452b5fc"
+      },
+      "compat": [
+        {
+          "appVersion": "140",
+          "type": "release",
+          "extVersion": "1.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039619/retrieve_remote_avatar-1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "next-esr",
+          "extVersion": "1.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039619/retrieve_remote_avatar-1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr"
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "riseofthetools@rsjtdrjgfuzkfg.com",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/367/367989-32.png?modified=1694636402",
@@ -17326,6 +17420,41 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039057/sage-1.0-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "saleforce@jaise.in",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989049-32.png?modified=2b146d99",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989049-64.png?modified=2b146d99"
+      },
+      "compat": [
+        {
+          "appVersion": "140",
+          "type": "release",
+          "extVersion": "0.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039876/sales_force_weblink-0.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "next-esr",
+          "extVersion": "0.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039876/sales_force_weblink-0.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "0.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039876/sales_force_weblink-0.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -18142,26 +18271,26 @@
         {
           "appVersion": "140",
           "type": "release",
-          "extVersion": "4.2.0",
+          "extVersion": "4.2.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031406/signal_spam-4.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039851/signal_spam-4.2.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "4.2.0",
+          "extVersion": "4.2.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031406/signal_spam-4.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039851/signal_spam-4.2.2-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "4.2.0",
+          "extVersion": "4.2.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031406/signal_spam-4.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039851/signal_spam-4.2.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -18247,26 +18376,26 @@
         {
           "appVersion": "140",
           "type": "release",
-          "extVersion": "1.48",
+          "extVersion": "1.49",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1034264/simple_mail_redirection-1.48-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039836/simple_mail_redirection-1.49-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "1.48",
+          "extVersion": "1.49",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1034264/simple_mail_redirection-1.48-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039836/simple_mail_redirection-1.49-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.48",
+          "extVersion": "1.49",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1034264/simple_mail_redirection-1.48-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039836/simple_mail_redirection-1.49-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -18511,26 +18640,26 @@
         {
           "appVersion": "140",
           "type": "release",
-          "extVersion": "3.3.0",
+          "extVersion": "3.2.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031432/spambee-3.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039852/spambee-3.2.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "3.3.0",
+          "extVersion": "3.2.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031432/spambee-3.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039852/spambee-3.2.3-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.3.0",
+          "extVersion": "3.2.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031432/spambee-3.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039852/spambee-3.2.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
