@@ -1,5 +1,5 @@
 {
-  "generated": 1752096998373,
+  "generated": 1752183499130,
   "supported_versions": [
     68,
     78,
@@ -17435,26 +17435,26 @@
         {
           "appVersion": "140",
           "type": "release",
-          "extVersion": "0.2",
+          "extVersion": "0.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039876/sales_force_weblink-0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039885/sales_force_weblink-0.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "0.2",
+          "extVersion": "0.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039876/sales_force_weblink-0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039885/sales_force_weblink-0.3-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.2",
+          "extVersion": "0.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039876/sales_force_weblink-0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039885/sales_force_weblink-0.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -22459,19 +22459,27 @@
       "compat": [
         {
           "appVersion": "140",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.14",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039884/warnattachment-2.14-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "2.14",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039884/warnattachment-2.14-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "2.13",
+          "extVersion": "2.14",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030818/warnattachment-2.13-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039884/warnattachment-2.14-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
