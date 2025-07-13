@@ -1,5 +1,5 @@
 {
-  "generated": 1752269673144,
+  "generated": 1752442424194,
   "supported_versions": [
     68,
     78,
@@ -4149,26 +4149,26 @@
         {
           "appVersion": "140",
           "type": "release",
-          "extVersion": "0.92",
+          "extVersion": "0.93",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039847/ai_mail_support-0.92-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039958/ai_mail_support-0.93-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "0.92",
+          "extVersion": "0.93",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039847/ai_mail_support-0.92-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039958/ai_mail_support-0.93-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.92",
+          "extVersion": "0.93",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039847/ai_mail_support-0.92-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039958/ai_mail_support-0.93-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7723,26 +7723,26 @@
         {
           "appVersion": "140",
           "type": "release",
-          "extVersion": "6.1.0",
+          "extVersion": "6.2.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038573/disable_draganddrop_new-6.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039957/disable_draganddrop_new-6.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "6.1.0",
+          "extVersion": "6.2.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038573/disable_draganddrop_new-6.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039957/disable_draganddrop_new-6.2.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "6.1.0",
+          "extVersion": "6.2.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038573/disable_draganddrop_new-6.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039957/disable_draganddrop_new-6.2.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
