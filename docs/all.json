@@ -1,5 +1,5 @@
 {
-  "generated": 1752442424194,
+  "generated": 1752529169411,
   "supported_versions": [
     68,
     78,
@@ -2333,11 +2333,19 @@
       "compat": [
         {
           "appVersion": "140",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.3.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038461/eds_calendar_integration-1.3.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "1.3.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038461/eds_calendar_integration-1.3.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -15984,19 +15992,27 @@
       "compat": [
         {
           "appVersion": "140",
-          "type": "release"
+          "type": "release",
+          "extVersion": "14",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039963/quick_filter_by-14-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "14",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039963/quick_filter_by-14-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "13",
+          "extVersion": "14",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039051/quick_filter_by-13-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039963/quick_filter_by-14-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
