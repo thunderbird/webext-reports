@@ -1,5 +1,5 @@
 {
-  "generated": 1752615476539,
+  "generated": 1752701719512,
   "supported_versions": [
     68,
     78,
@@ -22539,6 +22539,41 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1016746/weatherlicious-2.0-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "web@lightsaberpromotions.com",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989063-32.png?modified=ddd4b7de",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989063-64.png?modified=ddd4b7de"
+      },
+      "compat": [
+        {
+          "appVersion": "140",
+          "type": "release",
+          "extVersion": "1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040045/lsp_rewrap-1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "next-esr",
+          "extVersion": "1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040045/lsp_rewrap-1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040045/lsp_rewrap-1.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
