@@ -1,5 +1,5 @@
 {
-  "generated": 1752788169896,
+  "generated": 1752874463182,
   "supported_versions": [
     68,
     78,
@@ -5799,26 +5799,26 @@
         {
           "appVersion": "140",
           "type": "release",
-          "extVersion": "100.2",
+          "extVersion": "100.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039961/cardbook-100.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040041/cardbook-100.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "100.2",
+          "extVersion": "100.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039961/cardbook-100.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040041/cardbook-100.3-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "100.2",
+          "extVersion": "100.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039961/cardbook-100.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040041/cardbook-100.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -12817,11 +12817,19 @@
       "compat": [
         {
           "appVersion": "140",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.7.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031426/mailmindr-1.7.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "1.7.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031426/mailmindr-1.7.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -17878,26 +17886,26 @@
         {
           "appVersion": "140",
           "type": "release",
-          "extVersion": "3.1.1",
+          "extVersion": "3.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039868/thunderbird_send_stage-3.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040055/thunderbird_send_stage-3.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "3.1.1",
+          "extVersion": "3.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039868/thunderbird_send_stage-3.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040055/thunderbird_send_stage-3.2.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.1.1",
+          "extVersion": "3.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039868/thunderbird_send_stage-3.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040055/thunderbird_send_stage-3.2.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -18932,26 +18940,26 @@
         {
           "appVersion": "140",
           "type": "release",
-          "extVersion": "1.3",
+          "extVersion": "1.7.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039541/j_lawyerorg_thunderbird_extension-1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039972/j_lawyerorg_thunderbird_extension-1.7.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "1.3",
+          "extVersion": "1.7.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039541/j_lawyerorg_thunderbird_extension-1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039972/j_lawyerorg_thunderbird_extension-1.7.3-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.3",
+          "extVersion": "1.7.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039541/j_lawyerorg_thunderbird_extension-1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039972/j_lawyerorg_thunderbird_extension-1.7.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -21621,19 +21629,27 @@
       "compat": [
         {
           "appVersion": "140",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.6",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040052/toggle_line_wrap-1.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "1.6",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040052/toggle_line_wrap-1.6-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.5.2",
+          "extVersion": "1.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031308/toggle_line_wrap-1.5.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040052/toggle_line_wrap-1.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
