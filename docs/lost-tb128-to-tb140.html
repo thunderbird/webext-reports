@@ -1,0 +1,723 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <title>Thunderbird Add-on Database Analysis</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="includes/style.css">
+    <link rel="stylesheet" href="includes/table.css">
+</head>
+
+<body>
+    <div class="banner">
+        <a href="/webext-reports/"><img class="banner-image" src="includes/Thunderbird-Banner.png"
+            style="padding-right: 60px; height: 40px; width: 170px" /></a>
+        <label class="banner-header">Extensions which have been lost from TB128 to TB140, as seen by ATN. (33)</label>
+        <label class="banner-header-rt">2025-07-22</label>
+    </div>
+    <div>
+        <hr />
+        <br />
+    </div>
+
+    <div class="container">
+        <table class="datatable">
+            <thead>
+                
+    <tr>
+        <th style="text-align: right">#</th>
+        <th style="text-align: right">Id</th>
+        <th style="text-align: left" >Name</th>
+        <th style="text-align: right">Users</th>
+        <th style="text-align: right">TB78</th>
+<th style="text-align: right">TB91</th>
+<th style="text-align: right">TB102</th>
+<th style="text-align: right">TB115</th>
+<th style="text-align: right">TB128</th>
+<th style="text-align: right">TB140</th>
+<th style="text-align: right">TB141</th>
+        <th style="text-align: right">Activity</th>
+        <th style="text-align: right">Current</th>
+        <th style="text-align: right">Min (ATN)</th>
+        <th style="text-align: right">Max (XPI)</th>
+        <th style="text-align: right">Max (ATN)</th>
+        <th style="text-align: right;">Notes</th>
+    </tr>
+            </thead>
+            <tbody>
+                
+		<tr>
+		  <td style="text-align: right" valign="top">5</td>
+		  <td style="text-align: right" valign="top">640</td>
+		  <td style="text-align: left"  valign="top"><a id="640-quicktext" href="https://addons.thunderbird.net/en-US/thunderbird/addon/quicktext/">Quicktext</a></td>
+		  <td style="text-align: right" valign="top">90594</td>
+		  <td style="text-align: right" valign="top">3.6<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener&#10; - LegacyPrefs'></td>
+<td style="text-align: right" valign="top">4.3<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener&#10; - NotifyTools&#10; - LegacyPrefs'></td>
+<td style="text-align: right" valign="top">5.10<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener&#10; - NotifyTools&#10; - LegacyPrefs'></td>
+<td style="text-align: right" valign="top">5.16<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener&#10; - NotifyTools&#10; - LegacyPrefs'></td>
+<td style="text-align: right" valign="top">5.21<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - LegacyHelper&#10; - NotifyTools&#10; - LegacyPrefs&#10; - Quicktext'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2025-04-20</td>
+		  <td style="text-align: right" valign="top">5.21<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - LegacyHelper&#10; - NotifyTools&#10; - LegacyPrefs&#10; - Quicktext'></td>
+		  <td style="text-align: right" valign="top">128.0</td>
+		  <td style="text-align: right" valign="top">138.*</td>
+		  <td style="text-align: right" valign="top">138.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">14</td>
+		  <td style="text-align: right" valign="top">773590</td>
+		  <td style="text-align: left"  valign="top"><a id="773590-tbsync" href="https://addons.thunderbird.net/en-US/thunderbird/addon/tbsync/">TbSync</a></td>
+		  <td style="text-align: right" valign="top">43879</td>
+		  <td style="text-align: right" valign="top">2.22<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-BL-blue.svg' title='Experiment APIs: &#10; - BootstrapLoader'></td>
+<td style="text-align: right" valign="top">3.0.2<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-BL-blue.svg' title='Experiment APIs: &#10; - BootstrapLoader'></td>
+<td style="text-align: right" valign="top">4.7<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-BL-blue.svg' title='Experiment APIs: &#10; - BootstrapLoader'></td>
+<td style="text-align: right" valign="top">4.8<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-BL-blue.svg' title='Experiment APIs: &#10; - BootstrapLoader'></td>
+<td style="text-align: right" valign="top">4.11<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-BL-blue.svg' title='Experiment APIs: &#10; - BootstrapLoader'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2025-03-15</td>
+		  <td style="text-align: right" valign="top">4.15<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - LegacyHelper&#10; - TbSync'></td>
+		  <td style="text-align: right" valign="top">136.0</td>
+		  <td style="text-align: right" valign="top">138.*</td>
+		  <td style="text-align: right" valign="top">138.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">23</td>
+		  <td style="text-align: right" valign="top">986338</td>
+		  <td style="text-align: left"  valign="top"><a id="986338-eas-4-tbsync" href="https://addons.thunderbird.net/en-US/thunderbird/addon/eas-4-tbsync/">Provider for Exchange ActiveSync</a></td>
+		  <td style="text-align: right" valign="top">23167</td>
+		  <td style="text-align: right" valign="top">1.20<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-BL-blue.svg' title='Experiment APIs: &#10; - BootstrapLoader'></td>
+<td style="text-align: right" valign="top">2.0.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-BL-blue.svg' title='Experiment APIs: &#10; - BootstrapLoader'></td>
+<td style="text-align: right" valign="top">4.8<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-BL-blue.svg' title='Experiment APIs: &#10; - BootstrapLoader'></td>
+<td style="text-align: right" valign="top">4.8<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-BL-blue.svg' title='Experiment APIs: &#10; - BootstrapLoader'></td>
+<td style="text-align: right" valign="top">4.12<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-BL-blue.svg' title='Experiment APIs: &#10; - BootstrapLoader'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2025-03-17</td>
+		  <td style="text-align: right" valign="top">4.16<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - LegacyHelper&#10; - EAS4TbSync'></td>
+		  <td style="text-align: right" valign="top">136.0</td>
+		  <td style="text-align: right" valign="top">138.*</td>
+		  <td style="text-align: right" valign="top">138.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">42</td>
+		  <td style="text-align: right" valign="top">4970</td>
+		  <td style="text-align: left"  valign="top"><a id="4970-tag-toolbar" href="https://addons.thunderbird.net/en-US/thunderbird/addon/tag-toolbar/">Tag Toolbar / Tag Popup</a></td>
+		  <td style="text-align: right" valign="top">11456</td>
+		  <td style="text-align: right" valign="top">2.1.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - tagPopupApi'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top">2.3.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - tagPopupApi'></td>
+<td style="text-align: right" valign="top">2.4.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - tagPopupApi'></td>
+<td style="text-align: right" valign="top">2.4.7<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - tagPopupApi'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2025-03-23</td>
+		  <td style="text-align: right" valign="top">2.4.7<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - tagPopupApi'></td>
+		  <td style="text-align: right" valign="top">128.0</td>
+		  <td style="text-align: right" valign="top">136.*</td>
+		  <td style="text-align: right" valign="top">138.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">48</td>
+		  <td style="text-align: right" valign="top">11005</td>
+		  <td style="text-align: left"  valign="top"><a id="11005-shrunked-image-resizer" href="https://addons.thunderbird.net/en-US/thunderbird/addon/shrunked-image-resizer/">Shrunked Image Resizer</a></td>
+		  <td style="text-align: right" valign="top">9849</td>
+		  <td style="text-align: right" valign="top">5.0.2<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - shrunked'></td>
+<td style="text-align: right" valign="top">5.0.4<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - shrunked'></td>
+<td style="text-align: right" valign="top">5.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - shrunked'></td>
+<td style="text-align: right" valign="top">5.1.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - shrunked'></td>
+<td style="text-align: right" valign="top">5.1.3<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - shrunked'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2024-08-10</td>
+		  <td style="text-align: right" valign="top">5.1.3<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - shrunked'></td>
+		  <td style="text-align: right" valign="top">128.0</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right" valign="top">130.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">52</td>
+		  <td style="text-align: right" valign="top">90003</td>
+		  <td style="text-align: left"  valign="top"><a id="90003-localfolder" href="https://addons.thunderbird.net/en-US/thunderbird/addon/localfolder/">LocalFolders</a></td>
+		  <td style="text-align: right" valign="top">9478</td>
+		  <td style="text-align: right" valign="top">3.0.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener'></td>
+<td style="text-align: right" valign="top">4.0.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener&#10; - NotifyTools'></td>
+<td style="text-align: right" valign="top">4.0.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener&#10; - NotifyTools'></td>
+<td style="text-align: right" valign="top">4.1.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener&#10; - NotifyTools'></td>
+<td style="text-align: right" valign="top">4.1.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener&#10; - NotifyTools'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2024-06-14</td>
+		  <td style="text-align: right" valign="top">4.1.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener&#10; - NotifyTools'></td>
+		  <td style="text-align: right" valign="top">115.0</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">69</td>
+		  <td style="text-align: right" valign="top">988096</td>
+		  <td style="text-align: left"  valign="top"><a id="988096-attachment-extractor" href="https://addons.thunderbird.net/en-US/thunderbird/addon/attachment-extractor/">Attachment Extractor</a><br> &#8627; <a href="https://addons.thunderbird.net/addon/extract-em/">Extract 'Em!</a></td>
+		  <td style="text-align: right" valign="top">5666</td>
+		  <td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top">1.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - attachmentExtractorApi'></td>
+<td style="text-align: right" valign="top">1.7<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - attachmentExtractorApi'></td>
+<td style="text-align: right" valign="top">1.7<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - attachmentExtractorApi'></td>
+<td style="text-align: right" valign="top">1.8.2<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - attachmentExtractorApi'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2024-09-29</td>
+		  <td style="text-align: right" valign="top">1.8.2<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - attachmentExtractorApi'></td>
+		  <td style="text-align: right" valign="top">125.0</td>
+		  <td style="text-align: right" valign="top">130.*</td>
+		  <td style="text-align: right" valign="top">130.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">71</td>
+		  <td style="text-align: right" valign="top">988090</td>
+		  <td style="text-align: left"  valign="top"><a id="988090-google-4-tbsync" href="https://addons.thunderbird.net/en-US/thunderbird/addon/google-4-tbsync/">Google-4-TbSync</a></td>
+		  <td style="text-align: right" valign="top">5550</td>
+		  <td style="text-align: right" valign="top">0.1.8<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-BL-blue.svg' title='Experiment APIs: &#10; - BootstrapLoader'></td>
+<td style="text-align: right" valign="top">0.3.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-BL-blue.svg' title='Experiment APIs: &#10; - BootstrapLoader'></td>
+<td style="text-align: right" valign="top">0.6.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-BL-blue.svg' title='Experiment APIs: &#10; - BootstrapLoader'></td>
+<td style="text-align: right" valign="top">0.6.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-BL-blue.svg' title='Experiment APIs: &#10; - BootstrapLoader'></td>
+<td style="text-align: right" valign="top">0.7.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-BL-blue.svg' title='Experiment APIs: &#10; - BootstrapLoader'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2025-05-07</td>
+		  <td style="text-align: right" valign="top">0.8.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - LegacyHelper&#10; - Google4TbSync'></td>
+		  <td style="text-align: right" valign="top">136.0</td>
+		  <td style="text-align: right" valign="top">138.*</td>
+		  <td style="text-align: right" valign="top">138.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">74</td>
+		  <td style="text-align: right" valign="top">1279</td>
+		  <td style="text-align: left"  valign="top"><a id="1279-xpunge" href="https://addons.thunderbird.net/en-US/thunderbird/addon/xpunge/">Xpunge</a></td>
+		  <td style="text-align: right" valign="top">5426</td>
+		  <td style="text-align: right" valign="top">2.1.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener&#10; - XpungeAPI'></td>
+<td style="text-align: right" valign="top">3.0.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener&#10; - XpungeAPI'></td>
+<td style="text-align: right" valign="top">3.0.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener&#10; - XpungeAPI'></td>
+<td style="text-align: right" valign="top">4.0.2<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener&#10; - XpungeAPI'></td>
+<td style="text-align: right" valign="top">5.0.2<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - Xpunge&#10; - LegacyPrefsMigrator'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2024-11-13</td>
+		  <td style="text-align: right" valign="top">5.0.2<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - Xpunge&#10; - LegacyPrefsMigrator'></td>
+		  <td style="text-align: right" valign="top">128.2.0</td>
+		  <td style="text-align: right" valign="top">131.*</td>
+		  <td style="text-align: right" valign="top">139.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">88</td>
+		  <td style="text-align: right" valign="top">987888</td>
+		  <td style="text-align: left"  valign="top"><a id="987888-msghdr-toolbar-customize" href="https://addons.thunderbird.net/en-US/thunderbird/addon/msghdr-toolbar-customize/">Message Header Toolbar Customize</a></td>
+		  <td style="text-align: right" valign="top">3965</td>
+		  <td style="text-align: right" valign="top">2.2.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - msgHdrCustomizeApi'></td>
+<td style="text-align: right" valign="top">2.2.2<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - msgHdrCustomizeApi'></td>
+<td style="text-align: right" valign="top">2.3.6<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - msgHdrCustomizeApi'></td>
+<td style="text-align: right" valign="top">2.4.3<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - msgHdrCustomizeApi'></td>
+<td style="text-align: right" valign="top">2.4.4<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - msgHdrCustomizeApi'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2025-03-23</td>
+		  <td style="text-align: right" valign="top">2.4.4<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - msgHdrCustomizeApi'></td>
+		  <td style="text-align: right" valign="top">128.0</td>
+		  <td style="text-align: right" valign="top">136.*</td>
+		  <td style="text-align: right" valign="top">138.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">115</td>
+		  <td style="text-align: right" valign="top">1898</td>
+		  <td style="text-align: left"  valign="top"><a id="1898-folderflags" href="https://addons.thunderbird.net/en-US/thunderbird/addon/folderflags/">FolderFlags</a></td>
+		  <td style="text-align: right" valign="top">2584</td>
+		  <td style="text-align: right" valign="top">1.6.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener'></td>
+<td style="text-align: right" valign="top">1.6.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener'></td>
+<td style="text-align: right" valign="top">1.6.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener'></td>
+<td style="text-align: right" valign="top">1.6.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener'></td>
+<td style="text-align: right" valign="top">1.7.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - FolderFlags'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2024-08-05</td>
+		  <td style="text-align: right" valign="top">1.7.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - FolderFlags'></td>
+		  <td style="text-align: right" valign="top">128.0</td>
+		  <td style="text-align: right" valign="top">130.*</td>
+		  <td style="text-align: right" valign="top">130.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">119</td>
+		  <td style="text-align: right" valign="top">6533</td>
+		  <td style="text-align: left"  valign="top"><a id="6533-threadvis" href="https://addons.thunderbird.net/en-US/thunderbird/addon/threadvis/">ThreadVis</a></td>
+		  <td style="text-align: right" valign="top">2468</td>
+		  <td style="text-align: right" valign="top">3.1.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - LegacyPref&#10; - LegacyAccountsFolders&#10; - WindowListener'></td>
+<td style="text-align: right" valign="top">3.3.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - LegacyPref&#10; - LegacyAccountsFolders&#10; - WindowListener&#10; - NotifyTools'></td>
+<td style="text-align: right" valign="top">3.4.2<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - LegacyPref&#10; - LegacyAccountsFolders&#10; - WindowListener&#10; - NotifyTools'></td>
+<td style="text-align: right" valign="top">3.5.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - LegacyPref&#10; - LegacyAccountsFolders&#10; - WindowListener&#10; - NotifyTools'></td>
+<td style="text-align: right" valign="top">3.6.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - LegacyPref&#10; - LegacyAccountsFolders&#10; - WindowListener&#10; - NotifyTools'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2024-08-31</td>
+		  <td style="text-align: right" valign="top">3.6.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - LegacyPref&#10; - LegacyAccountsFolders&#10; - WindowListener&#10; - NotifyTools'></td>
+		  <td style="text-align: right" valign="top">128.0</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">152</td>
+		  <td style="text-align: right" valign="top">769143</td>
+		  <td style="text-align: left"  valign="top"><a id="769143-lightning-invitation-notifier" href="https://addons.thunderbird.net/en-US/thunderbird/addon/lightning-invitation-notifier/">Lightning Invitation Notifier | LIN</a></td>
+		  <td style="text-align: right" valign="top">1475</td>
+		  <td style="text-align: right" valign="top">136.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener'></td>
+<td style="text-align: right" valign="top">136.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener'></td>
+<td style="text-align: right" valign="top">136.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener'></td>
+<td style="text-align: right" valign="top">136.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener'></td>
+<td style="text-align: right" valign="top">136.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2025-03-20</td>
+		  <td style="text-align: right" valign="top">136.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener'></td>
+		  <td style="text-align: right" valign="top">78.0</td>
+		  <td style="text-align: right" valign="top">136.*</td>
+		  <td style="text-align: right" valign="top">136.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">183</td>
+		  <td style="text-align: right" valign="top">988108</td>
+		  <td style="text-align: left"  valign="top"><a id="988108-openpgp-alias-updater" href="https://addons.thunderbird.net/en-US/thunderbird/addon/openpgp-alias-updater/">OpenPGP Alias Updater</a></td>
+		  <td style="text-align: right" valign="top">916</td>
+		  <td style="text-align: right" valign="top">0.3i<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - moveFile'></td>
+<td style="text-align: right" valign="top">0.3i<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - moveFile'></td>
+<td style="text-align: right" valign="top">0.3i<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - moveFile'></td>
+<td style="text-align: right" valign="top">0.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - moveFile'></td>
+<td style="text-align: right" valign="top">0.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - moveFile'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2024-08-09</td>
+		  <td style="text-align: right" valign="top">0.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - moveFile'></td>
+		  <td style="text-align: right" valign="top">115.0</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">226</td>
+		  <td style="text-align: right" valign="top">407832</td>
+		  <td style="text-align: left"  valign="top"><a id="407832-filter-button" href="https://addons.thunderbird.net/en-US/thunderbird/addon/filter-button/">Filter Button</a></td>
+		  <td style="text-align: right" valign="top">657</td>
+		  <td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top">2.0.3<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - ex_cachingfix&#10; - filters'></td>
+<td style="text-align: right" valign="top">2.0.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - filters'></td>
+<td style="text-align: right" valign="top">2.0.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - filters'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2024-08-08</td>
+		  <td style="text-align: right" valign="top">2.0.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - filters'></td>
+		  <td style="text-align: right" valign="top">115.0</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">236</td>
+		  <td style="text-align: right" valign="top">987821</td>
+		  <td style="text-align: left"  valign="top"><a id="987821-openattachmentbyextension" href="https://addons.thunderbird.net/en-US/thunderbird/addon/openattachmentbyextension/">OpenAttachmentByExtension</a></td>
+		  <td style="text-align: right" valign="top">609</td>
+		  <td style="text-align: right" valign="top">0.10.4<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - oabeApi'></td>
+<td style="text-align: right" valign="top">0.10.4<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - oabeApi'></td>
+<td style="text-align: right" valign="top">0.10.4<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - oabeApi'></td>
+<td style="text-align: right" valign="top">0.10.4<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - oabeApi'></td>
+<td style="text-align: right" valign="top">0.10.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - oabeApi'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2025-01-30</td>
+		  <td style="text-align: right" valign="top">0.10.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - oabeApi'></td>
+		  <td style="text-align: right" valign="top">128.0</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">241</td>
+		  <td style="text-align: right" valign="top">987729</td>
+		  <td style="text-align: left"  valign="top"><a id="987729-new-folder-filters-button" href="https://addons.thunderbird.net/en-US/thunderbird/addon/new-folder-filters-button/">New Folder Filters Button</a><br> &#8627; <a href="https://addons.thunderbird.net/addon/filter-on-folder-button/">Filter on Folder Button</a></td>
+		  <td style="text-align: right" valign="top">576</td>
+		  <td style="text-align: right" valign="top">3.3<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - ffb_api'></td>
+<td style="text-align: right" valign="top">3.3<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - ffb_api'></td>
+<td style="text-align: right" valign="top">3.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - ffb_api'></td>
+<td style="text-align: right" valign="top">3.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - ffb_api'></td>
+<td style="text-align: right" valign="top">3.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - ffb_api'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2024-11-17</td>
+		  <td style="text-align: right" valign="top">3.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - ffb_api'></td>
+		  <td style="text-align: right" valign="top">102.0</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">247</td>
+		  <td style="text-align: right" valign="top">161820</td>
+		  <td style="text-align: left"  valign="top"><a id="161820-alertswitch" href="https://addons.thunderbird.net/en-US/thunderbird/addon/alertswitch/">AlertSwitch</a></td>
+		  <td style="text-align: right" valign="top">526</td>
+		  <td style="text-align: right" valign="top">0.9.14<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener'></td>
+<td style="text-align: right" valign="top">0.9.14<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener'></td>
+<td style="text-align: right" valign="top">0.9.14<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-WL-blue.svg' title='Experiment APIs: &#10; - WindowListener'></td>
+<td style="text-align: right" valign="top">1.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - LegacyPrefs'></td>
+<td style="text-align: right" valign="top">1.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - LegacyPrefs'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2024-08-23</td>
+		  <td style="text-align: right" valign="top">1.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - LegacyPrefs'></td>
+		  <td style="text-align: right" valign="top">115.0</td>
+		  <td style="text-align: right" valign="top">130.*</td>
+		  <td style="text-align: right" valign="top">136.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">334</td>
+		  <td style="text-align: right" valign="top">986523</td>
+		  <td style="text-align: left"  valign="top"><a id="986523-hide-email-folders" href="https://addons.thunderbird.net/en-US/thunderbird/addon/hide-email-folders/">Hide Email Folders</a></td>
+		  <td style="text-align: right" valign="top">258</td>
+		  <td style="text-align: right" valign="top">3.0.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - myapi'></td>
+<td style="text-align: right" valign="top">4.0.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - myapi'></td>
+<td style="text-align: right" valign="top">5.0.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - myapi'></td>
+<td style="text-align: right" valign="top">7.0.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - LegacyCSS'></td>
+<td style="text-align: right" valign="top">7.0.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - LegacyCSS'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2024-07-15</td>
+		  <td style="text-align: right" valign="top">7.0.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - LegacyCSS'></td>
+		  <td style="text-align: right" valign="top">115.0</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">365</td>
+		  <td style="text-align: right" valign="top">559954</td>
+		  <td style="text-align: left"  valign="top"><a id="559954-tidybird" href="https://addons.thunderbird.net/en-US/thunderbird/addon/tidybird/">Tidybird</a></td>
+		  <td style="text-align: right" valign="top">216</td>
+		  <td style="text-align: right" valign="top">3.2.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - tidybird_api&#10; - folderListener&#10; - ex_customui'></td>
+<td style="text-align: right" valign="top">4.3.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - tidybird_api&#10; - ex_customui'></td>
+<td style="text-align: right" valign="top">4.6<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - tidybird_api&#10; - ex_customui'></td>
+<td style="text-align: right" valign="top">4.6<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - tidybird_api&#10; - ex_customui'></td>
+<td style="text-align: right" valign="top">4.7.2<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - tidybird_api&#10; - ex_customui'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2024-10-09</td>
+		  <td style="text-align: right" valign="top">4.7.2<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - tidybird_api&#10; - ex_customui'></td>
+		  <td style="text-align: right" valign="top">128.0</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">368</td>
+		  <td style="text-align: right" valign="top">988383</td>
+		  <td style="text-align: left"  valign="top"><a id="988383-get-map-for-thunderbird" href="https://addons.thunderbird.net/en-US/thunderbird/addon/get-map-for-thunderbird/">Get Map for Thunderbird</a></td>
+		  <td style="text-align: right" valign="top">212</td>
+		  <td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top">0.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - AB_helper'></td>
+<td style="text-align: right" valign="top">0.6<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - AB_helper'></td>
+<td style="text-align: right" valign="top">0.6<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - AB_helper'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2024-08-13</td>
+		  <td style="text-align: right" valign="top">0.6<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - AB_helper'></td>
+		  <td style="text-align: right" valign="top">115.0</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">370</td>
+		  <td style="text-align: right" valign="top">988572</td>
+		  <td style="text-align: left"  valign="top"><a id="988572-group-favorite-folders" href="https://addons.thunderbird.net/en-US/thunderbird/addon/group-favorite-folders/">Group Favorite Folders</a></td>
+		  <td style="text-align: right" valign="top">211</td>
+		  <td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top">0.4<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - CustomFolderGroup'></td>
+<td style="text-align: right" valign="top">0.4<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - CustomFolderGroup'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2025-03-13</td>
+		  <td style="text-align: right" valign="top">0.5.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - CustomFolderGroup'></td>
+		  <td style="text-align: right" valign="top">136.0</td>
+		  <td style="text-align: right" valign="top">138.*</td>
+		  <td style="text-align: right" valign="top">138.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">453</td>
+		  <td style="text-align: right" valign="top">988849</td>
+		  <td style="text-align: left"  valign="top"><a id="988849-events-from-mail-content" href="https://addons.thunderbird.net/en-US/thunderbird/addon/events-from-mail-content/">Create Calendar events from mail conte</a></td>
+		  <td style="text-align: right" valign="top">117</td>
+		  <td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top">0.8<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - calendar_calendars&#10; - calendar_items&#10; - calendar_provider&#10; - calendar_timezones&#10; - calendarItemAction&#10; - calendarItemDetails'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2025-01-14</td>
+		  <td style="text-align: right" valign="top">0.8<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - calendar_calendars&#10; - calendar_items&#10; - calendar_provider&#10; - calendar_timezones&#10; - calendarItemAction&#10; - calendarItemDetails'></td>
+		  <td style="text-align: right" valign="top">128.0</td>
+		  <td style="text-align: right" valign="top">129.0</td>
+		  <td style="text-align: right" valign="top">129.0</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">461</td>
+		  <td style="text-align: right" valign="top">988817</td>
+		  <td style="text-align: left"  valign="top"><a id="988817-deepl-write-for-selected-text" href="https://addons.thunderbird.net/en-US/thunderbird/addon/deepl-write-for-selected-text/">DeepL Writeで文章を改善</a></td>
+		  <td style="text-align: right" valign="top">111</td>
+		  <td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top">1.0.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2024-10-07</td>
+		  <td style="text-align: right" valign="top">1.0.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'></td>
+		  <td style="text-align: right" valign="top">128.0</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Pure WebExtension-570861.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">466</td>
+		  <td style="text-align: right" valign="top">988303</td>
+		  <td style="text-align: left"  valign="top"><a id="988303-tud-cert-phishing-report" href="https://addons.thunderbird.net/en-US/thunderbird/addon/tud-cert-phishing-report/">TUD-CERT Phishing Report</a></td>
+		  <td style="text-align: right" valign="top">107</td>
+		  <td style="text-align: right" valign="top">23.8.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - reportSpam'></td>
+<td style="text-align: right" valign="top">24.8.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - reportSpam'></td>
+<td style="text-align: right" valign="top">24.8.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - reportSpam'></td>
+<td style="text-align: right" valign="top">24.8.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - reportSpam'></td>
+<td style="text-align: right" valign="top">24.8.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - reportSpam'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2024-08-13</td>
+		  <td style="text-align: right" valign="top">24.8.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - reportSpam'></td>
+		  <td style="text-align: right" valign="top">91.0</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">494</td>
+		  <td style="text-align: right" valign="top">988794</td>
+		  <td style="text-align: left"  valign="top"><a id="988794-icanban-kanban-with-ical" href="https://addons.thunderbird.net/en-US/thunderbird/addon/icanban-kanban-with-ical/">iCanban - Kanban with ICAL</a></td>
+		  <td style="text-align: right" valign="top">90</td>
+		  <td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top">1.2.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - calendar_calendars&#10; - calendar_items&#10; - calendar_provider&#10; - calendarItemAction&#10; - calendarItemDetails'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2025-03-12</td>
+		  <td style="text-align: right" valign="top">1.2.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - calendar_calendars&#10; - calendar_items&#10; - calendar_provider&#10; - calendarItemAction&#10; - calendarItemDetails'></td>
+		  <td style="text-align: right" valign="top">128.0</td>
+		  <td style="text-align: right" valign="top">134.*</td>
+		  <td style="text-align: right" valign="top">134.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">594</td>
+		  <td style="text-align: right" valign="top">987922</td>
+		  <td style="text-align: left"  valign="top"><a id="987922-date-detection" href="https://addons.thunderbird.net/en-US/thunderbird/addon/date-detection/">Date detection</a></td>
+		  <td style="text-align: right" valign="top">49</td>
+		  <td style="text-align: right" valign="top">0.0.7<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - eventCreator'></td>
+<td style="text-align: right" valign="top">0.0.7<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - eventCreator'></td>
+<td style="text-align: right" valign="top">0.0.7<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - eventCreator'></td>
+<td style="text-align: right" valign="top">0.0.7<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - eventCreator'></td>
+<td style="text-align: right" valign="top">0.0.7<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - eventCreator'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2023-07-12</td>
+		  <td style="text-align: right" valign="top">0.0.7<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - eventCreator'></td>
+		  <td style="text-align: right" valign="top">68.0</td>
+		  <td style="text-align: right" valign="top">117.*</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">606</td>
+		  <td style="text-align: right" valign="top">988848</td>
+		  <td style="text-align: left"  valign="top"><a id="988848-run-filters-from-context-menu" href="https://addons.thunderbird.net/en-US/thunderbird/addon/run-filters-from-context-menu/">Run Filters from Context Menu</a></td>
+		  <td style="text-align: right" valign="top">47</td>
+		  <td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top">1.0.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - myapi'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2024-11-26</td>
+		  <td style="text-align: right" valign="top">1.0.1<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - myapi'></td>
+		  <td style="text-align: right" valign="top">128.0</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">620</td>
+		  <td style="text-align: right" valign="top">987915</td>
+		  <td style="text-align: left"  valign="top"><a id="987915-mahoor-iranian-date" href="https://addons.thunderbird.net/en-US/thunderbird/addon/mahoor-iranian-date/">Mahoor-Iranian-Date</a></td>
+		  <td style="text-align: right" valign="top">42</td>
+		  <td style="text-align: right" valign="top">1.1.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - MahourDate'></td>
+<td style="text-align: right" valign="top">1.1.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - MahourDate'></td>
+<td style="text-align: right" valign="top">1.1.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - MahourDate'></td>
+<td style="text-align: right" valign="top">1.2.7<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - customColumns'></td>
+<td style="text-align: right" valign="top">1.2.7<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - customColumns'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2025-07-13</td>
+		  <td style="text-align: right" valign="top">1.2.7<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - customColumns'></td>
+		  <td style="text-align: right" valign="top">115.10.0</td>
+		  <td style="text-align: right" valign="top">139.*</td>
+		  <td style="text-align: right" valign="top">139.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">627</td>
+		  <td style="text-align: right" valign="top">988260</td>
+		  <td style="text-align: left"  valign="top"><a id="988260-x-original-to-column" href="https://addons.thunderbird.net/en-US/thunderbird/addon/x-original-to-column/">X-Original-To Column</a></td>
+		  <td style="text-align: right" valign="top">39</td>
+		  <td style="text-align: right" valign="top">0.2.3<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - LegacyPrefs&#10; - ex_runtime&#10; - HeaderColumns'></td>
+<td style="text-align: right" valign="top">0.2.3<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - LegacyPrefs&#10; - ex_runtime&#10; - HeaderColumns'></td>
+<td style="text-align: right" valign="top">0.2.3<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - LegacyPrefs&#10; - ex_runtime&#10; - HeaderColumns'></td>
+<td style="text-align: right" valign="top">0.3.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - LegacyPrefs&#10; - ex_runtime&#10; - OriginalToColumn'></td>
+<td style="text-align: right" valign="top">0.3.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - LegacyPrefs&#10; - ex_runtime&#10; - OriginalToColumn'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2024-08-18</td>
+		  <td style="text-align: right" valign="top">0.3.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - LegacyPrefs&#10; - ex_runtime&#10; - OriginalToColumn'></td>
+		  <td style="text-align: right" valign="top">115.10.0</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">723</td>
+		  <td style="text-align: right" valign="top">988722</td>
+		  <td style="text-align: left"  valign="top"><a id="988722-custom-subject-column" href="https://addons.thunderbird.net/en-US/thunderbird/addon/custom-subject-column/">Custom Subject Column</a></td>
+		  <td style="text-align: right" valign="top">22</td>
+		  <td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top">0.5.6<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - customSubject'></td>
+<td style="text-align: right" valign="top">0.5.6<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - customSubject'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2024-07-18</td>
+		  <td style="text-align: right" valign="top">0.5.6<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - customSubject'></td>
+		  <td style="text-align: right" valign="top">115.10.0</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">752</td>
+		  <td style="text-align: right" valign="top">988692</td>
+		  <td style="text-align: left"  valign="top"><a id="988692-getmyinvoices" href="https://addons.thunderbird.net/en-US/thunderbird/addon/getmyinvoices/">GetMyInvoices</a></td>
+		  <td style="text-align: right" valign="top">18</td>
+		  <td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top">2.0.0<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'></td>
+<td style="text-align: right" valign="top">3.0.4<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'></td>
+<td style="text-align: right" valign="top">3.0.4<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2025-04-02</td>
+		  <td style="text-align: right" valign="top">3.0.4<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'></td>
+		  <td style="text-align: right" valign="top">115.0</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right" valign="top">128.*</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Pure WebExtension-570861.svg' ></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: right" valign="top">814</td>
+		  <td style="text-align: right" valign="top">988281</td>
+		  <td style="text-align: left"  valign="top"><a id="988281-regimail" href="https://addons.thunderbird.net/en-US/thunderbird/addon/regimail/">regimail</a></td>
+		  <td style="text-align: right" valign="top">13</td>
+		  <td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top">0.6.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - regiapi'></td>
+<td style="text-align: right" valign="top">0.6.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - regiapi'></td>
+<td style="text-align: right" valign="top">0.6.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - regiapi'></td>
+<td style="text-align: right" valign="top">0.6.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - regiapi'></td>
+<td style="text-align: right" valign="top"></td>
+<td style="text-align: right" valign="top"></td>
+		  <td style="text-align: right" valign="top">2025-02-20</td>
+		  <td style="text-align: right" valign="top">0.6.5<br><img src='https://img.shields.io/badge/T-MX-purple.svg' title='Extension Type:&#10; - MX : MailExtension (manifest.json)'><br><img src='https://img.shields.io/badge/E-+-blue.svg' title='Experiment APIs: &#10; - regiapi'></td>
+		  <td style="text-align: right" valign="top">91.0</td>
+		  <td style="text-align: right" valign="top">137.0</td>
+		  <td style="text-align: right" valign="top">137.0</td>
+		  <td style="text-align: right; font-style: italic" valign="top"><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td>
+		</tr>
+            </tbody>
+        </table>
+
+        <h3>Statistics</h3>
+<table class='statstable'>
+<tr><td style="text-align: right">31</td><td><img src='https://img.shields.io/badge/⠀-Experiment (legacy)-ff8800.svg' ></td></tr>
+<tr><td style="text-align: right">2</td><td><img src='https://img.shields.io/badge/⠀-Pure WebExtension-570861.svg' ></td></tr>
+</table>
+    </div>
+
+    <p style="width:100%; text-align:center">
+        The report is based on work by Christopher Leidigh, extended by John Bieling.
+    </p>
+</body>
+
+</html>
