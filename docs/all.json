@@ -1,5 +1,5 @@
 {
-  "generated": 1753220296763,
+  "generated": 1753306712354,
   "supported_versions": [
     78,
     91,
@@ -783,7 +783,11 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "0.16.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037744/bidi_mail_ui-0.16.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -1354,15 +1358,19 @@
         },
         {
           "appVersion": "140",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "3.6",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040220/folder_filters_button-3.6-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.5",
+          "extVersion": "3.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1034789/folder_filters_button-3.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040220/folder_filters_button-3.6-tb.xpi?src="
         }
       ],
       "alternatives": [
@@ -1481,7 +1489,11 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "0.6.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037930/remove_duplicate_messages-0.6.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -13979,23 +13991,27 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.1.6",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040216/printingtools_ng-3.1.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "3.1.5",
+          "extVersion": "3.1.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039491/printingtools_ng-3.1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040216/printingtools_ng-3.1.6-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.1.5",
+          "extVersion": "3.1.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039491/printingtools_ng-3.1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040216/printingtools_ng-3.1.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -16700,7 +16716,11 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.12.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039310/smarttemplates-4.12.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
