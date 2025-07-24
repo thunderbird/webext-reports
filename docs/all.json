@@ -1,5 +1,5 @@
 {
-  "generated": 1753306712354,
+  "generated": 1753393159943,
   "supported_versions": [
     78,
     91,
@@ -20826,7 +20826,11 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.5.48",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038446/xnote-4.5.48-tb.xpi?src="
         },
         {
           "appVersion": "140",
