@@ -1,5 +1,5 @@
 {
-  "generated": 1753565674371,
+  "generated": 1753652279886,
   "supported_versions": [
     78,
     91,
@@ -5519,7 +5519,11 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.1.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030635/charset_menu-2.1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
