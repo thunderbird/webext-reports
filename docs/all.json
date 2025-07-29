@@ -1,5 +1,5 @@
 {
-  "generated": 1753800974247,
+  "generated": 1753825043475,
   "supported_versions": [
     78,
     91,
@@ -1540,7 +1540,11 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "128.5.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039612/provider_for_google_calendar-128.5.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
