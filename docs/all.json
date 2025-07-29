@@ -1,5 +1,5 @@
 {
-  "generated": 1753738589128,
+  "generated": 1753800974247,
   "supported_versions": [
     78,
     91,
@@ -1130,19 +1130,27 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "6.4",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040393/quicktext-6.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "6.4",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040393/quicktext-6.4-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "5.21",
+          "extVersion": "6.4",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038099/quicktext-5.21-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040393/quicktext-6.4-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": true,
@@ -4882,6 +4890,41 @@
       "badges": []
     },
     {
+      "id": "betterreply@yoursite.com",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989070-32.png?modified=4b77ee78",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989070-64.png?modified=4b77ee78"
+      },
+      "compat": [
+        {
+          "appVersion": "141",
+          "type": "release",
+          "extVersion": "1.1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040397/better_reply-1.1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "next-esr",
+          "extVersion": "1.1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040397/better_reply-1.1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "1.1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040397/better_reply-1.1.1-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "birdbox@mozilla.kewis.ch",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988790-32.png?modified=7c2841a4",
@@ -7365,10 +7408,10 @@
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "4.16",
+          "extVersion": "4.17",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037251/provider_fur_exchange_activesync-4.16-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040394/provider_fur_exchange_activesync-4.17-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -9456,7 +9499,11 @@
         },
         {
           "appVersion": "140",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "0.9.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040401/google_4_tbsync-0.9.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -18193,10 +18240,10 @@
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "4.15",
+          "extVersion": "4.16",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037238/tbsync-4.15-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040395/tbsync-4.16-tb.xpi?src="
         },
         {
           "appVersion": "128",
