@@ -1,5 +1,5 @@
 {
-  "generated": 1753825043475,
+  "generated": 1753911513637,
   "supported_versions": [
     78,
     91,
@@ -5186,10 +5186,10 @@
         {
           "appVersion": "141",
           "type": "release",
-          "extVersion": "5.2",
+          "extVersion": "5.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1036133/phoenity_buttons-5.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040413/phoenity_buttons-5.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -7105,26 +7105,26 @@
         {
           "appVersion": "141",
           "type": "release",
-          "extVersion": "6.2.0",
+          "extVersion": "6.3.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039957/disable_draganddrop_new-6.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040412/disable_draganddrop_new-6.3.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "6.2.0",
+          "extVersion": "6.3.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039957/disable_draganddrop_new-6.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040412/disable_draganddrop_new-6.3.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "6.2.0",
+          "extVersion": "6.3.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039957/disable_draganddrop_new-6.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040412/disable_draganddrop_new-6.3.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
