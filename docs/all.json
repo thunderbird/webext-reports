@@ -1,5 +1,5 @@
 {
-  "generated": 1753954931191,
+  "generated": 1753997882911,
   "supported_versions": [
     78,
     91,
@@ -11539,6 +11539,33 @@
       "badges": []
     },
     {
+      "id": "mahour@zmim.ir",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987915-32.png?modified=ccec9218",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987915-64.png?modified=ccec9218"
+      },
+      "compat": [
+        {
+          "appVersion": "141",
+          "type": "release"
+        },
+        {
+          "appVersion": "140",
+          "type": "next-esr"
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "1.2.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039962/mahoor_iranian_date-1.2.7-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "mail_sent_notifier@phpeppershop.com",
       "icons": {
         "32": "https://addons.thunderbird.net/static/img/addon-icons/feeds-32.png",
@@ -15715,18 +15742,18 @@
         {
           "appVersion": "141",
           "type": "release",
-          "extVersion": "0.4.0",
+          "extVersion": "0.5.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040491/mrof_move_rep_original_folder-0.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040502/mrof_move_rep_original_folder-0.5.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "0.4.0",
+          "extVersion": "0.5.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040491/mrof_move_rep_original_folder-0.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040502/mrof_move_rep_original_folder-0.5.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -16414,26 +16441,26 @@
         {
           "appVersion": "141",
           "type": "release",
-          "extVersion": "3.2.0",
+          "extVersion": "4.0.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040055/thunderbird_send_stage-3.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040499/thunderbird_send_stage-4.0.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "3.2.0",
+          "extVersion": "4.0.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040055/thunderbird_send_stage-3.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040499/thunderbird_send_stage-4.0.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.2.0",
+          "extVersion": "4.0.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040055/thunderbird_send_stage-3.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040499/thunderbird_send_stage-4.0.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
