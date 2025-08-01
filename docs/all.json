@@ -1,5 +1,5 @@
 {
-  "generated": 1753997882911,
+  "generated": 1754084213006,
   "supported_versions": [
     78,
     91,
@@ -1147,10 +1147,10 @@
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "6.4",
+          "extVersion": "5.21",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040393/quicktext-6.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038099/quicktext-5.21-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": true,
