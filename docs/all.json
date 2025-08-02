@@ -1,5 +1,5 @@
 {
-  "generated": 1754084213006,
+  "generated": 1754170462595,
   "supported_versions": [
     78,
     91,
@@ -18221,26 +18221,26 @@
         {
           "appVersion": "141",
           "type": "release",
-          "extVersion": "2.4.0",
+          "extVersion": "2.4.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037122/tbkeys_lite-2.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040513/tbkeys_lite-2.4.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "2.4.0",
+          "extVersion": "2.4.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037122/tbkeys_lite-2.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040513/tbkeys_lite-2.4.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "2.4.0",
+          "extVersion": "2.4.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037122/tbkeys_lite-2.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040513/tbkeys_lite-2.4.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -19358,18 +19358,18 @@
         {
           "appVersion": "141",
           "type": "release",
-          "extVersion": "1.0",
+          "extVersion": "1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038455/thundersigneditor-1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040512/thunder_sign_editor-1.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "1.0",
+          "extVersion": "1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038455/thundersigneditor-1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040512/thunder_sign_editor-1.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
