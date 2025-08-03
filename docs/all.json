@@ -1,5 +1,5 @@
 {
-  "generated": 1754170462595,
+  "generated": 1754256949743,
   "supported_versions": [
     78,
     91,
@@ -9302,26 +9302,26 @@
         {
           "appVersion": "141",
           "type": "release",
-          "extVersion": "1.2",
+          "extVersion": "1.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030814/gimps_opener-1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040522/gimps_opener-1.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "1.2",
+          "extVersion": "1.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030814/gimps_opener-1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040522/gimps_opener-1.3-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.2",
+          "extVersion": "1.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030814/gimps_opener-1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040522/gimps_opener-1.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -16406,26 +16406,26 @@
         {
           "appVersion": "141",
           "type": "release",
-          "extVersion": "2.1.1",
+          "extVersion": "2.1.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035477/filelink_provider_for_send-2.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040524/filelink_provider_for_send-2.1.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "2.1.1",
+          "extVersion": "2.1.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035477/filelink_provider_for_send-2.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040524/filelink_provider_for_send-2.1.3-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "2.1.1",
+          "extVersion": "2.1.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035477/filelink_provider_for_send-2.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040524/filelink_provider_for_send-2.1.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -18472,19 +18472,11 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release",
-          "extVersion": "1.5.12",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039510/text_insert_templatesinstant_spell_check-1.5.12-tb.xpi?src="
+          "type": "release"
         },
         {
           "appVersion": "140",
-          "type": "next-esr",
-          "extVersion": "1.5.12",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039510/text_insert_templatesinstant_spell_check-1.5.12-tb.xpi?src="
+          "type": "next-esr"
         },
         {
           "appVersion": "128",
@@ -20434,26 +20426,26 @@
         {
           "appVersion": "141",
           "type": "release",
-          "extVersion": "0.7",
+          "extVersion": "0.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030816/unicodify_text_transformer-0.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040523/unicodify_text_transformer-0.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "0.7",
+          "extVersion": "0.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030816/unicodify_text_transformer-0.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040523/unicodify_text_transformer-0.8-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.7",
+          "extVersion": "0.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030816/unicodify_text_transformer-0.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040523/unicodify_text_transformer-0.8-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
