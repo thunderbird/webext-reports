@@ -1,5 +1,5 @@
 {
-  "generated": 1754256949743,
+  "generated": 1754343510209,
   "supported_versions": [
     78,
     91,
@@ -446,15 +446,19 @@
         },
         {
           "appVersion": "140",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "1.7.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040527/folderflags-1.7.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.7.0",
+          "extVersion": "1.7.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031431/folderflags-1.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040527/folderflags-1.7.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -5151,26 +5155,26 @@
         {
           "appVersion": "141",
           "type": "release",
-          "extVersion": "1.2",
+          "extVersion": "1.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030813/bug_opener-1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040521/bug_opener-1.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "1.2",
+          "extVersion": "1.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030813/bug_opener-1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040521/bug_opener-1.3-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.2",
+          "extVersion": "1.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030813/bug_opener-1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040521/bug_opener-1.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8245,23 +8249,27 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.4.47",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040529/expression_power_messagecalendar_search_ng-4.4.47-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "4.4.36",
+          "extVersion": "4.4.47",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040068/expression_power_messagecalendar_search_ng-4.4.36-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040529/expression_power_messagecalendar_search_ng-4.4.47-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "4.4.36",
+          "extVersion": "4.4.47",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040068/expression_power_messagecalendar_search_ng-4.4.36-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040529/expression_power_messagecalendar_search_ng-4.4.47-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8614,11 +8622,19 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.0.5",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031656/filter_button-2.0.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "2.0.5",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031656/filter_button-2.0.5-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -11214,26 +11230,26 @@
         {
           "appVersion": "141",
           "type": "release",
-          "extVersion": "1.2",
+          "extVersion": "1.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030812/link_creator-1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040520/link_creator-1.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "1.2",
+          "extVersion": "1.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030812/link_creator-1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040520/link_creator-1.3-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.2",
+          "extVersion": "1.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030812/link_creator-1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040520/link_creator-1.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13065,23 +13081,27 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.5.59a",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040525/nostalgy_emails_verwalten_suchen_archivieren-4.5.59a-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "4.5.54",
+          "extVersion": "4.5.59a",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039964/nostalgy_emails_verwalten_suchen_archivieren-4.5.54-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040525/nostalgy_emails_verwalten_suchen_archivieren-4.5.59a-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "4.5.54",
+          "extVersion": "4.5.59a",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039964/nostalgy_emails_verwalten_suchen_archivieren-4.5.54-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040525/nostalgy_emails_verwalten_suchen_archivieren-4.5.59a-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -18472,19 +18492,27 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.5.14",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040528/text_insert_templatesinstant_spell_check-1.5.14-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "1.5.14",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040528/text_insert_templatesinstant_spell_check-1.5.14-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.5.12",
+          "extVersion": "1.5.14",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039510/text_insert_templatesinstant_spell_check-1.5.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040528/text_insert_templatesinstant_spell_check-1.5.14-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
