@@ -1,5 +1,5 @@
 {
-  "generated": 1754343510209,
+  "generated": 1754429915649,
   "supported_versions": [
     78,
     91,
@@ -16461,26 +16461,26 @@
         {
           "appVersion": "141",
           "type": "release",
-          "extVersion": "4.0.0",
+          "extVersion": "4.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040499/thunderbird_send_stage-4.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040534/thunderbird_send_stage-4.1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "4.0.0",
+          "extVersion": "4.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040499/thunderbird_send_stage-4.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040534/thunderbird_send_stage-4.1.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "4.0.0",
+          "extVersion": "4.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040499/thunderbird_send_stage-4.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040534/thunderbird_send_stage-4.1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
