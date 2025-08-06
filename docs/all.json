@@ -1,5 +1,5 @@
 {
-  "generated": 1754429915649,
+  "generated": 1754516093204,
   "supported_versions": [
     78,
     91,
@@ -11404,11 +11404,19 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.2.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040538/localfolders-4.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "4.2.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040538/localfolders-4.2.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -15218,19 +15226,27 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "0.6.6",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040537/regimail-0.6.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "0.6.6",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040537/regimail-0.6.6-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.6.5",
+          "extVersion": "0.6.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1036821/regimail-0.6.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040537/regimail-0.6.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
