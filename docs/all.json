@@ -1,5 +1,5 @@
 {
-  "generated": 1754516093204,
+  "generated": 1754688915286,
   "supported_versions": [
     78,
     91,
@@ -5606,26 +5606,26 @@
         {
           "appVersion": "141",
           "type": "release",
-          "extVersion": "2.1.0",
+          "extVersion": "2.1.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030635/charset_menu-2.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040629/charset_menu-2.1.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "2.1.0",
+          "extVersion": "2.1.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030635/charset_menu-2.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040629/charset_menu-2.1.2-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "2.1.0",
+          "extVersion": "2.1.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030635/charset_menu-2.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040629/charset_menu-2.1.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -10538,23 +10538,27 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040627/dictionary_for_recipient-2.4.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "2.4.0",
+          "extVersion": "2.4.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030636/dictionary_for_recipient-2.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040627/dictionary_for_recipient-2.4.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "2.4.0",
+          "extVersion": "2.4.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030636/dictionary_for_recipient-2.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040627/dictionary_for_recipient-2.4.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -10569,23 +10573,27 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.1.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040626/sender_frequency-3.1.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "3.1.0",
+          "extVersion": "3.1.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030634/sender_frequency-3.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040626/sender_frequency-3.1.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.1.0",
+          "extVersion": "3.1.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030634/sender_frequency-3.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040626/sender_frequency-3.1.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13796,23 +13804,27 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.1.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040625/outlook_address_book_enabler-1.1.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "1.1.0",
+          "extVersion": "1.1.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030637/outlook_address_book_enabler-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040625/outlook_address_book_enabler-1.1.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.1.0",
+          "extVersion": "1.1.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030637/outlook_address_book_enabler-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040625/outlook_address_book_enabler-1.1.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15866,19 +15878,27 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.1.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040633/run_filters_from_context_menu-1.1.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "1.1.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040633/run_filters_from_context_menu-1.1.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.0.1",
+          "extVersion": "1.1.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035042/run_filters_from_context_menu-1.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040633/run_filters_from_context_menu-1.1.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
