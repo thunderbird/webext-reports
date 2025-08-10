@@ -1,5 +1,5 @@
 {
-  "generated": 1754775328689,
+  "generated": 1754861745447,
   "supported_versions": [
     78,
     91,
@@ -4616,26 +4616,26 @@
         {
           "appVersion": "141",
           "type": "release",
-          "extVersion": "4.6.0",
+          "extVersion": "4.7.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039846/automatic_dictionary-4.6.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040639/automatic_dictionary-4.7.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "4.6.0",
+          "extVersion": "4.7.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039846/automatic_dictionary-4.6.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040639/automatic_dictionary-4.7.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "4.6.0",
+          "extVersion": "4.7.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039846/automatic_dictionary-4.6.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040639/automatic_dictionary-4.7.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -12150,7 +12150,11 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.18",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039840/mass_emailer-1.18-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -17785,19 +17789,27 @@
       "compat": [
         {
           "appVersion": "141",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.0.6",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040530/getmyinvoices-3.0.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "3.0.6",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040530/getmyinvoices-3.0.6-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.0.4",
+          "extVersion": "3.0.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037667/getmyinvoices-3.0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040530/getmyinvoices-3.0.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
