@@ -1,5 +1,5 @@
 {
-  "generated": 1754948029825,
+  "generated": 1755034602715,
   "supported_versions": [
     78,
     91,
@@ -5146,6 +5146,41 @@
       "badges": []
     },
     {
+      "id": "BugmailRevived@betterbird.eu",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989120-32.png?modified=cf0f0563",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989120-64.png?modified=cf0f0563"
+      },
+      "compat": [
+        {
+          "appVersion": "141",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040624/bugmail_revived-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "next-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040624/bugmail_revived-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040624/bugmail_revived-1.0.0-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "bugs@tealdulcet.com",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988354-32.png?modified=39b188ef",
@@ -7481,26 +7516,26 @@
         {
           "appVersion": "141",
           "type": "release",
-          "extVersion": "1.7",
+          "extVersion": "1.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037224/html_source_editor-1.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040652/html_source_editor-1.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "1.7",
+          "extVersion": "1.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037224/html_source_editor-1.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040652/html_source_editor-1.8-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.7",
+          "extVersion": "1.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037224/html_source_editor-1.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040652/html_source_editor-1.8-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
