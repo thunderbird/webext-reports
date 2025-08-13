@@ -1,5 +1,5 @@
 {
-  "generated": 1755034602715,
+  "generated": 1755120942040,
   "supported_versions": [
     78,
     91,
@@ -14341,26 +14341,26 @@
         {
           "appVersion": "141",
           "type": "release",
-          "extVersion": "3.1.6",
+          "extVersion": "3.1.7",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040216/printingtools_ng-3.1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040731/printingtools_ng-3.1.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "3.1.6",
+          "extVersion": "3.1.7",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040216/printingtools_ng-3.1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040731/printingtools_ng-3.1.7-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.1.6",
+          "extVersion": "3.1.7",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040216/printingtools_ng-3.1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040731/printingtools_ng-3.1.7-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
