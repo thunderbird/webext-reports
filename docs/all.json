@@ -1,5 +1,5 @@
 {
-  "generated": 1755120942040,
+  "generated": 1755552844265,
   "supported_versions": [
     78,
     91,
@@ -16536,26 +16536,26 @@
         {
           "appVersion": "141",
           "type": "release",
-          "extVersion": "4.2.0",
+          "extVersion": "4.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040647/thunderbird_send_stage-4.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040754/thunderbird_send_stage-4.4.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "4.2.0",
+          "extVersion": "4.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040647/thunderbird_send_stage-4.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040754/thunderbird_send_stage-4.4.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "4.2.0",
+          "extVersion": "4.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040647/thunderbird_send_stage-4.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040754/thunderbird_send_stage-4.4.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -17405,26 +17405,26 @@
         {
           "appVersion": "141",
           "type": "release",
-          "extVersion": "1.5.2",
+          "extVersion": "1.6.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039496/standardtexter-1.5.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040742/standardtexter-1.6.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "1.5.2",
+          "extVersion": "1.6.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039496/standardtexter-1.5.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040742/standardtexter-1.6.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.5.2",
+          "extVersion": "1.6.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039496/standardtexter-1.5.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040742/standardtexter-1.6.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
