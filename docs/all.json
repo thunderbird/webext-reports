@@ -1,5 +1,5 @@
 {
-  "generated": 1755639524813,
+  "generated": 1755725667798,
   "supported_versions": [
     78,
     91,
@@ -5948,26 +5948,26 @@
         {
           "appVersion": "142",
           "type": "release",
-          "extVersion": "3.7",
+          "extVersion": "3.8",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039698/clear_history_button-3.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040961/clear_history_button-3.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "3.7",
+          "extVersion": "3.8",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039698/clear_history_button-3.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040961/clear_history_button-3.8-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "3.7",
+          "extVersion": "3.8",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039698/clear_history_button-3.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040961/clear_history_button-3.8-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
