@@ -1,5 +1,5 @@
 {
-  "generated": 1755725667798,
+  "generated": 1755812060571,
   "supported_versions": [
     78,
     91,
@@ -4025,26 +4025,26 @@
         {
           "appVersion": "142",
           "type": "release",
-          "extVersion": "1.5",
+          "extVersion": "1.10",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039873/antispam-1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040732/antispam-1.10-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "1.5",
+          "extVersion": "1.10",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039873/antispam-1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040732/antispam-1.10-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.5",
+          "extVersion": "1.10",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039873/antispam-1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040732/antispam-1.10-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -5738,26 +5738,26 @@
         {
           "appVersion": "142",
           "type": "release",
-          "extVersion": "0.3.0",
+          "extVersion": "0.3.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035028/addon-0.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040741/addon-0.3.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "0.3.0",
+          "extVersion": "0.3.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035028/addon-0.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040741/addon-0.3.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.3.0",
+          "extVersion": "0.3.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035028/addon-0.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040741/addon-0.3.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -10196,15 +10196,19 @@
       "compat": [
         {
           "appVersion": "142",
-          "type": "release"
+          "type": "release",
+          "extVersion": "14.1.12",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040737/importexporttools_ng-14.1.12-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "14.1.10",
+          "extVersion": "14.1.12",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039490/importexporttools_ng-14.1.10-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040737/importexporttools_ng-14.1.12-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -13877,23 +13881,27 @@
       "compat": [
         {
           "appVersion": "142",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.4.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040755/eule_fur_exchange-1.4.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "1.4.1.1",
+          "extVersion": "1.4.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040493/eule_fur_exchange-1.4.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040755/eule_fur_exchange-1.4.2-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.4.1.1",
+          "extVersion": "1.4.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040493/eule_fur_exchange-1.4.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040755/eule_fur_exchange-1.4.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14853,10 +14861,10 @@
         {
           "appVersion": "142",
           "type": "release",
-          "extVersion": "1.9.0",
+          "extVersion": "3.3.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1017986/quick_folder_move-1.9.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039502/quick_folder_move-3.3.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
