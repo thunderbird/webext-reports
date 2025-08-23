@@ -1,5 +1,5 @@
 {
-  "generated": 1755812060571,
+  "generated": 1755984665304,
   "supported_versions": [
     78,
     91,
@@ -10794,7 +10794,11 @@
       "compat": [
         {
           "appVersion": "142",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.12.20250629.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039615/keepassxc_mail-1.12.20250629.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -12510,6 +12514,41 @@
       "badges": []
     },
     {
+      "id": "misend-prevention@example.com",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989136-32.png?modified=1c523850",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989136-64.png?modified=1c523850"
+      },
+      "compat": [
+        {
+          "appVersion": "142",
+          "type": "release",
+          "extVersion": "1.1.4",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041050/thunderbird-1.1.4-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "next-esr",
+          "extVersion": "1.1.4",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041050/thunderbird-1.1.4-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "1.1.4",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041050/thunderbird-1.1.4-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "MonterailDark2@conema.me",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987726-32.png?modified=76d8985d",
@@ -13143,7 +13182,11 @@
       "compat": [
         {
           "appVersion": "142",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.5.59a",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040525/nostalgy_emails_verwalten_suchen_archivieren-4.5.59a-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -16859,7 +16902,11 @@
       "compat": [
         {
           "appVersion": "142",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.2.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039851/signal_spam-4.2.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -17220,7 +17267,11 @@
       "compat": [
         {
           "appVersion": "142",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.2.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039852/spambee-3.2.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -21264,7 +21315,11 @@
       "compat": [
         {
           "appVersion": "142",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.5.48",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038446/xnote-4.5.48-tb.xpi?src="
         },
         {
           "appVersion": "140",
