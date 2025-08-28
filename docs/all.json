@@ -1,5 +1,5 @@
 {
-  "generated": 1756330544233,
+  "generated": 1756416978769,
   "supported_versions": [
     78,
     91,
@@ -18610,6 +18610,41 @@
       "badges": []
     },
     {
+      "id": "tbpro-addon-stage@thunderbird.net",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989140-32.png?modified=396606e7",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989140-64.png?modified=396606e7"
+      },
+      "compat": [
+        {
+          "appVersion": "142",
+          "type": "release",
+          "extVersion": "0.4.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041160/tbpro_addon_stage-0.4.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "next-esr",
+          "extVersion": "0.4.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041160/tbpro_addon_stage-0.4.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "0.4.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041160/tbpro_addon_stage-0.4.1-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "tbsortfolders@xulforum.org",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/15/15102-32.png?modified=1630434087",
@@ -19068,26 +19103,26 @@
         {
           "appVersion": "142",
           "type": "release",
-          "extVersion": "1.2.2",
+          "extVersion": "1.2.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040489/thunderai_sparks-1.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041154/thunderai_sparks-1.2.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "1.2.2",
+          "extVersion": "1.2.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040489/thunderai_sparks-1.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041154/thunderai_sparks-1.2.3-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.2.2",
+          "extVersion": "1.2.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040489/thunderai_sparks-1.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041154/thunderai_sparks-1.2.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
