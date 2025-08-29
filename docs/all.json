@@ -1,5 +1,5 @@
 {
-  "generated": 1756416978769,
+  "generated": 1756503216002,
   "supported_versions": [
     78,
     91,
@@ -5356,7 +5356,11 @@
       "compat": [
         {
           "appVersion": "142",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.8",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037856/calendarproject_tools_gantt_year_view_planner-2.4.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -9515,7 +9519,11 @@
       "compat": [
         {
           "appVersion": "142",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.8.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037846/folders_for_search_ondisk_status_glodaquilla_ng-1.8.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -9927,7 +9935,11 @@
       "compat": [
         {
           "appVersion": "142",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.6",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038089/header_tools_lite-2.4.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
