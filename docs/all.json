@@ -1,5 +1,5 @@
 {
-  "generated": 1756503216002,
+  "generated": 1756676036790,
   "supported_versions": [
     78,
     91,
@@ -477,23 +477,27 @@
       "compat": [
         {
           "appVersion": "142",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.1.4",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041169/no_tabs-1.1.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "1.1.3",
+          "extVersion": "1.1.4",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040067/no_tabs-1.1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041169/no_tabs-1.1.4-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.1.3",
+          "extVersion": "1.1.4",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040067/no_tabs-1.1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041169/no_tabs-1.1.4-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -17397,26 +17401,26 @@
         {
           "appVersion": "142",
           "type": "release",
-          "extVersion": "4.13",
+          "extVersion": "4.14",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040221/smarttemplates-4.13-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041168/smarttemplates-4.14-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "4.13",
+          "extVersion": "4.14",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040221/smarttemplates-4.13-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041168/smarttemplates-4.14-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "4.13",
+          "extVersion": "4.14",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040221/smarttemplates-4.13-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041168/smarttemplates-4.14-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
