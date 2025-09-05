@@ -1,5 +1,5 @@
 {
-  "generated": 1757021839738,
+  "generated": 1757108427566,
   "supported_versions": [
     78,
     91,
@@ -10325,7 +10325,11 @@
       "compat": [
         {
           "appVersion": "142",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.9.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030810/attachment_viewer_view_in_a_tab_slideshow-2.9.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -11627,18 +11631,18 @@
         {
           "appVersion": "142",
           "type": "release",
-          "extVersion": "4.2.1",
+          "extVersion": "4.2.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040738/localfolders-4.2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041261/localfolders-4.2.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "4.2.1",
+          "extVersion": "4.2.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040738/localfolders-4.2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041261/localfolders-4.2.2-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -13452,10 +13456,10 @@
         {
           "appVersion": "142",
           "type": "release",
-          "extVersion": "4.5.59a",
+          "extVersion": "4.8.80",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040525/nostalgy_emails_verwalten_suchen_archivieren-4.5.59a-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041039/nostalgy_emails_verwalten_suchen_archivieren-4.8.80-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -20486,23 +20490,27 @@
       "compat": [
         {
           "appVersion": "142",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.6.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041262/toggle_line_wrap-1.6.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "1.6",
+          "extVersion": "1.6.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040052/toggle_line_wrap-1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041262/toggle_line_wrap-1.6.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.6",
+          "extVersion": "1.6.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040052/toggle_line_wrap-1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041262/toggle_line_wrap-1.6.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
