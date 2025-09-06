@@ -1,5 +1,5 @@
 {
-  "generated": 1757108427566,
+  "generated": 1757194587710,
   "supported_versions": [
     78,
     91,
@@ -1542,8 +1542,8 @@
     {
       "id": "{a4029fe8-c32f-4f89-92aa-ca7ba6222f20}",
       "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989132-32.png?modified=9bfdd4bf",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989132-64.png?modified=9bfdd4bf"
       },
       "compat": [
         {
@@ -12012,10 +12012,10 @@
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "11.1.0",
+          "extVersion": "11.2.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039231/mail_merge-11.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041042/mail_merge-11.2.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
