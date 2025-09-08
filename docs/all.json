@@ -1,5 +1,5 @@
 {
-  "generated": 1757194587710,
+  "generated": 1757367177776,
   "supported_versions": [
     78,
     91,
@@ -15174,8 +15174,8 @@
     {
       "id": "quickfolders@curious.be",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/3/3254-32.png?modified=1746437659",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/3/3254-64.png?modified=1746437659"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/3/3254-32.png?modified=1757324584",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/3/3254-64.png?modified=1757324584"
       },
       "compat": [
         {
