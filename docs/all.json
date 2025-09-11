@@ -1,5 +1,5 @@
 {
-  "generated": 1757453618000,
+  "generated": 1757626256465,
   "supported_versions": [
     78,
     91,
@@ -3783,6 +3783,41 @@
       "badges": []
     },
     {
+      "id": "adv-sound-filters@yourdomain.com",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989147-32.png?modified=0f7ae078",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989147-64.png?modified=0f7ae078"
+      },
+      "compat": [
+        {
+          "appVersion": "142",
+          "type": "release",
+          "extVersion": "3.4",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041271/advanced_sound_filters-3.4-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "next-esr",
+          "extVersion": "3.4",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041271/advanced_sound_filters-3.4-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr",
+          "extVersion": "3.4",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041271/advanced_sound_filters-3.4-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "advanced-composer@thunderbird.extension",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988365-32.png?modified=79a76066",
@@ -5851,26 +5886,26 @@
         {
           "appVersion": "142",
           "type": "release",
-          "extVersion": "0.3.1",
+          "extVersion": "0.3.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040741/addon-0.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041340/addon-0.3.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "0.3.1",
+          "extVersion": "0.3.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040741/addon-0.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041340/addon-0.3.2-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.3.1",
+          "extVersion": "0.3.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040741/addon-0.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041340/addon-0.3.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8526,26 +8561,26 @@
         {
           "appVersion": "142",
           "type": "release",
-          "extVersion": "1.8.7",
+          "extVersion": "1.8.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040622/extract_em-1.8.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041268/extract_em-1.8.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "1.8.7",
+          "extVersion": "1.8.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040622/extract_em-1.8.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041268/extract_em-1.8.8-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.8.7",
+          "extVersion": "1.8.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040622/extract_em-1.8.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041268/extract_em-1.8.8-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9384,18 +9419,18 @@
         {
           "appVersion": "142",
           "type": "release",
-          "extVersion": "4.3.2",
+          "extVersion": "4.3.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040294/thunderbird_conversations-4.3.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041258/thunderbird_conversations-4.3.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "4.3.2",
+          "extVersion": "4.3.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040294/thunderbird_conversations-4.3.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041258/thunderbird_conversations-4.3.3-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -10361,18 +10396,18 @@
         {
           "appVersion": "142",
           "type": "release",
-          "extVersion": "14.1.12",
+          "extVersion": "14.1.13",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040737/importexporttools_ng-14.1.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041269/importexporttools_ng-14.1.13-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "14.1.12",
+          "extVersion": "14.1.13",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040737/importexporttools_ng-14.1.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041269/importexporttools_ng-14.1.13-tb.xpi?src="
         },
         {
           "appVersion": "128",
@@ -17510,26 +17545,26 @@
         {
           "appVersion": "142",
           "type": "release",
-          "extVersion": "4.14",
+          "extVersion": "4.15",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041168/smarttemplates-4.14-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041264/smarttemplates-4.15-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "4.14",
+          "extVersion": "4.15",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041168/smarttemplates-4.14-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041264/smarttemplates-4.15-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "4.14",
+          "extVersion": "4.15",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041168/smarttemplates-4.14-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041264/smarttemplates-4.15-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -21608,6 +21643,37 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1021854/whatsapp_thunderbird-1.1-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "whois-rdap@mail.dp.ua",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989148-32.png?modified=8fa4ff50",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989148-64.png?modified=8fa4ff50"
+      },
+      "compat": [
+        {
+          "appVersion": "142",
+          "type": "release",
+          "extVersion": "1.0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041272/whois_rdap-1.0.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "next-esr",
+          "extVersion": "1.0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041272/whois_rdap-1.0.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
