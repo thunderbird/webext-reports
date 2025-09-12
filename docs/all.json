@@ -1,5 +1,5 @@
 {
-  "generated": 1757626256465,
+  "generated": 1757712800233,
   "supported_versions": [
     78,
     91,
@@ -10562,6 +10562,37 @@
       "badges": []
     },
     {
+      "id": "inline-image-resizer@cback.net",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989150-32.png?modified=9a7fa68a",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989150-64.png?modified=9a7fa68a"
+      },
+      "compat": [
+        {
+          "appVersion": "142",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041349/eingebettete_bilder_verkleinern-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "next-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041349/eingebettete_bilder_verkleinern-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr"
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "InsertSignature@digitaldolphins.jp",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987844-32.png?modified=1a444696",
@@ -11397,15 +11428,19 @@
         },
         {
           "appVersion": "140",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "140.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041345/lightning_invitation_notifier_lin-140.0-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "136.0",
+          "extVersion": "140.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037398/lightning_invitation_notifier_lin-136.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041345/lightning_invitation_notifier_lin-140.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -16910,6 +16945,37 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035744/send_later_button-1.2.5-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "send-sound@cback.net",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989151-32.png?modified=b95c636d",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989151-64.png?modified=b95c636d"
+      },
+      "compat": [
+        {
+          "appVersion": "142",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041350/send_sound-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "next-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041350/send_sound-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "128",
+          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
