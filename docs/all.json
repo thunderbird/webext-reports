@@ -1,5 +1,5 @@
 {
-  "generated": 1757712800233,
+  "generated": 1757799012002,
   "supported_versions": [
     78,
     91,
@@ -1724,26 +1724,26 @@
         {
           "appVersion": "142",
           "type": "release",
-          "extVersion": "1.4.3",
+          "extVersion": "1.4.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040298/priomailbox-1.4.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041352/priomailbox-1.4.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "1.4.3",
+          "extVersion": "1.4.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040298/priomailbox-1.4.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041352/priomailbox-1.4.5-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "1.4.3",
+          "extVersion": "1.4.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040298/priomailbox-1.4.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041352/priomailbox-1.4.5-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
