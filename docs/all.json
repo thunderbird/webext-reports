@@ -1,5 +1,5 @@
 {
-  "generated": 1757799012002,
+  "generated": 1757885399012,
   "supported_versions": [
     78,
     91,
@@ -5886,26 +5886,26 @@
         {
           "appVersion": "142",
           "type": "release",
-          "extVersion": "0.3.2",
+          "extVersion": "0.3.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041340/addon-0.3.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040741/addon-0.3.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "next-esr",
-          "extVersion": "0.3.2",
+          "extVersion": "0.3.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041340/addon-0.3.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040741/addon-0.3.1-tb.xpi?src="
         },
         {
           "appVersion": "128",
           "type": "current-esr",
-          "extVersion": "0.3.2",
+          "extVersion": "0.3.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041340/addon-0.3.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040741/addon-0.3.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
