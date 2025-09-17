@@ -1,11 +1,11 @@
 {
-  "generated": 1758058363052,
+  "generated": 1758108751879,
   "supported_versions": [
-    68,
     78,
     91,
     102,
     115,
+    128,
     140,
     143
   ],
@@ -65,51 +65,6 @@
       "badges": []
     },
     {
-      "id": "{06f79612-34ef-4f4b-beab-0902b61fcc4b}",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "{0b62b504-857c-4f62-a336-2e8425bd5738}",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "alternatives": [
-        {
-          "name": "Quote Colors & Collapse",
-          "link": "https://addons.thunderbird.net/addon/quotecolors/",
-          "id": "quotecolors@thunderbird-mail.de"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "{0D2172E4-C5AE-465A-B80D-53A840275B5E}",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/4/4454-32.png?modified=e2a90c80",
@@ -123,32 +78,6 @@
         {
           "appVersion": "140",
           "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "{0D4D76B0-657A-41b0-B3ED-60C638F4D97D}",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/55/55669-32.png?modified=1656855844",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/55/55669-64.png?modified=1656855844"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "alternatives": [
-        {
-          "name": "Get All Mail Button for TB78++",
-          "link": "https://addons.thunderbird.net/addon/get-all-mail-button-for-tb78/",
-          "id": "gamb@pharqcon.com"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -276,25 +205,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035472/check_and_send-2.1.7-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "{215268f4-312e-4386-9628-d7fb7eb68d60}",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -445,25 +355,6 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040743/folderflags-1.7.2-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "{2d686c2a-3eeb-4aa1-a8a4-aaf6214c79a6}",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/329/329131-32.png?modified=1612963403",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/329/329131-64.png?modified=1612963403"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -735,25 +626,6 @@
       "badges": []
     },
     {
-      "id": "{58D4392A-842E-11DE-B51A-C7B855D89593}",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/13/13564-32.png?modified=mcrushed",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/13/13564-64.png?modified=mcrushed"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "{59812185-ea92-4cca-8ab7-cfcacee81281}",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988319-32.png?modified=28ae2e35",
@@ -877,25 +749,6 @@
       "badges": []
     },
     {
-      "id": "{6C3323F8-7328-11DE-B11C-551356D89593}",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/13/13131-32.png?modified=1593951513",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/13/13131-64.png?modified=1593951513"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "{786abda0-fd14-d247-bf69-38b2fc18491b}",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/1/1279-32.png?modified=1756047231",
@@ -942,25 +795,6 @@
       "badges": []
     },
     {
-      "id": "{7D76A40F-65E0-4a44-91D1-7EFFBADC32F2}",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/2/2162-32.png?modified=1656855863",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/2/2162-64.png?modified=1656855863"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "{7e203ac4-7a08-4e62-a50d-2d2ce058c546}",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988686-32.png?modified=7f42d4a0",
@@ -1001,25 +835,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1017837/to_must_occur_only_once-3.4.2-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "{8145f5df-9549-49b0-84df-d0b4df355cf9}",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988370-32.png?modified=a02fc958",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988370-64.png?modified=a02fc958"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -1415,25 +1230,6 @@
       "badges": []
     },
     {
-      "id": "{ada4b710-8346-4b82-8199-5de2b400a6ae}",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/1/1191-32.png?modified=mcrushed",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/1/1191-64.png?modified=mcrushed"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "{b1a994eb-f617-4a56-a4a4-e073e2310f07}",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988279-32.png?modified=a01777c4",
@@ -1542,63 +1338,6 @@
       "badges": []
     },
     {
-      "id": "{c0b84c00-227f-4762-b4fc-354bcfe0f865}",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987661-32.png?modified=b9355a97",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987661-64.png?modified=b9355a97"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "{c1ac4523-76c2-9995-adbd-d93bf5141bea}",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/0/881-32.png?modified=1577636046",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/0/881-64.png?modified=1577636046"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "{c267db80-8a57-11da-a8d5-000a95be0946}",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/2/2152-32.png?modified=1311705533",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/2/2152-64.png?modified=1311705533"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "{C83FDE78-4980-4a97-B91A-47A4B98761A7}",
       "icons": {
         "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
@@ -1691,25 +1430,6 @@
       "badges": []
     },
     {
-      "id": "{CC3C233D-6668-41bc-AAEB-F3A1D1D594F5}",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/0/550-32.png?modified=mcrushed",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/0/550-64.png?modified=mcrushed"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "{ce388d37-dc8e-4349-abe2-f3136867a946}",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988399-32.png?modified=01dca905",
@@ -1737,25 +1457,6 @@
       "badges": []
     },
     {
-      "id": "{d5e81018-f07b-4719-b893-3dc450504672}",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987773-32.png?modified=fd38b0da",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987773-64.png?modified=fd38b0da"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "{d8815e01-8ffc-4d85-a082-d750b35f21c1}",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988553-32.png?modified=e4d0f403",
@@ -1777,25 +1478,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1025108/dark_plain_text-1.1.0-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "{DA506923-55C4-4fbe-9E4C-D24B80D7DE9F}",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/2/2273-32.png?modified=1656855821",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/2/2273-64.png?modified=1656855821"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -1900,25 +1582,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031423/last_selected_message-2.0-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "{EEA09C80-4B78-4293-9F74-74059B9EE30D}",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/57/57534-32.png?modified=1656855783",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/57/57534-64.png?modified=1656855783"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -2835,25 +2498,6 @@
       "badges": []
     },
     {
-      "id": "accountcolors@DW-dev",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/14/14385-32.png?modified=1589823505",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/14/14385-64.png?modified=1589823505"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "acus@bitkeks.eu",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988297-32.png?modified=e48a53c4",
@@ -3629,25 +3273,6 @@
       "badges": []
     },
     {
-      "id": "archive-this@roach.at",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/10/10524-32.png?modified=1578870660",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/10/10524-64.png?modified=1578870660"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "archive3month.tb@tese.se",
       "icons": {
         "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
@@ -3723,25 +3348,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1027163/articles_toolbar-1.1-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "asdf@d.lech",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -4510,25 +4116,6 @@
       "badges": []
     },
     {
-      "id": "btt@paenglab.ch",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "BugmailRevived@betterbird.eu",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989120-32.png?modified=cf0f0563",
@@ -4681,25 +4268,6 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041038/calendarsearchexport-1.6-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "calendartweaks@DW-dev",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/14/14384-32.png?modified=1589823762",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/14/14384-64.png?modified=1589823762"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -5026,44 +4594,6 @@
       "badges": []
     },
     {
-      "id": "checkbox@ganss.org",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/728/728162-32.png?modified=1591615345",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/728/728162-64.png?modified=1591615345"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "checkdomainng@hayasa.com",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987677-32.png?modified=d93b33ed",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987677-64.png?modified=d93b33ed"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "clacks@eskritt.ca",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987849-32.png?modified=2f066f21",
@@ -5204,18 +4734,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "3.8",
+          "extVersion": "3.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040961/clear_history_button-3.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041452/clear_history_button-3.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.8",
+          "extVersion": "3.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040961/clear_history_button-3.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041452/clear_history_button-3.9-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -5253,44 +4783,6 @@
       "icons": {
         "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
         "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "coloredfolders@lab5.ch",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986477-32.png?modified=e7e55d85",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986477-64.png?modified=e7e55d85"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "columnswizard@micz.it",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/477/477355-32.png?modified=1733480745",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/477/477355-64.png?modified=1733480745"
       },
       "compat": [
         {
@@ -5435,25 +4927,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1018887/confirm_address-1.3.8-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "confirm-address@shirosaki",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -5741,25 +5214,6 @@
       "badges": []
     },
     {
-      "id": "createjiraissue@catworkx.de",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/182/182393-32.png?modified=f287afa1",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/182/182393-64.png?modified=f287afa1"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "custom_headers_view@z-aki",
       "icons": {
         "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
@@ -5854,25 +5308,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035767/customoji-0.2.0-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "customsyncinterval@tunefish",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -6187,25 +5622,6 @@
       "badges": []
     },
     {
-      "id": "development@opacus.co.uk",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/262/262821-32.png?modified=1480868419",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/262/262821-64.png?modified=1480868419"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "devToolsButton@dillinger",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987786-32.png?modified=2ad88956",
@@ -6254,25 +5670,6 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041053/disable_draganddrop_new-6.4.0-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "disable-signature@akrinke.addons.thunderbird.net",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987769-32.png?modified=7b32e40c",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987769-64.png?modified=7b32e40c"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -6508,25 +5905,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1036943/duck_email_converter-1.1-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "duplicateContactsManager@ddvo.net",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/941/941901-32.png?modified=1e54aeef",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/941/941901-64.png?modified=1e54aeef"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -6979,25 +6357,6 @@
       "badges": []
     },
     {
-      "id": "encryptifpossible@gwu.at",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/402/402704-32.png?modified=1600797329",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/402/402704-64.png?modified=1600797329"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "enextools@hogi.sakura.ne.jp",
       "icons": {
         "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
@@ -7092,25 +6451,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1017058/pgpgeek-1.6-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "epvp@pet-portal.eu",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/696/696119-32.png?modified=1567689835",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/696/696119-64.png?modified=1567689835"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7736,25 +7076,6 @@
       "badges": []
     },
     {
-      "id": "foldercolors@caiyos.com",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987743-32.png?modified=e7e55d85",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987743-64.png?modified=e7e55d85"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "FolderPaneSwitcher@kamens.us",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/331/331319-32.png?modified=1693896280",
@@ -7998,41 +7319,6 @@
       "badges": []
     },
     {
-      "id": "gContactSync@pirules.net",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/8/8451-32.png?modified=1559411175",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/8/8451-64.png?modified=1559411175"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "alternatives": [
-        {
-          "name": "Thunderbird native CardDAV support",
-          "link": "https://support.mozilla.org/en-US/questions/1321916"
-        },
-        {
-          "name": "Google-4-TbSync",
-          "link": "https://addons.thunderbird.net/addon/google-4-tbsync/",
-          "id": "google-4-tbsync@marcozanon.com"
-        },
-        {
-          "name": "CardBook",
-          "link": "https://addons.thunderbird.net/addon/cardbook/",
-          "id": "cardbook@vigneau.philippe"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "gconversation@xulforum.org",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/54/54035-32.png?modified=1717325006",
@@ -8212,25 +7498,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031572/gmail_labels-0.3-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "gmailbuttons@d.lech",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/363/363545-32.png?modified=1566334727",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/363/363545-64.png?modified=1566334727"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8587,31 +7854,6 @@
       "badges": []
     },
     {
-      "id": "hide-local-folders@alexcabal.com",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "alternatives": [
-        {
-          "name": "Thunderbird Supernova native support",
-          "link": "https://bugzilla.mozilla.org/show_bug.cgi?id=1817913#c10"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "hlf@pharqcon.com",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987995-32.png?modified=d51b31fd",
@@ -8658,25 +7900,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041161/bulk_attachment_deleter-0.1.4-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "hyperactive@urihart.addons.mozilla.org",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/395/395696-32.png?modified=1348672827",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/395/395696-64.png?modified=1348672827"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8835,44 +8058,6 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030810/attachment_viewer_view_in_a_tab_slideshow-2.9.2-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "imapquota@micz.it",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/505/505906-32.png?modified=1716915150",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/505/505906-64.png?modified=1716915150"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "IMAPReceivedDate@kamens.us",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/377/377160-32.png?modified=1604063066",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/377/377160-64.png?modified=1604063066"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9214,25 +8399,6 @@
       "badges": []
     },
     {
-      "id": "jorgk@bugmail-fixed-version",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/961/961125-32.png?modified=cf0f0563",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/961/961125-64.png?modified=cf0f0563"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "JorgK@dictionaryforrecipient",
       "icons": {
         "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
@@ -9360,29 +8526,10 @@
       "badges": []
     },
     {
-      "id": "justrestart@opto.one",
+      "id": "jydidier.icanban@addons.thunderbird.net",
       "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "keebird@kee-org",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/975/975494-32.png?modified=5e31ecaf",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/975/975494-64.png?modified=5e31ecaf"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988794-32.png?modified=5b4ca824",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988794-64.png?modified=5b4ca824"
       },
       "compat": [
         {
@@ -9419,25 +8566,6 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039615/keepassxc_mail-1.12.20250629.0-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "keepintaskbar@zilak.sk",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/781/781706-32.png?modified=1610645333",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/781/781706-64.png?modified=1610645333"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9544,44 +8672,6 @@
       "badges": []
     },
     {
-      "id": "kkmalek@gmail.com",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/5/5731-32.png?modified=d33ba795",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/5/5731-64.png?modified=d33ba795"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "kmaleonext@levelprograms.es",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/466/466796-32.png?modified=1539852019",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/466/466796-64.png?modified=1539852019"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "l-rod@gmx.net",
       "icons": {
         "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
@@ -9630,25 +8720,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031411/pratiche_mail-11.1-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "ladar@lavabit.com",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/586/586552-32.png?modified=1424259376",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/586/586552-64.png?modified=1424259376"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9749,31 +8820,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1020568/outlookteams_appointments-1.2-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "lightningbutton@rsjtdrjgfuzkfg.com",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/91/91129-32.png?modified=1590271214",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/91/91129-64.png?modified=1590271214"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "alternatives": [
-        {
-          "name": "Native calendar toolbar icons",
-          "link": "https://support.mozilla.org/en-US/kb/how-customize-toolbars"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -10096,10 +9142,10 @@
       "badges": []
     },
     {
-      "id": "ltngcolrem@micz.it",
+      "id": "louisjulien.mail_to_event@addons.thunderbird.net",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/658/658700-32.png?modified=1576833642",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/658/658700-64.png?modified=1576833642"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988849-32.png?modified=f4c242e0",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988849-64.png?modified=f4c242e0"
       },
       "compat": [
         {
@@ -10367,25 +9413,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037831/move_mail_shortcuts-6-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "mailsummaries@mozillamessaging.com",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -10704,25 +9731,6 @@
       "badges": []
     },
     {
-      "id": "menuOnTop@agrude.com",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/445/445196-32.png?modified=1591723959",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/445/445196-64.png?modified=1591723959"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "message_filters@U",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988196-32.png?modified=a0886c0d",
@@ -10763,25 +9771,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041165/show_in_mail_url_for_macos_calendar-1.1-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "messagearchiveoptions@eviljeff.com",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/14/14896-32.png?modified=a4d1f5c9",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/14/14896-64.png?modified=a4d1f5c9"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -10992,25 +9981,6 @@
       "badges": []
     },
     {
-      "id": "ml@grufo.com",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/bookmarks-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/bookmarks-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "MonterailDark2@conema.me",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987726-32.png?modified=76d8985d",
@@ -11116,25 +10086,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1029090/thundersort-1.3.0-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "mrc_compose@mr-consultant.net",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -11484,25 +10435,6 @@
       "badges": []
     },
     {
-      "id": "noComposeAccount@mi.tal",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "nomessagepanesort@janek.org",
       "icons": {
         "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
@@ -11520,32 +10452,6 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1023037/no_message_pane_sort-3.0.2-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "nostalgy@alain.frisch",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "alternatives": [
-        {
-          "name": "Manage and archive emails/Nostalgy++",
-          "link": "https://addons.thunderbird.net/addon/nostalgy_ng/",
-          "id": "nostalgy@opto.one"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -11596,25 +10502,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1026274/notebird-1.7.0.1-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "nrgiii66@gmail.com",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -11837,25 +10724,6 @@
       "badges": []
     },
     {
-      "id": "onebyoneforward@thunderbird.nzeid.net",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "oneclipper@noterail.co",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989038-32.png?modified=5faf2885",
@@ -11904,44 +10772,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1022125/onedrivewebapp-1.3-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "opacustep@opacus.co.uk",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/409/409482-32.png?modified=1531174736",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/409/409482-64.png?modified=1531174736"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "open_in_conversation@hartz.io",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/tabs-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/tabs-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -12202,25 +11032,6 @@
       "badges": []
     },
     {
-      "id": "ordinal@datea.pl",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987850-32.png?modified=805fa850",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987850-64.png?modified=805fa850"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "original-to-column@peterfab.com",
       "icons": {
         "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
@@ -12348,25 +11159,6 @@
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986673-32.png?modified=b67c0415",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986673-64.png?modified=b67c0415"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "path@tsubasa.kobayashi",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/656/656526-32.png?modified=1543829988",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/656/656526-64.png?modified=1543829988"
       },
       "compat": [
         {
@@ -12690,25 +11482,6 @@
       "badges": []
     },
     {
-      "id": "Protonmail2@conema.me",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987841-32.png?modified=5c926c3d",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987841-64.png?modified=5c926c3d"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "pspz123456789@gmail.com",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989020-32.png?modified=dd9e6369",
@@ -12838,25 +11611,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1021692/pywalfox-2.0.11-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "qfb-watched@tmatz.github.io",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13098,25 +11852,6 @@
       "badges": []
     },
     {
-      "id": "QuickNote-T@Toshi_",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987721-32.png?modified=9eebeb0f",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987721-64.png?modified=9eebeb0f"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "quicktext.scripts@community.jobisoft.de",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988979-32.png?modified=ce443846",
@@ -13138,32 +11873,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038203/quicktext_community_scripts-1.2-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "quotecolor-moz@librefox.org",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "alternatives": [
-        {
-          "name": "Quote Colors & Collapse",
-          "link": "https://addons.thunderbird.net/addon/quotecolors/",
-          "id": "quotecolors@thunderbird-mail.de"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13651,25 +12360,6 @@
       "badges": []
     },
     {
-      "id": "reply-to-multiple-messages@kamens.us",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/818/818635-32.png?modified=1604063191",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/818/818635-64.png?modified=1604063191"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "replyagentteam@gmail.com",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989024-32.png?modified=97646e3f",
@@ -13853,25 +12543,6 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1036144/restart_button-1.7-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "resubmit@ezamber.pl",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/546/546430-32.png?modified=1b958f5c",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/546/546430-64.png?modified=1b958f5c"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14325,25 +12996,6 @@
       "badges": []
     },
     {
-      "id": "search_col_for_attachments@opto.one",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "SearchButton@pharqcon.com",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987775-32.png?modified=e27694bd",
@@ -14392,25 +13044,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1018034/search_for-1.0.1-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "securitysettingsfromaddressbook@gwu.at",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/401/401970-32.png?modified=1600797311",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/401/401970-64.png?modified=1600797311"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14674,25 +13307,6 @@
       "badges": []
     },
     {
-      "id": "sensitivity_header_management@ff_bob.bob",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/642/642320-32.png?modified=1646683376",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/642/642320-64.png?modified=1646683376"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "sentautomove@micz.it",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988826-32.png?modified=1d4a233e",
@@ -14741,63 +13355,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1033253/autoreplace-1.6-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "showaddressonly@rip238.selfip.com",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/161/161924-32.png?modified=1569092470",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/161/161924-64.png?modified=1569092470"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "ShowAllBodyParts@kamens.us",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "ShowFolderSize-T@Toshi_",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987722-32.png?modified=e8cede42",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987722-64.png?modified=e8cede42"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15281,25 +13838,6 @@
       "badges": []
     },
     {
-      "id": "srsbdnr-@ntispam-caseyconnor.org",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/265/265079-32.png?modified=1593715378",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/265/265079-64.png?modified=1593715378"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "StandardTexter@pharqcon.com",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987932-32.png?modified=ac00b414",
@@ -15375,25 +13913,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041164/j_lawyerorg_thunderbird_extension-1.7.5-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "stopignoringreplyto@gelvins.com",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15535,25 +14054,6 @@
       "badges": []
     },
     {
-      "id": "subjectcleaner@mozilla.extensions",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "supplementary-compose-menu@thunderbird.extension",
       "icons": {
         "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
@@ -15683,25 +14183,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040530/getmyinvoices-3.0.6-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "support@zoiper.com",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/743/743926-32.png?modified=a4d1d0d7",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/743/743926-64.png?modified=a4d1d0d7"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -16093,25 +14574,6 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040513/tbkeys_lite-2.4.1-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "tblatex@xulforum.org",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/48/48583-32.png?modified=1601648314",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/48/48583-64.png?modified=1601648314"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -16845,44 +15307,6 @@
       "badges": []
     },
     {
-      "id": "thunderbirdcr@okb99.com",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987873-32.png?modified=6611a1b7",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987873-64.png?modified=6611a1b7"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "thunderbook@julien1001.devel",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/dictionary-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/dictionary-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "ThunderCalc@jacques",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988947-32.png?modified=3c4501cf",
@@ -16968,25 +15392,6 @@
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988173-32.png?modified=58dafa7b",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988173-64.png?modified=58dafa7b"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "thunderlink@mozilla.org",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/downloads-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/downloads-64.png"
       },
       "compat": [
         {
@@ -17368,25 +15773,6 @@
       "badges": []
     },
     {
-      "id": "todo.txt@xseth.nl",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/650/650068-32.png?modified=1559215688",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/650/650068-64.png?modified=1559215688"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "todowebapp@bt-w.org",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988167-32.png?modified=92b9a16b",
@@ -17647,25 +16033,6 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1036150/toggle_summary-1.6-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "togglewordwrap@kiszka.org",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -17934,25 +16301,6 @@
       "badges": []
     },
     {
-      "id": "undigestify@kamens.us",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "undo-button@example.com",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988804-32.png?modified=91a53da0",
@@ -18085,25 +16433,6 @@
       "badges": []
     },
     {
-      "id": "unsafelinks@ant.sr",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987711-32.png?modified=83d1e20c",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987711-64.png?modified=83d1e20c"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "unsubscribe@fra-uas.de",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988059-32.png?modified=14b944e0",
@@ -18125,25 +16454,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1018787/unsubscribe-1.1.1-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "use_bcc_instead_C@davero.addons.mozilla.org",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986534-32.png?modified=1c375882",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/986/986534-64.png?modified=1c375882"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -18747,25 +17057,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041348/kurl_yourls_shortener-1.9-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "zombiekeys@bolay.de",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/2/2335-32.png?modified=1591724050",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/2/2335-64.png?modified=1591724050"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
