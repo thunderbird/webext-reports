@@ -1,5 +1,5 @@
 {
-  "generated": 1758108751879,
+  "generated": 1758144828694,
   "supported_versions": [
     78,
     91,
@@ -6850,7 +6850,11 @@
       "compat": [
         {
           "appVersion": "143",
-          "type": "release"
+          "type": "release",
+          "extVersion": "5.3.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040293/filtaquilla-5.3.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -14474,18 +14478,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "4.4.5",
+          "extVersion": "4.5.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041376/thunderbird_send-4.4.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041523/thunderbird_send-4.5.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.4.5",
+          "extVersion": "4.5.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041376/thunderbird_send-4.4.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041523/thunderbird_send-4.5.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
