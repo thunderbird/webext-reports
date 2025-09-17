@@ -28,12 +28,12 @@ export async function getThunderbirdVersions() {
     } = await requestJson("https://product-details.mozilla.org/1.0/thunderbird_versions.json");
 
     let { releases } = await requestJson("https://product-details.mozilla.org/1.0/thunderbird.json")
-    // ESR releases stopped after 17.* and resumed with 128.*
-    let SUPPORTED_VERSIONS = Object.values(releases)
-        .filter((value) => value.category == "esr")
-        .map((value) => Number(value.version.split(".")[0]));
+    // ESR releases stopped being names "esr" between 45 and 102
+    let SUPPORTED_VERSIONS = Object.entries(releases)
+        .filter(([name, value]) => name.endsWith("esr"))
+        .map(([name, value]) => Number(value.version.split(".")[0]));
     // Hardcode the values in between.
-    SUPPORTED_VERSIONS.push(24, 31, 38, 45, 52, 60, 68, 78, 91, 102, 115);
+    SUPPORTED_VERSIONS.push(45, 52, 60, 68, 78, 91, 102);
 
     const getVersion = (v) => v ? Number(v.split(".")[0]) : null;
     const ESR = getVersion(THUNDERBIRD_ESR);
