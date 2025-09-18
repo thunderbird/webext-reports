@@ -1,5 +1,5 @@
 {
-  "generated": 1758144828694,
+  "generated": 1758231343764,
   "supported_versions": [
     78,
     91,
@@ -10181,7 +10181,11 @@
       "compat": [
         {
           "appVersion": "143",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.8",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040503/myphoneexplorer-4.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
