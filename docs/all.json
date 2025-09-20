@@ -1,5 +1,5 @@
 {
-  "generated": 1758317559890,
+  "generated": 1758403807342,
   "supported_versions": [
     78,
     91,
@@ -10474,7 +10474,11 @@
       "compat": [
         {
           "appVersion": "143",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.8.80",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041039/nostalgy_emails_verwalten_suchen_archivieren-4.8.80-tb.xpi?src="
         },
         {
           "appVersion": "140",
