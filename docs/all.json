@@ -1,5 +1,5 @@
 {
-  "generated": 1758403807342,
+  "generated": 1758490408163,
   "supported_versions": [
     78,
     91,
@@ -3932,7 +3932,11 @@
       "compat": [
         {
           "appVersion": "143",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.1.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039059/birdbox-2.1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
