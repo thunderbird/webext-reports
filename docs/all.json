@@ -1,5 +1,5 @@
 {
-  "generated": 1758576727641,
+  "generated": 1758662460289,
   "supported_versions": [
     78,
     91,
@@ -1058,15 +1058,19 @@
       "compat": [
         {
           "appVersion": "143",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.9",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041615/folder_filters_button-3.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.8",
+          "extVersion": "3.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040416/folder_filters_button-3.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041615/folder_filters_button-3.9-tb.xpi?src="
         }
       ],
       "alternatives": [
@@ -5227,18 +5231,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "1.4",
+          "extVersion": "1.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038202/custom_headers_view-1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041617/custom_headers_view-1.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.4",
+          "extVersion": "1.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038202/custom_headers_view-1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041617/custom_headers_view-1.5-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9767,18 +9771,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "1.1",
+          "extVersion": "1.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041165/show_in_mail_url_for_macos_calendar-1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041618/show_in_mail_url_for_macos_calendar-1.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1",
+          "extVersion": "1.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041165/show_in_mail_url_for_macos_calendar-1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041618/show_in_mail_url_for_macos_calendar-1.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -11111,6 +11115,33 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041156/eule_fur_exchange-1.4.3-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "paste-excel@example.com",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989168-32.png?modified=ac4b095c",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989168-64.png?modified=ac4b095c"
+      },
+      "compat": [
+        {
+          "appVersion": "143",
+          "type": "release",
+          "extVersion": "2.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041626/paste_excel_table_into_compose-2.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "2.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041626/paste_excel_table_into_compose-2.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
