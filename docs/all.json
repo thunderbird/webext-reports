@@ -1,5 +1,5 @@
 {
-  "generated": 1758662460289,
+  "generated": 1758748713781,
   "supported_versions": [
     78,
     91,
@@ -2808,18 +2808,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "5.1",
+          "extVersion": "5.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038569/ai_anywhere_for_chatgpt-5.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041631/ai_anywhere_for_chatgpt-5.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "5.1",
+          "extVersion": "5.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038569/ai_anywhere_for_chatgpt-5.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041631/ai_anywhere_for_chatgpt-5.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -10459,7 +10459,11 @@
       "compat": [
         {
           "appVersion": "143",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.0.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1023037/no_message_pane_sort-3.0.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
