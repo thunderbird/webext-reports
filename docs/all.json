@@ -1,5 +1,5 @@
 {
-  "generated": 1758835248894,
+  "generated": 1758921565354,
   "supported_versions": [
     78,
     91,
@@ -15179,6 +15179,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037830/cloudlink-1.0-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "thunderbird-image-compressor@example.com",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989182-32.png?modified=012138fc",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989182-64.png?modified=012138fc"
+      },
+      "compat": [
+        {
+          "appVersion": "143",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041726/thunderbird_image_compressor-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041726/thunderbird_image_compressor-1.0.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
