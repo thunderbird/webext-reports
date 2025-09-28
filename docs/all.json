@@ -1,5 +1,5 @@
 {
-  "generated": 1759008026564,
+  "generated": 1759094488181,
   "supported_versions": [
     78,
     91,
@@ -2369,6 +2369,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1034238/outlook_calendar_quick_access-0.1-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "@ghostbird.exteditor.addons.thunderbird.net",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989183-32.png?modified=7a5fd906",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989183-64.png?modified=7a5fd906"
+      },
+      "compat": [
+        {
+          "appVersion": "143",
+          "type": "release",
+          "extVersion": "0.2.0.74156365",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041731/ghostbird_ghosttext_for_thunderbird-0.2.0.74156365-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.2.0.74156365",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041731/ghostbird_ghosttext_for_thunderbird-0.2.0.74156365-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
