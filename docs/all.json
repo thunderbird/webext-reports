@@ -1,5 +1,5 @@
 {
-  "generated": 1759094488181,
+  "generated": 1759180661996,
   "supported_versions": [
     78,
     91,
@@ -5946,6 +5946,33 @@
       "badges": []
     },
     {
+      "id": "dynsign@vozodo.it",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989133-32.png?modified=e927ee31",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989133-64.png?modified=e927ee31"
+      },
+      "compat": [
+        {
+          "appVersion": "143",
+          "type": "release",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041739/dynsign-1.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041739/dynsign-1.0.1-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "eas4tbsync@jobisoft.de",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986338-32.png?modified=fd851275",
@@ -6886,18 +6913,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "5.3.1",
+          "extVersion": "5.4",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040293/filtaquilla-5.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041738/filtaquilla-5.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "5.3.1",
+          "extVersion": "5.4",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040293/filtaquilla-5.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041738/filtaquilla-5.4-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -11491,7 +11518,11 @@
       "compat": [
         {
           "appVersion": "143",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031311/previous_colors-2.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
