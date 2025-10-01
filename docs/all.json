@@ -1,5 +1,5 @@
 {
-  "generated": 1759267240850,
+  "generated": 1759353637289,
   "supported_versions": [
     78,
     91,
@@ -8796,6 +8796,33 @@
       "badges": []
     },
     {
+      "id": "lancs-autologin@yellows.ink",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989188-32.png?modified=56c981b7",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989188-64.png?modified=56c981b7"
+      },
+      "compat": [
+        {
+          "appVersion": "143",
+          "type": "release",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041750/lancs_uni_autologin-1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041750/lancs_uni_autologin-1.0-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "languagetool-mailextension@languagetool.org",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988138-32.png?modified=351041e0",
@@ -15830,18 +15857,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "0.7.0",
+          "extVersion": "0.7.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039419/tidysubject-0.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041751/tidysubject-0.7.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.7.0",
+          "extVersion": "0.7.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039419/tidysubject-0.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041751/tidysubject-0.7.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
