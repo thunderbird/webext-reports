@@ -1,5 +1,5 @@
 {
-  "generated": 1759353637289,
+  "generated": 1759785601182,
   "supported_versions": [
     78,
     91,
@@ -2438,18 +2438,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "0.6.0",
+          "extVersion": "0.7.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041171/paperless_ngx_uploader-0.6.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041711/paperless_ngx_uploader-0.7.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.6.0",
+          "extVersion": "0.7.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041171/paperless_ngx_uploader-0.6.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041711/paperless_ngx_uploader-0.7.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -2727,18 +2727,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "4.20",
+          "extVersion": "4.22",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038097/addressbooks_synchronizer-4.20-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041732/addressbooks_synchronizer-4.22-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.20",
+          "extVersion": "4.22",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038097/addressbooks_synchronizer-4.20-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041732/addressbooks_synchronizer-4.22-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -3656,18 +3656,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "2.1.2",
+          "extVersion": "2.1.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041343/autofile_fast_e_mail_to_folder_filing-2.1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041730/autofile_fast_e_mail_to_folder_filing-2.1.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.1.2",
+          "extVersion": "2.1.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041343/autofile_fast_e_mail_to_folder_filing-2.1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041730/autofile_fast_e_mail_to_folder_filing-2.1.4-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -4345,18 +4345,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "100.7",
+          "extVersion": "100.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041347/cardbook-100.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041748/cardbook-100.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "100.7",
+          "extVersion": "100.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041347/cardbook-100.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041748/cardbook-100.9-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -6654,15 +6654,19 @@
       "compat": [
         {
           "appVersion": "143",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.6.54",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041830/expression_power_messagecalendar_search_ng-4.6.54-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.4.47",
+          "extVersion": "4.6.54",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040529/expression_power_messagecalendar_search_ng-4.4.47-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041830/expression_power_messagecalendar_search_ng-4.6.54-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7818,18 +7822,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "4.11",
+          "extVersion": "4.12",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039538/header_tools_improved-4.11-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041728/header_tools_improved-4.12-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.11",
+          "extVersion": "4.12",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039538/header_tools_improved-4.11-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041728/header_tools_improved-4.12-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -11793,18 +11797,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "0.14.11",
+          "extVersion": "0.14.12",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041044/qnote-0.14.11-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041835/qnote-0.14.12-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.14.11",
+          "extVersion": "0.14.12",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041044/qnote-0.14.11-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041835/qnote-0.14.12-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13855,33 +13859,6 @@
       "badges": []
     },
     {
-      "id": "snakes@bluemods.com",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987760-32.png?modified=ea9a8e3e",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987760-64.png?modified=ea9a8e3e"
-      },
-      "compat": [
-        {
-          "appVersion": "143",
-          "type": "release",
-          "extVersion": "1.0",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1016295/snakes_by_bluemods-1.0-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "1.0",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1016295/snakes_by_bluemods-1.0-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "spambee@verifrom.com",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/986/986632-32.png?modified=56f47df7",
@@ -14968,18 +14945,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "1.6.19",
+          "extVersion": "1.6.23",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041163/text_insert_templatesinstant_spell_check-1.6.19-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041742/text_insert_templatesinstant_spell_check-1.6.23-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.6.19",
+          "extVersion": "1.6.23",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041163/text_insert_templatesinstant_spell_check-1.6.19-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041742/text_insert_templatesinstant_spell_check-1.6.23-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15175,18 +15152,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "3.7.1",
+          "extVersion": "3.7.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041727/thunderai_chatgpt_gemini_ollama_in_your_emails-3.7.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041826/thunderai_chatgpt_gemini_ollama_in_your_emails-3.7.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.7.1",
+          "extVersion": "3.7.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041727/thunderai_chatgpt_gemini_ollama_in_your_emails-3.7.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041826/thunderai_chatgpt_gemini_ollama_in_your_emails-3.7.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15229,18 +15206,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "2.1.0",
+          "extVersion": "2.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041353/antworten_mit_anhangen-2.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041639/reply_with_attachments-2.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.1.0",
+          "extVersion": "2.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041353/antworten_mit_anhangen-2.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041639/reply_with_attachments-2.2.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -17026,18 +17003,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "1.0.4",
+          "extVersion": "1.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041380/whois_rdap-1.0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041724/whois_rdap-1.1.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.4",
+          "extVersion": "1.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041380/whois_rdap-1.0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041724/whois_rdap-1.1.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -17178,18 +17155,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "4.5.48",
+          "extVersion": "4.6.51",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038446/xnote-4.5.48-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041746/xnote-4.6.51-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.5.48",
+          "extVersion": "4.6.51",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038446/xnote-4.5.48-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041746/xnote-4.6.51-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
