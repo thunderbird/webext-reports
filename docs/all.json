@@ -1,5 +1,5 @@
 {
-  "generated": 1759785601182,
+  "generated": 1759871875684,
   "supported_versions": [
     78,
     91,
@@ -1628,18 +1628,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "6.0.1",
+          "extVersion": "6.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041372/gitlab_ticket_creator-6.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041723/gitlab_ticket_creator-6.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "6.0.1",
+          "extVersion": "6.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041372/gitlab_ticket_creator-6.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041723/gitlab_ticket_creator-6.2.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -2384,18 +2384,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "0.2.2.233171248",
+          "extVersion": "0.3.0.66564844",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041744/ghostbird_ghosttext_for_thunderbird-0.2.2.233171248-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041917/ghostbird_ghosttext_for_thunderbird-0.3.0.66564844-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.2.2.233171248",
+          "extVersion": "0.3.0.66564844",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041744/ghostbird_ghosttext_for_thunderbird-0.2.2.233171248-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041917/ghostbird_ghosttext_for_thunderbird-0.3.0.66564844-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -3521,18 +3521,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "1.0.15",
+          "extVersion": "1.0.16.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037848/auto_mark_as_read-1.0.15-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041721/auto_mark_as_read-1.0.16.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.15",
+          "extVersion": "1.0.16.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037848/auto_mark_as_read-1.0.15-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041721/auto_mark_as_read-1.0.16.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -5243,6 +5243,33 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039693/copy_sent_to_current-3.39-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "cross-weird-puzzle-game@michael-ellis",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "143",
+          "type": "release",
+          "extVersion": "3.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041710/cross_weird_puzzle-3.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "3.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041710/cross_weird_puzzle-3.0.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7398,18 +7425,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "4.3.4",
+          "extVersion": "4.3.5",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041364/thunderbird_conversations-4.3.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041719/thunderbird_conversations-4.3.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.3.4",
+          "extVersion": "4.3.5",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041364/thunderbird_conversations-4.3.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041719/thunderbird_conversations-4.3.5-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9760,18 +9787,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "1.18",
+          "extVersion": "2.0.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039840/mass_emailer-1.18-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041593/mass_emailer-2.0.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.18",
+          "extVersion": "2.0.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039840/mass_emailer-1.18-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041593/mass_emailer-2.0.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -12329,18 +12356,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "0.6.8",
+          "extVersion": "1.0.0.83",
           "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040751/regimail-0.6.8-tb.xpi?src="
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041625/regimail-1.0.0.83-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.6.8",
+          "extVersion": "1.0.0.83",
           "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040751/regimail-0.6.8-tb.xpi?src="
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041625/regimail-1.0.0.83-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13437,18 +13464,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "10.7.2",
+          "extVersion": "10.7.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040069/send_later-10.7.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041916/send_later-10.7.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "10.7.2",
+          "extVersion": "10.7.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040069/send_later-10.7.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041916/send_later-10.7.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -16347,6 +16374,33 @@
         {
           "appVersion": "140",
           "type": "current-esr"
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "trello-task-creator@thunderbird.addon",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "143",
+          "type": "release",
+          "extVersion": "1.2.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041612/trello_task_creator-1.2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.2.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041612/trello_task_creator-1.2.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
