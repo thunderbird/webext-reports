@@ -1,5 +1,5 @@
 {
-  "generated": 1759958395294,
+  "generated": 1760044748721,
   "supported_versions": [
     78,
     91,
@@ -3259,18 +3259,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "12.2.0",
+          "extVersion": "12.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037425/antidote_connector-12.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041922/antidote_connector_for_thunderbird-12.3.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "12.2.0",
+          "extVersion": "12.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037425/antidote_connector-12.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041922/antidote_connector_for_thunderbird-12.3.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -10896,18 +10896,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "1.0.2",
+          "extVersion": "2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1026850/one_click_forward-1.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041931/one_click_forward-2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.2",
+          "extVersion": "2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1026850/one_click_forward-1.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041931/one_click_forward-2.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -17011,6 +17011,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1020401/zivver_for_thunderbird-1.0.0-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "webmaster@grafics.fr",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989202-32.png?modified=5bc6e26c",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989202-64.png?modified=5bc6e26c"
+      },
+      "compat": [
+        {
+          "appVersion": "143",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041934/image_border_editor-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041934/image_border_editor-1.0.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
