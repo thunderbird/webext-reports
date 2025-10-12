@@ -1,5 +1,5 @@
 {
-  "generated": 1760217568537,
+  "generated": 1760303805202,
   "supported_versions": [
     78,
     91,
@@ -688,7 +688,11 @@
       "compat": [
         {
           "appVersion": "143",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037412/tag_toolbar_tag_popup-2.4.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -1139,18 +1143,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "2.2.1",
+          "extVersion": "2.2.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041062/selectall_button-2.2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041940/selectall_button-2.2.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.2.1",
+          "extVersion": "2.2.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041062/selectall_button-2.2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041940/selectall_button-2.2.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9686,7 +9690,11 @@
       "compat": [
         {
           "appVersion": "143",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.0.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039536/markdown_here_revival-4.0.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -10305,7 +10313,11 @@
       "compat": [
         {
           "appVersion": "143",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.4",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037413/message_header_toolbar_customize-2.4.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
