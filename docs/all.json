@@ -1,5 +1,5 @@
 {
-  "generated": 1760303805202,
+  "generated": 1760390384071,
   "supported_versions": [
     78,
     91,
@@ -7929,7 +7929,11 @@
       "compat": [
         {
           "appVersion": "143",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.6",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038089/header_tools_lite-2.4.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -13634,18 +13638,18 @@
         {
           "appVersion": "143",
           "type": "release",
-          "extVersion": "1.6",
+          "extVersion": "1.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1033253/autoreplace-1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041946/autoreplace-1.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.6",
+          "extVersion": "1.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1033253/autoreplace-1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041946/autoreplace-1.7-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
