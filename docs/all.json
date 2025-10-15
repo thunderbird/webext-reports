@@ -1,5 +1,5 @@
 {
-  "generated": 1760476699349,
+  "generated": 1760563213349,
   "supported_versions": [
     78,
     91,
@@ -293,18 +293,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "2.18.6",
+          "extVersion": "2.19.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041063/signature_switch-2.18.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041842/signature_switch-2.19.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.18.6",
+          "extVersion": "2.19.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041063/signature_switch-2.18.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041842/signature_switch-2.19.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -2912,18 +2912,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "6.0",
+          "extVersion": "6.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037853/web_translate-6.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042097/web_translate-6.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "6.0",
+          "extVersion": "6.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037853/web_translate-6.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042097/web_translate-6.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -4788,18 +4788,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "3.9",
+          "extVersion": "3.10",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041452/clear_history_button-3.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042092/clear_history_button-3.10-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.9",
+          "extVersion": "3.10",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041452/clear_history_button-3.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042092/clear_history_button-3.10-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -6131,18 +6131,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "1.7.0",
+          "extVersion": "1.7.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037939/extracteur_de_mail-1.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041933/extracteur_de_mail-1.7.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.7.0",
+          "extVersion": "1.7.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037939/extracteur_de_mail-1.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041933/extracteur_de_mail-1.7.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -6727,7 +6727,11 @@
       "compat": [
         {
           "appVersion": "144",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.6.54",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041830/expression_power_messagecalendar_search_ng-4.6.54-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -12092,7 +12096,11 @@
       "compat": [
         {
           "appVersion": "144",
-          "type": "release"
+          "type": "release",
+          "extVersion": "6.13",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041453/quickfolders_tabbed_folders-6.13-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -17056,18 +17064,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "1.0.0",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041934/image_border_editor-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042102/image_border_editor-1.1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.0",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041934/image_border_editor-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042102/image_border_editor-1.1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
