@@ -1,5 +1,5 @@
 {
-  "generated": 1760563213349,
+  "generated": 1760649561144,
   "supported_versions": [
     78,
     91,
@@ -293,18 +293,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "2.19.0",
+          "extVersion": "2.19.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041842/signature_switch-2.19.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042099/signature_switch-2.19.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.19.0",
+          "extVersion": "2.19.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041842/signature_switch-2.19.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042099/signature_switch-2.19.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -2407,18 +2407,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "0.3.0.66564844",
+          "extVersion": "0.4.0.184721794",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041917/ghostbird_ghosttext_for_thunderbird-0.3.0.66564844-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042172/ghostbird_thunderbirdghosttext-0.4.0.184721794-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.3.0.66564844",
+          "extVersion": "0.4.0.184721794",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041917/ghostbird_ghosttext_for_thunderbird-0.3.0.66564844-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042172/ghostbird_thunderbirdghosttext-0.4.0.184721794-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -3097,18 +3097,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "1.0.6",
+          "extVersion": "1.0.18",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041173/ai_mate-1.0.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042100/ai_mate-1.0.18-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.6",
+          "extVersion": "1.0.18",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041173/ai_mate-1.0.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042100/ai_mate-1.0.18-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -4286,7 +4286,11 @@
       "compat": [
         {
           "appVersion": "144",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.8",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037856/calendarproject_tools_gantt_year_view_planner-2.4.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -4642,6 +4646,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041378/addon-0.3.3-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "checklinks@aecreations.github.io",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989114-32.png?modified=6a536681",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989114-64.png?modified=6a536681"
+      },
+      "compat": [
+        {
+          "appVersion": "144",
+          "type": "release",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042103/check_links-1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042103/check_links-1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7620,7 +7651,11 @@
       "compat": [
         {
           "appVersion": "144",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.8.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037846/folders_for_search_ondisk_status_glodaquilla_ng-1.8.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -7936,7 +7971,11 @@
       "compat": [
         {
           "appVersion": "144",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.6",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038089/header_tools_lite-2.4.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -8207,7 +8246,11 @@
       "compat": [
         {
           "appVersion": "144",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.9.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030810/attachment_viewer_view_in_a_tab_slideshow-2.9.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -9848,18 +9891,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "2.0.1",
+          "extVersion": "2.0.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041593/mass_emailer-2.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042171/mass_emailer-2.0.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.0.2",
+          "extVersion": "2.0.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041937/mass_emailer-2.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042171/mass_emailer-2.0.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -17377,7 +17420,11 @@
       "compat": [
         {
           "appVersion": "144",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.6.51",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041746/xnote-4.6.51-tb.xpi?src="
         },
         {
           "appVersion": "140",
