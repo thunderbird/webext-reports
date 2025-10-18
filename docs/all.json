@@ -1,5 +1,5 @@
 {
-  "generated": 1760735859929,
+  "generated": 1760822340003,
   "supported_versions": [
     78,
     91,
@@ -346,7 +346,11 @@
       "compat": [
         {
           "appVersion": "144",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.7.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040743/folderflags-1.7.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -7250,7 +7254,11 @@
       "compat": [
         {
           "appVersion": "144",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.6.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038445/filter_on_folder_button-1.6.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -8952,25 +8960,6 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031394/grammatik_und_rechtschreibprufung_languagetool-8.11.2-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "largermessagelist@royprins",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988131-32.png?modified=625309eb",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988131-64.png?modified=625309eb"
-      },
-      "compat": [
-        {
-          "appVersion": "144",
-          "type": "release"
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14880,18 +14869,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "0.6.0",
+          "extVersion": "0.7.4",
           "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041923/tbpro_addon_stage-0.6.0-tb.xpi?src="
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042183/tbpro_addon_stage-0.7.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.6.0",
+          "extVersion": "0.7.4",
           "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041923/tbpro_addon_stage-0.6.0-tb.xpi?src="
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042183/tbpro_addon_stage-0.7.4-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
