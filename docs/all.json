@@ -1,5 +1,5 @@
 {
-  "generated": 1760822340003,
+  "generated": 1760908651664,
   "supported_versions": [
     78,
     91,
@@ -5258,18 +5258,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "2.2.1",
+          "extVersion": "3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1023686/copy_patch-2.2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042188/copy_patch-3.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.2.1",
+          "extVersion": "3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1023686/copy_patch-2.2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042188/copy_patch-3.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7518,8 +7518,8 @@
     {
       "id": "gconversation@xulforum.org",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/54/54035-32.png?modified=1717325006",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/54/54035-64.png?modified=1717325006"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/54/54035-32.png?modified=1760862236",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/54/54035-64.png?modified=1760862236"
       },
       "compat": [
         {
@@ -8613,18 +8613,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "3.1.1",
+          "extVersion": "3.1.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040626/sender_frequency-3.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042186/sender_frequency-3.1.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.1.1",
+          "extVersion": "3.1.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040626/sender_frequency-3.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042186/sender_frequency-3.1.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -12102,18 +12102,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "6.13",
+          "extVersion": "6.13.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041453/quickfolders_tabbed_folders-6.13-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042181/quickfolders_tabbed_folders-6.13.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "6.13",
+          "extVersion": "6.13.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041453/quickfolders_tabbed_folders-6.13-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042181/quickfolders_tabbed_folders-6.13.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15272,18 +15272,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "3.7.2",
+          "extVersion": "3.7.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041826/thunderai_chatgpt_gemini_ollama_in_your_emails-3.7.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042173/thunderai_chatgpt_gemini_ollama_in_your_emails-3.7.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.7.2",
+          "extVersion": "3.7.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041826/thunderai_chatgpt_gemini_ollama_in_your_emails-3.7.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042173/thunderai_chatgpt_gemini_ollama_in_your_emails-3.7.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15858,18 +15858,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "1.1.0",
+          "extVersion": "1.1.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041525/thundai_qa_ask_your_email_questions-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042187/thundai_qa_ask_your_email_questions-1.1.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.0",
+          "extVersion": "1.1.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041525/thundai_qa_ask_your_email_questions-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042187/thundai_qa_ask_your_email_questions-1.1.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
