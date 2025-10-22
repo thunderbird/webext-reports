@@ -1,5 +1,5 @@
 {
-  "generated": 1761081461286,
+  "generated": 1761167943749,
   "supported_versions": [
     78,
     91,
@@ -3200,6 +3200,33 @@
       "badges": []
     },
     {
+      "id": "allseeingtime@example.com",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989214-32.png?modified=9a45cca0",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989214-64.png?modified=9a45cca0"
+      },
+      "compat": [
+        {
+          "appVersion": "144",
+          "type": "release",
+          "extVersion": "2.3.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042218/all_seeing_time-2.3.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "2.3.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042218/all_seeing_time-2.3.2-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "aman.proj.rel@gmail.com",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988728-32.png?modified=633eac97",
@@ -3560,6 +3587,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041721/auto_mark_as_read-1.0.16.1-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "auto-report-mail@thunderbird.extension",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989212-32.png?modified=1219dc5e",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989212-64.png?modified=1219dc5e"
+      },
+      "compat": [
+        {
+          "appVersion": "144",
+          "type": "release",
+          "extVersion": "1.0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042213/autoreportmail-1.0.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042213/autoreportmail-1.0.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -5339,18 +5393,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "1.5",
+          "extVersion": "1.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041617/custom_headers_view-1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042215/custom_headers_view-1.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.5",
+          "extVersion": "1.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041617/custom_headers_view-1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042215/custom_headers_view-1.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13481,18 +13535,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "5.1.0",
+          "extVersion": "5.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042208/thunderbird_send_stage-5.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042287/thunderbird_send_stage-5.1.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "5.1.0",
+          "extVersion": "5.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042208/thunderbird_send_stage-5.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042287/thunderbird_send_stage-5.1.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
