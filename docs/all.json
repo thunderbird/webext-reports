@@ -1,5 +1,5 @@
 {
-  "generated": 1761167943749,
+  "generated": 1761254220526,
   "supported_versions": [
     78,
     91,
@@ -531,15 +531,19 @@
       "compat": [
         {
           "appVersion": "144",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.6.4",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042291/correct_identity-2.6.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.6.3",
+          "extVersion": "2.6.4",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039075/correct_identity-2.6.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042291/correct_identity-2.6.4-tb.xpi?src="
         }
       ],
       "alternatives": [
@@ -13696,18 +13700,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "1.7",
+          "extVersion": "1.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041946/autoreplace-1.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042290/autoreplace-1.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.7",
+          "extVersion": "1.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041946/autoreplace-1.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042290/autoreplace-1.8-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15311,18 +15315,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "3.7.4",
+          "extVersion": "3.7.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042202/thunderai_chatgpt_gemini_ollama_in_your_emails-3.7.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042288/thunderai_chatgpt_gemini_ollama_in_your_emails-3.7.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.7.4",
+          "extVersion": "3.7.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042202/thunderai_chatgpt_gemini_ollama_in_your_emails-3.7.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042288/thunderai_chatgpt_gemini_ollama_in_your_emails-3.7.5-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
