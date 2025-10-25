@@ -1,5 +1,5 @@
 {
-  "generated": 1761340740879,
+  "generated": 1761427140089,
   "supported_versions": [
     78,
     91,
@@ -13458,18 +13458,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "1.2.5",
+          "extVersion": "1.2.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035744/send_later_button-1.2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042298/send_later_button-1.2.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2.5",
+          "extVersion": "1.2.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035744/send_later_button-1.2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042298/send_later_button-1.2.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
