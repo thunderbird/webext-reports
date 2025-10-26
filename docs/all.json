@@ -1,5 +1,5 @@
 {
-  "generated": 1761427140089,
+  "generated": 1761513563082,
   "supported_versions": [
     78,
     91,
@@ -3123,6 +3123,33 @@
       "badges": []
     },
     {
+      "id": "ai-tag-manager@hendkai.com",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "144",
+          "type": "release",
+          "extVersion": "1.1.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042299/ai_tag_manager-1.1.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.1.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042299/ai_tag_manager-1.1.2-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "aify@shoryuken.me",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988493-32.png?modified=3822da70",
@@ -5832,18 +5859,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "6.5.0",
+          "extVersion": "6.6.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041604/disable_draganddrop_new-6.5.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042306/disable_draganddrop_new-6.6.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "6.5.0",
+          "extVersion": "6.6.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041604/disable_draganddrop_new-6.5.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042306/disable_draganddrop_new-6.6.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13458,18 +13485,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "1.2.6",
+          "extVersion": "1.2.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042298/send_later_button-1.2.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042305/send_later_button-1.2.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2.6",
+          "extVersion": "1.2.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042298/send_later_button-1.2.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042305/send_later_button-1.2.7-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
