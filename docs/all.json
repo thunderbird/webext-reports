@@ -1,5 +1,5 @@
 {
-  "generated": 1761513563082,
+  "generated": 1761599967704,
   "supported_versions": [
     78,
     91,
@@ -2469,18 +2469,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "0.7.0",
+          "extVersion": "0.8.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041711/paperless_ngx_uploader-0.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042209/paperless_ngx_uploader-0.8.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.7.0",
+          "extVersion": "0.8.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041711/paperless_ngx_uploader-0.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042209/paperless_ngx_uploader-0.8.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -3821,15 +3821,19 @@
       "compat": [
         {
           "appVersion": "144",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.9.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042310/automatic_dictionary-4.9.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.8.0",
+          "extVersion": "4.9.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041066/automatic_dictionary-4.8.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042310/automatic_dictionary-4.9.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14958,18 +14962,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "0.7.4",
+          "extVersion": "0.8.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042183/tbpro_addon_stage-0.7.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042286/tbpro_addon_stage-0.8.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.7.4",
+          "extVersion": "0.8.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042183/tbpro_addon_stage-0.7.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042286/tbpro_addon_stage-0.8.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
