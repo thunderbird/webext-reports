@@ -1,5 +1,5 @@
 {
-  "generated": 1761772828897,
+  "generated": 1761859266597,
   "supported_versions": [
     78,
     91,
@@ -4152,6 +4152,33 @@
       "badges": []
     },
     {
+      "id": "bluehighlighter@local",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "144",
+          "type": "release",
+          "extVersion": "2.1.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042401/blue_highlighter-2.1.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "2.1.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042401/blue_highlighter-2.1.2-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "bookmarks@opto.one",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988185-32.png?modified=e862e05a",
@@ -5328,18 +5355,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "1.5",
+          "extVersion": "1.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041454/copy_email_folder-1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042402/copy_email_folder-1.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.5",
+          "extVersion": "1.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041454/copy_email_folder-1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042402/copy_email_folder-1.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -6886,15 +6913,19 @@
       "compat": [
         {
           "appVersion": "144",
-          "type": "release"
+          "type": "release",
+          "extVersion": "145.0.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042406/exquilla_for_exchange-145.0.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "143.0",
+          "extVersion": "145.0.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041157/exquilla_for_exchange-143.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042406/exquilla_for_exchange-145.0.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -12230,18 +12261,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "6.9",
+          "extVersion": "6.9.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042216/quickfilters-6.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042404/quickfilters-6.9.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "6.9",
+          "extVersion": "6.9.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042216/quickfilters-6.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042404/quickfilters-6.9.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15074,18 +15105,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "0.8.4",
+          "extVersion": "0.8.5",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042327/tbpro_addon_stage-0.8.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042398/tbpro_addon_stage-0.8.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.8.4",
+          "extVersion": "0.8.5",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042327/tbpro_addon_stage-0.8.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042398/tbpro_addon_stage-0.8.5-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
