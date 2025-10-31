@@ -1,5 +1,5 @@
 {
-  "generated": 1761859266597,
+  "generated": 1761945630302,
   "supported_versions": [
     78,
     91,
@@ -5020,18 +5020,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "5.8",
+          "extVersion": "5.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041741/compact_headers-5.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042409/compact_headers-5.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "5.8",
+          "extVersion": "5.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041741/compact_headers-5.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042409/compact_headers-5.9-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8302,18 +8302,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "3.17",
+          "extVersion": "3.18",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041729/phoenity_icons-3.17-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042410/phoenity_icons-3.18-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.17",
+          "extVersion": "3.18",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041729/phoenity_icons-3.17-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042410/phoenity_icons-3.18-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8875,11 +8875,19 @@
       "compat": [
         {
           "appVersion": "144",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.2.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037214/icanban_kanban_with_ical-1.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "current-esr"
+          "type": "current-esr",
+          "extVersion": "1.2.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037214/icanban_kanban_with_ical-1.2.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
