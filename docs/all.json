@@ -1,5 +1,5 @@
 {
-  "generated": 1761945630302,
+  "generated": 1762031953019,
   "supported_versions": [
     78,
     91,
@@ -3274,7 +3274,11 @@
       "compat": [
         {
           "appVersion": "144",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.1.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042414/date_time_formatter-2.1.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
