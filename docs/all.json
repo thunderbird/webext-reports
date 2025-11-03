@@ -1,5 +1,5 @@
 {
-  "generated": 1762031953019,
+  "generated": 1762204913352,
   "supported_versions": [
     78,
     91,
@@ -3000,6 +3000,33 @@
       "badges": []
     },
     {
+      "id": "admin@regent.gifts",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989223-32.png?modified=81074524",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989223-64.png?modified=81074524"
+      },
+      "compat": [
+        {
+          "appVersion": "144",
+          "type": "release",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042426/image_preview-1.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042426/image_preview-1.0.1-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "adv-sound-filters@yourdomain.com",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989147-32.png?modified=0f7ae078",
@@ -3861,18 +3888,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "2.4.0",
+          "extVersion": "2.4.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040733/auto_profile_picture-2.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042420/auto_profile_picture-2.4.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.4.0",
+          "extVersion": "2.4.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040733/auto_profile_picture-2.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042420/auto_profile_picture-2.4.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -4500,18 +4527,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "101.3",
+          "extVersion": "101.4",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042176/cardbook-101.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042411/cardbook-101.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "101.3",
+          "extVersion": "101.4",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042176/cardbook-101.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042411/cardbook-101.4-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8790,6 +8817,33 @@
       "badges": []
     },
     {
+      "id": "jp-spam-reporter@magical-soft.jp",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989222-32.png?modified=1ff3f999",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989222-64.png?modified=1ff3f999"
+      },
+      "compat": [
+        {
+          "appVersion": "144",
+          "type": "release",
+          "extVersion": "2.4.18.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042418/jp_spam_reporter_enhanced-2.4.18.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "2.4.18.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042418/jp_spam_reporter_enhanced-2.4.18.2-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "JunkMailByeBye@example.com",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988766-32.png?modified=b34088d6",
@@ -8880,18 +8934,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "1.2.0",
+          "extVersion": "1.2.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037214/icanban_kanban_with_ical-1.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042412/icanban_kanban_with_ical-1.2.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2.0",
+          "extVersion": "1.2.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037214/icanban_kanban_with_ical-1.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042412/icanban_kanban_with_ical-1.2.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9431,18 +9485,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "4.2.2",
+          "extVersion": "4.2.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041261/localfolders-4.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042413/localfolders-4.2.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.2.2",
+          "extVersion": "4.2.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041261/localfolders-4.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042413/localfolders-4.2.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -10024,18 +10078,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "2.1.0",
+          "extVersion": "2.2.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042316/mass_emailer-2.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042407/mass_emailer-2.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.1.0",
+          "extVersion": "2.2.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042316/mass_emailer-2.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042407/mass_emailer-2.2.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -10305,18 +10359,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "1.7",
+          "extVersion": "1.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042326/hi_name_auto-1.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042403/hi_name_auto-1.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.7",
+          "extVersion": "1.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042326/hi_name_auto-1.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042403/hi_name_auto-1.8-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -11899,18 +11953,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "3.1.8",
+          "extVersion": "3.1.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041368/printingtools_ng-3.1.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042419/printingtools_ng-3.1.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.1.8",
+          "extVersion": "3.1.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041368/printingtools_ng-3.1.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042419/printingtools_ng-3.1.9-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -12273,18 +12327,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "6.9.1",
+          "extVersion": "6.9.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042404/quickfilters-6.9.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042425/quickfilters-6.9.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "6.9.1",
+          "extVersion": "6.9.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042404/quickfilters-6.9.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042425/quickfilters-6.9.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -12647,18 +12701,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "1.0.0.83",
+          "extVersion": "1.1.0.100",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041625/regimail-1.0.0.83-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042423/regimail-1.1.0.100-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.0.83",
+          "extVersion": "1.1.0.100",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041625/regimail-1.0.0.83-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042423/regimail-1.1.0.100-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
