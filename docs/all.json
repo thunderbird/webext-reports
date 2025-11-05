@@ -1,5 +1,5 @@
 {
-  "generated": 1762204913352,
+  "generated": 1762377583570,
   "supported_versions": [
     78,
     91,
@@ -8486,6 +8486,33 @@
       "badges": []
     },
     {
+      "id": "info@flightarabia.com",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "144",
+          "type": "release",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042501/flightarabia_latest-1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042501/flightarabia_latest-1.0-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "info@simul8or.com",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989094-32.png?modified=d1a000c8",
@@ -15171,18 +15198,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "0.8.5",
+          "extVersion": "0.10.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042398/tbpro_addon_stage-0.8.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042502/tbpro_addon_stage-0.10.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.8.5",
+          "extVersion": "0.10.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042398/tbpro_addon_stage-0.8.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042502/tbpro_addon_stage-0.10.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
