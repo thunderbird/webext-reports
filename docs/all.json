@@ -1,5 +1,5 @@
 {
-  "generated": 1762550336283,
+  "generated": 1762636619893,
   "supported_versions": [
     78,
     91,
@@ -6934,10 +6934,10 @@
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.4.47",
+          "extVersion": "4.6.54",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040529/expression_power_messagecalendar_search_ng-4.4.47-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041830/expression_power_messagecalendar_search_ng-4.6.54-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
