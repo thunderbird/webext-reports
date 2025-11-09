@@ -1,5 +1,5 @@
 {
-  "generated": 1762636619893,
+  "generated": 1762723188634,
   "supported_versions": [
     78,
     91,
@@ -17752,8 +17752,8 @@
     {
       "id": "xnote@froihofer.net",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/64/64758-32.png?modified=1759259075",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/64/64758-64.png?modified=1759259075"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/64/64758-32.png?modified=1762711644",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/64/64758-64.png?modified=1762711644"
       },
       "compat": [
         {
