@@ -1,5 +1,5 @@
 {
-  "generated": 1762723188634,
+  "generated": 1762809488372,
   "supported_versions": [
     78,
     91,
@@ -1540,18 +1540,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "1.0",
+          "extVersion": "2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031055/folder_pane_toggler-1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042532/folder_pane_toggler-2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0",
+          "extVersion": "2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031055/folder_pane_toggler-1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042532/folder_pane_toggler-2.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
