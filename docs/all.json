@@ -1,5 +1,5 @@
 {
-  "generated": 1762809488372,
+  "generated": 1762895882117,
   "supported_versions": [
     78,
     91,
@@ -378,10 +378,10 @@
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.4",
+          "extVersion": "1.1.5",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041169/no_tabs-1.1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042539/no_tabs-1.1.5-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -3815,18 +3815,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "2.1.7",
+          "extVersion": "2.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042330/autofile_fast_e_mail_to_folder_filing-2.1.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042429/autofile_fast_e_mail_to_folder_filing-2.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.1.7",
+          "extVersion": "2.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042330/autofile_fast_e_mail_to_folder_filing-2.1.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042429/autofile_fast_e_mail_to_folder_filing-2.2.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8476,18 +8476,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "14.1.14",
+          "extVersion": "14.1.15",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041370/importexporttools_ng-14.1.14-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042503/importexporttools_ng-14.1.15-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "14.1.14",
+          "extVersion": "14.1.15",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041370/importexporttools_ng-14.1.14-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042503/importexporttools_ng-14.1.15-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9600,15 +9600,19 @@
       "compat": [
         {
           "appVersion": "144",
-          "type": "release"
+          "type": "release",
+          "extVersion": "7.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042542/lookout_fix_version-7.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "7.0",
+          "extVersion": "7.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040319/lookout_fix_version-7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042542/lookout_fix_version-7.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14514,18 +14518,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "1.7.5",
+          "extVersion": "1.7.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041164/j_lawyerorg_thunderbird_extension-1.7.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042511/j_lawyerorg_thunderbird_extension-1.7.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.7.5",
+          "extVersion": "1.7.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041164/j_lawyerorg_thunderbird_extension-1.7.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042511/j_lawyerorg_thunderbird_extension-1.7.7-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15233,18 +15237,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "0.11.0",
+          "extVersion": "0.12.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042521/thunderbird_pro-0.11.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042538/thunderbird_pro-0.12.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.11.0",
+          "extVersion": "0.12.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042521/thunderbird_pro-0.11.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042538/thunderbird_pro-0.12.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15260,18 +15264,18 @@
         {
           "appVersion": "144",
           "type": "release",
-          "extVersion": "0.10.2",
+          "extVersion": "0.12.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042517/tbpro_addon_stage-0.10.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042537/tbpro_addon_stage-0.12.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.10.2",
+          "extVersion": "0.12.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042517/tbpro_addon_stage-0.10.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042537/tbpro_addon_stage-0.12.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
