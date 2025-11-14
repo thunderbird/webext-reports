@@ -1,5 +1,5 @@
 {
-  "generated": 1763068832818,
+  "generated": 1763155196922,
   "supported_versions": [
     78,
     91,
@@ -374,10 +374,10 @@
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.5",
+          "extVersion": "1.1.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042539/no_tabs-1.1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042761/no_tabs-1.1.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -4989,18 +4989,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "3.10",
+          "extVersion": "3.11",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042092/clear_history_button-3.10-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042762/clear_history_button-3.11-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.10",
+          "extVersion": "3.11",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042092/clear_history_button-3.10-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042762/clear_history_button-3.11-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -5940,18 +5940,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "6.6.0",
+          "extVersion": "6.7.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042306/disable_draganddrop_new-6.6.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042764/disable_draganddrop_new-6.7.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "6.6.0",
+          "extVersion": "6.7.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042306/disable_draganddrop_new-6.6.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042764/disable_draganddrop_new-6.7.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
