@@ -1,5 +1,5 @@
 {
-  "generated": 1763155196922,
+  "generated": 1763241527566,
   "supported_versions": [
     78,
     91,
@@ -889,7 +889,7 @@
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040393/quicktext-6.4-tb.xpi?src="
         }
       ],
-      "dedicatedSupportOnRelease": true,
+      "dedicatedSupportOnRelease": false,
       "badges": []
     },
     {
@@ -4460,7 +4460,11 @@
       "compat": [
         {
           "appVersion": "145",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.8",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037856/calendarproject_tools_gantt_year_view_planner-2.4.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -7883,7 +7887,11 @@
       "compat": [
         {
           "appVersion": "145",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.8.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037846/folders_for_search_ondisk_status_glodaquilla_ng-1.8.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -8199,7 +8207,11 @@
       "compat": [
         {
           "appVersion": "145",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.6",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038089/header_tools_lite-2.4.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -10984,7 +10996,11 @@
       "compat": [
         {
           "appVersion": "145",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.8.80",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041039/nostalgy_emails_verwalten_suchen_archivieren-4.8.80-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -11621,25 +11637,25 @@
     {
       "id": "paste-excel@example.com",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989168-32.png?modified=ac4b095c",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989168-64.png?modified=ac4b095c"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989168-32.png?modified=4de4e807",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989168-64.png?modified=4de4e807"
       },
       "compat": [
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "2.1",
+          "extVersion": "2.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041626/paste_excel_table_into_compose-2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042865/paste_excel_table_into_mail_compose-2.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.1",
+          "extVersion": "2.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041626/paste_excel_table_into_compose-2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042865/paste_excel_table_into_mail_compose-2.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -17330,15 +17346,19 @@
       "compat": [
         {
           "appVersion": "145",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.16",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042859/warnattachment-2.16-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.15",
+          "extVersion": "2.16",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040050/warnattachment-2.15-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042859/warnattachment-2.16-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -17771,7 +17791,11 @@
       "compat": [
         {
           "appVersion": "145",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.6.51",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041746/xnote-4.6.51-tb.xpi?src="
         },
         {
           "appVersion": "140",
