@@ -1348,7 +1348,7 @@ async function genStandardReport(extsJson, name, report) {
                 icons: extJson.icons,
                 compat,
                 alternatives: getAlternativeEntries(extJson),
-                dedicatedSupportOnRelease: extJson.guid == "{8845E3B3-E8FB-40E2-95E9-EC40294818C4}", // TEST
+                dedicatedSupportOnRelease: false, // Not used
                 badges: rowData.badges ? rowData.badges.map(e => e.badge) : [],
             })
         } else {
