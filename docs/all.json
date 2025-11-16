@@ -1,5 +1,5 @@
 {
-  "generated": 1763241527566,
+  "generated": 1763327958190,
   "supported_versions": [
     78,
     91,
@@ -346,7 +346,11 @@
       "compat": [
         {
           "appVersion": "145",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.7.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040743/folderflags-1.7.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -8172,6 +8176,33 @@
       "badges": []
     },
     {
+      "id": "havoc-startup-minimizer@havoc.de",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989242-32.png?modified=3a27d565",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989242-64.png?modified=3a27d565"
+      },
+      "compat": [
+        {
+          "appVersion": "145",
+          "type": "release",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042867/havoc_startup_minimizer-1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042867/havoc_startup_minimizer-1.0-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "hdrtoolslite@dillinger",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987764-32.png?modified=df8c9bef",
@@ -8653,6 +8684,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041349/eingebettete_bilder_verkleinern-1.0.0-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "insert-clipboard-html-raw@example.com",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "145",
+          "type": "release",
+          "extVersion": "2.4",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042866/keydoc_go-2.4-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "2.4",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042866/keydoc_go-2.4-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
