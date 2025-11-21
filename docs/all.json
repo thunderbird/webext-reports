@@ -1,5 +1,5 @@
 {
-  "generated": 1763673632524,
+  "generated": 1763759944507,
   "supported_versions": [
     78,
     91,
@@ -7518,18 +7518,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "6.1.1",
+          "extVersion": "6.1.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1036392/folder_pane_view_switcher-6.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042898/folder_pane_view_switcher-6.1.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "6.1.1",
+          "extVersion": "6.1.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1036392/folder_pane_view_switcher-6.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042898/folder_pane_view_switcher-6.1.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7545,18 +7545,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "1.3",
+          "extVersion": "1.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042879/font_pt_selector-1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042895/font_pt_selector-1.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.3",
+          "extVersion": "1.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042879/font_pt_selector-1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042895/font_pt_selector-1.4-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9345,7 +9345,11 @@
       "compat": [
         {
           "appVersion": "145",
-          "type": "release"
+          "type": "release",
+          "extVersion": "8.11.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031394/grammatik_und_rechtschreibprufung_languagetool-8.11.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
