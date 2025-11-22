@@ -1,5 +1,5 @@
 {
-  "generated": 1763759944507,
+  "generated": 1763846345733,
   "supported_versions": [
     78,
     91,
@@ -10278,10 +10278,10 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "1.18",
+          "extVersion": "2.2.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039840/mass_emailer-1.18-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042407/mass_emailer-2.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
