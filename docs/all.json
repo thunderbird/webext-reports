@@ -1,5 +1,5 @@
 {
-  "generated": 1763846345733,
+  "generated": 1763932658763,
   "supported_versions": [
     78,
     91,
@@ -17829,15 +17829,19 @@
       "compat": [
         {
           "appVersion": "145",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.1.6",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042908/x_header_to_column-1.1.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.5",
+          "extVersion": "1.1.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042500/x_header_to_column-1.1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042908/x_header_to_column-1.1.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
