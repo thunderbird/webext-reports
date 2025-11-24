@@ -1,5 +1,5 @@
 {
-  "generated": 1763932658763,
+  "generated": 1764019111911,
   "supported_versions": [
     78,
     91,
@@ -7076,18 +7076,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "1.8.9",
+          "extVersion": "1.9.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042431/extract_em-1.8.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042917/extract_em-1.9.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.8.9",
+          "extVersion": "1.9.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042431/extract_em-1.8.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042917/extract_em-1.9.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
