@@ -1,5 +1,5 @@
 {
-  "generated": 1764019111911,
+  "generated": 1764105675713,
   "supported_versions": [
     78,
     91,
@@ -4146,6 +4146,33 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039311/geburtstagskalender-1.2.3-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "black-menu-for-google@carlosjeurissen.com",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989250-32.png?modified=67512fdb",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989250-64.png?modified=67512fdb"
+      },
+      "compat": [
+        {
+          "appVersion": "145",
+          "type": "release",
+          "extVersion": "30.7.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042923/black_menu_for_googletm-30.7.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "30.7.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042923/black_menu_for_googletm-30.7.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
