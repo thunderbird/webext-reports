@@ -1,5 +1,5 @@
 {
-  "generated": 1764192034780,
+  "generated": 1764278392866,
   "supported_versions": [
     78,
     91,
@@ -8838,18 +8838,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "2.7",
+          "extVersion": "2.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042886/keydoc_go-2.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042943/keydoc_go-2.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.7",
+          "extVersion": "2.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042886/keydoc_go-2.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042943/keydoc_go-2.8-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14737,18 +14737,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "1.6.0",
+          "extVersion": "1.7.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040742/standardtexter-1.6.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042936/standardtexter-1.7.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.6.0",
+          "extVersion": "1.7.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040742/standardtexter-1.6.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042936/standardtexter-1.7.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
