@@ -1,5 +1,5 @@
 {
-  "generated": 1764364758437,
+  "generated": 1764451211247,
   "supported_versions": [
     78,
     91,
@@ -5313,6 +5313,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1016269/console_messaging_example-1.0-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "contact@seecret.it",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989011-32.png?modified=742feba6",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989011-64.png?modified=742feba6"
+      },
+      "compat": [
+        {
+          "appVersion": "145",
+          "type": "release",
+          "extVersion": "1.1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042961/seecretit_sender-1.1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042961/seecretit_sender-1.1.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -12535,18 +12562,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "1.0.6",
+          "extVersion": "1.0.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038447/quick_spaces-1.0.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042957/quick_spaces-1.0.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.6",
+          "extVersion": "1.0.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038447/quick_spaces-1.0.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042957/quick_spaces-1.0.7-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
