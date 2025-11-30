@@ -1,5 +1,5 @@
 {
-  "generated": 1764451211247,
+  "generated": 1764537548525,
   "supported_versions": [
     78,
     91,
@@ -5328,18 +5328,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "1.1.1",
+          "extVersion": "1.1.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042961/seecretit_sender-1.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042962/seecretit_sender-1.1.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.1",
+          "extVersion": "1.1.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042961/seecretit_sender-1.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042962/seecretit_sender-1.1.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -5556,6 +5556,60 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039693/copy_sent_to_current-3.39-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "CorrectifyEN@Anonyma",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989258-32.png?modified=50f0d4f3",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989258-64.png?modified=50f0d4f3"
+      },
+      "compat": [
+        {
+          "appVersion": "145",
+          "type": "release",
+          "extVersion": "1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042965/correctify_en-1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042965/correctify_en-1.1-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "CorrectifyFR@Anonyma",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989257-32.png?modified=50f0d4f3",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989257-64.png?modified=50f0d4f3"
+      },
+      "compat": [
+        {
+          "appVersion": "145",
+          "type": "release",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042963/correctify_fr-1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042963/correctify_fr-1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -10051,18 +10105,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "11.2.0",
+          "extVersion": "11.3.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041042/mail_merge-11.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042967/mail_merge-11.3.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "11.2.0",
+          "extVersion": "11.3.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041042/mail_merge-11.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042967/mail_merge-11.3.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
