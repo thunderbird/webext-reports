@@ -1,5 +1,5 @@
 {
-  "generated": 1764624051288,
+  "generated": 1764710636980,
   "supported_versions": [
     78,
     91,
@@ -3025,8 +3025,8 @@
     {
       "id": "adv-sound-filters@yourdomain.com",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989147-32.png?modified=0f7ae078",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989147-64.png?modified=0f7ae078"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989147-32.png?modified=596ff8ca",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989147-64.png?modified=596ff8ca"
       },
       "compat": [
         {
@@ -7211,18 +7211,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "1.9.1",
+          "extVersion": "1.9.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042917/extract_em-1.9.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043050/extract_em-1.9.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.9.1",
+          "extVersion": "1.9.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042917/extract_em-1.9.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043050/extract_em-1.9.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9720,18 +9720,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "1.2.1",
+          "extVersion": "1.2.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1034258/list_unsubscribe-1.2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043049/list_unsubscribe-1.2.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2.1",
+          "extVersion": "1.2.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1034258/list_unsubscribe-1.2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043049/list_unsubscribe-1.2.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14122,18 +14122,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "5.1.4",
+          "extVersion": "6.2.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042399/thunderbird_send_stage-5.1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043051/thunderbird_send_stage-6.2.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "5.1.4",
+          "extVersion": "6.2.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042399/thunderbird_send_stage-5.1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043051/thunderbird_send_stage-6.2.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
