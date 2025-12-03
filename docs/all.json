@@ -1,5 +1,5 @@
 {
-  "generated": 1764710636980,
+  "generated": 1764796761852,
   "supported_versions": [
     78,
     91,
@@ -3163,18 +3163,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "1.1.4",
+          "extVersion": "1.1.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042968/ai_tag_manager-1.1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043054/ai_tag_manager-1.1.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.4",
+          "extVersion": "1.1.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042968/ai_tag_manager-1.1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043054/ai_tag_manager-1.1.5-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15564,18 +15564,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "1.0.4",
+          "extVersion": "1.0.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042933/thunderbird_pro-1.0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043060/thunderbird_pro-1.0.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.4",
+          "extVersion": "1.0.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042933/thunderbird_pro-1.0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043060/thunderbird_pro-1.0.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
