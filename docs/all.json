@@ -1,5 +1,5 @@
 {
-  "generated": 1764883286844,
+  "generated": 1764969671234,
   "supported_versions": [
     78,
     91,
@@ -1474,18 +1474,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "1.0.9",
+          "extVersion": "1.0.11",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043077/fexnet_filelink-1.0.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043080/fexnet_filelink-1.0.11-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.9",
+          "extVersion": "1.0.11",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043077/fexnet_filelink-1.0.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043080/fexnet_filelink-1.0.11-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7419,18 +7419,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "5.5.1",
+          "extVersion": "6.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042178/filtaquilla-5.5.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043053/filtaquilla-6.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "5.5.1",
+          "extVersion": "6.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042178/filtaquilla-5.5.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043053/filtaquilla-6.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -12990,18 +12990,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "2.6.1",
+          "extVersion": "2.6.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1036631/received-2.6.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043065/received-2.6.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.6.1",
+          "extVersion": "2.6.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1036631/received-2.6.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043065/received-2.6.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
