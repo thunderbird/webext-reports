@@ -1,5 +1,5 @@
 {
-  "generated": 1765056032307,
+  "generated": 1765142402346,
   "supported_versions": [
     78,
     91,
@@ -448,25 +448,25 @@
     {
       "id": "{3cd056e1-caf7-463c-8807-54cd22dab7ab}",
       "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989274-32.png?modified=063cb3bb",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989274-64.png?modified=063cb3bb"
       },
       "compat": [
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "1.0",
+          "extVersion": "1.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043091/proton_drive_toolbar_button-1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043125/proton_drive_toolbar_button-1.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0",
+          "extVersion": "1.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043091/proton_drive_toolbar_button-1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043125/proton_drive_toolbar_button-1.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -1501,18 +1501,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "1.0.12",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043088/fexnet_filelink-1.0.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043112/fexnet_filelink-1.1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.12",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043088/fexnet_filelink-1.0.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043112/fexnet_filelink-1.1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -3857,18 +3857,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "2.2.2",
+          "extVersion": "2.2.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042931/autofile_fast_e_mail_to_folder_filing-2.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043123/autofile_fast_e_mail_to_folder_filing-2.2.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.2.2",
+          "extVersion": "2.2.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042931/autofile_fast_e_mail_to_folder_filing-2.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043123/autofile_fast_e_mail_to_folder_filing-2.2.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
