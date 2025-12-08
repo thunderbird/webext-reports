@@ -1,5 +1,5 @@
 {
-  "generated": 1765142402346,
+  "generated": 1765228840848,
   "supported_versions": [
     78,
     91,
@@ -12981,6 +12981,33 @@
       "badges": []
     },
     {
+      "id": "rdc@example.com",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989276-32.png?modified=c82b1ea3",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989276-64.png?modified=c82b1ea3"
+      },
+      "compat": [
+        {
+          "appVersion": "145",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043129/reputation_damage_checker-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043129/reputation_damage_checker-1.0.0-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "read-aloud@lsdsoftware.com",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988068-32.png?modified=cccc5f2c",
@@ -14387,18 +14414,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "1.8",
+          "extVersion": "1.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042290/autoreplace-1.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043128/autoreplace-1.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.8",
+          "extVersion": "1.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042290/autoreplace-1.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043128/autoreplace-1.9-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14872,18 +14899,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "1.7.0",
+          "extVersion": "1.7.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042936/standardtexter-1.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043127/standardtexter-1.7.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.7.0",
+          "extVersion": "1.7.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042936/standardtexter-1.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043127/standardtexter-1.7.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -16056,18 +16083,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "3.7.5",
+          "extVersion": "3.7.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042288/thunderai_chatgpt_gemini_ollama_in_your_emails-3.7.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043131/thunderai_chatgpt_gemini_ollama_in_your_emails-3.7.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.7.5",
+          "extVersion": "3.7.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042288/thunderai_chatgpt_gemini_ollama_in_your_emails-3.7.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043131/thunderai_chatgpt_gemini_ollama_in_your_emails-3.7.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
