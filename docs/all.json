@@ -1,5 +1,5 @@
 {
-  "generated": 1765228840848,
+  "generated": 1765315219495,
   "supported_versions": [
     78,
     91,
@@ -7265,18 +7265,18 @@
         {
           "appVersion": "145",
           "type": "release",
-          "extVersion": "1.9.3",
+          "extVersion": "1.9.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043050/extract_em-1.9.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043133/extract_em-1.9.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.9.3",
+          "extVersion": "1.9.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043050/extract_em-1.9.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043133/extract_em-1.9.4-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -18209,11 +18209,19 @@
       "compat": [
         {
           "appVersion": "145",
-          "type": "release"
+          "type": "release",
+          "extVersion": "0.6",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043132/openpgp_alias_updater-0.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "current-esr"
+          "type": "current-esr",
+          "extVersion": "0.6",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043132/openpgp_alias_updater-0.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
