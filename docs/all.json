@@ -1,5 +1,5 @@
 {
-  "generated": 1765401606520,
+  "generated": 1765488094746,
   "supported_versions": [
     78,
     91,
@@ -558,15 +558,19 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.6.5",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043287/correct_identity-2.6.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.6.4",
+          "extVersion": "2.6.5",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042291/correct_identity-2.6.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043287/correct_identity-2.6.5-tb.xpi?src="
         }
       ],
       "alternatives": [
