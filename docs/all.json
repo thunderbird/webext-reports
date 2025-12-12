@@ -1,5 +1,5 @@
 {
-  "generated": 1765488094746,
+  "generated": 1765574304430,
   "supported_versions": [
     78,
     91,
@@ -4537,7 +4537,11 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.8",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037856/calendarproject_tools_gantt_year_view_planner-2.4.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -7167,7 +7171,11 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.6.54",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041830/expression_power_messagecalendar_search_ng-4.6.54-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -7683,10 +7691,10 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "6.1.1",
+          "extVersion": "6.1.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1036392/folder_pane_view_switcher-6.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042898/folder_pane_view_switcher-6.1.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -8114,7 +8122,11 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.8.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037846/folders_for_search_ondisk_status_glodaquilla_ng-1.8.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -8457,7 +8469,11 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.6",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038089/header_tools_lite-2.4.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -11265,7 +11281,11 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.8.80",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041039/nostalgy_emails_verwalten_suchen_archivieren-4.8.80-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -18187,7 +18207,11 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.6.53",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042944/xnote-4.6.53-tb.xpi?src="
         },
         {
           "appVersion": "140",
