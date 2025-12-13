@@ -1,5 +1,5 @@
 {
-  "generated": 1765574304430,
+  "generated": 1765660790916,
   "supported_versions": [
     78,
     91,
@@ -2677,18 +2677,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "1.2",
+          "extVersion": "1.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1021627/simple_template-1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043435/simple_template-1.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2",
+          "extVersion": "1.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1021627/simple_template-1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043435/simple_template-1.4-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
