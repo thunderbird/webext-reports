@@ -1,5 +1,5 @@
 {
-  "generated": 1765660790916,
+  "generated": 1765747205740,
   "supported_versions": [
     78,
     91,
@@ -3906,15 +3906,19 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.11.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043441/automatic_dictionary-4.11.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.9.0",
+          "extVersion": "4.11.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042310/automatic_dictionary-4.9.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043441/automatic_dictionary-4.11.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15295,18 +15299,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "0.3.0",
+          "extVersion": "0.4.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1019776/tabcontrol-0.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043450/tabcontrol-0.4.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.3.0",
+          "extVersion": "0.4.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1019776/tabcontrol-0.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043450/tabcontrol-0.4.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
