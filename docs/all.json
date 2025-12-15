@@ -1,5 +1,5 @@
 {
-  "generated": 1765747205740,
+  "generated": 1765833583148,
   "supported_versions": [
     78,
     91,
@@ -1397,18 +1397,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "12.1",
+          "extVersion": "12.2.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037938/folder_account-12.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043460/folder_account-12.2.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "12.1",
+          "extVersion": "12.2.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037938/folder_account-12.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043460/folder_account-12.2.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -2677,18 +2677,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "1.4",
+          "extVersion": "1.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043435/simple_template-1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043457/simple_template-1.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.4",
+          "extVersion": "1.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043435/simple_template-1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043457/simple_template-1.5-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -6133,18 +6133,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "6.7.0",
+          "extVersion": "6.8.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042764/disable_draganddrop_new-6.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043454/disable_draganddrop_new-6.8.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "6.7.0",
+          "extVersion": "6.8.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042764/disable_draganddrop_new-6.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043454/disable_draganddrop_new-6.8.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7830,18 +7830,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "2.1.1",
+          "extVersion": "2.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1018561/grammalecte_fr_for_thunderbird-2.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043463/grammalecte_fr_for_thunderbird-2.3.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.1.1",
+          "extVersion": "2.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1018561/grammalecte_fr_for_thunderbird-2.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043463/grammalecte_fr_for_thunderbird-2.3.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9310,7 +9310,11 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.13.20251007.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041918/keepassxc_mail-1.13.20251007.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -15299,18 +15303,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "0.4.1",
+          "extVersion": "0.4.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043450/tabcontrol-0.4.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043462/tabcontrol-0.4.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.4.1",
+          "extVersion": "0.4.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043450/tabcontrol-0.4.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043462/tabcontrol-0.4.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -16023,7 +16027,11 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.2.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041154/thunderai_sparks-1.2.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -17925,18 +17933,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "1.2.1",
+          "extVersion": "1.2.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037517/open_by_message_id-1.2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043459/open_by_message_id-1.2.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2.1",
+          "extVersion": "1.2.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037517/open_by_message_id-1.2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043459/open_by_message_id-1.2.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
