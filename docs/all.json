@@ -1,5 +1,5 @@
 {
-  "generated": 1765833583148,
+  "generated": 1765919966826,
   "supported_versions": [
     78,
     91,
@@ -4207,18 +4207,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "30.7.0",
+          "extVersion": "30.8.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042923/black_menu_for_googletm-30.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043469/black_menu_for_googletm-30.8.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "30.7.0",
+          "extVersion": "30.8.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042923/black_menu_for_googletm-30.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043469/black_menu_for_googletm-30.8.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8721,7 +8721,11 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.9.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030810/attachment_viewer_view_in_a_tab_slideshow-2.9.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -9310,11 +9314,7 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release",
-          "extVersion": "1.13.20251007.0",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041918/keepassxc_mail-1.13.20251007.0-tb.xpi?src="
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -13944,18 +13944,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "2.0.2",
+          "extVersion": "2.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039417/seams-2.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043464/seams-2.1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.0.2",
+          "extVersion": "2.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039417/seams-2.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043464/seams-2.1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
