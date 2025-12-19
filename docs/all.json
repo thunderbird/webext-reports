@@ -1,5 +1,5 @@
 {
-  "generated": 1766006482520,
+  "generated": 1766179264400,
   "supported_versions": [
     78,
     91,
@@ -727,7 +727,11 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037412/tag_toolbar_tag_popup-2.4.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -3086,18 +3090,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "3.4",
+          "extVersion": "3.8.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041271/advanced_sound_filters-3.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043052/advanced_sound_filters_pro-3.8.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.4",
+          "extVersion": "3.8.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041271/advanced_sound_filters-3.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043052/advanced_sound_filters_pro-3.8.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -4573,18 +4577,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "1.6",
+          "extVersion": "1.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041038/calendarsearchexport-1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043083/calendarsearchexport-1.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.6",
+          "extVersion": "1.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041038/calendarsearchexport-1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043083/calendarsearchexport-1.9-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -10950,7 +10954,11 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.4",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037413/message_header_toolbar_customize-2.4.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -11941,18 +11949,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "2.3.2",
+          "extVersion": "3.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042884/excel2mail-2.3.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043559/excel2mail-3.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.3",
+          "extVersion": "3.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042883/excel2mail-2.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043559/excel2mail-3.2.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -16771,15 +16779,19 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release"
+          "type": "release",
+          "extVersion": "5.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043440/tidybird-5.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "5.2",
+          "extVersion": "5.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042541/tidybird-5.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043440/tidybird-5.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
