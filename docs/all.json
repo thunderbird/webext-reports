@@ -1,5 +1,5 @@
 {
-  "generated": 1766179264400,
+  "generated": 1766265561276,
   "supported_versions": [
     78,
     91,
@@ -11278,7 +11278,11 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.0.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1023037/no_message_pane_sort-3.0.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -12789,18 +12793,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "6.13.1",
+          "extVersion": "6.14.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042181/quickfolders_tabbed_folders-6.13.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043488/quickfolders_tabbed_folders-6.14.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "6.13.1",
+          "extVersion": "6.14.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042181/quickfolders_tabbed_folders-6.13.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043488/quickfolders_tabbed_folders-6.14.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
