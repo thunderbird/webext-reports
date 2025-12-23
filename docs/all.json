@@ -1,5 +1,5 @@
 {
-  "generated": 1766438428683,
+  "generated": 1766524846229,
   "supported_versions": [
     78,
     91,
@@ -219,11 +219,19 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031950/alertswitch-1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "current-esr"
+          "type": "current-esr",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031950/alertswitch-1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -994,7 +1002,11 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.0.8",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039498/subswitch-1.0.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -16179,18 +16191,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "1.0.0",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041726/thunderbird_image_compressor-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043585/mail_bilder_verkleinere-1.1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.0",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041726/thunderbird_image_compressor-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043585/mail_bilder_verkleinere-1.1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
