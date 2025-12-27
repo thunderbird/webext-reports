@@ -1,5 +1,5 @@
 {
-  "generated": 1766697633249,
+  "generated": 1766870395921,
   "supported_versions": [
     78,
     91,
@@ -3920,25 +3920,25 @@
     {
       "id": "automatic_dictionary_extension@jordi_beltran.net",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/116/116388-32.png?modified=1717853528",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/116/116388-64.png?modified=1717853528"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/116/116388-32.png?modified=1766860771",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/116/116388-64.png?modified=1766860771"
       },
       "compat": [
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "4.11.0",
+          "extVersion": "4.12.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043441/automatic_dictionary-4.11.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043607/automatic_dictionary-4.12.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.11.0",
+          "extVersion": "4.12.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043441/automatic_dictionary-4.11.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043607/automatic_dictionary-4.12.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -11906,6 +11906,33 @@
       "badges": []
     },
     {
+      "id": "otek.converter@otek.today",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989302-32.png?modified=d0c73d4e",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989302-64.png?modified=d0c73d4e"
+      },
+      "compat": [
+        {
+          "appVersion": "146",
+          "type": "release",
+          "extVersion": "2.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043605/otek_currency_converter-2.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "2.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043605/otek_currency_converter-2.0.1-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "outlook-ab-enabler@jorgk.com",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988081-32.png?modified=87587191",
@@ -12647,18 +12674,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "1.0.7",
+          "extVersion": "2.0.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042957/quick_spaces-1.0.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043604/quick_spaces-2.0.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.7",
+          "extVersion": "2.0.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042957/quick_spaces-1.0.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043604/quick_spaces-2.0.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
