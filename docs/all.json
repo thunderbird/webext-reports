@@ -1,5 +1,5 @@
 {
-  "generated": 1766956785318,
+  "generated": 1767043198989,
   "supported_versions": [
     78,
     91,
@@ -11992,18 +11992,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "3.3.0",
+          "extVersion": "3.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043566/excel2mail-3.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043613/excel2mail-3.4.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.3.0",
+          "extVersion": "3.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043566/excel2mail-3.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043613/excel2mail-3.4.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
