@@ -1,5 +1,5 @@
 {
-  "generated": 1767043198989,
+  "generated": 1767129644959,
   "supported_versions": [
     78,
     91,
@@ -3179,18 +3179,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "0.93",
+          "extVersion": "0.94",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039958/ai_mail_support-0.93-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043621/ai_mail_support-0.94-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.93",
+          "extVersion": "0.94",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039958/ai_mail_support-0.93-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043621/ai_mail_support-0.94-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -4031,6 +4031,33 @@
         {
           "appVersion": "140",
           "type": "current-esr"
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "autotext@riegg.de",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989305-32.png?modified=86db5cba",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989305-64.png?modified=86db5cba"
+      },
+      "compat": [
+        {
+          "appVersion": "146",
+          "type": "release",
+          "extVersion": "1.0.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043618/jr_autotext-1.0.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043618/jr_autotext-1.0.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
