@@ -1,5 +1,5 @@
 {
-  "generated": 1767129644959,
+  "generated": 1767388753367,
   "supported_versions": [
     78,
     91,
@@ -6861,18 +6861,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "1.6",
+          "extVersion": "1.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039403/email_original-1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043648/email_original-1.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.6",
+          "extVersion": "1.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039403/email_original-1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043648/email_original-1.7-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8985,18 +8985,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "2.8",
+          "extVersion": "2.8.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042943/keydoc_go-2.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043647/keydoc_go-2.8.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.8",
+          "extVersion": "2.8.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042943/keydoc_go-2.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043647/keydoc_go-2.8.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
