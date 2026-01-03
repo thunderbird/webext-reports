@@ -1,5 +1,5 @@
 {
-  "generated": 1767388753367,
+  "generated": 1767475069512,
   "supported_versions": [
     78,
     91,
@@ -3021,18 +3021,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "3.2.0",
+          "extVersion": "3.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031575/just_report_it-3.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043659/just_report_it-3.3.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.2.0",
+          "extVersion": "3.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031575/just_report_it-3.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043659/just_report_it-3.3.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8978,25 +8978,25 @@
     {
       "id": "insert-clipboard-html-raw@example.com",
       "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989241-32.png?modified=0e58012a",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989241-64.png?modified=0e58012a"
       },
       "compat": [
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "2.8.1",
+          "extVersion": "2.8.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043647/keydoc_go-2.8.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043665/keydoc_go-2.8.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.8.1",
+          "extVersion": "2.8.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043647/keydoc_go-2.8.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043665/keydoc_go-2.8.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
