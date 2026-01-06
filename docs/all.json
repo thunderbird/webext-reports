@@ -1,5 +1,5 @@
 {
-  "generated": 1767648093142,
+  "generated": 1767734419549,
   "supported_versions": [
     78,
     91,
@@ -10733,18 +10733,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "1.2.2",
+          "extVersion": "1.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041177/mailbox_full_alert_quota_warning-1.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043694/mailbox_full_alert_quota_warning-1.3.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2.2",
+          "extVersion": "1.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041177/mailbox_full_alert_quota_warning-1.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043694/mailbox_full_alert_quota_warning-1.3.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -17869,18 +17869,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "1.0.0",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043592/visual_email_editor-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043687/visual_email_editor_ai-1.1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.0",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043592/visual_email_editor-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043687/visual_email_editor_ai-1.1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
