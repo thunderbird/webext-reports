@@ -1,5 +1,5 @@
 {
-  "generated": 1767734419549,
+  "generated": 1767820861676,
   "supported_versions": [
     78,
     91,
@@ -6215,18 +6215,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "1.0.0",
+          "extVersion": "1.0.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042523/disable_link-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043684/disable_link-1.0.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.0",
+          "extVersion": "1.0.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042523/disable_link-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043684/disable_link-1.0.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -6634,18 +6634,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "1.7.1",
+          "extVersion": "1.7.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041933/extracteur_de_mail-1.7.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043565/mail_extractor-1.7.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.7.1",
+          "extVersion": "1.7.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041933/extracteur_de_mail-1.7.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043565/mail_extractor-1.7.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7231,18 +7231,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "4.6.54",
+          "extVersion": "4.7.5",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041830/expression_power_messagecalendar_search_ng-4.6.54-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043683/expression_power_messagecalendar_search_ng-4.7.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.6.54",
+          "extVersion": "4.7.5",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041830/expression_power_messagecalendar_search_ng-4.6.54-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043683/expression_power_messagecalendar_search_ng-4.7.5-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8448,18 +8448,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "0.3.0",
+          "extVersion": "0.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1020895/gtrash-0.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043471/gbin-0.4.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.3.0",
+          "extVersion": "0.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1020895/gtrash-0.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043471/gbin-0.4.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15788,18 +15788,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "1.0.6",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043060/thunderbird_pro-1.0.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043764/thunderbird_pro-1.1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.6",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043060/thunderbird_pro-1.0.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043764/thunderbird_pro-1.1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
