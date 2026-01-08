@@ -1,5 +1,5 @@
 {
-  "generated": 1767820861676,
+  "generated": 1767907312994,
   "supported_versions": [
     78,
     91,
@@ -16199,18 +16199,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "3.7.6",
+          "extVersion": "3.7.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043131/thunderai_chatgpt_gemini_ollama_in_your_emails-3.7.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043688/thunderai_chatgpt_gemini_claude_ollama-3.7.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.7.6",
+          "extVersion": "3.7.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043131/thunderai_chatgpt_gemini_ollama_in_your_emails-3.7.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043688/thunderai_chatgpt_gemini_claude_ollama-3.7.9-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
