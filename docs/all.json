@@ -1,5 +1,5 @@
 {
-  "generated": 1767907312994,
+  "generated": 1767993715551,
   "supported_versions": [
     78,
     91,
@@ -7231,18 +7231,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "4.7.5",
+          "extVersion": "4.6.54",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043683/expression_power_messagecalendar_search_ng-4.7.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041830/expression_power_messagecalendar_search_ng-4.6.54-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.7.5",
+          "extVersion": "4.6.54",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043683/expression_power_messagecalendar_search_ng-4.7.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041830/expression_power_messagecalendar_search_ng-4.6.54-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8669,18 +8669,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "0.2.6",
+          "extVersion": "0.2.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039859/interstellar_alliance_social_experiment_step_3-0.2.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043775/interstellar_alliance_social_experiment_step_3-0.2.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.2.6",
+          "extVersion": "0.2.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039859/interstellar_alliance_social_experiment_step_3-0.2.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043775/interstellar_alliance_social_experiment_step_3-0.2.7-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
