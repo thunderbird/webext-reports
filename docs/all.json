@@ -1,5 +1,5 @@
 {
-  "generated": 1767993715551,
+  "generated": 1768252886542,
   "supported_versions": [
     78,
     91,
@@ -686,18 +686,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "1.25.1",
+          "extVersion": "1.26.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040075/10ten_japanese_reader_rikaichamp-1.25.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043581/10ten_japanese_reader_rikaichamp-1.26.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.25.1",
+          "extVersion": "1.26.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040075/10ten_japanese_reader_rikaichamp-1.25.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043581/10ten_japanese_reader_rikaichamp-1.26.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -4678,18 +4678,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "102.4",
+          "extVersion": "103.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043071/cardbook-102.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043776/cardbook-103.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "102.4",
+          "extVersion": "103.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043071/cardbook-102.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043776/cardbook-103.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -5048,18 +5048,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "7.1.3",
+          "extVersion": "7.1.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042205/clippings_for_thunderbird-7.1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043786/clippings_for_thunderbird-7.1.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "7.1.3",
+          "extVersion": "7.1.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042205/clippings_for_thunderbird-7.1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043786/clippings_for_thunderbird-7.1.4-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8777,18 +8777,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "2.9.2",
+          "extVersion": "3.4.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030810/attachment_viewer_view_in_a_tab_slideshow-2.9.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043685/attachment_viewer_view_in_a_tab_slideshow-3.4.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.9.2",
+          "extVersion": "3.4.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030810/attachment_viewer_view_in_a_tab_slideshow-2.9.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043685/attachment_viewer_view_in_a_tab_slideshow-3.4.9-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9369,15 +9369,19 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.15.20251229.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043612/keepassxc_mail-1.15.20251229.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.13.20251007.0",
+          "extVersion": "1.15.20251229.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041918/keepassxc_mail-1.13.20251007.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043612/keepassxc_mail-1.15.20251229.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9966,11 +9970,19 @@
       "compat": [
         {
           "appVersion": "146",
-          "type": "release"
+          "type": "release",
+          "extVersion": "0.9",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043670/create_calendar_events_from_mail_content-0.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "current-esr"
+          "type": "current-esr",
+          "extVersion": "0.9",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043670/create_calendar_events_from_mail_content-0.9-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -11361,10 +11373,10 @@
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.8.80",
+          "extVersion": "5.0.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041039/nostalgy_emails_verwalten_suchen_archivieren-4.8.80-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043113/nostalgy_emails_verwalten_suchen_archivieren-5.0.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13322,18 +13334,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "2.6",
+          "extVersion": "2.30",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041449/remindme-2.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043681/remindme-2.30-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.6",
+          "extVersion": "2.30",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041449/remindme-2.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043681/remindme-2.30-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13741,18 +13753,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "2.6.2",
+          "extVersion": "2.7.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043067/rspamd_spamness-2.6.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043562/rspamd_spamness-2.7.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.6.2",
+          "extVersion": "2.7.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043067/rspamd_spamness-2.6.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043562/rspamd_spamness-2.7.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15366,18 +15378,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "3.0.6",
+          "extVersion": "4.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040530/getmyinvoices-3.0.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043619/getmyinvoices-4.1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.0.6",
+          "extVersion": "4.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040530/getmyinvoices-3.0.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043619/getmyinvoices-4.1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -16758,18 +16770,18 @@
         {
           "appVersion": "146",
           "type": "release",
-          "extVersion": "2.3.7",
+          "extVersion": "2.3.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037426/thunderstats_your_thunderbird_statistics-2.3.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043567/thunderstats_your_thunderbird_statistics-2.3.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.3.7",
+          "extVersion": "2.3.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037426/thunderstats_your_thunderbird_statistics-2.3.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043567/thunderstats_your_thunderbird_statistics-2.3.8-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
