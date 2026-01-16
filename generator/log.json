@@ -1905,6 +1905,8 @@
     "989275-showthread@ggbs.de-show_thread",
     "989276-rdc@example.com-reputation-damage-checker",
     "989281-ai-chatting-mail-summarizer@FuLuTang.com-ai-chatting-mail-summarizer",
+    "989283-accountbird@extensions-accountbird",
+    "989289-Unwrap-Signature@addons.thunderbird.net-unwrap-signature",
     "989299-visual-email-editor@thunderbird-addons-visual-email-editor-ai",
     "9893-fastclosetabs@extensions.geckozone.org-fast-close-tabs",
     "989302-otek.converter@otek.today-ötek-currency-converter",
@@ -1918,6 +1920,7 @@
     "989324-opendat@raytrunk.dev-opendat",
     "989326-email-reminders@mhajduczenia.dev-email-reminders",
     "989328-quicktranslate-deepl@jurdant.alexis-quicktranslate-deepl",
+    "989329-gemini-mail-review@thunderbird-addon.localhost-gemini-mail-review",
     "9956-tonequilla@mesquilla.com-tonequilla",
     "9995-emailcrawler@torge.kummerow-email-address-crawler"
 ]
