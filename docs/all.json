@@ -1,5 +1,5 @@
 {
-  "generated": 1768598450549,
+  "generated": 1768684780751,
   "supported_versions": [
     78,
     91,
@@ -4150,18 +4150,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.0.2",
+          "extVersion": "1.0.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043618/jr_autotext-1.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044032/jr_autotext-1.0.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.2",
+          "extVersion": "1.0.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043618/jr_autotext-1.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044032/jr_autotext-1.0.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -12285,18 +12285,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "3.4.0",
+          "extVersion": "3.7.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043613/excel2mail-3.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044029/excel2mail-3.7.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.4.0",
+          "extVersion": "3.7.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043613/excel2mail-3.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044029/excel2mail-3.7.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -16154,18 +16154,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.1.0",
+          "extVersion": "1.2.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043764/thunderbird_pro-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044022/thunderbird_pro-1.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.0",
+          "extVersion": "1.2.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043764/thunderbird_pro-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044022/thunderbird_pro-1.2.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
