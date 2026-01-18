@@ -1,5 +1,5 @@
 {
-  "generated": 1768684780751,
+  "generated": 1768771227619,
   "supported_versions": [
     78,
     91,
@@ -4358,18 +4358,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "30.9.1",
+          "extVersion": "31.0.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043611/black_menu_for_googletm-30.9.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044041/black_menu_for_googletm-31.0.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "30.9.1",
+          "extVersion": "31.0.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043611/black_menu_for_googletm-30.9.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044041/black_menu_for_googletm-31.0.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
