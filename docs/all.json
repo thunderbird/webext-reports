@@ -1,5 +1,5 @@
 {
-  "generated": 1768771227619,
+  "generated": 1768857645548,
   "supported_versions": [
     78,
     91,
@@ -193,18 +193,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "0.8",
+          "extVersion": "0.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043787/annuaire_monlyceenet-0.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044042/annuaire_monlyceenet-0.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.8",
+          "extVersion": "0.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043787/annuaire_monlyceenet-0.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044042/annuaire_monlyceenet-0.9-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -1814,18 +1814,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.4",
+          "extVersion": "1.5",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042904/close_to_tray_for_windows-1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044046/close_to_tray_for_windows-1.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.4",
+          "extVersion": "1.5",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042904/close_to_tray_for_windows-1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044046/close_to_tray_for_windows-1.5-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -5252,18 +5252,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.6",
+          "extVersion": "1.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037850/collectaddresses-1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044030/collectaddresses-1.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.6",
+          "extVersion": "1.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037850/collectaddresses-1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044030/collectaddresses-1.7-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -6311,18 +6311,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "6.8.0",
+          "extVersion": "6.9.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043454/disable_draganddrop_new-6.8.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044037/disable_draganddrop_new-6.9.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "6.8.0",
+          "extVersion": "6.9.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043454/disable_draganddrop_new-6.8.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044037/disable_draganddrop_new-6.9.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7489,18 +7489,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.9.5",
+          "extVersion": "1.9.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043773/extract_em-1.9.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044033/extract_em-1.9.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.9.5",
+          "extVersion": "1.9.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043773/extract_em-1.9.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044033/extract_em-1.9.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -8251,18 +8251,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "2026.1.15",
+          "extVersion": "2026.1.18",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044010/gemini-2026.1.15-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044044/gemini-2026.1.18-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2026.1.15",
+          "extVersion": "2026.1.18",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044010/gemini-2026.1.15-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044044/gemini-2026.1.18-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -10583,18 +10583,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "4.0.8",
+          "extVersion": "4.0.9.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042765/markdown_here_revival-4.0.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044024/markdown_here_revival-4.0.9.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.0.8",
+          "extVersion": "4.0.9.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042765/markdown_here_revival-4.0.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044024/markdown_here_revival-4.0.9.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -10737,18 +10737,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "2.2.0",
+          "extVersion": "2.2.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042407/mass_emailer-2.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044025/mass_emailer-2.2.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.2.0",
+          "extVersion": "2.2.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042407/mass_emailer-2.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044025/mass_emailer-2.2.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -12008,18 +12008,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "2.1.1",
+          "extVersion": "2.4.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043779/opendat-2.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044035/opendat-2.4.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.1.1",
+          "extVersion": "2.4.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043779/opendat-2.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044035/opendat-2.4.4-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -16565,18 +16565,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "3.7.9",
+          "extVersion": "3.8.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043688/thunderai_chatgpt_gemini_claude_ollama-3.7.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044023/thunderai_chatgpt_gemini_claude_ollama-3.8.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.7.9",
+          "extVersion": "3.8.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043688/thunderai_chatgpt_gemini_claude_ollama-3.7.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044023/thunderai_chatgpt_gemini_claude_ollama-3.8.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -18212,18 +18212,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "0.3",
+          "extVersion": "0.3.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043771/unwrap_signature-0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044021/unwrap_signature-0.3.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.3",
+          "extVersion": "0.3.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043771/unwrap_signature-0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044021/unwrap_signature-0.3.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -18849,7 +18849,11 @@
       "compat": [
         {
           "appVersion": "147",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.6.53",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042944/xnote-4.6.53-tb.xpi?src="
         },
         {
           "appVersion": "140",
