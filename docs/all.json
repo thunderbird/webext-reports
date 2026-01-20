@@ -1,5 +1,5 @@
 {
-  "generated": 1768857645548,
+  "generated": 1768944132598,
   "supported_versions": [
     78,
     91,
@@ -794,6 +794,33 @@
         {
           "appVersion": "140",
           "type": "current-esr"
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "{66e01eec-54e0-4757-806b-915cce7a577e}",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "147",
+          "type": "release",
+          "extVersion": "1.2.5",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044027/mail2cal_ai-1.2.5-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.2.5",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044027/mail2cal_ai-1.2.5-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -4358,18 +4385,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "31.0.0",
+          "extVersion": "31.0.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044041/black_menu_for_googletm-31.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044061/black_menu_for_googletm-31.0.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "31.0.0",
+          "extVersion": "31.0.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044041/black_menu_for_googletm-31.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044061/black_menu_for_googletm-31.0.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -4678,6 +4705,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031410/hotel_mail-3.1-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "calendar-auto-categories@ces-catering.ch",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "147",
+          "type": "release",
+          "extVersion": "1.5.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044055/calendar_auto_categories-1.5.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.5.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044055/calendar_auto_categories-1.5.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -12285,18 +12339,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "3.7.0",
+          "extVersion": "3.8.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044029/excel2mail-3.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044062/excel2mail-3.8.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.7.0",
+          "extVersion": "3.8.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044029/excel2mail-3.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044062/excel2mail-3.8.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13526,18 +13580,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "2.136.0",
+          "extVersion": "2.143.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037115/refwdformatter-2.136.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044052/refwdformatter-2.143.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.136.0",
+          "extVersion": "2.143.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037115/refwdformatter-2.136.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044052/refwdformatter-2.143.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -14562,6 +14616,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043626/send_and_archive-1.0.4-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "send-as-alias@mkoester.github.io",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989322-32.png?modified=80748f80",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989322-64.png?modified=80748f80"
+      },
+      "compat": [
+        {
+          "appVersion": "147",
+          "type": "release",
+          "extVersion": "1.0.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044019/send_as_alias-1.0.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044019/send_as_alias-1.0.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
