@@ -1,5 +1,5 @@
 {
-  "generated": 1769030777694,
+  "generated": 1769116915525,
   "supported_versions": [
     78,
     91,
@@ -2588,10 +2588,37 @@
       "badges": []
     },
     {
+      "id": "@newsblur.qa",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989343-32.png?modified=8e6e4bb6",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989343-64.png?modified=8e6e4bb6"
+      },
+      "compat": [
+        {
+          "appVersion": "147",
+          "type": "release",
+          "extVersion": "0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044166/newsblur_quick_access-0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044166/newsblur_quick_access-0.1-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "@outlookcalendar.qa",
       "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989340-32.png?modified=3ebc44c3",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989340-64.png?modified=3ebc44c3"
       },
       "compat": [
         {
@@ -2663,6 +2690,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037099/spacehey_quick_access-1.0-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "@tabtamerTB",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989341-32.png?modified=2c7c899d",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989341-64.png?modified=2c7c899d"
+      },
+      "compat": [
+        {
+          "appVersion": "147",
+          "type": "release",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044094/tabtamertb-1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044094/tabtamertb-1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -3538,33 +3592,6 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039303/date_time_formatter-2.1.1-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "andrii_liashenko@adwmg.com",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989338-32.png?modified=c4523c62",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989338-64.png?modified=c4523c62"
-      },
-      "compat": [
-        {
-          "appVersion": "147",
-          "type": "release",
-          "extVersion": "1.1.1",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044087/failed_recipient_extractor_bounce_mail-1.1.1-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "1.1.1",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044087/failed_recipient_extractor_bounce_mail-1.1.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13692,18 +13719,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "2.143.1",
+          "extVersion": "2.143.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044088/refwdformatter-2.143.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044169/refwdformatter-2.143.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.143.1",
+          "extVersion": "2.143.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044088/refwdformatter-2.143.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044169/refwdformatter-2.143.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
