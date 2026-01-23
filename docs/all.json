@@ -1,5 +1,5 @@
 {
-  "generated": 1769116915525,
+  "generated": 1769203201251,
   "supported_versions": [
     78,
     91,
@@ -3654,8 +3654,8 @@
     {
       "id": "antispam@platon.sk",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988840-32.png?modified=8f0eeaa3",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988840-64.png?modified=8f0eeaa3"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988840-32.png?modified=32f69872",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988840-64.png?modified=32f69872"
       },
       "compat": [
         {
@@ -14842,33 +14842,6 @@
       "badges": []
     },
     {
-      "id": "send@thunderbird.net",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988811-32.png?modified=b9d37650",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988811-64.png?modified=b9d37650"
-      },
-      "compat": [
-        {
-          "appVersion": "147",
-          "type": "release",
-          "extVersion": "6.2.2",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043051/thunderbird_send_stage-6.2.2-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "6.2.2",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043051/thunderbird_send_stage-6.2.2-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "sendandarchive@filippodebortoli",
       "icons": {
         "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
@@ -16296,33 +16269,6 @@
       "badges": []
     },
     {
-      "id": "tb-send@thunderbird.net",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988891-32.png?modified=6f659f9e",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988891-64.png?modified=6f659f9e"
-      },
-      "compat": [
-        {
-          "appVersion": "147",
-          "type": "release",
-          "extVersion": "5.0.3",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042094/thunderbird_send-5.0.3-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "5.0.3",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042094/thunderbird_send-5.0.3-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "tb.spaceapper@mmk2410.org",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988854-32.png?modified=ef144129",
@@ -16674,18 +16620,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "7.0.0",
+          "extVersion": "7.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038575/textmarker-7.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044177/textmarker-7.1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "7.0.0",
+          "extVersion": "7.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038575/textmarker-7.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044177/textmarker-7.1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
