@@ -1,5 +1,5 @@
 {
-  "generated": 1769203201251,
+  "generated": 1769289544965,
   "supported_versions": [
     78,
     91,
@@ -1575,18 +1575,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.1.0",
+          "extVersion": "1.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043112/fexnet_filelink-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044186/fexnet_filelink-1.1.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.0",
+          "extVersion": "1.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043112/fexnet_filelink-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044186/fexnet_filelink-1.1.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -15336,25 +15336,25 @@
     {
       "id": "smart-reply-ai@shoya-dev.com",
       "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/social-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/social-64.png"
       },
       "compat": [
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "4.2.0",
+          "extVersion": "4.2.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044072/ai-4.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044185/ai-4.2.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.2.0",
+          "extVersion": "4.2.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044072/ai-4.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044185/ai-4.2.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -16370,18 +16370,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.2.0",
+          "extVersion": "1.2.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044022/thunderbird_pro-1.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044183/thunderbird_pro-1.2.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2.0",
+          "extVersion": "1.2.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044022/thunderbird_pro-1.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044183/thunderbird_pro-1.2.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
