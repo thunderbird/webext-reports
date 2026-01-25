@@ -1,5 +1,5 @@
 {
-  "generated": 1769289544965,
+  "generated": 1769375998217,
   "supported_versions": [
     78,
     91,
@@ -4794,8 +4794,8 @@
     {
       "id": "calendar-auto-categories@ces-catering.ch",
       "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989336-32.png?modified=29499642",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989336-64.png?modified=29499642"
       },
       "compat": [
         {
@@ -9448,8 +9448,8 @@
     {
       "id": "iOSNotes@siliconvenice.net",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/415/415184-32.png?modified=1692901186",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/415/415184-64.png?modified=1692901186"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/415/415184-32.png?modified=1769366886",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/415/415184-64.png?modified=1769366886"
       },
       "compat": [
         {
@@ -16620,18 +16620,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "7.1.0",
+          "extVersion": "7.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044177/textmarker-7.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044189/textmarker-7.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "7.1.0",
+          "extVersion": "7.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044177/textmarker-7.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044189/textmarker-7.2.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
