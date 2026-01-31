@@ -1,5 +1,5 @@
 {
-  "generated": 1769808191671,
+  "generated": 1769894459220,
   "supported_versions": [
     78,
     91,
@@ -625,8 +625,8 @@
     {
       "id": "{4a35421f-0906-439c-bff2-8eef39e2baee}",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989342-32.png?modified=4631d3f7",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989342-64.png?modified=4631d3f7"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989342-32.png?modified=5ef0646b",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989342-64.png?modified=5ef0646b"
       },
       "compat": [
         {
@@ -3827,18 +3827,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.0.6",
+          "extVersion": "1.0.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044217/whorl-1.0.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044320/whorl-1.0.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.6",
+          "extVersion": "1.0.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044217/whorl-1.0.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044320/whorl-1.0.8-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -5337,18 +5337,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.0.1",
+          "extVersion": "1.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1016996/clacks_overhead-1.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044322/clacks_overhead-1.1.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.1",
+          "extVersion": "1.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1016996/clacks_overhead-1.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044322/clacks_overhead-1.1.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
