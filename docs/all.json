@@ -1,5 +1,5 @@
 {
-  "generated": 1769980906386,
+  "generated": 1770154141989,
   "supported_versions": [
     78,
     91,
@@ -2138,18 +2138,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "0.2",
+          "extVersion": "0.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1032369/microsoft_teams_quick_access-0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044339/microsoft_teams_quick_access-0.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.2",
+          "extVersion": "0.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1032369/microsoft_teams_quick_access-0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044339/microsoft_teams_quick_access-0.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -5349,6 +5349,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044322/clacks_overhead-1.1.1-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "claify@supersoniquestudio.com",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "147",
+          "type": "release",
+          "extVersion": "1.0.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044345/claify-1.0.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044345/claify-1.0.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -9633,25 +9660,25 @@
     {
       "id": "iOSNotes@siliconvenice.net",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/415/415184-32.png?modified=1769638932",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/415/415184-64.png?modified=1769638932"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/415/415184-32.png?modified=1770000887",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/415/415184-64.png?modified=1770000887"
       },
       "compat": [
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.0.1",
+          "extVersion": "1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1025034/ios_imap_notes-1.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1024121/ios_imap_notes-1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.1",
+          "extVersion": "1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1025034/ios_imap_notes-1.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1024121/ios_imap_notes-1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
