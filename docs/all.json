@@ -1,5 +1,5 @@
 {
-  "generated": 1770154141989,
+  "generated": 1770240440348,
   "supported_versions": [
     78,
     91,
@@ -3403,10 +3403,10 @@
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.3.3",
+          "extVersion": "2.4.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044164/sortana-2.3.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044330/sortana-2.4.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -4339,18 +4339,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.0.5",
+          "extVersion": "1.0.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044328/jr_autotext-1.0.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044346/jr_autotext-1.0.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.5",
+          "extVersion": "1.0.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044328/jr_autotext-1.0.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044346/jr_autotext-1.0.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7813,18 +7813,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.9.6",
+          "extVersion": "1.9.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044033/extract_em-1.9.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044332/extract_em-1.9.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.9.6",
+          "extVersion": "1.9.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044033/extract_em-1.9.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044332/extract_em-1.9.7-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
