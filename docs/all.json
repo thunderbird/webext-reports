@@ -1,5 +1,5 @@
 {
-  "generated": 1770240440348,
+  "generated": 1770326701218,
   "supported_versions": [
     78,
     91,
@@ -9371,8 +9371,8 @@
     {
       "id": "inbox-ai@angme.org",
       "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989334-32.png?modified=e33dc9d3",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989334-64.png?modified=e33dc9d3"
       },
       "compat": [
         {
