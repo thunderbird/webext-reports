@@ -1,5 +1,5 @@
 {
-  "generated": 1770326701218,
+  "generated": 1770413090133,
   "supported_versions": [
     78,
     91,
@@ -2777,6 +2777,33 @@
       "badges": []
     },
     {
+      "id": "@xmailer",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989387-32.png?modified=32e78d37",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989387-64.png?modified=32e78d37"
+      },
+      "compat": [
+        {
+          "appVersion": "147",
+          "type": "release",
+          "extVersion": "0.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044433/x_mailer_header-0.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044433/x_mailer_header-0.0.1-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "1984signin@gmail.com",
       "icons": {
         "32": "https://addons.thunderbird.net/static/img/addon-icons/webdev-32.png",
@@ -4339,18 +4366,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.0.6",
+          "extVersion": "1.0.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044346/jr_autotext-1.0.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044437/jr_autotext-1.0.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.6",
+          "extVersion": "1.0.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044346/jr_autotext-1.0.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044437/jr_autotext-1.0.8-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -4990,18 +5017,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.2.7",
+          "extVersion": "1.2.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1033650/dysclusif-1.2.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044420/dysclusif-1.2.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2.7",
+          "extVersion": "1.2.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1033650/dysclusif-1.2.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044420/dysclusif-1.2.8-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -13708,6 +13735,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044180/quicktranslate_deepl-4.4.3-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "quill@supersoniquestudio.com",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989388-32.png?modified=65602bbc",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989388-64.png?modified=65602bbc"
+      },
+      "compat": [
+        {
+          "appVersion": "147",
+          "type": "release",
+          "extVersion": "1.2.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044434/quill-1.2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.2.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044434/quill-1.2.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
