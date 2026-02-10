@@ -1,5 +1,5 @@
 {
-  "generated": 1770672709535,
+  "generated": 1770759186450,
   "supported_versions": [
     78,
     91,
@@ -16766,33 +16766,6 @@
       "badges": []
     },
     {
-      "id": "tbpro-addon-stage@thunderbird.net",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989140-32.png?modified=33418410",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989140-64.png?modified=33418410"
-      },
-      "compat": [
-        {
-          "appVersion": "147",
-          "type": "release",
-          "extVersion": "1.0.4",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042934/tbpro_addon_stage-1.0.4-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "1.0.4",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042934/tbpro_addon_stage-1.0.4-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
       "id": "tbsortfolders@xulforum.org",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/15/15102-32.png?modified=1630434087",
@@ -17159,18 +17132,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "3.8.3.0",
+          "extVersion": "3.8.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044171/thunderai_chatgpt_gemini_claude_ollama-3.8.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044461/thunderai_chatgpt_gemini_claude_ollama-3.8.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.8.3.0",
+          "extVersion": "3.8.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044171/thunderai_chatgpt_gemini_claude_ollama-3.8.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044461/thunderai_chatgpt_gemini_claude_ollama-3.8.4-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
