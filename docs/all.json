@@ -1,5 +1,5 @@
 {
-  "generated": 1770845456325,
+  "generated": 1770931584676,
   "supported_versions": [
     78,
     91,
@@ -15074,11 +15074,19 @@
       "compat": [
         {
           "appVersion": "147",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.1.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044543/selection_du_precedent_a_la_suppression-2.1.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "current-esr"
+          "type": "current-esr",
+          "extVersion": "2.1.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044543/selection_du_precedent_a_la_suppression-2.1.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
