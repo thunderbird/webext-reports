@@ -1,5 +1,5 @@
 {
-  "generated": 1770931584676,
+  "generated": 1771018233972,
   "supported_versions": [
     78,
     91,
@@ -2804,6 +2804,60 @@
       "badges": []
     },
     {
+      "id": "@tutacalendar.thunderbird",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989406-32.png?modified=39e6f0ec",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989406-64.png?modified=39e6f0ec"
+      },
+      "compat": [
+        {
+          "appVersion": "147",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044560/tuta_calendar-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044560/tuta_calendar-1.0.0-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "@tutamail.thunderbird",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989405-32.png?modified=ef173a96",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989405-64.png?modified=ef173a96"
+      },
+      "compat": [
+        {
+          "appVersion": "147",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044559/tuta_mail-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044559/tuta_mail-1.0.0-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
       "id": "@xmailer",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989387-32.png?modified=32e78d37",
@@ -3476,18 +3530,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "0.94",
+          "extVersion": "1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043621/ai_mail_support-0.94-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044552/ai_mail_support-1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.94",
+          "extVersion": "1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043621/ai_mail_support-0.94-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044552/ai_mail_support-1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -12775,18 +12829,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "3.8.0",
+          "extVersion": "3.8.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044062/excel2mail-3.8.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044556/excel2mail-3.8.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.8.0",
+          "extVersion": "3.8.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044062/excel2mail-3.8.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044556/excel2mail-3.8.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
