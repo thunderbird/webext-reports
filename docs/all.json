@@ -1,5 +1,5 @@
 {
-  "generated": 1771104154436,
+  "generated": 1771277103026,
   "supported_versions": [
     78,
     91,
@@ -12802,18 +12802,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "3.8.1",
+          "extVersion": "3.8.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044556/excel2mail-3.8.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044578/excel2mail-3.8.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.8.1",
+          "extVersion": "3.8.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044556/excel2mail-3.8.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044578/excel2mail-3.8.2-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -16937,6 +16937,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1022116/telegramwebapp-1.31-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "templatewing@julia-kalder.de",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989412-32.png?modified=e83f72b9",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989412-64.png?modified=e83f72b9"
+      },
+      "compat": [
+        {
+          "appVersion": "147",
+          "type": "release",
+          "extVersion": "1.1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044581/templatewing-1.1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044581/templatewing-1.1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
