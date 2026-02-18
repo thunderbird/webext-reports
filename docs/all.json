@@ -1,5 +1,5 @@
 {
-  "generated": 1771363625459,
+  "generated": 1771450269445,
   "supported_versions": [
     78,
     91,
@@ -6146,18 +6146,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.6",
+          "extVersion": "1.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043279/correctify_en-1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044673/correctify_en-1.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.6",
+          "extVersion": "1.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043279/correctify_en-1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044673/correctify_en-1.8-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -6173,18 +6173,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.6",
+          "extVersion": "1.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043280/correctify_fr-1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044672/correctify_fr-1.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.6",
+          "extVersion": "1.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043280/correctify_fr-1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044672/correctify_fr-1.8-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -7987,6 +7987,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1036010/f9_hides_the_folder_pane-2025.1.1-tb.xpi?src="
+        }
+      ],
+      "dedicatedSupportOnRelease": false,
+      "badges": []
+    },
+    {
+      "id": "fabrice@emulsion.io",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989421-32.png?modified=9f01c7fd",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989421-64.png?modified=9f01c7fd"
+      },
+      "compat": [
+        {
+          "appVersion": "147",
+          "type": "release",
+          "extVersion": "1.6",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044682/ai_mail_extended-1.6-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.6",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044682/ai_mail_extended-1.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -12802,18 +12829,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "3.8.2",
+          "extVersion": "3.8.3a",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044578/excel2mail-3.8.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044679/excel2mail-3.8.3a-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.8.2",
+          "extVersion": "3.8.3a",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044578/excel2mail-3.8.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044679/excel2mail-3.8.3a-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -16729,18 +16756,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "2.4.1",
+          "extVersion": "2.4.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040513/tbkeys_lite-2.4.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044591/tbkeys_lite-2.4.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.4.1",
+          "extVersion": "2.4.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040513/tbkeys_lite-2.4.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044591/tbkeys_lite-2.4.3-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -19134,18 +19161,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.1.1",
+          "extVersion": "1.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031744/webpage_opener-1.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044678/webpage_opener-1.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.1",
+          "extVersion": "1.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031744/webpage_opener-1.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044678/webpage_opener-1.2.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
