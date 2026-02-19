@@ -1,5 +1,5 @@
 {
-  "generated": 1771450269445,
+  "generated": 1771536441787,
   "supported_versions": [
     78,
     91,
@@ -3411,33 +3411,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042530/image_preview-1.0.2-tb.xpi?src="
-        }
-      ],
-      "dedicatedSupportOnRelease": false,
-      "badges": []
-    },
-    {
-      "id": "adv-sound-filters@yourdomain.com",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989147-32.png?modified=596ff8ca",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989147-64.png?modified=596ff8ca"
-      },
-      "compat": [
-        {
-          "appVersion": "147",
-          "type": "release",
-          "extVersion": "3.8.0",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043052/advanced_sound_filters_pro-3.8.0-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "3.8.0",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043052/advanced_sound_filters_pro-3.8.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
