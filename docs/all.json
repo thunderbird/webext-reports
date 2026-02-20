@@ -1,5 +1,5 @@
 {
-  "generated": 1771536441787,
+  "generated": 1771622475009,
   "supported_versions": [
     78,
     91,
@@ -16756,18 +16756,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.3.3",
+          "extVersion": "1.3.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044471/thunderbird_pro-1.3.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044699/thunderbird_pro-1.3.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.3.3",
+          "extVersion": "1.3.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044471/thunderbird_pro-1.3.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044699/thunderbird_pro-1.3.6-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
