@@ -1,5 +1,5 @@
 {
-  "generated": 1771622475009,
+  "generated": 1771708974580,
   "supported_versions": [
     78,
     91,
@@ -409,18 +409,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.1.9",
+          "extVersion": "1.1.10",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043781/no_tabs-1.1.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044701/no_tabs-1.1.10-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.9",
+          "extVersion": "1.1.10",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043781/no_tabs-1.1.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044701/no_tabs-1.1.10-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -18285,18 +18285,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.8",
+          "extVersion": "2.0",
           "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1036148/toggle_message_pane-1.8-tb.xpi?src="
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044703/toggle_message_pane-2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.8",
+          "extVersion": "2.0",
           "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1036148/toggle_message_pane-1.8-tb.xpi?src="
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044703/toggle_message_pane-2.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
