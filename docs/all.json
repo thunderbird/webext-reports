@@ -1,5 +1,5 @@
 {
-  "generated": 1771708974580,
+  "generated": 1771795351788,
   "supported_versions": [
     78,
     91,
@@ -4447,18 +4447,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.0.9",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044439/jr_autotext-1.0.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044708/jr_autotext-1.1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.9",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044439/jr_autotext-1.0.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044708/jr_autotext-1.1.0-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
