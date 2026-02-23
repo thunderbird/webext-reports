@@ -1,5 +1,5 @@
 {
-  "generated": 1771795351788,
+  "generated": 1771882460453,
   "supported_versions": [
     78,
     91,
@@ -8845,10 +8845,10 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "1.0.0",
+          "extVersion": "1.0.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044195/calendar_annual_view-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044569/calendar_annual_view-1.0.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -9486,18 +9486,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "14.1.16",
+          "extVersion": "14.1.17",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043765/importexporttools_ng-14.1.16-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044588/importexporttools_ng-14.1.17-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "14.1.15",
+          "extVersion": "14.1.17",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042503/importexporttools_ng-14.1.15-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044588/importexporttools_ng-14.1.17-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
@@ -12371,18 +12371,18 @@
         {
           "appVersion": "147",
           "type": "release",
-          "extVersion": "2.0",
+          "extVersion": "2.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041931/one_click_forward-2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044580/one_click_forward-2.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.0",
+          "extVersion": "2.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041931/one_click_forward-2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044580/one_click_forward-2.1-tb.xpi?src="
         }
       ],
       "dedicatedSupportOnRelease": false,
