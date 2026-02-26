@@ -1174,7 +1174,7 @@ async function genStandardReport(extsJson, name, report) {
         addons: []
     };
 
-    function genStandardRow(extJson, rowData) {
+    function getDefaultName(extJson) {
         let default_locale = extJson.default_locale;
         if (default_locale === undefined) {
             if (typeof extJson.name["en-US"] === 'string') {
@@ -1189,9 +1189,13 @@ async function genStandardReport(extsJson, name, report) {
                 default_locale = locales[0];
             }
         }
+        return extJson.name[default_locale];
+    }
 
+    function genStandardRow(extJson, rowData) {
+        const name = getDefaultName(extJson);
         const idSlug = `${extJson.id}-${extJson.slug}`;
-        const name_link = `<a id="${idSlug}" href="${extJson.url}">${extJson.name[default_locale].substr(0, 38)}</a>`;
+        const name_link = `<a id="${idSlug}" href="${extJson.url}">${name.substr(0, 38)}</a>`;
 
         let {
             ext_data: current_ext_data,
@@ -1345,10 +1349,10 @@ async function genStandardReport(extsJson, name, report) {
 
             newJson.addons.push({
                 id: extJson.guid,
+                name: getDefaultName(extJson),
                 icons: extJson.icons,
                 compat,
                 alternatives: getAlternativeEntries(extJson),
-                dedicatedSupportOnRelease: false, // Not used
                 badges: rowData.badges ? rowData.badges.map(e => e.badge) : [],
             })
         } else {
