@@ -1,5 +1,5 @@
 {
-  "generated": 1772131232363,
+  "generated": 1772227386552,
   "supported_versions": [
     78,
     91,
@@ -1043,6 +1043,13 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040393/quicktext-6.4-tb.xpi?src="
+        }
+      ],
+      "alternatives": [
+        {
+          "name": "Clippings for Thunderbird",
+          "link": "https://addons.thunderbird.net/addon/clippings-tb/",
+          "id": "clippings-tb@aecreations.github.io"
         }
       ],
       "badges": []
@@ -3265,18 +3272,18 @@
         {
           "appVersion": "148",
           "type": "release",
-          "extVersion": "5.4",
+          "extVersion": "5.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041939/ai_anywhere_for_chatgpt-5.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044966/ai_anywhere_for_chatgpt-5.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "5.4",
+          "extVersion": "5.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041939/ai_anywhere_for_chatgpt-5.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044966/ai_anywhere_for_chatgpt-5.5-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9991,18 +9998,18 @@
         {
           "appVersion": "148",
           "type": "release",
-          "extVersion": "1.0.2",
+          "extVersion": "1.0.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044951/jpg_attacher-1.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044965/jpg_attacher-1.0.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.2",
+          "extVersion": "1.0.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044951/jpg_attacher-1.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044965/jpg_attacher-1.0.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -16741,18 +16748,18 @@
         {
           "appVersion": "148",
           "type": "release",
-          "extVersion": "1.3.6",
+          "extVersion": "1.5.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044699/thunderbird_pro-1.3.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044961/thunderbird_pro-1.5.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.3.6",
+          "extVersion": "1.5.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044699/thunderbird_pro-1.3.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044961/thunderbird_pro-1.5.0-tb.xpi?src="
         }
       ],
       "badges": []
