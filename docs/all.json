@@ -1,5 +1,5 @@
 {
-  "generated": 1772227386552,
+  "generated": 1772313719394,
   "supported_versions": [
     78,
     91,
@@ -4495,6 +4495,33 @@
       "badges": []
     },
     {
+      "id": "aveleshko.set-email-font@addons.thunderbird.net",
+      "name": "Set E-mail Font",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989452-32.png?modified=d460554b",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989452-64.png?modified=d460554b"
+      },
+      "compat": [
+        {
+          "appVersion": "148",
+          "type": "release",
+          "extVersion": "0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044985/set_e_mail_font-0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044985/set_e_mail_font-0.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "awesome-emoji-picker@rugk.github.io",
       "name": "✨ Awesome Emoji Picker ✨",
       "icons": {
@@ -7875,6 +7902,33 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044051/exquilla_for_exchange-148.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "extension-downloader-and-source-viewer@muzammil.dev",
+      "name": "Extension Downloader & Source Viewer",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989447-32.png?modified=a9f2ae7a",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989447-64.png?modified=a9f2ae7a"
+      },
+      "compat": [
+        {
+          "appVersion": "148",
+          "type": "release",
+          "extVersion": "0.0.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044971/extension_downloader_source_viewer-0.0.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.0.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044971/extension_downloader_source_viewer-0.0.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13094,18 +13148,18 @@
         {
           "appVersion": "148",
           "type": "release",
-          "extVersion": "1.1.0",
+          "extVersion": "1.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1029829/reply_all_button-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044975/reply_all_button-1.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.0",
+          "extVersion": "1.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1029829/reply_all_button-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044975/reply_all_button-1.2.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14624,6 +14678,33 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044314/rspamd_spamness-2.9.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "rssninja@rssninja.app",
+      "name": "RSS Ninja",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989449-32.png?modified=c4266b38",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989449-64.png?modified=c4266b38"
+      },
+      "compat": [
+        {
+          "appVersion": "148",
+          "type": "release",
+          "extVersion": "1.0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044984/rss_ninja-1.0.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044984/rss_ninja-1.0.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17919,8 +18000,8 @@
       "id": "tidybird@ganast.com",
       "name": "Tidybird",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/559/559954-32.png?modified=1728939635",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/559/559954-64.png?modified=1728939635"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/559/559954-32.png?modified=1772268457",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/559/559954-64.png?modified=1772268457"
       },
       "compat": [
         {
