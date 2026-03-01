@@ -1,5 +1,5 @@
 {
-  "generated": 1772313719394,
+  "generated": 1772400175123,
   "supported_versions": [
     78,
     91,
@@ -268,6 +268,33 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031950/alertswitch-1.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "{26ad023f-6980-4219-8458-adbeaf9a2759}",
+      "name": "Glossy New Tab - Say Goodbye to Boring Tabs",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989454-32.png?modified=206deee8",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989454-64.png?modified=206deee8"
+      },
+      "compat": [
+        {
+          "appVersion": "148",
+          "type": "release",
+          "extVersion": "0.0.4",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045000/glossy_new_tab_say_goodbye_to_boring_tabs-0.0.4-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.0.4",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045000/glossy_new_tab_say_goodbye_to_boring_tabs-0.0.4-tb.xpi?src="
         }
       ],
       "badges": []
@@ -1395,6 +1422,33 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043769/provider_for_google_calendar-128.5.8-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "{ae237f87-80c1-4281-8ecf-8b619bd7b518}",
+      "name": "Delete Facebook Messages",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989455-32.png?modified=43ae63cd",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989455-64.png?modified=43ae63cd"
+      },
+      "compat": [
+        {
+          "appVersion": "148",
+          "type": "release",
+          "extVersion": "0.0.5",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045001/delete_facebook_messages-0.0.5-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.0.5",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045001/delete_facebook_messages-0.0.5-tb.xpi?src="
         }
       ],
       "badges": []
@@ -4451,18 +4505,18 @@
         {
           "appVersion": "148",
           "type": "release",
-          "extVersion": "1.1.0",
+          "extVersion": "1.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044708/jr_autotext-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044987/jr_autotext-1.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.0",
+          "extVersion": "1.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044708/jr_autotext-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044987/jr_autotext-1.2.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10045,25 +10099,25 @@
       "id": "jpg-attacher@thrilldroid",
       "name": "jpg-Attacher",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989440-32.png?modified=d322055d",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989440-64.png?modified=d322055d"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989440-32.png?modified=e3f2c89f",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989440-64.png?modified=e3f2c89f"
       },
       "compat": [
         {
           "appVersion": "148",
           "type": "release",
-          "extVersion": "1.0.3",
+          "extVersion": "1.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044965/jpg_attacher-1.0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045002/jpg_attacher-1.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.3",
+          "extVersion": "1.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044965/jpg_attacher-1.0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045002/jpg_attacher-1.2.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -12200,7 +12254,11 @@
       "compat": [
         {
           "appVersion": "148",
-          "type": "release"
+          "type": "release",
+          "extVersion": "5.0.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043785/nostalgy_emails_verwalten_suchen_archivieren-5.0.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
