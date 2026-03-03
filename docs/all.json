@@ -1,5 +1,5 @@
 {
-  "generated": 1772486872300,
+  "generated": 1772573291106,
   "supported_versions": [
     78,
     91,
@@ -8862,6 +8862,33 @@
       "badges": []
     },
     {
+      "id": "gemini-watermark-remover@muzammil.work",
+      "name": "Gemini Watermark Remover",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989458-32.png?modified=85d76d32",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989458-64.png?modified=85d76d32"
+      },
+      "compat": [
+        {
+          "appVersion": "148",
+          "type": "release",
+          "extVersion": "0.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045032/gemini_watermark_remover-0.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045032/gemini_watermark_remover-0.0.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "get-all-senders@CicadaCinema",
       "name": "Get All Senders",
       "icons": {
@@ -15891,18 +15918,18 @@
         {
           "appVersion": "148",
           "type": "release",
-          "extVersion": "4.2.1",
+          "extVersion": "4.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044185/ai-4.2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045026/ai-4.3.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.2.1",
+          "extVersion": "4.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044185/ai-4.2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045026/ai-4.3.0-tb.xpi?src="
         }
       ],
       "badges": []
