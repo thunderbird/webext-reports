@@ -1,5 +1,5 @@
 {
-  "generated": 1772746089344,
+  "generated": 1772832238588,
   "supported_versions": [
     78,
     91,
@@ -1876,18 +1876,18 @@
         {
           "appVersion": "148",
           "type": "release",
-          "extVersion": "6.2.2",
+          "extVersion": "6.2.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041929/gitlab_ticket_creator-6.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045041/gitlab_issue_creator-6.2.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "6.2.2",
+          "extVersion": "6.2.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041929/gitlab_ticket_creator-6.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045041/gitlab_issue_creator-6.2.4-tb.xpi?src="
         }
       ],
       "badges": []
@@ -3565,18 +3565,18 @@
         {
           "appVersion": "148",
           "type": "release",
-          "extVersion": "1.0",
+          "extVersion": "1.0.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044552/ai_mail_support-1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045134/ai_mail_support-1.0.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0",
+          "extVersion": "1.0.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044552/ai_mail_support-1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045134/ai_mail_support-1.0.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -7924,7 +7924,11 @@
       "compat": [
         {
           "appVersion": "148",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.7.12",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043926/expression_power_messagecalendar_search_ng-4.7.12-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -10299,18 +10303,18 @@
         {
           "appVersion": "148",
           "type": "release",
-          "extVersion": "1.15.20251229.0",
+          "extVersion": "1.16.20260226.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043612/keepassxc_mail-1.15.20251229.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044959/keepassxc_mail-1.16.20260226.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.15.20251229.0",
+          "extVersion": "1.16.20260226.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043612/keepassxc_mail-1.15.20251229.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044959/keepassxc_mail-1.16.20260226.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -15949,18 +15953,18 @@
         {
           "appVersion": "148",
           "type": "release",
-          "extVersion": "4.3.0",
+          "extVersion": "4.3.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045026/ai-4.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045131/ai-4.3.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.3.0",
+          "extVersion": "4.3.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045026/ai-4.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045131/ai-4.3.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17145,18 +17149,18 @@
         {
           "appVersion": "148",
           "type": "release",
-          "extVersion": "1.3.0",
+          "extVersion": "2.0.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044688/templatewing-1.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044980/templatewing-2.0.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.3.0",
+          "extVersion": "2.0.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044688/templatewing-1.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044980/templatewing-2.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17414,18 +17418,18 @@
         {
           "appVersion": "148",
           "type": "release",
-          "extVersion": "2.3.1",
+          "extVersion": "2.3.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042203/reply_with_attachments-2.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044707/reply_with_attachments-2.3.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.3.1",
+          "extVersion": "2.3.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042203/reply_with_attachments-2.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044707/reply_with_attachments-2.3.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -18636,18 +18640,18 @@
         {
           "appVersion": "148",
           "type": "release",
-          "extVersion": "1.3",
+          "extVersion": "1.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044675/translate_mail_with_google-1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044986/translate_mail_with_google-1.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.3",
+          "extVersion": "1.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044675/translate_mail_with_google-1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044986/translate_mail_with_google-1.5-tb.xpi?src="
         }
       ],
       "badges": []
