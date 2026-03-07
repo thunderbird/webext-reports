@@ -1,5 +1,5 @@
 {
-  "generated": 1772832238588,
+  "generated": 1772918475393,
   "supported_versions": [
     78,
     91,
@@ -848,7 +848,11 @@
       "compat": [
         {
           "appVersion": "148",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037412/tag_toolbar_tag_popup-2.4.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -11973,7 +11977,11 @@
       "compat": [
         {
           "appVersion": "148",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.4",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037413/message_header_toolbar_customize-2.4.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
