@@ -1,5 +1,5 @@
 {
-  "generated": 1772918475393,
+  "generated": 1773004972995,
   "supported_versions": [
     78,
     91,
@@ -5064,6 +5064,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042545/buxartranslate-1.0.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "byo_ai_grammar@timrichardson.dev",
+      "name": "BYO AI Grammar",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989472-32.png?modified=f738a3d6",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989472-64.png?modified=f738a3d6"
+      },
+      "compat": [
+        {
+          "appVersion": "148",
+          "type": "release",
+          "extVersion": "0.4.30",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045149/byo_ai_grammar-0.4.30-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.4.30",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045149/byo_ai_grammar-0.4.30-tb.xpi?src="
         }
       ],
       "badges": []
