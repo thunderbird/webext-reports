@@ -1,5 +1,5 @@
 {
-  "generated": 1773091621590,
+  "generated": 1773178015067,
   "supported_versions": [
     78,
     91,
@@ -18614,6 +18614,29 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1036150/toggle_summary-1.6-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "tonecraft@extension.thunderbird.org",
+      "name": "ToneCraft",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989478-32.png?modified=8a4e9dfb",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989478-64.png?modified=8a4e9dfb"
+      },
+      "compat": [
+        {
+          "appVersion": "148",
+          "type": "release",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045173/tonecraft-1.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr"
         }
       ],
       "badges": []
