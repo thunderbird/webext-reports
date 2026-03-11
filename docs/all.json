@@ -1,5 +1,5 @@
 {
-  "generated": 1773178015067,
+  "generated": 1773264429231,
   "supported_versions": [
     78,
     91,
@@ -5083,18 +5083,18 @@
         {
           "appVersion": "148",
           "type": "release",
-          "extVersion": "0.5.12",
+          "extVersion": "0.5.14",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045156/byo_ai_grammar-0.5.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045185/byo_ai_grammar-0.5.14-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.5.12",
+          "extVersion": "0.5.14",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045156/byo_ai_grammar-0.5.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045185/byo_ai_grammar-0.5.14-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11137,6 +11137,33 @@
       "badges": []
     },
     {
+      "id": "mailcheck@malade.com",
+      "name": "MailCheck: Send Protection",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "148",
+          "type": "release",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045183/mailcheck-1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045183/mailcheck-1.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "mailing-list-filter@peci1.cz",
       "name": "Mailing list filter",
       "icons": {
@@ -13034,18 +13061,18 @@
         {
           "appVersion": "148",
           "type": "release",
-          "extVersion": "1.4.8.1",
+          "extVersion": "1.4.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045050/eule_fur_exchange-1.4.8.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045258/eule_fur_exchange-1.4.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.4.8.1",
+          "extVersion": "1.4.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045050/eule_fur_exchange-1.4.8.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045258/eule_fur_exchange-1.4.9-tb.xpi?src="
         }
       ],
       "badges": []
