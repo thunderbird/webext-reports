@@ -1,5 +1,5 @@
 {
-  "generated": 1773264429231,
+  "generated": 1773350886094,
   "supported_versions": [
     78,
     91,
@@ -11140,8 +11140,8 @@
       "id": "mailcheck@malade.com",
       "name": "MailCheck: Send Protection",
       "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989485-32.png?modified=40871036",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989485-64.png?modified=40871036"
       },
       "compat": [
         {
