@@ -1,5 +1,5 @@
 {
-  "generated": 1773350886094,
+  "generated": 1773437269441,
   "supported_versions": [
     78,
     91,
@@ -5469,6 +5469,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039514/chartpop-1.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "chatgpt-bulk-delete@muzammil.work",
+      "name": "ChatGPT Bulk Delete",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989490-32.png?modified=e5672549",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989490-64.png?modified=e5672549"
+      },
+      "compat": [
+        {
+          "appVersion": "148",
+          "type": "release",
+          "extVersion": "0.0.4",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045274/chatgpt_bulk_delete-0.0.4-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.0.4",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045274/chatgpt_bulk_delete-0.0.4-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11140,25 +11167,25 @@
       "id": "mailcheck@malade.com",
       "name": "MailCheck: Send Protection",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989485-32.png?modified=40871036",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989485-64.png?modified=40871036"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989485-32.png?modified=a49b09f5",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989485-64.png?modified=a49b09f5"
       },
       "compat": [
         {
           "appVersion": "148",
           "type": "release",
-          "extVersion": "1.0",
+          "extVersion": "1.0.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045183/mailcheck-1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045265/mailcheck_send_protection-1.0.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0",
+          "extVersion": "1.0.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045183/mailcheck-1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045265/mailcheck_send_protection-1.0.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -18953,6 +18980,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1034246/typical_reply-2.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "uBird@celenity.dev",
+      "name": "uBird",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "148",
+          "type": "release",
+          "extVersion": "1.69.0.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045273/ublock_origin-1.69.0.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.69.0.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045273/ublock_origin-1.69.0.2-tb.xpi?src="
         }
       ],
       "badges": []
