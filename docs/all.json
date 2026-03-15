@@ -1,5 +1,5 @@
 {
-  "generated": 1773523472414,
+  "generated": 1773609869994,
   "supported_versions": [
     78,
     91,
@@ -4013,6 +4013,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044320/whorl-1.0.8-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "atn-xpihandler@celenity.dev",
+      "name": "ATN-XPIHandler",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "148",
+          "type": "release",
+          "extVersion": "0.0.1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045286/atn_xpihandler-0.0.1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.0.1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045286/atn_xpihandler-0.0.1.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10254,25 +10281,25 @@
       "id": "jpg-attacher@thrilldroid",
       "name": "jpg-Attacher",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989440-32.png?modified=81405648",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989440-64.png?modified=81405648"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989440-32.png?modified=0fe11849",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989440-64.png?modified=0fe11849"
       },
       "compat": [
         {
           "appVersion": "148",
           "type": "release",
-          "extVersion": "1.3.2",
+          "extVersion": "1.4.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045051/jpg_attacher-1.3.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045285/jpg_attacher-1.4.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.3.2",
+          "extVersion": "1.4.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045051/jpg_attacher-1.3.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045285/jpg_attacher-1.4.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -18005,33 +18032,6 @@
         {
           "appVersion": "140",
           "type": "current-esr"
-        }
-      ],
-      "badges": []
-    },
-    {
-      "id": "thunderpocket@lol.de",
-      "name": "Thunderpocket",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988812-32.png?modified=11c3d02b",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988812-64.png?modified=11c3d02b"
-      },
-      "compat": [
-        {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "1.0.2",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1033015/thunderpocket-1.0.2-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "1.0.2",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1033015/thunderpocket-1.0.2-tb.xpi?src="
         }
       ],
       "badges": []
