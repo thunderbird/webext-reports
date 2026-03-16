@@ -1,5 +1,5 @@
 {
-  "generated": 1773609869994,
+  "generated": 1773696775459,
   "supported_versions": [
     78,
     91,
@@ -8929,7 +8929,7 @@
     },
     {
       "id": "gemini-mail-review@thunderbird-addon.localhost",
-      "name": "Gemini Mail Review",
+      "name": "Gemini Mail Review – AI Mail Check for Thunderbird",
       "icons": {
         "32": "https://addons.thunderbird.net/static/img/addon-icons/search-32.png",
         "64": "https://addons.thunderbird.net/static/img/addon-icons/search-64.png"
@@ -18683,10 +18683,10 @@
         {
           "appVersion": "148",
           "type": "release",
-          "extVersion": "1.0.1",
+          "extVersion": "1.0.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045173/tonecraft-1.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045310/tonecraft-1.0.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -19301,6 +19301,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039379/veilig_verzenden-1.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "vfs-provider-home-folder-access@jobisoft.de",
+      "name": "VFS-Provider: Local Home Folder Access",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989501-32.png?modified=81caf8dd",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989501-64.png?modified=81caf8dd"
+      },
+      "compat": [
+        {
+          "appVersion": "148",
+          "type": "release",
+          "extVersion": "1.0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045317/vfs_provider_zugriff_auf_eigene_dateien-1.0.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045317/vfs_provider_zugriff_auf_eigene_dateien-1.0.3-tb.xpi?src="
         }
       ],
       "badges": []
