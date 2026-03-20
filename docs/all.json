@@ -1,5 +1,5 @@
 {
-  "generated": 1773869449400,
+  "generated": 1774042000636,
   "supported_versions": [
     78,
     91,
@@ -15996,11 +15996,19 @@
       "compat": [
         {
           "appVersion": "148",
-          "type": "release"
+          "type": "release",
+          "extVersion": "6.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045405/shrunked_image_resizer-6.0.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "current-esr"
+          "type": "current-esr",
+          "extVersion": "6.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045405/shrunked_image_resizer-6.0.0-tb.xpi?src="
         }
       ],
       "badges": []
