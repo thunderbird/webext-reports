@@ -1,5 +1,5 @@
 {
-  "generated": 1774214688424,
+  "generated": 1774387822458,
   "supported_versions": [
     78,
     91,
@@ -7,7 +7,7 @@
     115,
     128,
     140,
-    148
+    149
   ],
   "addons": [
     {
@@ -19,7 +19,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -46,7 +46,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.1",
           "isWebExtension": true,
@@ -73,12 +73,39 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
           "appVersion": "140",
           "type": "current-esr"
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "{122b4ddb-fd57-455e-ae56-d3392cf11564}",
+      "name": "VFS-Provider: WebDAV",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989523-32.png?modified=bad9b4f7",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989523-64.png?modified=bad9b4f7"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "1.3.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045471/vfs_provider_webdav-1.3.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.3.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045471/vfs_provider_webdav-1.3.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -92,7 +119,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.4.0",
           "isWebExtension": true,
@@ -119,7 +146,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.6",
           "isWebExtension": true,
@@ -146,7 +173,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -173,12 +200,8 @@
       },
       "compat": [
         {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "3.3",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044877/threadkey-3.3-tb.xpi?src="
+          "appVersion": "149",
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -200,7 +223,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.11",
           "isWebExtension": true,
@@ -227,7 +250,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.1.7",
           "isWebExtension": true,
@@ -254,7 +277,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -281,7 +304,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.4",
           "isWebExtension": true,
@@ -308,7 +331,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.3.1",
           "isWebExtension": true,
@@ -335,7 +358,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -362,7 +385,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.20.1",
           "isWebExtension": true,
@@ -389,7 +412,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.7.1",
           "isWebExtension": true,
@@ -416,12 +439,8 @@
       },
       "compat": [
         {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "1.7.2",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040743/folderflags-1.7.2-tb.xpi?src="
+          "appVersion": "149",
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -443,12 +462,8 @@
       },
       "compat": [
         {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "1.1.10",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044701/no_tabs-1.1.10-tb.xpi?src="
+          "appVersion": "149",
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -470,7 +485,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.1.0",
           "isWebExtension": true,
@@ -497,7 +512,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -524,7 +539,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2",
           "isWebExtension": true,
@@ -551,7 +566,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.6",
           "isWebExtension": true,
@@ -578,7 +593,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -605,7 +620,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.8.0",
           "isWebExtension": true,
@@ -632,7 +647,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.6.6",
           "isWebExtension": true,
@@ -666,16 +681,16 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.2.8",
+          "extVersion": "2.2.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045027/nc_connector_for_thunderbird-2.2.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045470/nc_connector_for_thunderbird-2.2.9-tb.xpi?src="
         }
       ],
       "badges": []
@@ -689,7 +704,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.34",
           "isWebExtension": true,
@@ -716,7 +731,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "10.1.1",
           "isWebExtension": true,
@@ -743,7 +758,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.16.3",
           "isWebExtension": true,
@@ -770,7 +785,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.26.1",
           "isWebExtension": true,
@@ -797,7 +812,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "31.1.0",
           "isWebExtension": true,
@@ -824,7 +839,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.6.4",
           "isWebExtension": true,
@@ -851,12 +866,8 @@
       },
       "compat": [
         {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "2.4.7",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037412/tag_toolbar_tag_popup-2.4.7-tb.xpi?src="
+          "appVersion": "149",
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -878,7 +889,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -897,7 +908,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.8",
           "isWebExtension": true,
@@ -924,7 +935,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4",
           "isWebExtension": true,
@@ -951,7 +962,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -970,7 +981,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.0",
           "isWebExtension": true,
@@ -997,7 +1008,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -1016,7 +1027,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.4.2",
           "isWebExtension": true,
@@ -1043,7 +1054,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -1068,7 +1079,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -1098,7 +1109,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.0.2",
           "isWebExtension": true,
@@ -1125,7 +1136,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.13",
           "isWebExtension": true,
@@ -1152,12 +1163,8 @@
       },
       "compat": [
         {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "1.0.8",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039498/subswitch-1.0.8-tb.xpi?src="
+          "appVersion": "149",
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -1179,7 +1186,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.5",
           "isWebExtension": true,
@@ -1206,7 +1213,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.5",
           "isWebExtension": true,
@@ -1233,7 +1240,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -1259,7 +1266,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -1289,7 +1296,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2.2",
           "isWebExtension": true,
@@ -1316,7 +1323,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -1335,7 +1342,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.2.4",
           "isWebExtension": true,
@@ -1362,7 +1369,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.6.4",
           "isWebExtension": true,
@@ -1389,7 +1396,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2",
           "isWebExtension": true,
@@ -1416,7 +1423,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "128.5.11",
           "isWebExtension": true,
@@ -1443,7 +1450,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.5",
           "isWebExtension": true,
@@ -1470,7 +1477,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2.2",
           "isWebExtension": true,
@@ -1497,7 +1504,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.2.1",
           "isWebExtension": true,
@@ -1524,7 +1531,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2",
           "isWebExtension": true,
@@ -1551,7 +1558,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.4.5",
           "isWebExtension": true,
@@ -1578,7 +1585,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -1597,7 +1604,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "12.2.2",
           "isWebExtension": true,
@@ -1624,7 +1631,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.6",
           "isWebExtension": true,
@@ -1651,7 +1658,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -1670,7 +1677,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.1",
           "isWebExtension": true,
@@ -1697,7 +1704,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.2",
           "isWebExtension": true,
@@ -1724,7 +1731,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.0",
           "isWebExtension": true,
@@ -1751,7 +1758,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.0",
           "isWebExtension": true,
@@ -1778,7 +1785,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1.1",
           "isWebExtension": true,
@@ -1805,7 +1812,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -1828,7 +1835,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.1",
           "isWebExtension": true,
@@ -1855,7 +1862,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -1882,7 +1889,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "6.2.4",
           "isWebExtension": true,
@@ -1909,7 +1916,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -1936,7 +1943,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2",
           "isWebExtension": true,
@@ -1963,7 +1970,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.6",
           "isWebExtension": true,
@@ -1990,7 +1997,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -2017,7 +2024,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -2044,7 +2051,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -2071,7 +2078,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -2098,7 +2105,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -2125,7 +2132,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -2152,7 +2159,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2",
           "isWebExtension": true,
@@ -2179,7 +2186,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -2206,7 +2213,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -2233,7 +2240,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.3",
           "isWebExtension": true,
@@ -2260,7 +2267,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -2287,7 +2294,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -2314,7 +2321,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -2341,7 +2348,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -2368,7 +2375,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -2395,7 +2402,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.3",
           "isWebExtension": true,
@@ -2422,7 +2429,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2",
           "isWebExtension": true,
@@ -2449,7 +2456,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -2476,7 +2483,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2",
           "isWebExtension": true,
@@ -2503,7 +2510,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2",
           "isWebExtension": true,
@@ -2530,7 +2537,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -2557,7 +2564,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2",
           "isWebExtension": true,
@@ -2584,7 +2591,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2",
           "isWebExtension": true,
@@ -2611,7 +2618,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2",
           "isWebExtension": true,
@@ -2638,7 +2645,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -2665,7 +2672,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.4.0.184721794",
           "isWebExtension": true,
@@ -2692,7 +2699,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -2719,7 +2726,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -2746,7 +2753,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -2773,7 +2780,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.8.2",
           "isWebExtension": true,
@@ -2800,7 +2807,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -2827,7 +2834,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -2854,7 +2861,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.3.0",
           "isWebExtension": true,
@@ -2881,7 +2888,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -2908,7 +2915,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -2935,7 +2942,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.1",
           "isWebExtension": true,
@@ -2962,7 +2969,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2",
           "isWebExtension": true,
@@ -2989,7 +2996,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -3008,7 +3015,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.1",
           "isWebExtension": true,
@@ -3035,7 +3042,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.3.1",
           "isWebExtension": true,
@@ -3062,7 +3069,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2.2",
           "isWebExtension": true,
@@ -3089,7 +3096,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.5",
           "isWebExtension": true,
@@ -3116,7 +3123,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -3143,7 +3150,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.9.119",
           "isWebExtension": true,
@@ -3170,7 +3177,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -3197,7 +3204,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.7",
           "isWebExtension": true,
@@ -3224,7 +3231,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.22",
           "isWebExtension": true,
@@ -3251,7 +3258,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -3278,7 +3285,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -3305,7 +3312,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -3332,7 +3339,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "5.5",
           "isWebExtension": true,
@@ -3359,7 +3366,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.9",
           "isWebExtension": true,
@@ -3386,7 +3393,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "6.1",
           "isWebExtension": true,
@@ -3413,7 +3420,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.3.0",
           "isWebExtension": true,
@@ -3440,7 +3447,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.1.1",
           "isWebExtension": true,
@@ -3467,7 +3474,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.0",
           "isWebExtension": true,
@@ -3494,7 +3501,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.2.1",
           "isWebExtension": true,
@@ -3521,7 +3528,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -3548,7 +3555,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -3571,7 +3578,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.1",
           "isWebExtension": true,
@@ -3598,7 +3605,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.18",
           "isWebExtension": true,
@@ -3625,7 +3632,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.5",
           "isWebExtension": true,
@@ -3652,7 +3659,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.19",
           "isWebExtension": true,
@@ -3679,7 +3686,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.7",
           "isWebExtension": true,
@@ -3706,7 +3713,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2",
           "isWebExtension": true,
@@ -3733,7 +3740,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.3.2",
           "isWebExtension": true,
@@ -3760,7 +3767,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.1.3",
           "isWebExtension": true,
@@ -3787,7 +3794,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.4",
           "isWebExtension": true,
@@ -3814,7 +3821,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "12.3.0",
           "isWebExtension": true,
@@ -3841,20 +3848,20 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
-          "extVersion": "1.17",
+          "extVersion": "1.18",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045276/antispam-1.17-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045424/antispam-1.18-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.17",
+          "extVersion": "1.18",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045276/antispam-1.17-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045424/antispam-1.18-tb.xpi?src="
         }
       ],
       "badges": []
@@ -3868,7 +3875,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -3895,7 +3902,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1.4",
           "isWebExtension": true,
@@ -3922,7 +3929,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2",
           "isWebExtension": true,
@@ -3949,7 +3956,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.9.1",
           "isWebExtension": true,
@@ -3976,7 +3983,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -4003,7 +4010,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.8",
           "isWebExtension": true,
@@ -4030,7 +4037,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.1.1",
           "isWebExtension": true,
@@ -4057,7 +4064,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1.2",
           "isWebExtension": true,
@@ -4080,7 +4087,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -4099,7 +4106,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -4126,7 +4133,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -4153,7 +4160,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -4180,7 +4187,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -4207,7 +4214,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3.1",
           "isWebExtension": true,
@@ -4234,7 +4241,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.16.1",
           "isWebExtension": true,
@@ -4261,7 +4268,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.3",
           "isWebExtension": true,
@@ -4288,7 +4295,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.4",
           "isWebExtension": true,
@@ -4315,7 +4322,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0.9",
           "isWebExtension": true,
@@ -4342,7 +4349,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.4",
           "isWebExtension": true,
@@ -4369,7 +4376,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.0.2",
           "isWebExtension": true,
@@ -4396,7 +4403,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.2.3",
           "isWebExtension": true,
@@ -4423,7 +4430,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.7.0",
           "isWebExtension": true,
@@ -4450,12 +4457,8 @@
       },
       "compat": [
         {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "4.13.0",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045127/automatic_dictionary-4.13.0-tb.xpi?src="
+          "appVersion": "149",
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -4477,7 +4480,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.5.0",
           "isWebExtension": true,
@@ -4504,7 +4507,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -4531,7 +4534,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -4550,7 +4553,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -4569,7 +4572,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.1",
           "isWebExtension": true,
@@ -4596,7 +4599,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.4",
           "isWebExtension": true,
@@ -4623,7 +4626,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -4650,7 +4653,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.0.2",
           "isWebExtension": true,
@@ -4677,7 +4680,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3.1",
           "isWebExtension": true,
@@ -4704,7 +4707,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2",
           "isWebExtension": true,
@@ -4731,7 +4734,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.2",
           "isWebExtension": true,
@@ -4758,7 +4761,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -4781,7 +4784,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -4804,7 +4807,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "31.1.0",
           "isWebExtension": true,
@@ -4831,7 +4834,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.0",
           "isWebExtension": true,
@@ -4858,7 +4861,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.1.2",
           "isWebExtension": true,
@@ -4885,7 +4888,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -4904,7 +4907,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2025.10.1",
           "isWebExtension": true,
@@ -4931,7 +4934,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3.2",
           "isWebExtension": true,
@@ -4958,7 +4961,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "5",
           "isWebExtension": true,
@@ -4985,7 +4988,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.6",
           "isWebExtension": true,
@@ -5012,7 +5015,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -5031,7 +5034,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -5058,7 +5061,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -5085,7 +5088,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "5.3",
           "isWebExtension": true,
@@ -5112,7 +5115,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.1",
           "isWebExtension": true,
@@ -5139,7 +5142,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.5.14",
           "isWebExtension": true,
@@ -5166,7 +5169,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.1",
           "isWebExtension": true,
@@ -5193,12 +5196,8 @@
       },
       "compat": [
         {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "1.5.0",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044055/calendar_auto_categories-1.5.0-tb.xpi?src="
+          "appVersion": "149",
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -5220,12 +5219,8 @@
       },
       "compat": [
         {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "2.4.8",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037856/calendarproject_tools_gantt_year_view_planner-2.4.8-tb.xpi?src="
+          "appVersion": "149",
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -5247,7 +5242,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.9",
           "isWebExtension": true,
@@ -5274,7 +5269,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.8",
           "isWebExtension": true,
@@ -5301,20 +5296,20 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
-          "extVersion": "104.7",
+          "extVersion": "104.8",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045267/cardbook-104.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045474/cardbook-104.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "104.7",
+          "extVersion": "104.8",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045267/cardbook-104.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045474/cardbook-104.8-tb.xpi?src="
         }
       ],
       "badges": []
@@ -5328,7 +5323,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "7.0",
           "isWebExtension": true,
@@ -5355,7 +5350,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.0",
           "isWebExtension": true,
@@ -5382,7 +5377,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.9.1",
           "isWebExtension": true,
@@ -5409,7 +5404,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -5436,7 +5431,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.1",
           "isWebExtension": true,
@@ -5463,7 +5458,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.8.2",
           "isWebExtension": true,
@@ -5490,7 +5485,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -5513,7 +5508,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -5540,7 +5535,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.4",
           "isWebExtension": true,
@@ -5567,7 +5562,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.0",
           "isWebExtension": true,
@@ -5594,7 +5589,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.3.3",
           "isWebExtension": true,
@@ -5621,7 +5616,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.1",
           "isWebExtension": true,
@@ -5648,7 +5643,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.1",
           "isWebExtension": true,
@@ -5675,7 +5670,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.2",
           "isWebExtension": true,
@@ -5702,16 +5697,16 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.1",
+          "extVersion": "2.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039880/anhang_aus_zwischenablage-2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045463/anhang_aus_zwischenablage-2.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -5725,7 +5720,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "7.1.5",
           "isWebExtension": true,
@@ -5752,7 +5747,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -5779,7 +5774,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.17.2",
           "isWebExtension": true,
@@ -5806,7 +5801,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.12",
           "isWebExtension": true,
@@ -5833,7 +5828,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.7",
           "isWebExtension": true,
@@ -5860,7 +5855,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -5879,7 +5874,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "5.11",
           "isWebExtension": true,
@@ -5906,7 +5901,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.11",
           "isWebExtension": true,
@@ -5933,7 +5928,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.6",
           "isWebExtension": true,
@@ -5960,7 +5955,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.2",
           "isWebExtension": true,
@@ -5987,7 +5982,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3.8",
           "isWebExtension": true,
@@ -6014,7 +6009,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -6033,7 +6028,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -6052,7 +6047,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -6079,7 +6074,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.4",
           "isWebExtension": true,
@@ -6106,7 +6101,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2",
           "isWebExtension": true,
@@ -6133,7 +6128,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3.2",
           "isWebExtension": true,
@@ -6160,7 +6155,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -6187,7 +6182,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.0",
           "isWebExtension": true,
@@ -6214,7 +6209,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.2",
           "isWebExtension": true,
@@ -6241,7 +6236,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.6",
           "isWebExtension": true,
@@ -6268,7 +6263,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.1",
           "isWebExtension": true,
@@ -6295,12 +6290,8 @@
       },
       "compat": [
         {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "3.39",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039693/copy_sent_to_current-3.39-tb.xpi?src="
+          "appVersion": "149",
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -6322,7 +6313,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.8",
           "isWebExtension": true,
@@ -6349,7 +6340,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.8",
           "isWebExtension": true,
@@ -6376,7 +6367,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.0.0",
           "isWebExtension": true,
@@ -6403,7 +6394,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.6",
           "isWebExtension": true,
@@ -6430,12 +6421,8 @@
       },
       "compat": [
         {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "0.7.0",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045321/custom_subject_column-0.7.0-tb.xpi?src="
+          "appVersion": "149",
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -6457,7 +6444,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -6484,7 +6471,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.3.0",
           "isWebExtension": true,
@@ -6511,7 +6498,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.0",
           "isWebExtension": true,
@@ -6538,7 +6525,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1.0",
           "isWebExtension": true,
@@ -6565,7 +6552,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -6584,7 +6571,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "9",
           "isWebExtension": true,
@@ -6611,7 +6598,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.8",
           "isWebExtension": true,
@@ -6638,7 +6625,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.2",
           "isWebExtension": true,
@@ -6665,7 +6652,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.8.2",
           "isWebExtension": true,
@@ -6692,7 +6679,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.4",
           "isWebExtension": true,
@@ -6719,7 +6706,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -6746,7 +6733,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1.0",
           "isWebExtension": true,
@@ -6773,7 +6760,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.7",
           "isWebExtension": true,
@@ -6800,7 +6787,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -6827,7 +6814,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -6846,7 +6833,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1.18",
           "isWebExtension": true,
@@ -6873,7 +6860,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.6",
           "isWebExtension": true,
@@ -6900,7 +6887,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "6.9.0",
           "isWebExtension": true,
@@ -6927,7 +6914,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.1",
           "isWebExtension": true,
@@ -6954,7 +6941,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.9.13",
           "isWebExtension": true,
@@ -6981,7 +6968,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.4.5",
           "isWebExtension": true,
@@ -7008,7 +6995,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "6.2.0",
           "isWebExtension": true,
@@ -7035,7 +7022,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.3",
           "isWebExtension": true,
@@ -7062,7 +7049,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.0.2",
           "isWebExtension": true,
@@ -7089,7 +7076,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.10.2",
           "isWebExtension": true,
@@ -7116,7 +7103,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -7135,7 +7122,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -7162,7 +7149,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "7",
           "isWebExtension": true,
@@ -7189,7 +7176,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "7.0.2",
           "isWebExtension": true,
@@ -7216,7 +7203,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -7243,7 +7230,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.2.2",
           "isWebExtension": true,
@@ -7270,7 +7257,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.1",
           "isWebExtension": true,
@@ -7297,7 +7284,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -7324,7 +7311,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -7347,7 +7334,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -7373,7 +7360,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.8",
           "isWebExtension": true,
@@ -7400,7 +7387,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "7.4",
           "isWebExtension": true,
@@ -7427,7 +7414,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.7.2",
           "isWebExtension": true,
@@ -7454,7 +7441,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -7473,7 +7460,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2",
           "isWebExtension": true,
@@ -7500,7 +7487,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -7527,7 +7514,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -7554,7 +7541,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.2",
           "isWebExtension": true,
@@ -7581,7 +7568,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.2",
           "isWebExtension": true,
@@ -7608,7 +7595,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.3.1",
           "isWebExtension": true,
@@ -7635,7 +7622,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.0",
           "isWebExtension": true,
@@ -7662,7 +7649,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.2",
           "isWebExtension": true,
@@ -7689,7 +7676,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.1",
           "isWebExtension": true,
@@ -7716,20 +7703,20 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
-          "extVersion": "1.8",
+          "extVersion": "1.9.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044681/email_original-1.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045421/email_original-1.9.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.8",
+          "extVersion": "1.9.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044681/email_original-1.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045421/email_original-1.9.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -7743,7 +7730,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.102.10",
           "isWebExtension": true,
@@ -7770,7 +7757,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.23.1.3",
           "isWebExtension": true,
@@ -7797,7 +7784,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.4",
           "isWebExtension": true,
@@ -7824,7 +7811,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "6",
           "isWebExtension": true,
@@ -7851,7 +7838,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -7878,7 +7865,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -7897,7 +7884,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -7924,7 +7911,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.6",
           "isWebExtension": true,
@@ -7951,7 +7938,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.0",
           "isWebExtension": true,
@@ -7978,7 +7965,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.8.1",
           "isWebExtension": true,
@@ -8005,7 +7992,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -8024,7 +8011,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.0",
           "isWebExtension": true,
@@ -8051,7 +8038,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.3",
           "isWebExtension": true,
@@ -8078,7 +8065,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -8105,7 +8092,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.7.12",
           "isWebExtension": true,
@@ -8132,12 +8119,8 @@
       },
       "compat": [
         {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "148.0",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044051/exquilla_for_exchange-148.0-tb.xpi?src="
+          "appVersion": "149",
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -8159,7 +8142,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.2",
           "isWebExtension": true,
@@ -8186,7 +8169,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.0",
           "isWebExtension": true,
@@ -8213,7 +8196,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.9.8",
           "isWebExtension": true,
@@ -8240,7 +8223,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2025.1.1",
           "isWebExtension": true,
@@ -8267,7 +8250,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.6",
           "isWebExtension": true,
@@ -8294,7 +8277,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.6",
           "isWebExtension": true,
@@ -8321,7 +8304,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -8340,7 +8323,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.8",
           "isWebExtension": true,
@@ -8367,7 +8350,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.1",
           "isWebExtension": true,
@@ -8394,7 +8377,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.7.3",
           "isWebExtension": true,
@@ -8421,7 +8404,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "6.1",
           "isWebExtension": true,
@@ -8448,7 +8431,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.0.5",
           "isWebExtension": true,
@@ -8475,7 +8458,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -8498,7 +8481,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -8517,7 +8500,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -8544,7 +8527,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -8567,7 +8550,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -8586,7 +8569,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -8605,7 +8588,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.2.8",
           "isWebExtension": true,
@@ -8632,7 +8615,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.2.5",
           "isWebExtension": true,
@@ -8659,7 +8642,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -8682,12 +8665,12 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
-          "extVersion": "6.1.3",
+          "extVersion": "6.1.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044447/folder_pane_view_switcher-6.1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042898/folder_pane_view_switcher-6.1.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -8709,7 +8692,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.6",
           "isWebExtension": true,
@@ -8736,7 +8719,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "141.1",
           "isWebExtension": true,
@@ -8763,7 +8746,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -8790,7 +8773,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -8817,7 +8800,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.3.0",
           "isWebExtension": true,
@@ -8844,7 +8827,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.4",
           "isWebExtension": true,
@@ -8871,7 +8854,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "7.1",
           "isWebExtension": true,
@@ -8898,7 +8881,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.0.0",
           "isWebExtension": true,
@@ -8925,7 +8908,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.1.0",
           "isWebExtension": true,
@@ -8952,7 +8935,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -8979,20 +8962,20 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
-          "extVersion": "4.3.8",
+          "extVersion": "4.3.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043436/thunderbird_conversations-4.3.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045419/thunderbird_conversations-4.3.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.3.8",
+          "extVersion": "4.3.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043436/thunderbird_conversations-4.3.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045419/thunderbird_conversations-4.3.9-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9006,7 +8989,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2026.3.4",
           "isWebExtension": true,
@@ -9033,7 +9016,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2",
           "isWebExtension": true,
@@ -9060,7 +9043,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.1",
           "isWebExtension": true,
@@ -9087,7 +9070,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.1",
           "isWebExtension": true,
@@ -9114,7 +9097,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -9141,7 +9124,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -9160,29 +9143,6 @@
       "badges": []
     },
     {
-      "id": "GlamorousPotato.calendar-annual-view@addons.thunderbird.net",
-      "name": "Calendar Annual View",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989352-32.png?modified=c8c1fbf2",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989352-64.png?modified=c8c1fbf2"
-      },
-      "compat": [
-        {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "1.0.2",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044569/calendar_annual_view-1.0.2-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr"
-        }
-      ],
-      "badges": []
-    },
-    {
       "id": "glodaquilla-ng@opto.one",
       "name": "Folders for search, onDisk Status- Glodaquilla-NG:",
       "icons": {
@@ -9191,7 +9151,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -9214,7 +9174,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.3",
           "isWebExtension": true,
@@ -9241,7 +9201,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -9268,7 +9228,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2",
           "isWebExtension": true,
@@ -9295,7 +9255,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -9318,7 +9278,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1.1",
           "isWebExtension": true,
@@ -9345,7 +9305,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2",
           "isWebExtension": true,
@@ -9372,7 +9332,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2",
           "isWebExtension": true,
@@ -9399,7 +9359,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -9426,7 +9386,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -9453,7 +9413,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.4.0",
           "isWebExtension": true,
@@ -9480,7 +9440,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -9507,7 +9467,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.12",
           "isWebExtension": true,
@@ -9534,12 +9494,8 @@
       },
       "compat": [
         {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "2.4.7",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044067/header_tools_lite-2.4.7-tb.xpi?src="
+          "appVersion": "149",
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -9568,7 +9524,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -9595,7 +9551,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.3.25",
           "isWebExtension": true,
@@ -9622,7 +9578,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -9647,7 +9603,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1.4",
           "isWebExtension": true,
@@ -9674,7 +9630,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2.7",
           "isWebExtension": true,
@@ -9701,7 +9657,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.18",
           "isWebExtension": true,
@@ -9728,7 +9684,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.3",
           "isWebExtension": true,
@@ -9755,7 +9711,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.6",
           "isWebExtension": true,
@@ -9782,12 +9738,8 @@
       },
       "compat": [
         {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "3.4.12",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044866/attachment_viewer_view_in_a_tab_slideshow-3.4.12-tb.xpi?src="
+          "appVersion": "149",
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -9809,7 +9761,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "14.1.17",
           "isWebExtension": true,
@@ -9836,7 +9788,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1.4",
           "isWebExtension": true,
@@ -9863,7 +9815,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2.8",
           "isWebExtension": true,
@@ -9890,7 +9842,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -9917,7 +9869,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -9944,7 +9896,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.6",
           "isWebExtension": true,
@@ -9971,7 +9923,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.8",
           "isWebExtension": true,
@@ -9998,7 +9950,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "16.6.100",
           "isWebExtension": true,
@@ -10025,7 +9977,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.1",
           "isWebExtension": true,
@@ -10052,7 +10004,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -10079,7 +10031,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.8.3",
           "isWebExtension": true,
@@ -10106,7 +10058,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.4.5",
           "isWebExtension": true,
@@ -10133,7 +10085,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -10152,7 +10104,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -10179,7 +10131,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.5.3",
           "isWebExtension": true,
@@ -10206,7 +10158,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -10233,7 +10185,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -10252,7 +10204,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.10",
           "isWebExtension": true,
@@ -10279,7 +10231,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -10302,7 +10254,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.1.2",
           "isWebExtension": true,
@@ -10329,7 +10281,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.4.18.2",
           "isWebExtension": true,
@@ -10356,7 +10308,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.4.1",
           "isWebExtension": true,
@@ -10383,7 +10335,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "16.3.0",
           "isWebExtension": true,
@@ -10410,7 +10362,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.7",
           "isWebExtension": true,
@@ -10437,7 +10389,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "9.2",
           "isWebExtension": true,
@@ -10464,7 +10416,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -10487,7 +10439,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.16.20260226.0",
           "isWebExtension": true,
@@ -10514,7 +10466,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.3",
           "isWebExtension": true,
@@ -10541,7 +10493,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.7.1",
           "isWebExtension": true,
@@ -10568,7 +10520,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.6",
           "isWebExtension": true,
@@ -10595,7 +10547,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -10614,7 +10566,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.8",
           "isWebExtension": true,
@@ -10641,7 +10593,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "11.1",
           "isWebExtension": true,
@@ -10668,7 +10620,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -10695,7 +10647,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "8.11.2",
           "isWebExtension": true,
@@ -10722,7 +10674,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.1",
           "isWebExtension": true,
@@ -10749,7 +10701,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2",
           "isWebExtension": true,
@@ -10776,7 +10728,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -10799,7 +10751,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -10822,7 +10774,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.1.1",
           "isWebExtension": true,
@@ -10849,7 +10801,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.4.0",
           "isWebExtension": true,
@@ -10876,7 +10828,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -10903,7 +10855,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.1",
           "isWebExtension": true,
@@ -10930,7 +10882,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.2",
           "isWebExtension": true,
@@ -10957,7 +10909,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -10984,7 +10936,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2",
           "isWebExtension": true,
@@ -11011,7 +10963,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.2.5",
           "isWebExtension": true,
@@ -11038,7 +10990,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.2",
           "isWebExtension": true,
@@ -11065,7 +11017,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -11088,7 +11040,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.16",
           "isWebExtension": true,
@@ -11115,7 +11067,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.5.0.0",
           "isWebExtension": true,
@@ -11142,7 +11094,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -11161,7 +11113,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.1",
           "isWebExtension": true,
@@ -11188,7 +11140,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.3",
           "isWebExtension": true,
@@ -11215,7 +11167,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.0.0",
           "isWebExtension": true,
@@ -11242,7 +11194,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.5",
           "isWebExtension": true,
@@ -11269,7 +11221,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.1",
           "isWebExtension": true,
@@ -11296,7 +11248,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "5.1.0",
           "isWebExtension": true,
@@ -11323,7 +11275,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.13",
           "isWebExtension": true,
@@ -11350,7 +11302,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "11.4.0",
           "isWebExtension": true,
@@ -11377,7 +11329,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.7.1",
           "isWebExtension": true,
@@ -11404,7 +11356,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "6",
           "isWebExtension": true,
@@ -11431,7 +11383,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -11454,7 +11406,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.3",
           "isWebExtension": true,
@@ -11481,7 +11433,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.1.0",
           "isWebExtension": true,
@@ -11508,7 +11460,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.5.0",
           "isWebExtension": true,
@@ -11535,12 +11487,8 @@
       },
       "compat": [
         {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "4.0.9.1",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044024/markdown_here_revival-4.0.9.1-tb.xpi?src="
+          "appVersion": "149",
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -11562,7 +11510,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -11581,7 +11529,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.2",
           "isWebExtension": true,
@@ -11608,7 +11556,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2",
           "isWebExtension": true,
@@ -11635,7 +11583,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.1",
           "isWebExtension": true,
@@ -11662,7 +11610,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -11689,20 +11637,20 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
-          "extVersion": "2.2.5",
+          "extVersion": "2.2.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044071/mass_emailer-2.2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042407/mass_emailer-2.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.2.5",
+          "extVersion": "2.3.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044071/mass_emailer-2.2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045307/mass_emailer-2.3.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11716,7 +11664,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -11743,7 +11691,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.5",
           "isWebExtension": true,
@@ -11770,7 +11718,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -11789,7 +11737,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2",
           "isWebExtension": true,
@@ -11816,7 +11764,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.5",
           "isWebExtension": true,
@@ -11843,7 +11791,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.3",
           "isWebExtension": true,
@@ -11870,7 +11818,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.6.0",
           "isWebExtension": true,
@@ -11897,7 +11845,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -11916,7 +11864,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1",
           "isWebExtension": true,
@@ -11943,7 +11891,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3.1",
           "isWebExtension": true,
@@ -11970,7 +11918,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.0.0",
           "isWebExtension": true,
@@ -11997,7 +11945,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.8",
           "isWebExtension": true,
@@ -12024,7 +11972,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -12047,7 +11995,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.0",
           "isWebExtension": true,
@@ -12074,7 +12022,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -12093,7 +12041,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -12112,7 +12060,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -12131,7 +12079,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.0.0",
           "isWebExtension": true,
@@ -12158,7 +12106,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3.0",
           "isWebExtension": true,
@@ -12185,7 +12133,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.3",
           "isWebExtension": true,
@@ -12212,12 +12160,8 @@
       },
       "compat": [
         {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "2.4.4",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037413/message_header_toolbar_customize-2.4.4-tb.xpi?src="
+          "appVersion": "149",
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -12239,7 +12183,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -12266,7 +12210,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.10",
           "isWebExtension": true,
@@ -12293,7 +12237,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.1",
           "isWebExtension": true,
@@ -12320,7 +12264,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -12347,7 +12291,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -12374,7 +12318,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -12401,7 +12345,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.1",
           "isWebExtension": true,
@@ -12428,7 +12372,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.0",
           "isWebExtension": true,
@@ -12455,7 +12399,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.4",
           "isWebExtension": true,
@@ -12482,7 +12426,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.4",
           "isWebExtension": true,
@@ -12509,7 +12453,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.0",
           "isWebExtension": true,
@@ -12536,7 +12480,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.0.2",
           "isWebExtension": true,
@@ -12563,12 +12507,8 @@
       },
       "compat": [
         {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "5.0.3",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043785/nostalgy_emails_verwalten_suchen_archivieren-5.0.3-tb.xpi?src="
+          "appVersion": "149",
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -12590,7 +12530,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.7.0.1",
           "isWebExtension": true,
@@ -12617,7 +12557,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3.1",
           "isWebExtension": true,
@@ -12644,7 +12584,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "5.9.4.2",
           "isWebExtension": true,
@@ -12671,7 +12611,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.5.1",
           "isWebExtension": true,
@@ -12698,7 +12638,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.3",
           "isWebExtension": true,
@@ -12725,7 +12665,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.7.1",
           "isWebExtension": true,
@@ -12752,7 +12692,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.5",
           "isWebExtension": true,
@@ -12779,20 +12719,20 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
-          "extVersion": "1.10",
+          "extVersion": "1.11",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039528/ollama_summarizer-1.10-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045429/ollama_summarizer-1.11-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.10",
+          "extVersion": "1.11",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039528/ollama_summarizer-1.10-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045429/ollama_summarizer-1.11-tb.xpi?src="
         }
       ],
       "badges": []
@@ -12806,7 +12746,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.1",
           "isWebExtension": true,
@@ -12833,7 +12773,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.6",
           "isWebExtension": true,
@@ -12860,7 +12800,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -12887,7 +12827,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.1",
           "isWebExtension": true,
@@ -12914,7 +12854,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1.6",
           "isWebExtension": true,
@@ -12941,7 +12881,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -12968,7 +12908,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -12987,7 +12927,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.0",
           "isWebExtension": true,
@@ -13014,7 +12954,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.6",
           "isWebExtension": true,
@@ -13041,7 +12981,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -13068,7 +13008,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2",
           "isWebExtension": true,
@@ -13095,7 +13035,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "5.2",
           "isWebExtension": true,
@@ -13122,7 +13062,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -13141,7 +13081,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -13160,7 +13100,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.0.1",
           "isWebExtension": true,
@@ -13187,7 +13127,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -13210,7 +13150,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.4.9",
           "isWebExtension": true,
@@ -13237,7 +13177,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.0.0",
           "isWebExtension": true,
@@ -13264,7 +13204,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.4",
           "isWebExtension": true,
@@ -13291,7 +13231,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -13318,12 +13258,39 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
           "appVersion": "140",
           "type": "current-esr"
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "PerFolderPrefs@kamens.us",
+      "name": "Per Folder Preferences",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "0.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045004/per_folder_preferences-0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045004/per_folder_preferences-0.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13337,7 +13304,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -13356,7 +13323,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.4",
           "isWebExtension": true,
@@ -13383,7 +13350,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.6",
           "isWebExtension": true,
@@ -13410,7 +13377,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -13433,20 +13400,20 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
-          "extVersion": "1.3",
+          "extVersion": "2.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042929/pit_abuse_reporter-1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045461/pit_abuse_reporter-2.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.3",
+          "extVersion": "2.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042929/pit_abuse_reporter-1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045461/pit_abuse_reporter-2.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13460,7 +13427,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.0.13",
           "isWebExtension": true,
@@ -13487,7 +13454,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1.26",
           "isWebExtension": true,
@@ -13514,7 +13481,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.0",
           "isWebExtension": true,
@@ -13541,7 +13508,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.3",
           "isWebExtension": true,
@@ -13568,7 +13535,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.2.1",
           "isWebExtension": true,
@@ -13595,7 +13562,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.0",
           "isWebExtension": true,
@@ -13622,7 +13589,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.3",
           "isWebExtension": true,
@@ -13649,7 +13616,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.6",
           "isWebExtension": true,
@@ -13676,12 +13643,8 @@
       },
       "compat": [
         {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "2.1",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031311/previous_colors-2.1-tb.xpi?src="
+          "appVersion": "149",
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -13703,7 +13666,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.1.11",
           "isWebExtension": true,
@@ -13730,7 +13693,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -13757,7 +13720,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.0",
           "isWebExtension": true,
@@ -13784,7 +13747,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.1",
           "isWebExtension": true,
@@ -13811,7 +13774,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.7",
           "isWebExtension": true,
@@ -13838,7 +13801,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.2.3",
           "isWebExtension": true,
@@ -13865,7 +13828,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3.3.1",
           "isWebExtension": true,
@@ -13892,7 +13855,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.0.11",
           "isWebExtension": true,
@@ -13919,12 +13882,8 @@
       },
       "compat": [
         {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "0.14.17",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044584/qnote-0.14.17-tb.xpi?src="
+          "appVersion": "149",
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -13946,7 +13905,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -13973,7 +13932,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.0.0",
           "isWebExtension": true,
@@ -14000,7 +13959,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.2.0",
           "isWebExtension": true,
@@ -14027,7 +13986,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.6",
           "isWebExtension": true,
@@ -14054,7 +14013,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.5",
           "isWebExtension": true,
@@ -14081,7 +14040,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -14104,7 +14063,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "6.11",
           "isWebExtension": true,
@@ -14131,7 +14090,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "6.15",
           "isWebExtension": true,
@@ -14158,7 +14117,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.3.0",
           "isWebExtension": true,
@@ -14185,7 +14144,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -14212,7 +14171,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "5.1.0",
           "isWebExtension": true,
@@ -14239,7 +14198,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3.1",
           "isWebExtension": true,
@@ -14266,7 +14225,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.3",
           "isWebExtension": true,
@@ -14293,7 +14252,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.5",
           "isWebExtension": true,
@@ -14320,7 +14279,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.3",
           "isWebExtension": true,
@@ -14347,7 +14306,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "37.1",
           "isWebExtension": true,
@@ -14374,7 +14333,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -14401,7 +14360,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.71.0",
           "isWebExtension": true,
@@ -14428,7 +14387,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.6.2",
           "isWebExtension": true,
@@ -14455,7 +14414,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -14478,7 +14437,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -14505,7 +14464,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.2.0",
           "isWebExtension": true,
@@ -14532,7 +14491,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.143.2",
           "isWebExtension": true,
@@ -14559,20 +14518,20 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
-          "extVersion": "1.2.2.155",
+          "extVersion": "1.2.3.159",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044555/regimail-1.2.2.155-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045420/regimail-1.2.3.159-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2.2.155",
+          "extVersion": "1.2.3.159",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044555/regimail-1.2.2.155-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045420/regimail-1.2.3.159-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14586,7 +14545,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.0.68.1",
           "isWebExtension": true,
@@ -14613,7 +14572,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.30",
           "isWebExtension": true,
@@ -14640,7 +14599,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.1.6",
           "isWebExtension": true,
@@ -14667,7 +14626,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -14693,20 +14652,20 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
-          "extVersion": "1.2.3",
+          "extVersion": "1.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042945/render_markdown_messages-1.2.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045464/render_markdown_messages-1.3.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2.3",
+          "extVersion": "1.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042945/render_markdown_messages-1.2.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045464/render_markdown_messages-1.3.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14720,7 +14679,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -14747,7 +14706,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.3",
           "isWebExtension": true,
@@ -14774,7 +14733,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -14801,7 +14760,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.1",
           "isWebExtension": true,
@@ -14828,7 +14787,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.3.1",
           "isWebExtension": true,
@@ -14855,7 +14814,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "7.0",
           "isWebExtension": true,
@@ -14882,7 +14841,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.0.1",
           "isWebExtension": true,
@@ -14909,7 +14868,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "20.1",
           "isWebExtension": true,
@@ -14936,7 +14895,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.7",
           "isWebExtension": true,
@@ -14963,7 +14922,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.4.0",
           "isWebExtension": true,
@@ -14990,7 +14949,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -15013,7 +14972,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.6.0",
           "isWebExtension": true,
@@ -15040,7 +14999,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -15059,7 +15018,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.9.0",
           "isWebExtension": true,
@@ -15086,7 +15045,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.3",
           "isWebExtension": true,
@@ -15113,7 +15072,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -15136,7 +15095,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.0",
           "isWebExtension": true,
@@ -15163,7 +15122,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.5.6",
           "isWebExtension": true,
@@ -15190,7 +15149,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.1",
           "isWebExtension": true,
@@ -15217,7 +15176,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -15244,7 +15203,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.4d",
           "isWebExtension": true,
@@ -15271,7 +15230,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -15298,7 +15257,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.3",
           "isWebExtension": true,
@@ -15325,7 +15284,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.1",
           "isWebExtension": true,
@@ -15352,7 +15311,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.6",
           "isWebExtension": true,
@@ -15379,7 +15338,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.10",
           "isWebExtension": true,
@@ -15406,7 +15365,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.1.0",
           "isWebExtension": true,
@@ -15433,7 +15392,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.7",
           "isWebExtension": true,
@@ -15460,7 +15419,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -15487,7 +15446,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.0.0",
           "isWebExtension": true,
@@ -15514,7 +15473,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.1",
           "isWebExtension": true,
@@ -15533,6 +15492,33 @@
       "badges": []
     },
     {
+      "id": "sec-deadlines-tab@CSendner",
+      "name": "Security Deadlines Tab",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "0.1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045465/security_deadlines_tab-0.1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045465/security_deadlines_tab-0.1.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "SelectInbox@jobisoft.de",
       "name": "Select Inbox on Startup",
       "icons": {
@@ -15541,7 +15527,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.4",
           "isWebExtension": true,
@@ -15568,7 +15554,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.1.1",
           "isWebExtension": true,
@@ -15595,7 +15581,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.7",
           "isWebExtension": true,
@@ -15622,7 +15608,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.4",
           "isWebExtension": true,
@@ -15649,7 +15635,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.2",
           "isWebExtension": true,
@@ -15676,7 +15662,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -15703,7 +15689,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.1.3",
           "isWebExtension": true,
@@ -15730,7 +15716,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -15757,7 +15743,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -15784,7 +15770,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -15810,7 +15796,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "10.7.8",
           "isWebExtension": true,
@@ -15837,7 +15823,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2",
           "isWebExtension": true,
@@ -15860,7 +15846,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "6.4",
           "isWebExtension": true,
@@ -15887,7 +15873,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.0.0",
           "isWebExtension": true,
@@ -15914,7 +15900,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.9",
           "isWebExtension": true,
@@ -15941,7 +15927,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.6",
           "isWebExtension": true,
@@ -15968,7 +15954,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.5",
           "isWebExtension": true,
@@ -15995,7 +15981,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "6.0.0",
           "isWebExtension": true,
@@ -16022,7 +16008,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -16041,12 +16027,12 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
-          "extVersion": "4.2.9",
+          "extVersion": "4.2.8",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044006/signal_spam-4.2.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042897/signal_spam-4.2.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -16068,7 +16054,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.1.1",
           "isWebExtension": true,
@@ -16095,7 +16081,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -16122,7 +16108,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -16149,7 +16135,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.49",
           "isWebExtension": true,
@@ -16176,7 +16162,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.3",
           "isWebExtension": true,
@@ -16203,7 +16189,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -16230,7 +16216,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.3.2",
           "isWebExtension": true,
@@ -16257,7 +16243,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -16276,7 +16262,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -16299,20 +16285,20 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
-          "extVersion": "4.18",
+          "extVersion": "4.18.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044222/smarttemplates-4.18-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045417/smarttemplates-4.18.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.18",
+          "extVersion": "4.18.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044222/smarttemplates-4.18-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045417/smarttemplates-4.18.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -16326,7 +16312,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.0.1",
           "isWebExtension": true,
@@ -16353,12 +16339,12 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
-          "extVersion": "3.3.8",
+          "extVersion": "3.3.7",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044009/spambee-3.3.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042899/spambee-3.3.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -16380,7 +16366,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.0.1",
           "isWebExtension": true,
@@ -16407,7 +16393,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.6.0",
           "isWebExtension": true,
@@ -16434,7 +16420,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.1",
           "isWebExtension": true,
@@ -16461,7 +16447,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.6.4",
           "isWebExtension": true,
@@ -16488,7 +16474,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.7.1",
           "isWebExtension": true,
@@ -16515,16 +16501,16 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "6.1.2",
+          "extVersion": "6.1.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045135/start_with_inbox-6.1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045416/start_with_inbox-6.1.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -16538,7 +16524,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.7.7",
           "isWebExtension": true,
@@ -16565,7 +16551,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -16592,7 +16578,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.22",
           "isWebExtension": true,
@@ -16619,7 +16605,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -16646,7 +16632,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.9",
           "isWebExtension": true,
@@ -16673,7 +16659,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.0.0",
           "isWebExtension": true,
@@ -16700,7 +16686,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2.0",
           "isWebExtension": true,
@@ -16727,7 +16713,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -16754,7 +16740,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.0",
           "isWebExtension": true,
@@ -16781,7 +16767,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.1",
           "isWebExtension": true,
@@ -16808,7 +16794,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1.5",
           "isWebExtension": true,
@@ -16835,7 +16821,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.1.1",
           "isWebExtension": true,
@@ -16862,7 +16848,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.9.8",
           "isWebExtension": true,
@@ -16889,7 +16875,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.6.0",
           "isWebExtension": true,
@@ -16916,7 +16902,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.4.2",
           "isWebExtension": true,
@@ -16943,7 +16929,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -16962,7 +16948,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.4",
           "isWebExtension": true,
@@ -16989,7 +16975,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -17016,7 +17002,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -17035,7 +17021,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -17054,7 +17040,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -17073,7 +17059,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -17092,7 +17078,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -17119,7 +17105,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -17138,7 +17124,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2",
           "isWebExtension": true,
@@ -17165,7 +17151,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -17184,7 +17170,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -17203,7 +17189,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.4.3",
           "isWebExtension": true,
@@ -17230,7 +17216,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.5.1",
           "isWebExtension": true,
@@ -17257,7 +17243,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -17276,7 +17262,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -17299,7 +17285,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.2.1",
           "isWebExtension": true,
@@ -17326,7 +17312,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -17353,7 +17339,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -17380,7 +17366,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -17399,7 +17385,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.31",
           "isWebExtension": true,
@@ -17426,7 +17412,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.0.0",
           "isWebExtension": true,
@@ -17453,7 +17439,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.6.23",
           "isWebExtension": true,
@@ -17480,7 +17466,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "7.2.0",
           "isWebExtension": true,
@@ -17507,7 +17493,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -17533,7 +17519,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.12.4",
           "isWebExtension": true,
@@ -17560,7 +17546,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -17587,7 +17573,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -17614,12 +17600,8 @@
       },
       "compat": [
         {
-          "appVersion": "148",
-          "type": "release",
-          "extVersion": "2.0.0",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044865/thunderai_sparks-2.0.0-tb.xpi?src="
+          "appVersion": "149",
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -17641,20 +17623,20 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
-          "extVersion": "4.0.2",
+          "extVersion": "4.0.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045259/thunderai_chatgpt_gemini_claude_ollama-4.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045449/thunderai_chatgpt_gemini_claude_ollama-4.0.3.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.0.2",
+          "extVersion": "4.0.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045259/thunderai_chatgpt_gemini_claude_ollama-4.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045449/thunderai_chatgpt_gemini_claude_ollama-4.0.3.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17668,7 +17650,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.6",
           "isWebExtension": true,
@@ -17695,7 +17677,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.3.2",
           "isWebExtension": true,
@@ -17722,7 +17704,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -17749,7 +17731,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.0",
           "isWebExtension": true,
@@ -17776,7 +17758,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -17803,7 +17785,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.5",
           "isWebExtension": true,
@@ -17830,7 +17812,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -17857,7 +17839,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.7",
           "isWebExtension": true,
@@ -17884,7 +17866,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -17911,7 +17893,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.2",
           "isWebExtension": true,
@@ -17938,7 +17920,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.5.0",
           "isWebExtension": true,
@@ -17965,7 +17947,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -17992,7 +17974,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2",
           "isWebExtension": true,
@@ -18019,7 +18001,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -18046,7 +18028,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.3",
           "isWebExtension": true,
@@ -18073,7 +18055,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.3",
           "isWebExtension": true,
@@ -18100,7 +18082,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.4.0",
           "isWebExtension": true,
@@ -18127,7 +18109,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.10.8",
           "isWebExtension": true,
@@ -18154,7 +18136,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -18173,7 +18155,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1.0",
           "isWebExtension": true,
@@ -18200,7 +18182,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -18227,7 +18209,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.3.8",
           "isWebExtension": true,
@@ -18254,7 +18236,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.4",
           "isWebExtension": true,
@@ -18281,7 +18263,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -18308,7 +18290,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "7.1.0",
           "isWebExtension": true,
@@ -18335,7 +18317,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.4.0",
           "isWebExtension": true,
@@ -18362,7 +18344,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -18381,7 +18363,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "5.5",
           "isWebExtension": true,
@@ -18408,7 +18390,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.7.1",
           "isWebExtension": true,
@@ -18435,7 +18417,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.6",
           "isWebExtension": true,
@@ -18462,7 +18444,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "34.1",
           "isWebExtension": true,
@@ -18489,7 +18471,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.4.1",
           "isWebExtension": true,
@@ -18516,7 +18498,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2",
           "isWebExtension": true,
@@ -18543,7 +18525,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -18570,7 +18552,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.2",
           "isWebExtension": true,
@@ -18597,7 +18579,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -18624,7 +18606,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2",
           "isWebExtension": true,
@@ -18651,7 +18633,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.9",
           "isWebExtension": true,
@@ -18678,7 +18660,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.5",
           "isWebExtension": true,
@@ -18705,7 +18687,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -18728,7 +18710,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.0",
           "isWebExtension": true,
@@ -18755,7 +18737,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.0.2",
           "isWebExtension": true,
@@ -18782,7 +18764,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.6",
           "isWebExtension": true,
@@ -18809,7 +18791,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.2",
           "isWebExtension": true,
@@ -18832,7 +18814,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.7.18",
           "isWebExtension": true,
@@ -18859,7 +18841,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.1",
           "isWebExtension": true,
@@ -18886,7 +18868,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.2.2",
           "isWebExtension": true,
@@ -18913,7 +18895,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.5",
           "isWebExtension": true,
@@ -18940,7 +18922,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.4",
           "isWebExtension": true,
@@ -18967,7 +18949,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -18986,7 +18968,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.1",
           "isWebExtension": true,
@@ -19013,7 +18995,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -19040,7 +19022,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.4",
           "isWebExtension": true,
@@ -19067,7 +19049,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.1",
           "isWebExtension": true,
@@ -19094,7 +19076,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.1",
           "isWebExtension": true,
@@ -19121,7 +19103,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.69.0.2",
           "isWebExtension": true,
@@ -19148,7 +19130,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.49.2",
           "isWebExtension": true,
@@ -19175,7 +19157,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -19202,7 +19184,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -19229,7 +19211,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.8",
           "isWebExtension": true,
@@ -19256,7 +19238,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "3.1.0",
           "isWebExtension": true,
@@ -19283,7 +19265,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -19307,7 +19289,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.1",
           "isWebExtension": true,
@@ -19334,7 +19316,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.3.1",
           "isWebExtension": true,
@@ -19361,7 +19343,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.2",
           "isWebExtension": true,
@@ -19388,7 +19370,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.3",
           "isWebExtension": true,
@@ -19415,7 +19397,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -19442,20 +19424,20 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
-          "extVersion": "1.0.3",
+          "extVersion": "1.3.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045317/vfs_provider_zugriff_auf_eigene_dateien-1.0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045472/vfs_provider_local_home_folder_access-1.3.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.3",
+          "extVersion": "1.3.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045317/vfs_provider_zugriff_auf_eigene_dateien-1.0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045472/vfs_provider_local_home_folder_access-1.3.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -19469,7 +19451,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.0",
           "isWebExtension": true,
@@ -19496,7 +19478,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.4.2",
           "isWebExtension": true,
@@ -19523,16 +19505,16 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.16",
+          "extVersion": "2.17",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042859/warnattachment-2.16-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045460/warnattachment-2.17-tb.xpi?src="
         }
       ],
       "badges": []
@@ -19546,7 +19528,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.0",
           "isWebExtension": true,
@@ -19573,7 +19555,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -19600,7 +19582,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
@@ -19627,7 +19609,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.0",
           "isWebExtension": true,
@@ -19654,7 +19636,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.0",
           "isWebExtension": true,
@@ -19681,7 +19663,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.4.0",
           "isWebExtension": true,
@@ -19708,20 +19690,20 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
-          "extVersion": "1.2.2",
+          "extVersion": "1.2.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043459/open_by_message_id-1.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045430/open_by_message_id-1.2.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2.2",
+          "extVersion": "1.2.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043459/open_by_message_id-1.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045430/open_by_message_id-1.2.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -19735,7 +19717,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.1",
           "isWebExtension": true,
@@ -19762,7 +19744,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.0.1",
           "isWebExtension": true,
@@ -19789,7 +19771,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1",
           "isWebExtension": true,
@@ -19816,7 +19798,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.1.1",
           "isWebExtension": true,
@@ -19843,7 +19825,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.3",
           "isWebExtension": true,
@@ -19870,7 +19852,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -19897,7 +19879,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.2.1",
           "isWebExtension": true,
@@ -19924,7 +19906,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0",
           "isWebExtension": true,
@@ -19951,7 +19933,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -19976,7 +19958,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release"
         },
         {
@@ -19999,7 +19981,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "2.2",
           "isWebExtension": true,
@@ -20026,7 +20008,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "4.7.7",
           "isWebExtension": true,
@@ -20053,7 +20035,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.7",
           "isWebExtension": true,
@@ -20080,7 +20062,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "0.4.1",
           "isWebExtension": true,
@@ -20107,7 +20089,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.9",
           "isWebExtension": true,
@@ -20134,7 +20116,7 @@
       },
       "compat": [
         {
-          "appVersion": "148",
+          "appVersion": "149",
           "type": "release",
           "extVersion": "1.0.0",
           "isWebExtension": true,
