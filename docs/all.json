@@ -1,5 +1,5 @@
 {
-  "generated": 1774387822458,
+  "generated": 1774474309254,
   "supported_versions": [
     78,
     91,
@@ -1550,6 +1550,33 @@
       "badges": []
     },
     {
+      "id": "{b87af2eb-dd17-4124-8f7e-f338f0a71b28}",
+      "name": "Open in Gmail Web UI",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "0.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044876/open_in_gmail-0.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044876/open_in_gmail-0.0.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "{bf78d95a-70bd-4f42-a244-64ce76fcb43d}",
       "name": "PrioMailbox",
       "icons": {
@@ -1849,6 +1876,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031423/last_selected_message-2.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "{f71a3824-abda-4738-be82-e0ac2cce5f7c}",
+      "name": "Sender Email Utilities",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045469/sender_email_utilities-1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045469/sender_email_utilities-1.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -4134,11 +4188,7 @@
       "compat": [
         {
           "appVersion": "149",
-          "type": "release",
-          "extVersion": "1.0",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1021466/audio_preview-1.0-tb.xpi?src="
+          "type": "release"
         },
         {
           "appVersion": "140",
@@ -4201,6 +4251,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1033577/inoreader_thunderbird_add_on-1.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "author.regex-message-tagger@addons.thunderbird.net",
+      "name": "Regex Message Tagger",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044567/regex_message_tagger-1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044567/regex_message_tagger-1.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -4467,6 +4544,33 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045127/automatic_dictionary-4.13.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "autoordered@local",
+      "name": "AutoOrdered",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "1.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044324/autoordered-1.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044324/autoordered-1.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -5080,6 +5184,33 @@
       "badges": []
     },
     {
+      "id": "bulk-message-filter@thunder",
+      "name": "Bulk Message Filter by safe",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989418-32.png?modified=ff1ad0a7",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989418-64.png?modified=ff1ad0a7"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "5.0.4",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044600/bulk_message_filter_by_safe-5.0.4-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "5.0.4",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044600/bulk_message_filter_by_safe-5.0.4-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "buttons@dillinger",
       "name": "Phoenity Buttons",
       "icons": {
@@ -5364,6 +5495,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035475/catchall_bird-1.2.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "CazAdjuntos@softcoxelsalvador.com",
+      "name": "CazAdjuntos",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989466-32.png?modified=93a145ff",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989466-64.png?modified=93a145ff"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045128/cazadjuntos-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045128/cazadjuntos-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -8003,6 +8161,29 @@
       "badges": []
     },
     {
+      "id": "everforest-night@jarith",
+      "name": "Everforest Night",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989511-32.png?modified=849034e5",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989511-64.png?modified=849034e5"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release"
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "2.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045414/everforest_night-2.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "expand_mailing_lists@davero.addons.mozilla.org",
       "name": "Expand mailing lists",
       "icons": {
@@ -8120,15 +8301,19 @@
       "compat": [
         {
           "appVersion": "149",
-          "type": "release"
+          "type": "release",
+          "extVersion": "149.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045620/exquilla_for_exchange-149.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "148.0",
+          "extVersion": "149.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044051/exquilla_for_exchange-148.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045620/exquilla_for_exchange-149.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -8679,6 +8864,33 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044447/folder_pane_view_switcher-6.1.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "foldersync@thunderbird-addon",
+      "name": "FolderSync",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "0.2.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045409/foldersync-0.2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.2.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045409/foldersync-0.2.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9807,6 +10019,33 @@
       "badges": []
     },
     {
+      "id": "inbox-read-sync@kobayashi-yusuke",
+      "name": "Inbox Read Sync",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045181/box-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045181/box-1.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "inbox-summary@example.com",
       "name": "Thunderbird Assist",
       "icons": {
@@ -10118,6 +10357,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1024121/ios_imap_notes-1.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "it@sfrev.de",
+      "name": "Simple Spoof Detector",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989461-32.png?modified=33bf7ac4",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989461-64.png?modified=33bf7ac4"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "7.9.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045262/simple_spoof_detector-7.9.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "7.9.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045262/simple_spoof_detector-7.9.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10955,6 +11221,33 @@
       "badges": []
     },
     {
+      "id": "local-to-imap-migrator@thunderbird-extension",
+      "name": "IMAP Migrator",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989413-32.png?modified=010703f4",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989413-64.png?modified=010703f4"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044579/imap_migrator-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044579/imap_migrator-1.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "localfolder@philoux.eu",
       "name": "LocalFolders",
       "icons": {
@@ -11154,6 +11447,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040308/email_assistant-1.0.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "mail-auth-info-viewer@precure.tv",
+      "name": "Mail Auth Info Viewer",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989409-32.png?modified=91357a86",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989409-64.png?modified=91357a86"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "1.1.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045466/mailauthinfoviewer-1.1.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.1.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045466/mailauthinfoviewer-1.1.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11639,10 +11959,10 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "2.2.0",
+          "extVersion": "2.3.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042407/mass_emailer-2.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045307/mass_emailer-2.3.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -13392,6 +13712,33 @@
       "badges": []
     },
     {
+      "id": "pinned-panel@marco-local",
+      "name": "Pinned Panel",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989463-32.png?modified=a44b5aeb",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989463-64.png?modified=a44b5aeb"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "1.6",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045132/pinned_panel-1.6-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.6",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045132/pinned_panel-1.6-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "pit-abuse-reporter@puntoit.cz",
       "name": "PIT Abuse Reporter",
       "icons": {
@@ -14266,6 +14613,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039540/toggle_quotes_collapse_quotes-4.5-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "qwkening@example.com",
+      "name": "QWKening",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989465-32.png?modified=19207186",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989465-64.png?modified=19207186"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "0.1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045124/qwkening-0.1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045124/qwkening-0.1.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -15357,6 +15731,33 @@
       "badges": []
     },
     {
+      "id": "sd-alert-builder@i2cinc.com",
+      "name": "Auto Alert builder",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989369-32.png?modified=38d823f1",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989369-64.png?modified=38d823f1"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "0.5.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044337/auto_alert_builder-0.5.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.5.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044337/auto_alert_builder-0.5.2-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "se@ms",
       "name": "Seams",
       "icons": {
@@ -15919,6 +16320,33 @@
       "badges": []
     },
     {
+      "id": "show-link-href@example.com",
+      "name": "Show Link Href",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044960/show_link_href-1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044960/show_link_href-1.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "showInOut@ggbs.de",
       "name": "Show InOut",
       "icons": {
@@ -16235,6 +16663,33 @@
       "badges": []
     },
     {
+      "id": "smart-sender@thunderbird.addon",
+      "name": "Smart Sender",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989407-32.png?modified=fcb147ca",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989407-64.png?modified=fcb147ca"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044561/smart_sender-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044561/smart_sender-1.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "smartcompose@fra-uas.de",
       "name": "smartCompose",
       "icons": {
@@ -16263,7 +16718,11 @@
       "compat": [
         {
           "appVersion": "149",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039415/smart_quotes-1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -16326,6 +16785,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1018022/smileyfixer-2.0.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "spam-trash-cleaner@giako",
+      "name": "Spam & Trash Cleaner",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989460-32.png?modified=0510ab49",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989460-64.png?modified=0510ab49"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "4.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045037/spam_trash_cleaner-4.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "4.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045037/spam_trash_cleaner-4.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -16494,15 +16980,19 @@
     },
     {
       "id": "Startup@pharqcon.com",
-      "name": "Start with Inbox",
+      "name": "Startpoint Manager",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988215-32.png?modified=2d4af44d",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988215-64.png?modified=2d4af44d"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988215-32.png?modified=af49f49c",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988215-64.png?modified=af49f49c"
       },
       "compat": [
         {
           "appVersion": "149",
-          "type": "release"
+          "type": "release",
+          "extVersion": "7.0.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045622/startpoint_manager-7.0.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -16565,6 +17055,29 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042508/templates_reply-1.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "StopPhishingMe@icloud.com",
+      "name": "Stop Phishing Me!",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989375-32.png?modified=01c0fe1a",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989375-64.png?modified=01c0fe1a"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release"
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044431/stop_phishing_me-1.0.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17592,6 +18105,29 @@
       "badges": []
     },
     {
+      "id": "thunder-org-protocol@anq.fr",
+      "name": "Thunder Org Protocol",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989516-32.png?modified=c3967f15",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989516-64.png?modified=c3967f15"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045451/thunder_org_protocol-1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr"
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "thunderai-sparks@micz.it",
       "name": "ThunderAI Sparks",
       "icons": {
@@ -17601,7 +18137,11 @@
       "compat": [
         {
           "appVersion": "149",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.0.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044865/thunderai_sparks-2.0.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -18211,18 +18751,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "2.3.8",
+          "extVersion": "2.4.0.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043567/thunderstats_your_thunderbird_statistics-2.3.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045616/thunderstats_your_thunderbird_statistics-2.4.0.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.3.8",
+          "extVersion": "2.4.0.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043567/thunderstats_your_thunderbird_statistics-2.3.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045616/thunderstats_your_thunderbird_statistics-2.4.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -19281,6 +19821,33 @@
       "badges": []
     },
     {
+      "id": "unreadtracker@janpettersson.com",
+      "name": "Unread Tracker",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "1.3.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045412/unread_tracker-1.3.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.3.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045412/unread_tracker-1.3.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "unsubscribe@fra-uas.de",
       "name": "Unsubscribe",
       "icons": {
@@ -19968,33 +20535,6 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043132/openpgp_alias_updater-0.6-tb.xpi?src="
-        }
-      ],
-      "badges": []
-    },
-    {
-      "id": "xmha97@gmail.com",
-      "name": "KeepRunning",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988057-32.png?modified=572b1326",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988057-64.png?modified=572b1326"
-      },
-      "compat": [
-        {
-          "appVersion": "149",
-          "type": "release",
-          "extVersion": "2.2",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1018570/keeprunning-2.2-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "2.2",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1018570/keeprunning-2.2-tb.xpi?src="
         }
       ],
       "badges": []
