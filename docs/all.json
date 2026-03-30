@@ -1,5 +1,5 @@
 {
-  "generated": 1774833056601,
+  "generated": 1774906447625,
   "supported_versions": [
     78,
     91,
@@ -5381,6 +5381,33 @@
       "badges": []
     },
     {
+      "id": "buttons@dillinger",
+      "name": "Phoenity Buttons",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/12/12802-32.png?modified=1687010053",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/12/12802-64.png?modified=1687010053"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "5.4",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045744/phoenity_buttons-5.4-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "5.4",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045744/phoenity_buttons-5.4-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "buxarnet@yandex.com",
       "name": "BuxarTranslate",
       "icons": {
@@ -5418,18 +5445,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "0.5.14",
+          "extVersion": "0.5.15",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045185/byo_ai_grammar-0.5.14-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045801/byo_ai_grammar-0.5.15-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.5.14",
+          "extVersion": "0.5.15",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045185/byo_ai_grammar-0.5.14-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045801/byo_ai_grammar-0.5.15-tb.xpi?src="
         }
       ],
       "badges": []
@@ -8682,6 +8709,33 @@
       "badges": []
     },
     {
+      "id": "favoritefolders@jolter.it",
+      "name": "Favorite Folders+",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989538-32.png?modified=2860c4b1",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989538-64.png?modified=2860c4b1"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "1.5.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045757/favorite_folders-1.5.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.5.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045757/favorite_folders-1.5.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "fifotofa@silverpigeon.jp",
       "name": "Filtered Folder to Favorite",
       "icons": {
@@ -8750,6 +8804,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1020095/seafile_filelink-1.0.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "filemail@bernd.brot",
+      "name": "filemail",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "0.7.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1022216/filemail-0.7.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.7.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1022216/filemail-0.7.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9026,10 +9107,10 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "6.1.2",
+          "extVersion": "6.1.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042898/folder_pane_view_switcher-6.1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044447/folder_pane_view_switcher-6.1.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -9377,18 +9458,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "2026.3.4",
+          "extVersion": "2026.3.30",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045038/gemini-2026.3.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045786/gemini-2026.3.30-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2026.3.4",
+          "extVersion": "2026.3.30",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045038/gemini-2026.3.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045786/gemini-2026.3.30-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10781,18 +10862,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "1.5.0",
+          "extVersion": "1.6.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045774/jpg_attacher-1.5.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045788/jpg_attacher-1.6.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.5.0",
+          "extVersion": "1.6.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045774/jpg_attacher-1.5.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045788/jpg_attacher-1.6.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11448,6 +11529,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044579/imap_migrator-1.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "localfolder@philoux.eu",
+      "name": "LocalFolders",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/90/90003-32.png?modified=23d22229",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/90/90003-64.png?modified=23d22229"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "4.2.5",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045337/localfolders-4.2.5-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "4.2.5",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045337/localfolders-4.2.5-tb.xpi?src="
         }
       ],
       "badges": []
@@ -16697,10 +16805,10 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "4.2.8",
+          "extVersion": "4.2.9",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042897/signal_spam-4.2.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044006/signal_spam-4.2.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -17094,10 +17202,10 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "3.3.7",
+          "extVersion": "3.3.8",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042899/spambee-3.3.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044009/spambee-3.3.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -18002,18 +18110,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "1.5.1",
+          "extVersion": "1.6.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045035/thunderbird_pro-1.5.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045773/thunderbird_pro-1.6.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.5.1",
+          "extVersion": "1.6.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045035/thunderbird_pro-1.5.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045773/thunderbird_pro-1.6.2-tb.xpi?src="
         }
       ],
       "badges": []
