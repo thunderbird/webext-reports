@@ -1,5 +1,5 @@
 {
-  "generated": 1775079274683,
+  "generated": 1775165395380,
   "supported_versions": [
     78,
     91,
@@ -5723,6 +5723,29 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039849/cb_thunderlink-1.9.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "cccaaant@gmail.com",
+      "name": "MAC Vendor Lookup",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045830/mac_vendor_lookup-1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr"
         }
       ],
       "badges": []
@@ -19761,7 +19784,7 @@
     },
     {
       "id": "topic-tree@opto-one",
-      "name": "Topic Tree /  Notebook and Wiki in TB",
+      "name": "Topic Tree: Notebook, Wiki, Bookmarks",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988255-32.png?modified=ac2011a3",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988255-64.png?modified=ac2011a3"
