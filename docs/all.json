@@ -1,5 +1,5 @@
 {
-  "generated": 1775165395380,
+  "generated": 1775251740158,
   "supported_versions": [
     78,
     91,
@@ -5728,6 +5728,33 @@
       "badges": []
     },
     {
+      "id": "ccaaant@gmail.com",
+      "name": "AI Mail Refiner | Gemini",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/search-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/search-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045908/pro_text_editor-1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045908/pro_text_editor-1.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "cccaaant@gmail.com",
       "name": "MAC Vendor Lookup",
       "icons": {
@@ -5738,14 +5765,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "1.0",
+          "extVersion": "1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045830/mac_vendor_lookup-1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045905/mac_vendor_lookup-1.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "current-esr"
+          "type": "current-esr",
+          "extVersion": "1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045905/mac_vendor_lookup-1.1-tb.xpi?src="
         }
       ],
       "badges": []
