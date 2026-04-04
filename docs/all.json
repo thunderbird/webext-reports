@@ -1,5 +1,5 @@
 {
-  "generated": 1775251740158,
+  "generated": 1775338016445,
   "supported_versions": [
     78,
     91,
@@ -7353,8 +7353,8 @@
       "id": "DisplayMailUserAgent-T@Toshi_",
       "name": "Display Mail User Agent T",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987719-32.png?modified=d1bef206",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987719-64.png?modified=d1bef206"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987719-32.png?modified=3ab0d3bf",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987719-64.png?modified=3ab0d3bf"
       },
       "compat": [
         {
