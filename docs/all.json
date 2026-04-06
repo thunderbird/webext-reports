@@ -1,5 +1,5 @@
 {
-  "generated": 1775338016445,
+  "generated": 1775511047327,
   "supported_versions": [
     78,
     91,
@@ -8374,6 +8374,33 @@
       "badges": []
     },
     {
+      "id": "epubninja-thunderbird@epubninja.app",
+      "name": "EPUB Ninja - eBook Reader",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989562-32.png?modified=bc45c675",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989562-64.png?modified=bc45c675"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045992/epub_ninja_ebook_reader-1.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045992/epub_ninja_ebook_reader-1.0.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "erikraft43@gmail.com",
       "name": "ErikrafT Drop",
       "icons": {
@@ -8561,18 +8588,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "4.7.12",
+          "extVersion": "4.8.34",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043926/expression_power_messagecalendar_search_ng-4.7.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045921/expression_power_messagecalendar_search_ng-4.8.34-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.7.12",
+          "extVersion": "4.8.34",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043926/expression_power_messagecalendar_search_ng-4.7.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045921/expression_power_messagecalendar_search_ng-4.8.34-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11679,10 +11706,10 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "0.16",
+          "extVersion": "0.17",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045139/calendar_event_from_email_with_date_detection-0.16-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045783/calendar_event_from_email_with_date_detection-0.17-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -15847,25 +15874,25 @@
       "id": "rssninja@rssninja.app",
       "name": "RSS Ninja",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989449-32.png?modified=c4266b38",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989449-64.png?modified=c4266b38"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989449-32.png?modified=75a318d6",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989449-64.png?modified=75a318d6"
       },
       "compat": [
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "1.0.3",
+          "extVersion": "1.0.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044984/rss_ninja-1.0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045993/rss_ninja-1.0.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.3",
+          "extVersion": "1.0.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044984/rss_ninja-1.0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045993/rss_ninja-1.0.4-tb.xpi?src="
         }
       ],
       "badges": []
