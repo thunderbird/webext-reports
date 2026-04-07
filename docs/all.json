@@ -1,5 +1,5 @@
 {
-  "generated": 1775511047327,
+  "generated": 1775597735554,
   "supported_versions": [
     78,
     91,
@@ -4213,18 +4213,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "2.1.21",
+          "extVersion": "2.1.22",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045794/att_hub-2.1.21-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045901/att_hub-2.1.22-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.1.21",
+          "extVersion": "2.1.22",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045794/att_hub-2.1.21-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045901/att_hub-2.1.22-tb.xpi?src="
         }
       ],
       "badges": []
@@ -4282,18 +4282,14 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "1.0",
+          "extVersion": "1.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045184/attachment_grabber-1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045997/attachment_grabber_bulk_save-1.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "1.0",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045184/attachment_grabber-1.0-tb.xpi?src="
+          "type": "current-esr"
         }
       ],
       "badges": []
@@ -4706,18 +4702,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "1.4.2",
+          "extVersion": "1.4.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045725/automention-1.4.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045909/automention-1.4.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.4.2",
+          "extVersion": "1.4.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045725/automention-1.4.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045909/automention-1.4.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -5684,18 +5680,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "1.0.2",
+          "extVersion": "1.0.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045704/cazadjuntos-1.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045821/cazadjuntos-1.0.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.2",
+          "extVersion": "1.0.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045704/cazadjuntos-1.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045821/cazadjuntos-1.0.4-tb.xpi?src="
         }
       ],
       "badges": []
@@ -5977,18 +5973,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "0.3.3",
+          "extVersion": "0.3.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041378/addon-0.3.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045910/addon-0.3.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.3.3",
+          "extVersion": "0.3.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041378/addon-0.3.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045910/addon-0.3.4-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10373,18 +10369,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "0.1.4",
+          "extVersion": "0.1.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044428/inboxai-0.1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045827/inboxai-0.1.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.1.4",
+          "extVersion": "0.1.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044428/inboxai-0.1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045827/inboxai-0.1.5-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13474,18 +13470,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "1.11",
+          "extVersion": "1.12",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045429/ollama_summarizer-1.11-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045920/ollama_summarizer-1.12-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.11",
+          "extVersion": "1.12",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045429/ollama_summarizer-1.11-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045920/ollama_summarizer-1.12-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14690,15 +14686,19 @@
       "compat": [
         {
           "appVersion": "149",
-          "type": "release"
+          "type": "release",
+          "extVersion": "0.14.18",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045766/qnote-0.14.18-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.14.17",
+          "extVersion": "0.14.18",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044584/qnote-0.14.17-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045766/qnote-0.14.18-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14872,18 +14872,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "6.11",
+          "extVersion": "6.12.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044211/quickfilters-6.11-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045995/quickfilters-6.12.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "6.11",
+          "extVersion": "6.12.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044211/quickfilters-6.11-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045995/quickfilters-6.12.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17052,18 +17052,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "1.49",
+          "extVersion": "1.53",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039836/simple_mail_redirection-1.49-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045831/simple_mail_redirection-1.53-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.49",
+          "extVersion": "1.53",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039836/simple_mail_redirection-1.49-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045831/simple_mail_redirection-1.53-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17557,18 +17557,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "1.1.0",
+          "extVersion": "1.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045721/stop_phishing_me-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045919/stop_phishing_me-1.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.0",
+          "extVersion": "1.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045721/stop_phishing_me-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045919/stop_phishing_me-1.2.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -18633,18 +18633,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "4.0.3.0",
+          "extVersion": "4.0.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045449/thunderai_chatgpt_gemini_claude_ollama-4.0.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045823/thunderai_chatgpt_gemini_claude_ollama-4.0.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.0.3.0",
+          "extVersion": "4.0.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045449/thunderai_chatgpt_gemini_claude_ollama-4.0.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045823/thunderai_chatgpt_gemini_claude_ollama-4.0.6-tb.xpi?src="
         }
       ],
       "badges": []
@@ -19400,18 +19400,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "5.5",
+          "extVersion": "5.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044978/tidybird-5.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045994/tidybird-5.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "5.5",
+          "extVersion": "5.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044978/tidybird-5.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045994/tidybird-5.6-tb.xpi?src="
         }
       ],
       "badges": []
@@ -20140,18 +20140,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "1.69.0.2",
+          "extVersion": "1.70.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045273/ublock_origin-1.69.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045998/ubird-1.70.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.69.0.2",
+          "extVersion": "1.70.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045273/ublock_origin-1.69.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045998/ubird-1.70.0-tb.xpi?src="
         }
       ],
       "badges": []
