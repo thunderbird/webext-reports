@@ -1,5 +1,5 @@
 {
-  "generated": 1775597735554,
+  "generated": 1775684141542,
   "supported_versions": [
     78,
     91,
@@ -4678,7 +4678,11 @@
       "compat": [
         {
           "appVersion": "149",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.13.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045127/automatic_dictionary-4.13.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -13940,6 +13944,33 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045258/eule_fur_exchange-1.4.9-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "parashare-filelink@paramant.app",
+      "name": "ParaShare FileLink",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046011/parashare_filelink-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046011/parashare_filelink-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
