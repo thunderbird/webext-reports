@@ -1,5 +1,5 @@
 {
-  "generated": 1775684141542,
+  "generated": 1775770503777,
   "supported_versions": [
     78,
     91,
@@ -6135,18 +6135,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "7.1.5",
+          "extVersion": "7.1.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045167/clippings_for_thunderbird-7.1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046013/clippings_for_thunderbird-7.1.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "7.1.5",
+          "extVersion": "7.1.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045167/clippings_for_thunderbird-7.1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046013/clippings_for_thunderbird-7.1.6-tb.xpi?src="
         }
       ],
       "badges": []
@@ -6698,8 +6698,8 @@
       "id": "copysent2current@ggbs.de",
       "name": "Copy Sent to Current",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/2/2561-32.png?modified=1772739562",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/2/2561-64.png?modified=1772739562"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/2/2561-32.png?modified=1775742041",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/2/2561-64.png?modified=1775742041"
       },
       "compat": [
         {
