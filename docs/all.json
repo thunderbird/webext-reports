@@ -1,5 +1,5 @@
 {
-  "generated": 1776202611291,
+  "generated": 1776289024851,
   "supported_versions": [
     78,
     91,
@@ -20612,6 +20612,25 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045460/warnattachment-2.17-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "washibird@psychosomat.dev",
+      "name": "WashiBird",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989589-32.png?modified=f269a1f8",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989589-64.png?modified=f269a1f8"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release"
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr"
         }
       ],
       "badges": []
