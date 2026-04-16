@@ -1,5 +1,5 @@
 {
-  "generated": 1776289024851,
+  "generated": 1776375290875,
   "supported_versions": [
     78,
     91,
@@ -14,25 +14,25 @@
       "id": "{001f6fd1-1afd-4928-a95e-f92c70563643}",
       "name": "Have I Been Pwned? - Easy Reach",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988858-32.png?modified=5fae5051",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988858-64.png?modified=5fae5051"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988858-32.png?modified=e8e76864",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988858-64.png?modified=e8e76864"
       },
       "compat": [
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "1.0.0",
+          "extVersion": "1.0.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035701/have_i_been_pwned_easy_reach-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046201/have_i_been_pwned_easy_reach-1.0.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.0",
+          "extVersion": "1.0.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035701/have_i_been_pwned_easy_reach-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046201/have_i_been_pwned_easy_reach-1.0.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -603,10 +603,10 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "1.0",
+          "extVersion": "1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1021608/proton_mail_toolbar_button-1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046213/proton_mail_toolbar_button-1.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -13036,6 +13036,33 @@
       "badges": []
     },
     {
+      "id": "nestorai@local",
+      "name": "NestorAI",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989592-32.png?modified=7ddb401b",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989592-64.png?modified=7ddb401b"
+      },
+      "compat": [
+        {
+          "appVersion": "149",
+          "type": "release",
+          "extVersion": "0.8.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046199/nestorai-0.8.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.8.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046199/nestorai-0.8.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "netiquette@duboin.fr",
       "name": "Netiquette Checker",
       "icons": {
@@ -18257,18 +18284,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "1.7.0",
+          "extVersion": "1.7.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045819/thunderbird_pro-1.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046211/thunderbird_pro-1.7.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.7.0",
+          "extVersion": "1.7.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045819/thunderbird_pro-1.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046211/thunderbird_pro-1.7.2-tb.xpi?src="
         }
       ],
       "badges": []
