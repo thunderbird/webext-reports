@@ -1,5 +1,5 @@
 {
-  "generated": 1776547891747,
+  "generated": 1776634199674,
   "supported_versions": [
     78,
     91,
@@ -94,18 +94,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "1.3.1",
+          "extVersion": "1.3.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045471/vfs_provider_webdav-1.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046239/vfs_provider_webdav-1.3.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.3.1",
+          "extVersion": "1.3.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045471/vfs_provider_webdav-1.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046239/vfs_provider_webdav-1.3.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -20577,18 +20577,18 @@
         {
           "appVersion": "149",
           "type": "release",
-          "extVersion": "1.3.2",
+          "extVersion": "1.3.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045736/vfs_provider_zugriff_auf_eigene_dateien-1.3.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046240/vfs_provider_zugriff_auf_eigene_dateien-1.3.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.3.2",
+          "extVersion": "1.3.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045736/vfs_provider_zugriff_auf_eigene_dateien-1.3.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046240/vfs_provider_zugriff_auf_eigene_dateien-1.3.4-tb.xpi?src="
         }
       ],
       "badges": []
