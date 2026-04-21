@@ -1803,7 +1803,7 @@
     "989005-jb14.googledrive@qa-google-drive-quick-access",
     "989011-contact@seecret.it-seecret-it-sender",
     "989012-me@shiquda.link-thunderbird-vericode",
-    "989013-paste-file-as-attachments@simple.addons-paste-file-as-attachments",
+    "989013-paste-file-as-attachments@simple.addons-paste-file-as-attachment",
     "989017-Sage@facilit-info.fr-sage",
     "989020-pspz123456789@gmail.com-phishnet",
     "989021-opendetachedattachments@ggbs.de-opendetachedattachments",
@@ -2008,6 +2008,7 @@
     "989592-nestorai@local-nestorai",
     "989607-quote-without@addons.thunderbird.net-quote-without",
     "989611-psitransfer-filelink@example.invalid-psitransfer-filelink",
+    "989617-attachment-optimizer@muchaelectric-attachment-optimizer",
     "9956-tonequilla@mesquilla.com-tonequilla",
     "9995-emailcrawler@torge.kummerow-email-address-crawler"
 ]
