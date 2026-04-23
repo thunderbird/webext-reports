@@ -1,5 +1,5 @@
 {
-  "generated": 1776893872664,
+  "generated": 1776980043985,
   "supported_versions": [
     78,
     91,
@@ -857,6 +857,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1018852/add_contact_to_cc_by_mentioning_in_body_with-0.6.4-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "{5cfc3cb9-5d81-41cc-a34b-1f420765e4eb}",
+      "name": "SoundMail",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989608-32.png?modified=d171ac2e",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989608-64.png?modified=d171ac2e"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046247/soundmail-1.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046247/soundmail-1.0.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -3335,6 +3362,33 @@
       "badges": []
     },
     {
+      "id": "addons.webextension.thunderbird-kim-plugin@gematik.de",
+      "name": "KIM Attachment Search",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989588-32.png?modified=065f095c",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989588-64.png?modified=065f095c"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "1.0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046416/kim_attachment_search-1.0.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046416/kim_attachment_search-1.0.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "addressbookssync@ggbs.de",
       "name": "Addressbooks Synchronizer",
       "icons": {
@@ -5625,15 +5679,19 @@
       "compat": [
         {
           "appVersion": "150",
-          "type": "release"
+          "type": "release",
+          "extVersion": "105.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046424/cardbook-105.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "105.1",
+          "extVersion": "105.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046252/cardbook-105.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046424/cardbook-105.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -7541,18 +7599,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "1.10.2",
+          "extVersion": "1.11.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042938/dolibarr_connector-1.10.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046417/dolibarr_connector-1.11.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.10.2",
+          "extVersion": "1.11.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042938/dolibarr_connector-1.10.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046417/dolibarr_connector-1.11.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -8607,10 +8665,10 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "4.8.34",
+          "extVersion": "4.8.39",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045921/expression_power_messagecalendar_search_ng-4.8.34-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046334/expression_power_messagecalendar_search_ng-4.8.39-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -15869,18 +15927,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "1.4.0",
+          "extVersion": "1.5.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045328/retention_policy-1.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046420/retention_policy-1.5.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.4.0",
+          "extVersion": "1.5.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045328/retention_policy-1.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046420/retention_policy-1.5.4-tb.xpi?src="
         }
       ],
       "badges": []
@@ -18301,7 +18359,11 @@
       "compat": [
         {
           "appVersion": "150",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044591/tbkeys_lite-2.4.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -19222,18 +19284,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "1.1.0",
+          "extVersion": "1.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045423/thunderjira-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046410/thunderjira-1.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.0",
+          "extVersion": "1.2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045423/thunderjira-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046410/thunderjira-1.2.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -21170,7 +21232,11 @@
       "compat": [
         {
           "appVersion": "150",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.7.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044715/xnote-4.7.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
