@@ -1,5 +1,5 @@
 {
-  "generated": 1776980043985,
+  "generated": 1777066637297,
   "supported_versions": [
     78,
     91,
@@ -467,15 +467,19 @@
       "compat": [
         {
           "appVersion": "150",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.1.12",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046432/no_tabs-1.1.12-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.11",
+          "extVersion": "1.1.12",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045740/no_tabs-1.1.11-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046432/no_tabs-1.1.12-tb.xpi?src="
         }
       ],
       "badges": []
@@ -1429,18 +1433,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "0.6.4",
+          "extVersion": "0.6.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042514/remove_duplicate_messages-0.6.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046495/remove_duplicate_messages-0.6.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.6.4",
+          "extVersion": "0.6.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042514/remove_duplicate_messages-0.6.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046495/remove_duplicate_messages-0.6.6-tb.xpi?src="
         }
       ],
       "badges": []
@@ -6293,18 +6297,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "3.12",
+          "extVersion": "3.13",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044001/clear_history_button-3.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046431/clear_history_button-3.13-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.12",
+          "extVersion": "3.13",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044001/clear_history_button-3.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046431/clear_history_button-3.13-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11012,18 +11016,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "1.6.1",
+          "extVersion": "2.0.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045788/jpg_attacher-1.6.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046504/jpg_attacher-2.0.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.6.1",
+          "extVersion": "2.0.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045788/jpg_attacher-1.6.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046504/jpg_attacher-2.0.4-tb.xpi?src="
         }
       ],
       "badges": []
