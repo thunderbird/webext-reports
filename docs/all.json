@@ -1,5 +1,5 @@
 {
-  "generated": 1777066637297,
+  "generated": 1777152615263,
   "supported_versions": [
     78,
     91,
@@ -12823,6 +12823,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041052/thunderbird-1.2.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "mlux@undisclose.de",
+      "name": "mleak - mail metadata osint",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989618-32.png?modified=388172d5",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989618-64.png?modified=388172d5"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "0.5.9",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046433/mleak_mail_leak_detektor-0.5.9-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.5.9",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046433/mleak_mail_leak_detektor-0.5.9-tb.xpi?src="
         }
       ],
       "badges": []
