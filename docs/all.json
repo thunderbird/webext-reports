@@ -1,5 +1,5 @@
 {
-  "generated": 1777152615263,
+  "generated": 1777238984116,
   "supported_versions": [
     78,
     91,
@@ -11016,18 +11016,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "2.0.4",
+          "extVersion": "2.0.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046504/jpg_attacher-2.0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046512/jpg_attacher-2.0.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.0.4",
+          "extVersion": "2.0.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046504/jpg_attacher-2.0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046512/jpg_attacher-2.0.5-tb.xpi?src="
         }
       ],
       "badges": []
