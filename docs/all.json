@@ -1,5 +1,5 @@
 {
-  "generated": 1777238984116,
+  "generated": 1777326121293,
   "supported_versions": [
     78,
     91,
@@ -4263,18 +4263,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "2.2.3",
+          "extVersion": "2.2.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046224/att_hub-2.2.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046516/att_hub-2.2.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.2.3",
+          "extVersion": "2.2.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046224/att_hub-2.2.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046516/att_hub-2.2.4-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9196,18 +9196,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "4.2.8",
+          "extVersion": "4.2.11",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042546/flexconfirmmail-4.2.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046503/flexconfirmmail-4.2.11-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.2.8",
+          "extVersion": "4.2.11",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042546/flexconfirmmail-4.2.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046503/flexconfirmmail-4.2.11-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17429,18 +17429,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "4.18.2",
+          "extVersion": "4.19",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045799/smarttemplates-4.18.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046429/smarttemplates-4.19-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.18.2",
+          "extVersion": "4.19",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045799/smarttemplates-4.18.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046429/smarttemplates-4.19-tb.xpi?src="
         }
       ],
       "badges": []
