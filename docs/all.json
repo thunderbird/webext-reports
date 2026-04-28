@@ -1,5 +1,5 @@
 {
-  "generated": 1777326121293,
+  "generated": 1777412511358,
   "supported_versions": [
     78,
     91,
@@ -630,18 +630,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "2.8.0",
+          "extVersion": "2.9.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044595/betterunsubscribe-2.8.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046526/betterunsubscribe-2.9.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.8.0",
+          "extVersion": "2.9.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044595/betterunsubscribe-2.8.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046526/betterunsubscribe-2.9.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -7842,10 +7842,10 @@
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.17",
+          "extVersion": "4.18",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040394/provider_fur_exchange_activesync-4.17-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046520/provider_fur_exchange_activesync-4.18-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9039,10 +9039,10 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "2.0.5",
+          "extVersion": "2.0.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031656/filter_button-2.0.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046529/filter_button-2.0.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -11783,10 +11783,10 @@
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.18",
+          "extVersion": "0.19",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045991/calendar_event_from_email_with_date_detection-0.18-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046514/calendar_event_from_email_with_date_detection-0.19-tb.xpi?src="
         }
       ],
       "badges": []
@@ -12207,6 +12207,33 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042430/mailnotes_team_up-2.2-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "mailstone-thunderbird@mailstone.io",
+      "name": "MailStone for Thunderbird",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "1.0.6",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046530/mailstone_pour_thunderbird-1.0.6-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.6",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046530/mailstone_pour_thunderbird-1.0.6-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13376,7 +13403,11 @@
       "compat": [
         {
           "appVersion": "150",
-          "type": "release"
+          "type": "release",
+          "extVersion": "5.0.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043785/nostalgy_emails_verwalten_suchen_archivieren-5.0.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -18418,18 +18449,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "1.7.3",
+          "extVersion": "1.7.5",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046333/thunderbird_pro-1.7.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046523/thunderbird_pro-1.7.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.7.3",
+          "extVersion": "1.7.5",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046333/thunderbird_pro-1.7.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046523/thunderbird_pro-1.7.5-tb.xpi?src="
         }
       ],
       "badges": []
