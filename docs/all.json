@@ -1,5 +1,5 @@
 {
-  "generated": 1777498984859,
+  "generated": 1777585255206,
   "supported_versions": [
     78,
     91,
@@ -11043,18 +11043,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "2.0.5",
+          "extVersion": "2.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046512/jpg_attacher-2.0.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046612/jpg_attacher-2.1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.0.5",
+          "extVersion": "2.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046512/jpg_attacher-2.0.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046612/jpg_attacher-2.1.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -18753,18 +18753,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "7.2.0",
+          "extVersion": "7.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044189/textmarker-7.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046611/textmarker-7.3.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "7.2.0",
+          "extVersion": "7.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044189/textmarker-7.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046611/textmarker-7.3.0-tb.xpi?src="
         }
       ],
       "badges": []
