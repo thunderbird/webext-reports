@@ -1,5 +1,5 @@
 {
-  "generated": 1777671447012,
+  "generated": 1777757659828,
   "supported_versions": [
     78,
     91,
@@ -11683,6 +11683,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030893/ai_grammar-2-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "llm-chat-cleaner@muzammil.work",
+      "name": "LLM Chat Cleaner",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989641-32.png?modified=fddccbd3",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989641-64.png?modified=fddccbd3"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "0.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046628/llm_chat_cleaner-0.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046628/llm_chat_cleaner-0.0.1-tb.xpi?src="
         }
       ],
       "badges": []
