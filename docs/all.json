@@ -1,5 +1,5 @@
 {
-  "generated": 1777757659828,
+  "generated": 1777843996648,
   "supported_versions": [
     78,
     91,
@@ -11043,18 +11043,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "2.1.0",
+          "extVersion": "2.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046612/jpg_attacher-2.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046638/jpg_attacher-2.1.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.1.0",
+          "extVersion": "2.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046612/jpg_attacher-2.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046638/jpg_attacher-2.1.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -15389,6 +15389,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046091/qwkening-0.1.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "radio-thunder@dooberman",
+      "name": "Radio Thunder",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046636/radio_thunder-1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046636/radio_thunder-1.0-tb.xpi?src="
         }
       ],
       "badges": []
