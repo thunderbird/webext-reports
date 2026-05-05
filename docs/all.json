@@ -1,5 +1,5 @@
 {
-  "generated": 1777930931578,
+  "generated": 1778017350287,
   "supported_versions": [
     78,
     91,
@@ -690,15 +690,19 @@
       "compat": [
         {
           "appVersion": "150",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.1.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046668/nc_connector_for_thunderbird-3.1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.0.2",
+          "extVersion": "3.1.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046002/nc_connector_for_thunderbird-3.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046668/nc_connector_for_thunderbird-3.1.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -4254,7 +4258,7 @@
     },
     {
       "id": "att-hub@thrilldroid",
-      "name": "Att-Hub",
+      "name": "Att-Hub - the attachment view & managing tool",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989482-32.png?modified=94e73a62",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989482-64.png?modified=94e73a62"
@@ -11034,7 +11038,7 @@
     },
     {
       "id": "jpg-attacher@thrilldroid",
-      "name": "jpg-Attacher",
+      "name": "jpg-Attacher - paste from clipboard & edit images",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989440-32.png?modified=0fe11849",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989440-64.png?modified=0fe11849"
@@ -15394,6 +15398,33 @@
       "badges": []
     },
     {
+      "id": "r-b-button@vivier.eu",
+      "name": "Reviewed-by button",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "0.2.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046675/reviewed_by_button-0.2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.2.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046675/reviewed_by_button-0.2.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "radio-thunder@dooberman",
       "name": "Radio Thunder",
       "icons": {
@@ -16124,18 +16155,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "1.1.0",
+          "extVersion": "1.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046644/retyc-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046669/retyc-1.1.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.0",
+          "extVersion": "1.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046644/retyc-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046669/retyc-1.1.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -20518,6 +20549,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1021926/ublock_origin-1.49.2-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "undo_send@thanasis-taprantzis",
+      "name": "Undo Send Notification",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989658-32.png?modified=b87f6a60",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989658-64.png?modified=b87f6a60"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "1.1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046667/undo_send_notification-1.1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046667/undo_send_notification-1.1.1-tb.xpi?src="
         }
       ],
       "badges": []
