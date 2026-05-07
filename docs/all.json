@@ -1,5 +1,5 @@
 {
-  "generated": 1778103766170,
+  "generated": 1778189890467,
   "supported_versions": [
     78,
     91,
@@ -10847,18 +10847,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "7.9.4",
+          "extVersion": "8.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045708/simple_spoof_detector-7.9.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046640/simple_spoof_detector-8.3.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "7.9.4",
+          "extVersion": "8.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045708/simple_spoof_detector-7.9.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046640/simple_spoof_detector-8.3.0-tb.xpi?src="
         }
       ],
       "badges": []
