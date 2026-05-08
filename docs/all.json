@@ -1,5 +1,5 @@
 {
-  "generated": 1778189890467,
+  "generated": 1778276536499,
   "supported_versions": [
     78,
     91,
@@ -7022,25 +7022,25 @@
       "id": "daily.report@massick.dev",
       "name": "Daily Reports",
       "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988850-32.png?modified=8326ee60",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988850-64.png?modified=8326ee60"
       },
       "compat": [
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "0.1.0",
+          "extVersion": "0.2.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039531/daily_reports-0.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046766/daily_reports-0.2.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.1.0",
+          "extVersion": "0.2.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039531/daily_reports-0.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046766/daily_reports-0.2.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -7665,6 +7665,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040759/double_click_test-1.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "drop-attachment@scott",
+      "name": "Drop Attachment 拖放添加附件",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989664-32.png?modified=eb58c987",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989664-64.png?modified=eb58c987"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046771/addon-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046771/addon-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
