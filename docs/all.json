@@ -1,5 +1,5 @@
 {
-  "generated": 1778276536499,
+  "generated": 1778362487531,
   "supported_versions": [
     78,
     91,
@@ -3758,18 +3758,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "1.0.1",
+          "extVersion": "1.0.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045134/ai_mail_support-1.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046781/ai_mail_support-1.0.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.1",
+          "extVersion": "1.0.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045134/ai_mail_support-1.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046781/ai_mail_support-1.0.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -12569,10 +12569,10 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "2.2.0",
+          "extVersion": "2.3.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042407/mass_emailer-2.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045307/mass_emailer-2.3.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
