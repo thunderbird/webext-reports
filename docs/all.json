@@ -1,5 +1,5 @@
 {
-  "generated": 1778362487531,
+  "generated": 1778536093914,
   "supported_versions": [
     78,
     91,
@@ -4664,6 +4664,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037232/autobucket-1.2.4-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "autocopy-send@local",
+      "name": "AutoCopy Send",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046798/autocopy_send-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046798/autocopy_send-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -20522,6 +20549,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1034246/typical_reply-2.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "u1o4ov22@neptunedev.us",
+      "name": "Addy.io Recipient Converter",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989670-32.png?modified=2ce923e2",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989670-64.png?modified=2ce923e2"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "1.1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046796/addyio_recipient_converter-1.1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046796/addyio_recipient_converter-1.1.0-tb.xpi?src="
         }
       ],
       "badges": []
