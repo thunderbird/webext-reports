@@ -1,5 +1,5 @@
 {
-  "generated": 1778622516487,
+  "generated": 1778709044010,
   "supported_versions": [
     78,
     91,
@@ -5715,18 +5715,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "105.2",
+          "extVersion": "105.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046424/cardbook-105.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046818/cardbook-105.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "105.2",
+          "extVersion": "105.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046424/cardbook-105.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046818/cardbook-105.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -8960,6 +8960,276 @@
       "badges": []
     },
     {
+      "id": "feranick.google-calendar-tab@addons.thunderbird.net",
+      "name": "Google Calendar Spaces Tab",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989675-32.png?modified=46b97f9b",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989675-64.png?modified=46b97f9b"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046887/google_calendar_tab-0.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046887/google_calendar_tab-0.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "feranick.google-chat-tab@addons.thunderbird.net",
+      "name": "Google Chat Spaces Tab",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989678-32.png?modified=cac91477",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989678-64.png?modified=cac91477"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046890/google_chat_tab-0.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046890/google_chat_tab-0.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "feranick.google-contacts-tab@addons.thunderbird.net",
+      "name": "Google Contacts Spaces Tab",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989679-32.png?modified=cc3189de",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989679-64.png?modified=cc3189de"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046891/google_contacts_tab-0.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046891/google_contacts_tab-0.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "feranick.google-gemini-tab@addons.thunderbird.net",
+      "name": "Google Gemini Spaces Tab",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989676-32.png?modified=e0901be5",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989676-64.png?modified=e0901be5"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046888/google_gemini_tab-0.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046888/google_gemini_tab-0.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "feranick.google-keep-tab@addons.thunderbird.net",
+      "name": "Google Keep Spaces Tab",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989681-32.png?modified=8b32a44e",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989681-64.png?modified=8b32a44e"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "0.3.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046896/google_keep_spaces_tab-0.3.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.3.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046896/google_keep_spaces_tab-0.3.0.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "feranick.google-meet-tab@addons.thunderbird.net",
+      "name": "Google Meet Spaces Tab",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989680-32.png?modified=1d5c0bf3",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989680-64.png?modified=1d5c0bf3"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046892/google_meet_tab-0.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046892/google_meet_tab-0.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "feranick.google-messages-tab@addons.thunderbird.net",
+      "name": "Google Messages Spaces Tab",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989677-32.png?modified=a06cc8ef",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989677-64.png?modified=a06cc8ef"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046889/google_calendar_tab-0.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046889/google_calendar_tab-0.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "feranick.google-news-tab@addons.thunderbird.net",
+      "name": "Google News Spaces Tab",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989682-32.png?modified=b1e78d93",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989682-64.png?modified=b1e78d93"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046897/google_news_spaces_tab-0.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046897/google_news_spaces_tab-0.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "feranick.ms-mail-tab@addons.thunderbird.net",
+      "name": "MS Mail Spaces Tab",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989683-32.png?modified=d5e4b278",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989683-64.png?modified=d5e4b278"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046899/ms_mail_tab-0.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046899/ms_mail_tab-0.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "feranick.yahoo-mail-tab@addons.thunderbird.net",
+      "name": "Yahoo Mail Spaces Tab",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989684-32.png?modified=68298194",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989684-64.png?modified=68298194"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "0.3.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046903/yahoo_mail_spaces_tab-0.3.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.3.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046903/yahoo_mail_spaces_tab-0.3.0.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "fifotofa@silverpigeon.jp",
       "name": "Filtered Folder to Favorite",
       "icons": {
@@ -9763,18 +10033,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "0.0.1",
+          "extVersion": "0.0.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045032/gemini_watermark_remover-0.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046817/gemini_watermark_remover-0.0.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.0.1",
+          "extVersion": "0.0.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045032/gemini_watermark_remover-0.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046817/gemini_watermark_remover-0.0.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9902,6 +10172,33 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037846/folders_for_search_ondisk_status_glodaquilla_ng-1.8.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "Glory@To.Ukraine",
+      "name": "New Mail Notifier",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989510-32.png?modified=0017a013",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989510-64.png?modified=0017a013"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "2.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045408/addon-2.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "2.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045408/addon-2.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10531,18 +10828,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "0.1.5",
+          "extVersion": "0.1.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045827/inboxai-0.1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046651/inboxai-0.1.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.1.5",
+          "extVersion": "0.1.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045827/inboxai-0.1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046651/inboxai-0.1.6-tb.xpi?src="
         }
       ],
       "badges": []
@@ -16376,6 +16673,33 @@
       "badges": []
     },
     {
+      "id": "safe-trash-cleaner@optimiz.de",
+      "name": "Safe Trash Cleaner",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989669-32.png?modified=f4e4d25f",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989669-64.png?modified=f4e4d25f"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "0.6.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046791/save_trash_cleaner-0.6.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.6.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046791/save_trash_cleaner-0.6.2-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "safelinks-cleaner-thunderbird@it.liu.se",
       "name": "Safe Links Cleaner",
       "icons": {
@@ -18842,18 +19166,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "2.3.9",
+          "extVersion": "2.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046230/templatewing-2.3.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046785/templatewing-2.4.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.3.9",
+          "extVersion": "2.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046230/templatewing-2.3.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046785/templatewing-2.4.0-tb.xpi?src="
         }
       ],
       "badges": []
