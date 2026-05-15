@@ -1,5 +1,5 @@
 {
-  "generated": 1778795149617,
+  "generated": 1778881516172,
   "supported_versions": [
     78,
     91,
@@ -6830,6 +6830,33 @@
       "badges": []
     },
     {
+      "id": "copysent2currentPWE@ggbs.de",
+      "name": "Copy Sent to Current PWE",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "150",
+          "type": "release",
+          "extVersion": "0.9",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046925/copy_sent_to_current_pwe-0.9-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.9",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046925/copy_sent_to_current_pwe-0.9-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "CorrectifyEN@Anonyma",
       "name": "Correctify (EN)",
       "icons": {
@@ -9051,18 +9078,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "0.3",
+          "extVersion": "0.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046890/google_chat_tab-0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046929/google_chat_spaces_tab-0.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.3",
+          "extVersion": "0.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046890/google_chat_tab-0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046929/google_chat_spaces_tab-0.4-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9078,18 +9105,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "0.3",
+          "extVersion": "0.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046891/google_contacts_tab-0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046931/google_contacts_spaces_tab-0.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.3",
+          "extVersion": "0.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046891/google_contacts_tab-0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046931/google_contacts_spaces_tab-0.4-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9267,18 +9294,18 @@
         {
           "appVersion": "150",
           "type": "release",
-          "extVersion": "0.3",
+          "extVersion": "0.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046901/whatsapp_web_tab-0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046930/whatsapp_web_spaces_tab-0.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.3",
+          "extVersion": "0.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046901/whatsapp_web_tab-0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046930/whatsapp_web_spaces_tab-0.5-tb.xpi?src="
         }
       ],
       "badges": []
@@ -21595,33 +21622,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1020401/zivver_for_thunderbird-1.0.0-tb.xpi?src="
-        }
-      ],
-      "badges": []
-    },
-    {
-      "id": "webmaster@grafics.fr",
-      "name": "Image Border Editor",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989202-32.png?modified=5bc6e26c",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989202-64.png?modified=5bc6e26c"
-      },
-      "compat": [
-        {
-          "appVersion": "150",
-          "type": "release",
-          "extVersion": "1.1.0",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042102/image_border_editor-1.1.0-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "1.1.0",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042102/image_border_editor-1.1.0-tb.xpi?src="
         }
       ],
       "badges": []
