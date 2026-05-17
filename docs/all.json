@@ -1,5 +1,5 @@
 {
-  "generated": 1778968428750,
+  "generated": 1779054211814,
   "supported_versions": [
     78,
     91,
@@ -15145,7 +15145,11 @@
       "compat": [
         {
           "appVersion": "150",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031311/previous_colors-2.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -16180,8 +16184,8 @@
       "id": "RemindIt@o.marce.free.fr",
       "name": "RemindIt",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/320/320395-32.png?modified=1664438040",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/320/320395-64.png?modified=1664438040"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/320/320395-32.png?modified=1779033146",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/320/320395-64.png?modified=1779033146"
       },
       "compat": [
         {
