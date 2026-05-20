@@ -1,5 +1,5 @@
 {
-  "generated": 1779227519329,
+  "generated": 1779314116029,
   "supported_versions": [
     78,
     91,
@@ -1482,7 +1482,11 @@
       "compat": [
         {
           "appVersion": "151",
-          "type": "release"
+          "type": "release",
+          "extVersion": "128.5.11",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045009/provider_for_google_calendar-128.5.11-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -4016,18 +4020,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "12.3.0",
+          "extVersion": "12.3.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041922/antidote_connector_for_thunderbird-12.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046958/antidote_connector_for_thunderbird-12.3.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "12.3.0",
+          "extVersion": "12.3.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041922/antidote_connector_for_thunderbird-12.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046958/antidote_connector_for_thunderbird-12.3.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -5625,7 +5629,11 @@
       "compat": [
         {
           "appVersion": "151",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.6.10",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046231/calendarproject_tools_gantt_year_view_planner-2.6.10-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -8737,7 +8745,11 @@
       "compat": [
         {
           "appVersion": "151",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.8.39",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046334/expression_power_messagecalendar_search_ng-4.8.39-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -8760,15 +8772,19 @@
       "compat": [
         {
           "appVersion": "151",
-          "type": "release"
+          "type": "release",
+          "extVersion": "151.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047128/exquilla_for_exchange-151.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "150.0",
+          "extVersion": "151.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046204/exquilla_for_exchange-150.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047128/exquilla_for_exchange-151.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9099,7 +9115,7 @@
     },
     {
       "id": "feranick.google-drive-tab@addons.thunderbird.net",
-      "name": "Google Drive Tab",
+      "name": "Google Drive Spaces Tab",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989697-32.png?modified=d1ec430a",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989697-64.png?modified=d1ec430a"
@@ -9108,18 +9124,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "0.3.0",
+          "extVersion": "0.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047122/google_drive_tab-0.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047137/google_drive_tab-0.4.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.3.0",
+          "extVersion": "0.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047122/google_drive_tab-0.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047137/google_drive_tab-0.4.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9174,6 +9190,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046959/google_keep_spaces_tab-0.4.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "feranick.google-maps-tab@addons.thunderbird.net",
+      "name": "Google Maps Spaces Tab",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989701-32.png?modified=88f5e53d",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989701-64.png?modified=88f5e53d"
+      },
+      "compat": [
+        {
+          "appVersion": "151",
+          "type": "release",
+          "extVersion": "0.5.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047139/google_maps_spaces_tab-0.5.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.5.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047139/google_maps_spaces_tab-0.5.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10621,7 +10664,11 @@
       "compat": [
         {
           "appVersion": "151",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044067/header_tools_lite-2.4.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -10865,7 +10912,11 @@
       "compat": [
         {
           "appVersion": "151",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.4.12",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044866/attachment_viewer_view_in_a_tab_slideshow-3.4.12-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -13896,7 +13947,11 @@
       "compat": [
         {
           "appVersion": "151",
-          "type": "release"
+          "type": "release",
+          "extVersion": "5.0.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043785/nostalgy_emails_verwalten_suchen_archivieren-5.0.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -14566,15 +14621,19 @@
       "compat": [
         {
           "appVersion": "151",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.5.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047127/eule_fur_exchange-1.5.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.5.0",
+          "extVersion": "1.5.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046203/eule_fur_exchange-1.5.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047127/eule_fur_exchange-1.5.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -16140,8 +16199,8 @@
       "id": "RemindIt@o.marce.free.fr",
       "name": "RemindIt",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/320/320395-32.png?modified=1779033146",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/320/320395-64.png?modified=1779033146"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/320/320395-32.png?modified=1779307286",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/320/320395-64.png?modified=1779307286"
       },
       "compat": [
         {
@@ -19026,18 +19085,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "1.7.8",
+          "extVersion": "1.7.11",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046757/thunderbird_pro-1.7.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047132/thunderbird_pro-1.7.11-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.7.8",
+          "extVersion": "1.7.11",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046757/thunderbird_pro-1.7.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047132/thunderbird_pro-1.7.11-tb.xpi?src="
         }
       ],
       "badges": []
@@ -21948,7 +22007,11 @@
       "compat": [
         {
           "appVersion": "151",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.7.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044715/xnote-4.7.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
