@@ -1,5 +1,5 @@
 {
-  "generated": 1779314116029,
+  "generated": 1779400341970,
   "supported_versions": [
     78,
     91,
@@ -11667,7 +11667,11 @@
       "compat": [
         {
           "appVersion": "151",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.16.20260226.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044959/keepassxc_mail-1.16.20260226.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -16985,33 +16989,6 @@
       "badges": []
     },
     {
-      "id": "sample-addon-v3@example.com",
-      "name": "SimplestAddon",
-      "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
-      },
-      "compat": [
-        {
-          "appVersion": "151",
-          "type": "release",
-          "extVersion": "1.0.1",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039398/simplestaddon-1.0.1-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "1.0.1",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039398/simplestaddon-1.0.1-tb.xpi?src="
-        }
-      ],
-      "badges": []
-    },
-    {
       "id": "sato-t@east.ntt.co.jp",
       "name": "Check Time",
       "icons": {
@@ -17787,7 +17764,11 @@
       "compat": [
         {
           "appVersion": "151",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.2.9",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044006/signal_spam-4.2.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -18180,7 +18161,11 @@
       "compat": [
         {
           "appVersion": "151",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.3.8",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044009/spambee-3.3.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
