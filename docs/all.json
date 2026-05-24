@@ -1,5 +1,5 @@
 {
-  "generated": 1779486303419,
+  "generated": 1779658864680,
   "supported_versions": [
     78,
     91,
@@ -9879,6 +9879,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1034802/framewhite-141.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "free-email-scrapper@muzammil.work",
+      "name": "Free Email Scrapper",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989713-32.png?modified=9b5a1750",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989713-64.png?modified=9b5a1750"
+      },
+      "compat": [
+        {
+          "appVersion": "151",
+          "type": "release",
+          "extVersion": "0.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047238/free_email_scrapper-0.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047238/free_email_scrapper-0.0.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -20996,18 +21023,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "1.1.0",
+          "extVersion": "1.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046796/addyio_recipient_converter-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047236/addyio_recipient_converter-1.1.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.0",
+          "extVersion": "1.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046796/addyio_recipient_converter-1.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047236/addyio_recipient_converter-1.1.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -21437,6 +21464,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046645/vfs_provider_onedrive-1.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "vidstamp@muzammil.work",
+      "name": "VidStamp - Youtube Upload Date Viewer",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989714-32.png?modified=9b65b861",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989714-64.png?modified=9b65b861"
+      },
+      "compat": [
+        {
+          "appVersion": "151",
+          "type": "release",
+          "extVersion": "0.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047239/vidstamp_youtube_upload_date_viewer-0.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047239/vidstamp_youtube_upload_date_viewer-0.0.1-tb.xpi?src="
         }
       ],
       "badges": []
