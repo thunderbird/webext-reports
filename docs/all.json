@@ -1,5 +1,5 @@
 {
-  "generated": 1779746029419,
+  "generated": 1779918868278,
   "supported_versions": [
     78,
     91,
@@ -1979,7 +1979,7 @@
     },
     {
       "id": "{f71a3824-abda-4738-be82-e0ac2cce5f7c}",
-      "name": "Email Cleanup Utilities",
+      "name": "Email Cleanup Utilities (Email Cleaner)",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989522-32.png?modified=d3b072c5",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989522-64.png?modified=d3b072c5"
@@ -6875,18 +6875,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "0.9",
+          "extVersion": "0.9.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046925/copy_sent_to_current_pwe-0.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047260/copy_sent_to_current_pwe-0.9.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.9",
+          "extVersion": "0.9.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046925/copy_sent_to_current_pwe-0.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047260/copy_sent_to_current_pwe-0.9.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -6902,18 +6902,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "2.1",
+          "extVersion": "2.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047252/correctify_en-2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047279/correctify_en-2.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.1",
+          "extVersion": "2.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047252/correctify_en-2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047279/correctify_en-2.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -6929,18 +6929,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "2.1",
+          "extVersion": "2.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047251/correctify_fr-2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047353/correctify_fr-2.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.1",
+          "extVersion": "2.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047251/correctify_fr-2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047353/correctify_fr-2.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9369,6 +9369,33 @@
       "badges": []
     },
     {
+      "id": "feranick.slack-tab@addons.thunderbird.net",
+      "name": "Slack Spaces Tab",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989726-32.png?modified=d70ba0c4",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989726-64.png?modified=d70ba0c4"
+      },
+      "compat": [
+        {
+          "appVersion": "151",
+          "type": "release",
+          "extVersion": "0.5",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047270/slack_tab-0.5-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.5",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047270/slack_tab-0.5-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "feranick.whatsapp-web-tab@addons.thunderbird.net",
       "name": "WhatsApp Web Spaces Tab",
       "icons": {
@@ -11099,6 +11126,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045181/box-1.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "inbox-summary@example.com",
+      "name": "Thunderbird Assist",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "151",
+          "type": "release",
+          "extVersion": "0.2.8",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041253/thunderbird_assist-0.2.8-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.2.8",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041253/thunderbird_assist-0.2.8-tb.xpi?src="
         }
       ],
       "badges": []
@@ -18307,6 +18361,29 @@
       "badges": []
     },
     {
+      "id": "spamshield@alcaspamshield",
+      "name": "SpamShield - Antispam",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989724-32.png?modified=39ceb806",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989724-64.png?modified=39ceb806"
+      },
+      "compat": [
+        {
+          "appVersion": "151",
+          "type": "release",
+          "extVersion": "1.0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047261/spamshield_proteccion_de_correo-1.0.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr"
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "spamtester@cestoliv.com",
       "name": "SpamTester",
       "icons": {
@@ -19535,7 +19612,11 @@
       "compat": [
         {
           "appVersion": "151",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.0.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044865/thunderai_sparks-2.0.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
