@@ -1,5 +1,5 @@
 {
-  "generated": 1779918868278,
+  "generated": 1780005468823,
   "supported_versions": [
     78,
     91,
@@ -8785,18 +8785,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "4.8.39",
+          "extVersion": "4.8.47",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046334/expression_power_messagecalendar_search_ng-4.8.39-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047360/expression_power_messagecalendar_search_ng-4.8.47-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.8.34",
+          "extVersion": "4.8.47",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045921/expression_power_messagecalendar_search_ng-4.8.34-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047360/expression_power_messagecalendar_search_ng-4.8.47-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11060,18 +11060,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "14.1.18",
+          "extVersion": "15.0.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046111/importexporttools_ng-14.1.18-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046778/importexporttools_ng-15.0.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "14.1.18",
+          "extVersion": "15.0.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046111/importexporttools_ng-14.1.18-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046778/importexporttools_ng-15.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11141,18 +11141,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "0.2.8",
+          "extVersion": "0.2.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041253/thunderbird_assist-0.2.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047354/thunderbird_assist-0.2.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.2.8",
+          "extVersion": "0.2.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041253/thunderbird_assist-0.2.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047354/thunderbird_assist-0.2.9-tb.xpi?src="
         }
       ],
       "badges": []
@@ -15320,18 +15320,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "3.1.12",
+          "extVersion": "3.1.13",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046106/printingtools_ng-3.1.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046800/printingtools_ng-3.1.13-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.1.12",
+          "extVersion": "3.1.13",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046106/printingtools_ng-3.1.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046800/printingtools_ng-3.1.13-tb.xpi?src="
         }
       ],
       "badges": []
