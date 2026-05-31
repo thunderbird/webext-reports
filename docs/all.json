@@ -1,5 +1,5 @@
 {
-  "generated": 1780177278296,
+  "generated": 1780263793494,
   "supported_versions": [
     78,
     91,
@@ -1826,18 +1826,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "1.2.0",
+          "extVersion": "1.2.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047382/fexnet_filelink-1.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047392/fexnet_filelink-1.2.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2.0",
+          "extVersion": "1.2.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047382/fexnet_filelink-1.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047392/fexnet_filelink-1.2.1-tb.xpi?src="
         }
       ],
       "badges": []
