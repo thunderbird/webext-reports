@@ -1,5 +1,5 @@
 {
-  "generated": 1780263793494,
+  "generated": 1780352503389,
   "supported_versions": [
     78,
     91,
@@ -1988,18 +1988,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "2.0",
+          "extVersion": "3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046953/sender_email_utilities-2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047271/email_cleanup_utilities-3.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.0",
+          "extVersion": "3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046953/sender_email_utilities-2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047271/email_cleanup_utilities-3.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -6390,18 +6390,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "3.13",
+          "extVersion": "3.14",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046431/clear_history_button-3.13-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047275/clear_history_button-3.14-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.13",
+          "extVersion": "3.14",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046431/clear_history_button-3.13-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047275/clear_history_button-3.14-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11949,11 +11949,19 @@
       "compat": [
         {
           "appVersion": "151",
-          "type": "release"
+          "type": "release",
+          "extVersion": "0.6.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047214/group_favorite_folders-0.6.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "current-esr"
+          "type": "current-esr",
+          "extVersion": "0.6.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047214/group_favorite_folders-0.6.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -16388,18 +16396,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "3.0.68.1",
+          "extVersion": "4.2.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031413/remindit-3.0.68.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047352/remindit-4.2.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.0.68.1",
+          "extVersion": "4.2.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031413/remindit-3.0.68.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047352/remindit-4.2.3-tb.xpi?src="
         }
       ],
       "badges": []
