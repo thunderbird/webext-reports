@@ -1,5 +1,5 @@
 {
-  "generated": 1780352503389,
+  "generated": 1780438942014,
   "supported_versions": [
     78,
     91,
@@ -4302,18 +4302,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "2.2.9",
+          "extVersion": "2.2.11",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046942/att_hub_anhang_vorschau_mangement_tool-2.2.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047405/att_hub_anhang_vorschau_mangement_tool-2.2.11-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.2.9",
+          "extVersion": "2.2.11",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046942/att_hub_anhang_vorschau_mangement_tool-2.2.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047405/att_hub_anhang_vorschau_mangement_tool-2.2.11-tb.xpi?src="
         }
       ],
       "badges": []
@@ -4421,18 +4421,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "1.4",
+          "extVersion": "1.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047383/audio_attachment_player-1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047385/audio_attachment_player-1.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.4",
+          "extVersion": "1.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047383/audio_attachment_player-1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047385/audio_attachment_player-1.5-tb.xpi?src="
         }
       ],
       "badges": []
@@ -6929,18 +6929,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "0.9.2",
+          "extVersion": "0.9.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047381/copy_sent_to_current_pwe-0.9.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047406/copy_sent_to_current_pwe-0.9.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.9.2",
+          "extVersion": "0.9.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047381/copy_sent_to_current_pwe-0.9.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047406/copy_sent_to_current_pwe-0.9.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -7063,15 +7063,19 @@
       "compat": [
         {
           "appVersion": "151",
-          "type": "release"
+          "type": "release",
+          "extVersion": "0.8.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047129/custom_subject_column-0.8.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.8.0",
+          "extVersion": "0.8.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045743/custom_subject_column-0.8.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047129/custom_subject_column-0.8.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -16389,8 +16393,8 @@
       "id": "RemindIt@o.marce.free.fr",
       "name": "RemindIt",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/320/320395-32.png?modified=1779307286",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/320/320395-64.png?modified=1779307286"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/320/320395-32.png?modified=1780396311",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/320/320395-64.png?modified=1780396311"
       },
       "compat": [
         {
@@ -16881,6 +16885,33 @@
         {
           "appVersion": "140",
           "type": "current-esr"
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "rr-calculator-tb@tradicted.com",
+      "name": "Risk-Reward Calculator & Trading Journal",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "151",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047400/risk_reward_calculator_by_tradicted-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047400/risk_reward_calculator_by_tradicted-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -21263,18 +21294,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "1.70.0",
+          "extVersion": "1.71.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045998/ubird-1.70.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047416/ubird-1.71.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.70.0",
+          "extVersion": "1.71.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045998/ubird-1.70.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047416/ubird-1.71.0-tb.xpi?src="
         }
       ],
       "badges": []
