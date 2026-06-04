@@ -1,5 +1,5 @@
 {
-  "generated": 1780438942014,
+  "generated": 1780609767176,
   "supported_versions": [
     78,
     91,
@@ -9076,6 +9076,60 @@
       "badges": []
     },
     {
+      "id": "feranick.chatgpt-tab@addons.thunderbird.net",
+      "name": "ChatGPT Spaces Tab",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989760-32.png?modified=12142fa1",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989760-64.png?modified=12142fa1"
+      },
+      "compat": [
+        {
+          "appVersion": "151",
+          "type": "release",
+          "extVersion": "0.5.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047524/chatgpt_spaces_tab-0.5.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.5.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047524/chatgpt_spaces_tab-0.5.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "feranick.claude-tab@addons.thunderbird.net",
+      "name": "Anthropic Claude Spaces Tab",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989761-32.png?modified=8c505f1f",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989761-64.png?modified=8c505f1f"
+      },
+      "compat": [
+        {
+          "appVersion": "151",
+          "type": "release",
+          "extVersion": "0.5",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047525/anthropic_claude_tab-0.5-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.5",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047525/anthropic_claude_tab-0.5-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "feranick.github-tab@addons.thunderbird.net",
       "name": "GitHub Spaces Tab",
       "icons": {
@@ -9437,18 +9491,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "0.5",
+          "extVersion": "0.5.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047270/slack_tab-0.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047520/slack_spaces_tab-0.5.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.5",
+          "extVersion": "0.5.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047270/slack_tab-0.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047520/slack_spaces_tab-0.5.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -12663,18 +12717,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "1.1.6",
+          "extVersion": "1.1.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046090/mailauthinfoviewer-1.1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047358/mailauthinfoviewer-1.1.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.6",
+          "extVersion": "1.1.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046090/mailauthinfoviewer-1.1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047358/mailauthinfoviewer-1.1.8-tb.xpi?src="
         }
       ],
       "badges": []
@@ -12906,18 +12960,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "6",
+          "extVersion": "7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037831/move_mail_shortcuts-6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047380/move_mail_shortcuts-7-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "6",
+          "extVersion": "7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037831/move_mail_shortcuts-6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047380/move_mail_shortcuts-7-tb.xpi?src="
         }
       ],
       "badges": []
@@ -18356,18 +18410,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "4.0.1",
+          "extVersion": "4.0.6",
           "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045706/spam_trash_cleaner-4.0.1-tb.xpi?src="
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046803/spam_trash_cleaner-4.0.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.0.1",
+          "extVersion": "4.0.6",
           "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045706/spam_trash_cleaner-4.0.1-tb.xpi?src="
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046803/spam_trash_cleaner-4.0.6-tb.xpi?src="
         }
       ],
       "badges": []
@@ -21826,15 +21880,19 @@
       "compat": [
         {
           "appVersion": "151",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047513/washibird-1.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2",
+          "extVersion": "1.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046534/washibird-1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047513/washibird-1.3-tb.xpi?src="
         }
       ],
       "badges": []
