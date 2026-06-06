@@ -1,5 +1,5 @@
 {
-  "generated": 1780609767176,
+  "generated": 1780782059527,
   "supported_versions": [
     78,
     91,
@@ -11718,7 +11718,11 @@
       "compat": [
         {
           "appVersion": "151",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.1.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042186/sender_frequency-3.1.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
