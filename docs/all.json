@@ -1,5 +1,5 @@
 {
-  "generated": 1780868585179,
+  "generated": 1780955424582,
   "supported_versions": [
     78,
     91,
@@ -11095,18 +11095,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "4.3",
+          "extVersion": "4.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1029376/identity_chooser-4.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047557/identity_chooser-4.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.3",
+          "extVersion": "4.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1029376/identity_chooser-4.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047557/identity_chooser-4.5-tb.xpi?src="
         }
       ],
       "badges": []
