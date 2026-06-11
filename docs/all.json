@@ -1,5 +1,5 @@
 {
-  "generated": 1781128689232,
+  "generated": 1781215389137,
   "supported_versions": [
     78,
     91,
@@ -12980,18 +12980,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "7",
+          "extVersion": "8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047380/move_mail_shortcuts-7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047610/move_mail_shortcuts-8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "7",
+          "extVersion": "8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047380/move_mail_shortcuts-7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047610/move_mail_shortcuts-8-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14270,18 +14270,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "1.0.4",
+          "extVersion": "1.0.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047678/magic_clipper_for_notebooklm-1.0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047685/magic_clipper_for_notebooklm-1.0.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.4",
+          "extVersion": "1.0.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047678/magic_clipper_for_notebooklm-1.0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047685/magic_clipper_for_notebooklm-1.0.5-tb.xpi?src="
         }
       ],
       "badges": []
@@ -15950,18 +15950,18 @@
         {
           "appVersion": "151",
           "type": "release",
-          "extVersion": "6.16.1",
+          "extVersion": "6.16.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047378/quickfolders_tabbed_folders-6.16.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047684/quickfolders_tabbed_folders-6.16.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "6.16.1",
+          "extVersion": "6.16.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047378/quickfolders_tabbed_folders-6.16.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047684/quickfolders_tabbed_folders-6.16.2-tb.xpi?src="
         }
       ],
       "badges": []
