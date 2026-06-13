@@ -1,5 +1,5 @@
 {
-  "generated": 1781301367327,
+  "generated": 1781387482064,
   "supported_versions": [
     78,
     91,
@@ -656,15 +656,19 @@
       "compat": [
         {
           "appVersion": "151",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.6.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047728/correct_identity-2.6.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.6.6",
+          "extVersion": "2.6.7",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045334/correct_identity-2.6.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047728/correct_identity-2.6.7-tb.xpi?src="
         }
       ],
       "alternatives": [
@@ -3886,6 +3890,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1027326/aify-1.19-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "alarms-reminders-and-notifications@muzammil.work",
+      "name": "Alarm - Reminders & Notifications",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989789-32.png?modified=2bccf4c3",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989789-64.png?modified=2bccf4c3"
+      },
+      "compat": [
+        {
+          "appVersion": "151",
+          "type": "release",
+          "extVersion": "0.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047726/alarm_reminders_notifications-0.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047726/alarm_reminders_notifications-0.0.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17377,6 +17408,33 @@
       "badges": []
     },
     {
+      "id": "screenshot-instant-screenshot-saver@muzammil.work",
+      "name": "Screenshot - Instant Screenshot Saver",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989788-32.png?modified=a5922e6c",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989788-64.png?modified=a5922e6c"
+      },
+      "compat": [
+        {
+          "appVersion": "151",
+          "type": "release",
+          "extVersion": "0.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047724/screenshot_instant_screenshot_saver-0.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047724/screenshot_instant_screenshot_saver-0.0.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "sd-alert-builder@i2cinc.com",
       "name": "Auto Alert builder",
       "icons": {
@@ -20986,15 +21044,19 @@
       "compat": [
         {
           "appVersion": "151",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.6.5",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047727/toggle_line_wrap-1.6.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.6.4",
+          "extVersion": "1.6.5",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043774/toggle_line_wrap-1.6.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047727/toggle_line_wrap-1.6.5-tb.xpi?src="
         }
       ],
       "badges": []
