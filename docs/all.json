@@ -1,5 +1,5 @@
 {
-  "generated": 1781992070435,
+  "generated": 1782078572354,
   "supported_versions": [
     78,
     91,
@@ -6505,18 +6505,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "5.13",
+          "extVersion": "5.12",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048134/compact_headers-5.13-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045745/compact_headers-5.12-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "5.13",
+          "extVersion": "5.12",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048134/compact_headers-5.13-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045745/compact_headers-5.12-tb.xpi?src="
         }
       ],
       "badges": []
@@ -6571,6 +6571,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1020482/composeselectmacro-1.0.6-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "composeur-en-onglet@thierryh.local",
+      "name": "Tab Composer",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989725-32.png?modified=47b4f2d6",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989725-64.png?modified=47b4f2d6"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "0.2.7",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048143/tab_composer-0.2.7-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.2.7",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048143/tab_composer-0.2.7-tb.xpi?src="
         }
       ],
       "badges": []
@@ -8350,6 +8377,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046533/email_reminders-0.4.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "email-translator@axerilabs.com",
+      "name": "Email Translator",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989805-32.png?modified=a3df5430",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989805-64.png?modified=a3df5430"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048129/email_translator-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048129/email_translator-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10736,6 +10790,33 @@
       "badges": []
     },
     {
+      "id": "google-meet-for-thunderbird@cancodr.github.io",
+      "name": "Google Meet Scheduler for Thunderbird",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989785-32.png?modified=a23e4844",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989785-64.png?modified=a23e4844"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047701/google_meet_scheduler_for_thunderbird-1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047701/google_meet_scheduler_for_thunderbird-1.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "googleCalendar@weptun.de",
       "name": "Google Calendar Tab",
       "icons": {
@@ -12684,6 +12765,33 @@
       "badges": []
     },
     {
+      "id": "magic-translator@mtfkarukera.net",
+      "name": "Magic Translator",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989749-32.png?modified=b804eff6",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989749-64.png?modified=b804eff6"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "2.0.14",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047743/magic_translator-2.0.14-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "2.0.14",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047743/magic_translator-2.0.14-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "magistralundosend@webextension",
       "name": "Magistral Undo Send",
       "icons": {
@@ -14286,6 +14394,33 @@
       "badges": []
     },
     {
+      "id": "nls-local-spam-filter@nls.local",
+      "name": "NLS Mail Manager",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989792-32.png?modified=0b234599",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989792-64.png?modified=0b234599"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "1.8.11",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047742/nls_mail_manager-1.8.11-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.8.11",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047742/nls_mail_manager-1.8.11-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "nomessagepanesort@janek.org",
       "name": "No Message Pane Sort",
       "icons": {
@@ -15082,18 +15217,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "4.0.0",
+          "extVersion": "5.0.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044725/excel2mail-4.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048140/excel2mail-5.0.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.0.0",
+          "extVersion": "5.0.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044725/excel2mail-4.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048140/excel2mail-5.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -15533,6 +15668,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1017352/popmaillistrecipients_2-2.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "postscriptum@lordl1515",
+      "name": "PostScriptum",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989791-32.png?modified=b46e7f42",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989791-64.png?modified=b46e7f42"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "4.78",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048012/postscriptum-4.78-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "4.78",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048012/postscriptum-4.78-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17727,6 +17889,33 @@
       "badges": []
     },
     {
+      "id": "select-similar@aidanashby",
+      "name": "Select Similar",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989744-32.png?modified=15b94fa5",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989744-64.png?modified=15b94fa5"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047410/select_similar-1.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047410/select_similar-1.0.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "SelectInbox@jobisoft.de",
       "name": "Select Inbox on Startup",
       "icons": {
@@ -18642,6 +18831,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1018022/smileyfixer-2.0.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "snoozeflow@petrantuono.dev",
+      "name": "SnoozeFlow",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989700-32.png?modified=a93e702e",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989700-64.png?modified=a93e702e"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048022/snoozeflow-1.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048022/snoozeflow-1.0.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -19836,6 +20052,33 @@
       "badges": []
     },
     {
+      "id": "tether@tether.com",
+      "name": "Tether Mail Extension",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989650-32.png?modified=840ccafa",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989650-64.png?modified=840ccafa"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "1.0.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048128/tether_mail_extension-1.0.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048128/tether_mail_extension-1.0.2-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "textinsert@opto-one",
       "name": "Text Insert: Templates/Instant Spell Check",
       "icons": {
@@ -20344,6 +20587,33 @@
       "badges": []
     },
     {
+      "id": "thunderbird-vacation-responder@findby.net",
+      "name": "Vacation Responder",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "1.1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048142/vacation_responder-1.1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048142/vacation_responder-1.1.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "thunderbird@hutsky.net",
       "name": "Sum it up",
       "icons": {
@@ -20709,6 +20979,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045616/thunderstats_your_thunderbird_statistics-2.4.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "thundersub@smaraknayak",
+      "name": "ThunderSub",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989776-32.png?modified=d90a86ba",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989776-64.png?modified=d90a86ba"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "1.0.13",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048013/thundersub-1.0.13-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.13",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048013/thundersub-1.0.13-tb.xpi?src="
         }
       ],
       "badges": []
