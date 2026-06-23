@@ -1,5 +1,5 @@
 {
-  "generated": 1782165600716,
+  "generated": 1782251572751,
   "supported_versions": [
     78,
     91,
@@ -903,18 +903,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "1.4.1",
+          "extVersion": "2.0.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047762/soundmail-1.4.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048162/soundmail-2.0.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.4.1",
+          "extVersion": "2.0.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047762/soundmail-1.4.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048162/soundmail-2.0.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -1518,18 +1518,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "128.5.11",
+          "extVersion": "128.5.12",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045009/provider_for_google_calendar-128.5.11-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048156/provider_for_google_calendar-128.5.12-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "128.5.11",
+          "extVersion": "128.5.12",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045009/provider_for_google_calendar-128.5.11-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048156/provider_for_google_calendar-128.5.12-tb.xpi?src="
         }
       ],
       "badges": []
@@ -6559,18 +6559,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "5.12",
+          "extVersion": "5.15",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045745/compact_headers-5.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048159/compact_headers-5.15-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "5.12",
+          "extVersion": "5.15",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045745/compact_headers-5.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048159/compact_headers-5.15-tb.xpi?src="
         }
       ],
       "badges": []
@@ -7792,18 +7792,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "1.0.7",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045632/dmarc_report_viewer-1.0.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048060/dmarc_report_analyzer-1.1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.7",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045632/dmarc_report_viewer-1.0.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048060/dmarc_report_analyzer-1.1.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13000,6 +13000,33 @@
       "badges": []
     },
     {
+      "id": "mail-filter-alert@kengheng1024",
+      "name": "Mail Filter Alert",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989793-32.png?modified=074c30d1",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989793-64.png?modified=074c30d1"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "1.1.4",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048164/mail_filter_alert-1.1.4-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.1.4",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048164/mail_filter_alert-1.1.4-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "mail-link@unruh.de",
       "name": "Copy Message Link",
       "icons": {
@@ -16690,6 +16717,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043129/reputation_damage_checker-1.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "react-mail@grafics.fr",
+      "name": "Quick React",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989743-32.png?modified=27e0af51",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989743-64.png?modified=27e0af51"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "1.2.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048181/quick_react-1.2.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.2.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048181/quick_react-1.2.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -20755,18 +20809,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "1.1.1",
+          "extVersion": "1.1.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048142/vacation_responder-1.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048173/vacation_responder-1.1.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.1",
+          "extVersion": "1.1.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048142/vacation_responder-1.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048173/vacation_responder-1.1.4-tb.xpi?src="
         }
       ],
       "badges": []
@@ -21056,6 +21110,33 @@
         {
           "appVersion": "140",
           "type": "current-esr"
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "thunderpen@thunderbird-addons.opensource",
+      "name": "雷霆筆 Thunderpen",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989817-32.png?modified=d07ea4ac",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989817-64.png?modified=d07ea4ac"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048176/thunderpen-1.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048176/thunderpen-1.0.1-tb.xpi?src="
         }
       ],
       "badges": []
