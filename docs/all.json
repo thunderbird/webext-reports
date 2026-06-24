@@ -1,5 +1,5 @@
 {
-  "generated": 1782251572751,
+  "generated": 1782337730099,
   "supported_versions": [
     78,
     91,
@@ -687,18 +687,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "3.1.4",
+          "extVersion": "3.2.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047419/nc_connector_for_thunderbird-3.1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047748/nc_connector_for_thunderbird-3.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.1.4",
+          "extVersion": "3.2.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047419/nc_connector_for_thunderbird-3.1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047748/nc_connector_for_thunderbird-3.2.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9344,18 +9344,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "0.4.1",
+          "extVersion": "0.5.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048045/gmail_spaces_tab-0.4.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048197/gmail_spaces_tab-0.5.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.4.1",
+          "extVersion": "0.5.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048045/gmail_spaces_tab-0.4.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048197/gmail_spaces_tab-0.5.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9614,18 +9614,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "0.4",
+          "extVersion": "0.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047119/ms_mail_spaces_tab-0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048199/ms_mail_spaces_tab-0.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.4",
+          "extVersion": "0.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047119/ms_mail_spaces_tab-0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048199/ms_mail_spaces_tab-0.5-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9641,18 +9641,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "0.4",
+          "extVersion": "0.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047118/outlook_spaces_tab-0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048198/outlook_spaces_tab-0.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.4",
+          "extVersion": "0.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047118/outlook_spaces_tab-0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048198/outlook_spaces_tab-0.5-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9722,18 +9722,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "0.4",
+          "extVersion": "0.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047121/yahoo_mail_spaces_tab-0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048200/yahoo_mail_spaces_tab-0.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.4",
+          "extVersion": "0.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047121/yahoo_mail_spaces_tab-0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048200/yahoo_mail_spaces_tab-0.5-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11399,18 +11399,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "15.0.0",
+          "extVersion": "15.0.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046778/importexporttools_ng-15.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048163/importexporttools_ng-15.0.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "15.0.0",
+          "extVersion": "15.0.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046778/importexporttools_ng-15.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048163/importexporttools_ng-15.0.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13588,18 +13588,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "0.1.34",
+          "extVersion": "0.1.36",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047927/addon-0.1.34-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048190/addon-0.1.36-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.1.34",
+          "extVersion": "0.1.36",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047927/addon-0.1.34-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048190/addon-0.1.36-tb.xpi?src="
         }
       ],
       "badges": []
@@ -15791,18 +15791,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "4.78",
+          "extVersion": "4.83",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048012/postscriptum-4.78-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048192/postscriptum-4.83-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.78",
+          "extVersion": "4.83",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048012/postscriptum-4.78-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048192/postscriptum-4.83-tb.xpi?src="
         }
       ],
       "badges": []
@@ -16381,18 +16381,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "1.3.1",
+          "extVersion": "1.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048027/quick_steps-1.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048180/quick_steps-1.4.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.3.1",
+          "extVersion": "1.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048027/quick_steps-1.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048180/quick_steps-1.4.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -20247,18 +20247,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "2.5.2",
+          "extVersion": "2.7.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048132/templatewing-2.5.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048191/templatewing-2.7.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.5.2",
+          "extVersion": "2.7.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048132/templatewing-2.5.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048191/templatewing-2.7.1-tb.xpi?src="
         }
       ],
       "badges": []
