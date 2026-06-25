@@ -1,5 +1,5 @@
 {
-  "generated": 1782337730099,
+  "generated": 1782424256138,
   "supported_versions": [
     78,
     91,
@@ -4398,14 +4398,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "0.1.2",
+          "extVersion": "0.1.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044317/attachment_batch_extract-0.1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048189/attachment_batch_extract-0.1.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
-          "type": "current-esr"
+          "type": "current-esr",
+          "extVersion": "0.1.8",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048189/attachment_batch_extract-0.1.8-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13588,18 +13592,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "0.1.36",
+          "extVersion": "0.1.37",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048190/addon-0.1.36-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048284/addon-0.1.37-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.1.36",
+          "extVersion": "0.1.37",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048190/addon-0.1.36-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048284/addon-0.1.37-tb.xpi?src="
         }
       ],
       "badges": []
@@ -15325,18 +15329,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "5.0.0",
+          "extVersion": "5.0.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048140/excel2mail-5.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048283/excel2mail-5.0.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "5.0.0",
+          "extVersion": "5.0.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048140/excel2mail-5.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048283/excel2mail-5.0.2-tb.xpi?src="
         }
       ],
       "badges": []
