@@ -1,5 +1,5 @@
 {
-  "generated": 1782510401542,
+  "generated": 1782596536642,
   "supported_versions": [
     78,
     91,
@@ -6521,18 +6521,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "0.0.1",
+          "extVersion": "0.0.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048292/codesnap_generate_code_images-0.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048306/codesnap_generate_code_images-0.0.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.0.1",
+          "extVersion": "0.0.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048292/codesnap_generate_code_images-0.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048306/codesnap_generate_code_images-0.0.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14002,6 +14002,33 @@
       "badges": []
     },
     {
+      "id": "minio-filelink@exygen.fr",
+      "name": "MinIO Filelink",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/downloads-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/downloads-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "2.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048296/minio_filelink-2.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "2.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048296/minio_filelink-2.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "misend-prevention@example.com",
       "name": "Thunderbird 誤送信防止アドオン",
       "icons": {
@@ -21168,18 +21195,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "1.0.13",
+          "extVersion": "1.0.16",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048293/thunderpen-1.0.13-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048300/thunderpen-1.0.16-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.13",
+          "extVersion": "1.0.16",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048293/thunderpen-1.0.13-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048300/thunderpen-1.0.16-tb.xpi?src="
         }
       ],
       "badges": []
