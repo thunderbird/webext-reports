@@ -1,5 +1,5 @@
 {
-  "generated": 1782596536642,
+  "generated": 1782682828251,
   "supported_versions": [
     78,
     91,
@@ -768,18 +768,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "10.1.1",
+          "extVersion": "10.2.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041712/allow_html_temp-10.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048328/allow_html_temp-10.2.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "10.1.1",
+          "extVersion": "10.2.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041712/allow_html_temp-10.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048328/allow_html_temp-10.2.1-tb.xpi?src="
         }
       ],
       "badges": []
