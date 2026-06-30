@@ -1,5 +1,5 @@
 {
-  "generated": 1782769824920,
+  "generated": 1782856256510,
   "supported_versions": [
     78,
     91,
@@ -903,18 +903,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "2.0.2",
+          "extVersion": "2.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048162/soundmail-2.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048436/soundmail-2.1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.0.2",
+          "extVersion": "2.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048162/soundmail-2.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048436/soundmail-2.1.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -5931,18 +5931,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "0.0.1",
+          "extVersion": "0.0.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048148/caveman_mode_chatgpt_claude_gemini-0.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048440/caveman_mode_chatgpt_claude_gemini-0.0.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.0.1",
+          "extVersion": "0.0.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048148/caveman_mode_chatgpt_claude_gemini-0.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048440/caveman_mode_chatgpt_claude_gemini-0.0.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -12178,10 +12178,10 @@
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.17.20260628.0",
+          "extVersion": "1.16.20260226.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048330/keepassxc_mail-1.17.20260628.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044959/keepassxc_mail-1.16.20260226.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -12891,18 +12891,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "2.0.16",
+          "extVersion": "2.0.17",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048349/magic_translator-2.0.16-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048360/magic_translator-2.0.17-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.0.16",
+          "extVersion": "2.0.17",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048349/magic_translator-2.0.16-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048360/magic_translator-2.0.17-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14686,18 +14686,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "1.4.0",
+          "extVersion": "1.5.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047744/magic_clipper_for_notebooklm-1.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048362/magic_clipper_for_notebooklm-1.5.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.4.0",
+          "extVersion": "1.5.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047744/magic_clipper_for_notebooklm-1.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048362/magic_clipper_for_notebooklm-1.5.0-tb.xpi?src="
         }
       ],
       "badges": []
