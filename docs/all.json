@@ -1,5 +1,5 @@
 {
-  "generated": 1782856256510,
+  "generated": 1782943016846,
   "supported_versions": [
     78,
     91,
@@ -12170,10 +12170,10 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "1.17.20260628.0",
+          "extVersion": "1.16.20260226.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048330/keepassxc_mail-1.17.20260628.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044959/keepassxc_mail-1.16.20260226.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
