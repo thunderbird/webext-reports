@@ -1,5 +1,5 @@
 {
-  "generated": 1782943016846,
+  "generated": 1783028781766,
   "supported_versions": [
     78,
     91,
@@ -3887,6 +3887,33 @@
       "badges": []
     },
     {
+      "id": "aitomail@lukaszpodgorski.pl",
+      "name": "AitoMail for Thunderbird",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989532-32.png?modified=655591cf",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989532-64.png?modified=655591cf"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "1.2.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048437/aitomail_for_thunderbird-1.2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.2.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048437/aitomail_for_thunderbird-1.2.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "alarms-reminders-and-notifications@muzammil.work",
       "name": "Alarm - Reminders & Notifications",
       "icons": {
@@ -4921,7 +4948,11 @@
       "compat": [
         {
           "appVersion": "152",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.13.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045127/automatic_dictionary-4.13.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -12170,18 +12201,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "1.16.20260226.0",
+          "extVersion": "1.17.20260701.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044959/keepassxc_mail-1.16.20260226.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048446/keepassxc_mail-1.17.20260701.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.16.20260226.0",
+          "extVersion": "1.17.20260701.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044959/keepassxc_mail-1.16.20260226.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048446/keepassxc_mail-1.17.20260701.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -19101,18 +19132,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "1.0.1",
+          "extVersion": "1.0.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048022/snoozeflow-1.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048529/snoozeflow-1.0.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.1",
+          "extVersion": "1.0.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048022/snoozeflow-1.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048529/snoozeflow-1.0.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -23438,6 +23469,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041348/kurl_yourls_shortener-1.9-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "zoltan.ackermann@freemail.hu",
+      "name": "AI Spam Detector",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989540-32.png?modified=22999753",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989540-64.png?modified=22999753"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045760/ai_spam_detector-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045760/ai_spam_detector-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
