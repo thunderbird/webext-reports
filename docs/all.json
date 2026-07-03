@@ -1,5 +1,5 @@
 {
-  "generated": 1783028781766,
+  "generated": 1783115116940,
   "supported_versions": [
     78,
     91,
@@ -4302,6 +4302,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1021750/arcus-0.9.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "arnolddsouzaofficial@gmail.com",
+      "name": "Iris Mail AI",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989850-32.png?modified=ad1f6f37",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989850-64.png?modified=ad1f6f37"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "0.1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048550/iris_mail_ai-0.1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048550/iris_mail_ai-0.1.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13490,6 +13517,33 @@
       "badges": []
     },
     {
+      "id": "markdown-paste@andyesys.dev",
+      "name": "Markdown Paste",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989849-32.png?modified=a7547297",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989849-64.png?modified=a7547297"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "1.0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048543/markdown_paste-1.0.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048543/markdown_paste-1.0.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "marked-lightning@ialokim",
       "name": "marked-lightning",
       "icons": {
@@ -14082,6 +14136,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041052/thunderbird-1.2.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "missing-attachment-warner@findby.net",
+      "name": "Missing Attachment Warner Plus",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989851-32.png?modified=ce3a3f03",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989851-64.png?modified=ce3a3f03"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "1.1.13",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048551/missing_attachment_warner_plus-1.1.13-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.1.13",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048551/missing_attachment_warner_plus-1.1.13-tb.xpi?src="
         }
       ],
       "badges": []
@@ -20937,18 +21018,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "1.1.4",
+          "extVersion": "1.1.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048173/vacation_responder-1.1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048546/vacation_responder-1.1.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.4",
+          "extVersion": "1.1.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048173/vacation_responder-1.1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048546/vacation_responder-1.1.7-tb.xpi?src="
         }
       ],
       "badges": []
