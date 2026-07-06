@@ -1,5 +1,5 @@
 {
-  "generated": 1783287538836,
+  "generated": 1783374629109,
   "supported_versions": [
     78,
     91,
@@ -3897,18 +3897,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "1.2.0",
+          "extVersion": "1.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048437/aitomail_for_thunderbird-1.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048572/aitomail_for_thunderbird-1.4.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2.0",
+          "extVersion": "1.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048437/aitomail_for_thunderbird-1.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048572/aitomail_for_thunderbird-1.4.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9221,18 +9221,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "1.9.9",
+          "extVersion": "2.0.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046532/extract_em-1.9.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048548/extract_em-2.0.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.9.9",
+          "extVersion": "2.0.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046532/extract_em-1.9.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048548/extract_em-2.0.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -21011,8 +21011,8 @@
       "id": "thunderbird-vacation-responder@findby.net",
       "name": "Vacation Responder",
       "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989798-32.png?modified=b17614f8",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989798-64.png?modified=b17614f8"
       },
       "compat": [
         {
