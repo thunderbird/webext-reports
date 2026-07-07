@@ -1,5 +1,5 @@
 {
-  "generated": 1783374629109,
+  "generated": 1783460847130,
   "supported_versions": [
     78,
     91,
@@ -687,18 +687,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "3.2.0",
+          "extVersion": "3.2.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047748/nc_connector_for_thunderbird-3.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048535/nc_connector_for_thunderbird-3.2.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.2.0",
+          "extVersion": "3.2.2",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047748/nc_connector_for_thunderbird-3.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048535/nc_connector_for_thunderbird-3.2.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -5908,18 +5908,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "105.8",
+          "extVersion": "106.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048287/cardbook-105.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048526/cardbook-106.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "105.8",
+          "extVersion": "106.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048287/cardbook-105.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048526/cardbook-106.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10165,33 +10165,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046503/flexconfirmmail-4.2.11-tb.xpi?src="
-        }
-      ],
-      "badges": []
-    },
-    {
-      "id": "flexible-confirm-mail@clear-code.com",
-      "name": "FlexConfirmMail Stable",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/487/487108-32.png?modified=6f5c3f71",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/487/487108-64.png?modified=6f5c3f71"
-      },
-      "compat": [
-        {
-          "appVersion": "152",
-          "type": "release",
-          "extVersion": "4.2.5",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037127/flexconfirmmail-4.2.5-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "4.2.5",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037127/flexconfirmmail-4.2.5-tb.xpi?src="
         }
       ],
       "badges": []
@@ -15807,18 +15780,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "0.1.26",
+          "extVersion": "0.1.29",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042885/pixelguard-0.1.26-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048579/pixelguard-0.1.29-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.1.26",
+          "extVersion": "0.1.29",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042885/pixelguard-0.1.26-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048579/pixelguard-0.1.29-tb.xpi?src="
         }
       ],
       "badges": []
@@ -18370,18 +18343,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "1.0.2",
+          "extVersion": "1.0.8.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044019/send_as_alias-1.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048589/send_as_alias-1.0.8.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.2",
+          "extVersion": "1.0.8.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044019/send_as_alias-1.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048589/send_as_alias-1.0.8.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -21334,18 +21307,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "1.0.21",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048353/thunderpen-1.0.21-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048580/thunderpen-1.1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.21",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048353/thunderpen-1.0.21-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048580/thunderpen-1.1.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -22121,8 +22094,8 @@
       "id": "torpedo@tu-darmstadt.de",
       "name": "TORPEDO - TOoltip-poweRed Phishing Email DetectiOn",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/705/705889-32.png?modified=1715702190",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/705/705889-64.png?modified=1715702190"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/705/705889-32.png?modified=1783423264",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/705/705889-64.png?modified=1783423264"
       },
       "compat": [
         {
