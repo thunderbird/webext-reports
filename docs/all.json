@@ -1,5 +1,5 @@
 {
-  "generated": 1783891933017,
+  "generated": 1783978679794,
   "supported_versions": [
     78,
     91,
@@ -4000,7 +4000,11 @@
       "compat": [
         {
           "appVersion": "152",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1032144/all_events-1.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -7145,18 +7149,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "0.9.3",
+          "extVersion": "1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047406/copy_sent_to_current_pwe-0.9.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048784/copy_sent_to_current_pwe-1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.9.3",
+          "extVersion": "1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047406/copy_sent_to_current_pwe-0.9.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048784/copy_sent_to_current_pwe-1.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13554,18 +13558,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "1.0.3",
+          "extVersion": "1.0.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048543/markdown_paste-1.0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048786/markdown_paste-1.0.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.3",
+          "extVersion": "1.0.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048543/markdown_paste-1.0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048786/markdown_paste-1.0.4-tb.xpi?src="
         }
       ],
       "badges": []
