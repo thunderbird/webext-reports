@@ -1,5 +1,5 @@
 {
-  "generated": 1783978679794,
+  "generated": 1784065081841,
   "supported_versions": [
     78,
     91,
@@ -3041,18 +3041,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "0.3.0",
+          "extVersion": "0.6.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043628/odoo_email_importer-0.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048790/odoo_email_importer-0.6.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.3.0",
+          "extVersion": "0.6.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043628/odoo_email_importer-0.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048790/odoo_email_importer-0.6.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -6020,18 +6020,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "1.0.6",
+          "extVersion": "1.0.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047231/cazadjuntos-1.0.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048673/cazadjuntos-1.0.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.6",
+          "extVersion": "1.0.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047231/cazadjuntos-1.0.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048673/cazadjuntos-1.0.7-tb.xpi?src="
         }
       ],
       "badges": []
@@ -6529,18 +6529,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "3.19.0",
+          "extVersion": "3.19.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048567/cloud_filelink_for_nextcloud_opencloud_owncloud-3.19.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048867/cloud_filelink_for_nextcloud_opencloud_owncloud-3.19.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.19.0",
+          "extVersion": "3.19.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048567/cloud_filelink_for_nextcloud_opencloud_owncloud-3.19.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048867/cloud_filelink_for_nextcloud_opencloud_owncloud-3.19.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -19932,6 +19932,33 @@
       "badges": []
     },
     {
+      "id": "supureply@supudigital.es",
+      "name": "SupuReply",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "1.3.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048869/supureply-1.3.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.3.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048869/supureply-1.3.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "sync@opto.one",
       "name": "Tag Sync for TB",
       "icons": {
@@ -22240,18 +22267,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "3.2.2",
+          "extVersion": "4.0.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1029746/torpedo_tooltip_powered_phishing_email_detection-3.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048762/torpedo_tooltip_powered_phishing_email_detection-4.0.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.2.2",
+          "extVersion": "4.0.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1029746/torpedo_tooltip_powered_phishing_email_detection-3.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048762/torpedo_tooltip_powered_phishing_email_detection-4.0.2-tb.xpi?src="
         }
       ],
       "badges": []
