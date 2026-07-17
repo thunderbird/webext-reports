@@ -1,5 +1,5 @@
 {
-  "generated": 1784237998055,
+  "generated": 1784324130578,
   "supported_versions": [
     78,
     91,
@@ -508,6 +508,33 @@
       "badges": []
     },
     {
+      "id": "{3b42ca3c-4e06-4287-926c-4fdbb676c2c6}",
+      "name": "Alkateb",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989893-32.png?modified=bcb180f0",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989893-64.png?modified=bcb180f0"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "1.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049054/alkateb-1.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049054/alkateb-1.2-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "{3c4f38c0-cc71-4fed-8518-823a59badd25}",
       "name": "quickfilter-kbd",
       "icons": {
@@ -929,7 +956,11 @@
       "compat": [
         {
           "appVersion": "152",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037412/tag_toolbar_tag_popup-2.4.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -3963,33 +3994,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045756/alias_reply_catchall-0.1.1-tb.xpi?src="
-        }
-      ],
-      "badges": []
-    },
-    {
-      "id": "alkateb@moataz.com",
-      "name": "Alkateb",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989892-32.png?modified=bcb180f0",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989892-64.png?modified=bcb180f0"
-      },
-      "compat": [
-        {
-          "appVersion": "152",
-          "type": "release",
-          "extVersion": "1.0.9",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049040/alkateb-1.0.9-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "1.0.9",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049040/alkateb-1.0.9-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10955,18 +10959,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "1.0.0",
+          "extVersion": "1.0.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049038/filelink_for_gokapi-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049043/filelink_for_gokapi-1.0.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.0",
+          "extVersion": "1.0.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049038/filelink_for_gokapi-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049043/filelink_for_gokapi-1.0.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14508,7 +14512,11 @@
       "compat": [
         {
           "appVersion": "152",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.4",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037413/message_header_toolbar_customize-2.4.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -22799,18 +22807,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "1.71.0",
+          "extVersion": "1.72.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047416/ubird-1.71.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049050/ubird-1.72.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.71.0",
+          "extVersion": "1.72.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047416/ubird-1.71.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049050/ubird-1.72.2-tb.xpi?src="
         }
       ],
       "badges": []
