@@ -1,5 +1,5 @@
 {
-  "generated": 1784324130578,
+  "generated": 1784410554712,
   "supported_versions": [
     78,
     91,
@@ -5396,18 +5396,18 @@
         {
           "appVersion": "152",
           "type": "release",
-          "extVersion": "1.2.4",
+          "extVersion": "1.2.5",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048193/geburtstagskalender-1.2.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049072/geburtstagskalender-1.2.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2.4",
+          "extVersion": "1.2.5",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048193/geburtstagskalender-1.2.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049072/geburtstagskalender-1.2.5-tb.xpi?src="
         }
       ],
       "badges": []
@@ -8875,6 +8875,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1021644/enhancedreplyheaders-1.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "entra-bridge@linux-entra-bridge.tb",
+      "name": "Linux Entra Bridge",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "152",
+          "type": "release",
+          "extVersion": "0.1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049074/linux_entra_bridge-0.1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049074/linux_entra_bridge-0.1.0-tb.xpi?src="
         }
       ],
       "badges": []
