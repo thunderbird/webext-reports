@@ -1,5 +1,5 @@
 {
-  "generated": 1784756865029,
+  "generated": 1784842831050,
   "supported_versions": [
     78,
     91,
@@ -1224,11 +1224,19 @@
       "compat": [
         {
           "appVersion": "153",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037412/tag_toolbar_tag_popup-2.4.7-tb.xpi?src="
         },
         {
           "appVersion": "153",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "2.4.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037412/tag_toolbar_tag_popup-2.4.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -9352,26 +9360,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "1.1",
+          "extVersion": "1.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049463/copy_sent_to_current_pwe-1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049535/copy_sent_to_current_pwe-1.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.1",
+          "extVersion": "1.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049463/copy_sent_to_current_pwe-1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049535/copy_sent_to_current_pwe-1.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1",
+          "extVersion": "1.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049463/copy_sent_to_current_pwe-1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049535/copy_sent_to_current_pwe-1.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -18787,11 +18795,19 @@
       "compat": [
         {
           "appVersion": "153",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.4",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037413/message_header_toolbar_customize-2.4.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "2.4.4",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037413/message_header_toolbar_customize-2.4.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -22223,26 +22239,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "1.4",
+          "extVersion": "1.4.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049087/quick_react-1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049098/quick_react-1.4.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.4",
+          "extVersion": "1.4.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049087/quick_react-1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049098/quick_react-1.4.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.4",
+          "extVersion": "1.4.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049087/quick_react-1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049098/quick_react-1.4.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -24675,6 +24691,41 @@
       "badges": []
     },
     {
+      "id": "sieve.remsrc@mozdev.org",
+      "name": "Sieve Reloaded",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989605-32.png?modified=4f64ce8f",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989605-64.png?modified=4f64ce8f"
+      },
+      "compat": [
+        {
+          "appVersion": "153",
+          "type": "release",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049537/sieve_reloaded-1.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049537/sieve_reloaded-1.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049537/sieve_reloaded-1.0.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "sieve@mozdev.org",
       "name": "Sieve",
       "icons": {
@@ -25241,6 +25292,41 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048311/snooze_ninja-1.0.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "snooze@findby.net",
+      "name": "Snooze – Remind Me Later",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989816-32.png?modified=6c3a70fd",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989816-64.png?modified=6c3a70fd"
+      },
+      "compat": [
+        {
+          "appVersion": "153",
+          "type": "release",
+          "extVersion": "1.0.25",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049094/snooze_remind_me_later-1.0.25-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.25",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049094/snooze_remind_me_later-1.0.25-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.25",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049094/snooze_remind_me_later-1.0.25-tb.xpi?src="
         }
       ],
       "badges": []
