@@ -1,5 +1,5 @@
 {
-  "generated": 1784842831050,
+  "generated": 1784929227758,
   "supported_versions": [
     78,
     91,
@@ -11891,11 +11891,19 @@
       "compat": [
         {
           "appVersion": "153",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.8.47",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047360/expression_power_messagecalendar_search_ng-4.8.47-tb.xpi?src="
         },
         {
           "appVersion": "153",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "4.8.47",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047360/expression_power_messagecalendar_search_ng-4.8.47-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -14626,11 +14634,19 @@
       "compat": [
         {
           "appVersion": "153",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044067/header_tools_lite-2.4.7-tb.xpi?src="
         },
         {
           "appVersion": "153",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "2.4.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044067/header_tools_lite-2.4.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -14969,11 +14985,19 @@
       "compat": [
         {
           "appVersion": "153",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.4.12",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044866/attachment_viewer_view_in_a_tab_slideshow-3.4.12-tb.xpi?src="
         },
         {
           "appVersion": "153",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "3.4.12",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044866/attachment_viewer_view_in_a_tab_slideshow-3.4.12-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -19320,11 +19344,19 @@
       "compat": [
         {
           "appVersion": "153",
-          "type": "release"
+          "type": "release",
+          "extVersion": "5.0.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043785/nostalgy_emails_verwalten_suchen_archivieren-5.0.3-tb.xpi?src="
         },
         {
           "appVersion": "153",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "5.0.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043785/nostalgy_emails_verwalten_suchen_archivieren-5.0.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -30882,11 +30914,19 @@
       "compat": [
         {
           "appVersion": "153",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.7.14",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047526/xnote-4.7.14-tb.xpi?src="
         },
         {
           "appVersion": "153",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "4.7.14",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047526/xnote-4.7.14-tb.xpi?src="
         },
         {
           "appVersion": "140",
