@@ -1,5 +1,5 @@
 {
-  "generated": 1784929227758,
+  "generated": 1785015422805,
   "supported_versions": [
     78,
     91,
@@ -1050,18 +1050,18 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "0.16.3",
+          "extVersion": "0.16.4",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042308/bidi_mail_ui-0.16.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048773/bidi_mail_ui-0.16.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.16.3",
+          "extVersion": "0.16.4",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042308/bidi_mail_ui-0.16.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048773/bidi_mail_ui-0.16.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -1899,26 +1899,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "0.6.6",
+          "extVersion": "0.6.7",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046495/remove_duplicate_messages-0.6.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049557/remove_duplicate_messages-0.6.7-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.6.6",
+          "extVersion": "0.6.7",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046495/remove_duplicate_messages-0.6.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049557/remove_duplicate_messages-0.6.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.6.6",
+          "extVersion": "0.6.7",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046495/remove_duplicate_messages-0.6.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049557/remove_duplicate_messages-0.6.7-tb.xpi?src="
         }
       ],
       "badges": []
