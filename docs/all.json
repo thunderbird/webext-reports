@@ -1,5 +1,5 @@
 {
-  "generated": 1785015422805,
+  "generated": 1785188552761,
   "supported_versions": [
     78,
     91,
@@ -560,11 +560,19 @@
       "compat": [
         {
           "appVersion": "153",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.7.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040743/folderflags-1.7.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "1.7.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1040743/folderflags-1.7.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -29172,8 +29180,8 @@
       "id": "torpedo@tu-darmstadt.de",
       "name": "TORPEDO - TOoltip-poweRed Phishing Email DetectiOn",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/705/705889-32.png?modified=1784113400",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/705/705889-64.png?modified=1784113400"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/705/705889-32.png?modified=1785157863",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/705/705889-64.png?modified=1785157863"
       },
       "compat": [
         {
