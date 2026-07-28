@@ -1,5 +1,5 @@
 {
-  "generated": 1785188552761,
+  "generated": 1785274996727,
   "supported_versions": [
     78,
     91,
@@ -8440,26 +8440,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "1.16.2",
+          "extVersion": "1.17.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049061/cleanmail-1.16.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049593/cleanmail-1.17.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.16.2",
+          "extVersion": "1.17.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049061/cleanmail-1.16.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049593/cleanmail-1.17.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.16.2",
+          "extVersion": "1.17.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049061/cleanmail-1.16.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049593/cleanmail-1.17.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11302,26 +11302,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "2.0.0",
+          "extVersion": "2.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047233/email_original-2.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049536/email_original-2.1.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.0.0",
+          "extVersion": "2.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047233/email_original-2.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049536/email_original-2.1.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.0.0",
+          "extVersion": "2.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047233/email_original-2.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049536/email_original-2.1.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13197,11 +13197,19 @@
       "compat": [
         {
           "appVersion": "153",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039878/findnow-4.3-tb.xpi?src="
         },
         {
           "appVersion": "153",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "4.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039878/findnow-4.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -21824,26 +21832,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "1.5.0",
+          "extVersion": "1.6.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048590/quick_steps-1.5.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049588/quick_steps-1.6.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.5.0",
+          "extVersion": "1.6.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048590/quick_steps-1.5.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049588/quick_steps-1.6.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.5.0",
+          "extVersion": "1.6.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048590/quick_steps-1.5.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049588/quick_steps-1.6.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -25347,26 +25355,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "1.0.25",
+          "extVersion": "1.0.26",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049094/snooze_remind_me_later-1.0.25-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049539/snooze_remind_me_later-1.0.26-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.0.25",
+          "extVersion": "1.0.26",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049094/snooze_remind_me_later-1.0.25-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049539/snooze_remind_me_later-1.0.26-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.25",
+          "extVersion": "1.0.26",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049094/snooze_remind_me_later-1.0.25-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049539/snooze_remind_me_later-1.0.26-tb.xpi?src="
         }
       ],
       "badges": []
@@ -27450,26 +27458,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "2.3.2",
+          "extVersion": "2.4.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044707/reply_with_attachments-2.3.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049587/reply_with_attachments-2.4.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.3.2",
+          "extVersion": "2.4.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044707/reply_with_attachments-2.3.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049587/reply_with_attachments-2.4.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.3.2",
+          "extVersion": "2.4.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044707/reply_with_attachments-2.3.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049587/reply_with_attachments-2.4.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -29187,26 +29195,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "4.0.2",
+          "extVersion": "4.0.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048762/torpedo_tooltip_powered_phishing_email_detection-4.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049552/torpedo_tooltip_powered_phishing_email_detection-4.0.3-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "4.0.2",
+          "extVersion": "4.0.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048762/torpedo_tooltip_powered_phishing_email_detection-4.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049552/torpedo_tooltip_powered_phishing_email_detection-4.0.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.0.2",
+          "extVersion": "4.0.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048762/torpedo_tooltip_powered_phishing_email_detection-4.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049552/torpedo_tooltip_powered_phishing_email_detection-4.0.3-tb.xpi?src="
         }
       ],
       "badges": []
