@@ -1,5 +1,5 @@
 {
-  "generated": 1785361008731,
+  "generated": 1785447719439,
   "supported_versions": [
     78,
     91,
@@ -1505,11 +1505,19 @@
       "compat": [
         {
           "appVersion": "153",
-          "type": "release"
+          "type": "release",
+          "extVersion": "6.9.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049601/quicktext-6.9.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "6.9.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049601/quicktext-6.9.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -30378,26 +30386,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "1.4",
+          "extVersion": "1.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048772/washibird-1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049681/washibird-1.5-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.4",
+          "extVersion": "1.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048772/washibird-1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049681/washibird-1.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.4",
+          "extVersion": "1.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048772/washibird-1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049681/washibird-1.5-tb.xpi?src="
         }
       ],
       "badges": []
