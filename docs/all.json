@@ -1,5 +1,5 @@
 {
-  "generated": 1785447719439,
+  "generated": 1785534036969,
   "supported_versions": [
     78,
     91,
@@ -8848,26 +8848,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "0.2.7",
+          "extVersion": "0.2.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048143/tab_composer-0.2.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049695/tab_composer-0.2.8-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.2.7",
+          "extVersion": "0.2.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048143/tab_composer-0.2.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049695/tab_composer-0.2.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.2.7",
+          "extVersion": "0.2.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048143/tab_composer-0.2.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049695/tab_composer-0.2.8-tb.xpi?src="
         }
       ],
       "badges": []
@@ -19477,7 +19477,7 @@
     },
     {
       "id": "notebooklm-clipper-tb@mtfkarukera.dev",
-      "name": "Magic Clipper for NotebookLM",
+      "name": "Magic Clipper for Gemini Notebook",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989771-32.png?modified=b94be05a",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989771-64.png?modified=b94be05a"
@@ -19486,26 +19486,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "1.5.0",
+          "extVersion": "1.5.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048362/magic_clipper_for_notebooklm-1.5.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049696/magic_clipper_for_notebooklm-1.5.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.5.0",
+          "extVersion": "1.5.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048362/magic_clipper_for_notebooklm-1.5.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049696/magic_clipper_for_notebooklm-1.5.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.5.0",
+          "extVersion": "1.5.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048362/magic_clipper_for_notebooklm-1.5.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049696/magic_clipper_for_notebooklm-1.5.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -21133,26 +21133,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "5.22",
+          "extVersion": "5.27",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049042/postscriptum-5.22-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049694/postscriptum-5.27-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "5.22",
+          "extVersion": "5.27",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049042/postscriptum-5.22-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049694/postscriptum-5.27-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "5.22",
+          "extVersion": "5.27",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049042/postscriptum-5.22-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049694/postscriptum-5.27-tb.xpi?src="
         }
       ],
       "badges": []
