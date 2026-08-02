@@ -1,5 +1,5 @@
 {
-  "generated": 1785534036969,
+  "generated": 1785706428015,
   "supported_versions": [
     78,
     91,
@@ -13356,11 +13356,19 @@
       "compat": [
         {
           "appVersion": "153",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.6.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038445/filter_on_folder_button-1.6.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "1.6.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038445/filter_on_folder_button-1.6.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
