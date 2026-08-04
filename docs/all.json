@@ -1,5 +1,5 @@
 {
-  "generated": 1785706428015,
+  "generated": 1785879974115,
   "supported_versions": [
     78,
     91,
@@ -10663,33 +10663,33 @@
       "id": "duplicate-email-remover@ljsch.local",
       "name": "Duplicate Email Remover",
       "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989916-32.png?modified=4da3daaf",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989916-64.png?modified=4da3daaf"
       },
       "compat": [
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "1.0.0",
+          "extVersion": "1.1.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049541/duplicate_email_remover-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049737/duplicate_email_remover-1.1.6-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.0.0",
+          "extVersion": "1.1.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049541/duplicate_email_remover-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049737/duplicate_email_remover-1.1.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.0",
+          "extVersion": "1.1.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049541/duplicate_email_remover-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049737/duplicate_email_remover-1.1.6-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13462,26 +13462,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "0.2.0",
+          "extVersion": "0.2.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045409/foldersync-0.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049719/foldersync-0.2.5-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.2.0",
+          "extVersion": "0.2.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045409/foldersync-0.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049719/foldersync-0.2.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.2.0",
+          "extVersion": "0.2.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045409/foldersync-0.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049719/foldersync-0.2.5-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17482,26 +17482,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "1.0.3",
+          "extVersion": "1.0.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049027/jaybeemailmanager-1.0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049677/jaybeemailmanager-1.0.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.0.3",
+          "extVersion": "1.0.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049027/jaybeemailmanager-1.0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049677/jaybeemailmanager-1.0.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.3",
+          "extVersion": "1.0.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049027/jaybeemailmanager-1.0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049677/jaybeemailmanager-1.0.4-tb.xpi?src="
         }
       ],
       "badges": []
@@ -21141,26 +21141,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "5.27",
+          "extVersion": "5.28",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049694/postscriptum-5.27-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049709/postscriptum-5.28-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "5.27",
+          "extVersion": "5.28",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049694/postscriptum-5.27-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049709/postscriptum-5.28-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "5.27",
+          "extVersion": "5.28",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049694/postscriptum-5.27-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049709/postscriptum-5.28-tb.xpi?src="
         }
       ],
       "badges": []
@@ -30366,19 +30366,27 @@
       "compat": [
         {
           "appVersion": "153",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.19",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049736/warnattachment-2.19-tb.xpi?src="
         },
         {
           "appVersion": "153",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "2.19",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049736/warnattachment-2.19-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.18",
+          "extVersion": "2.19",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048055/warnattachment-2.18-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049736/warnattachment-2.19-tb.xpi?src="
         }
       ],
       "badges": []
