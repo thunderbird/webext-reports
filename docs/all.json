@@ -1,5 +1,5 @@
 {
-  "generated": 1785966246544,
+  "generated": 1786058730901,
   "supported_versions": [
     78,
     91,
@@ -4875,6 +4875,37 @@
       "badges": []
     },
     {
+      "id": "ai-assistant@local.thunderbird",
+      "name": "邮件AI助手",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "153",
+          "type": "release",
+          "extVersion": "0.1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049840/ai-0.1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "0.1.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049840/ai-0.1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr"
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "ai-chatting-mail-summarizer@FuLuTang.com",
       "name": "AI Chatting Mail Summarizer",
       "icons": {
@@ -5492,8 +5523,8 @@
       "id": "app@inboxpie.com",
       "name": "InboxPie",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989694-32.png?modified=48a6be2f",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989694-64.png?modified=48a6be2f"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989694-32.png?modified=e272ee4c",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989694-64.png?modified=e272ee4c"
       },
       "compat": [
         {
@@ -8833,6 +8864,37 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048159/compact_headers-5.15-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "compose-recipient-analyzer@example.invalid",
+      "name": "Compose Recipient Analyzer",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "153",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049838/compose_recipient_analyzer-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049838/compose_recipient_analyzer-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr"
         }
       ],
       "badges": []
