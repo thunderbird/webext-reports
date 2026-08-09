@@ -1,5 +1,5 @@
 {
-  "generated": 1786225010036,
+  "generated": 1786310764824,
   "supported_versions": [
     78,
     91,
@@ -28699,18 +28699,18 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "0.3.3",
+          "extVersion": "0.3.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049862/thundervim-0.3.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049878/thundervim-0.3.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.3.3",
+          "extVersion": "0.3.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049862/thundervim-0.3.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049878/thundervim-0.3.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
