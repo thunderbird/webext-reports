@@ -1,5 +1,5 @@
 {
-  "generated": 1786397499702,
+  "generated": 1786484035438,
   "supported_versions": [
     78,
     91,
@@ -21403,6 +21403,37 @@
       "badges": []
     },
     {
+      "id": "prohibited-recipients-guard@example.invalid",
+      "name": "Prohibited Recipients Guard",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989983-32.png?modified=6d6ecaf1",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989983-64.png?modified=6d6ecaf1"
+      },
+      "compat": [
+        {
+          "appVersion": "153",
+          "type": "release",
+          "extVersion": "1.0.5",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049894/addon-1.0.5-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.5",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049894/addon-1.0.5-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr"
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "proofreader@thunderbird",
       "name": "OpenAI Proofreader",
       "icons": {
@@ -27871,26 +27902,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "1.0.15",
+          "extVersion": "1.0.16",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049868/thunderbird_ai_reply_assistant-1.0.15-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049900/thunderbird_ai_reply_assistant-1.0.16-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.0.15",
+          "extVersion": "1.0.16",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049868/thunderbird_ai_reply_assistant-1.0.15-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049900/thunderbird_ai_reply_assistant-1.0.16-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.15",
+          "extVersion": "1.0.16",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049868/thunderbird_ai_reply_assistant-1.0.15-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049900/thunderbird_ai_reply_assistant-1.0.16-tb.xpi?src="
         }
       ],
       "badges": []
