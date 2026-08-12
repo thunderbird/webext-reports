@@ -1,5 +1,5 @@
 {
-  "generated": 1786484035438,
+  "generated": 1786570373699,
   "supported_versions": [
     78,
     91,
@@ -204,6 +204,41 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1020710/url_link-3.6-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "{1829ac77-b68e-373a-acb2-f4863c44b8f1}",
+      "name": "PNGquant for Thunderbird",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989986-32.png?modified=e0c81e42",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989986-64.png?modified=e0c81e42"
+      },
+      "compat": [
+        {
+          "appVersion": "153",
+          "type": "release",
+          "extVersion": "1.2.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049911/pngquant-1.2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.2.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049911/pngquant-1.2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.2.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049911/pngquant-1.2.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -1583,26 +1618,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "1.14",
+          "extVersion": "1.15",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048294/move_messages_or_yourself-1.14-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049912/move_messages-1.15-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.14",
+          "extVersion": "1.15",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048294/move_messages_or_yourself-1.14-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049912/move_messages-1.15-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.14",
+          "extVersion": "1.15",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048294/move_messages_or_yourself-1.14-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049912/move_messages-1.15-tb.xpi?src="
         }
       ],
       "badges": []
@@ -7989,26 +8024,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "1.0.7",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048673/cazadjuntos-1.0.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049899/cazadjuntos-1.1.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.0.7",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048673/cazadjuntos-1.0.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049899/cazadjuntos-1.1.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.7",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048673/cazadjuntos-1.0.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049899/cazadjuntos-1.1.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14214,6 +14249,37 @@
       "badges": []
     },
     {
+      "id": "github-review-context@richvdh.org",
+      "name": "GitHub Review Context",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "153",
+          "type": "release",
+          "extVersion": "1.1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049107/github_review_context-1.1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049107/github_review_context-1.1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr"
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "gkeep-thunder@tantely.fr",
       "name": "Open Google Keep",
       "icons": {
@@ -16367,6 +16433,41 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047214/group_favorite_folders-0.6.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "kontakt@sellizer.pl",
+      "name": "Sellizer for Thunderbird",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989841-32.png?modified=a75977a0",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989841-64.png?modified=a75977a0"
+      },
+      "compat": [
+        {
+          "appVersion": "153",
+          "type": "release",
+          "extVersion": "1.0.56",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049597/sellizer_dla_thunderbird-1.0.56-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.56",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049597/sellizer_dla_thunderbird-1.0.56-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.56",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049597/sellizer_dla_thunderbird-1.0.56-tb.xpi?src="
         }
       ],
       "badges": []
@@ -19582,7 +19683,7 @@
     },
     {
       "id": "notebird@saveriomorelli.com",
-      "name": "Notebird",
+      "name": "Notebird (discontinued)",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988176-32.png?modified=e41bd2c0",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988176-64.png?modified=e41bd2c0"
@@ -21413,18 +21514,18 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "1.0.5",
+          "extVersion": "1.0.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049894/addon-1.0.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049904/addon-1.0.6-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.0.5",
+          "extVersion": "1.0.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049894/addon-1.0.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049904/addon-1.0.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -27456,26 +27557,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "2.8.0",
+          "extVersion": "2.8.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049881/templatewing-2.8.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049902/templatewing-2.8.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.8.0",
+          "extVersion": "2.8.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049881/templatewing-2.8.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049902/templatewing-2.8.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.8.0",
+          "extVersion": "2.8.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049881/templatewing-2.8.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049902/templatewing-2.8.1-tb.xpi?src="
         }
       ],
       "badges": []
