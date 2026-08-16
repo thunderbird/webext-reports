@@ -1,5 +1,5 @@
 {
-  "generated": 1786828885177,
+  "generated": 1786915344206,
   "supported_versions": [
     78,
     91,
@@ -210,7 +210,7 @@
     },
     {
       "id": "{1829ac77-b68e-373a-acb2-f4863c44b8f1}",
-      "name": "PNGquant for Thunderbird",
+      "name": "Pedantic Pixel Press",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989986-32.png?modified=e0c81e42",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989986-64.png?modified=e0c81e42"
@@ -219,26 +219,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "1.4.0",
+          "extVersion": "1.5.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050025/pngquant_for_thunderbird-1.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050040/pedantic_pixel_press-1.5.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.4.0",
+          "extVersion": "1.5.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050025/pngquant_for_thunderbird-1.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050040/pedantic_pixel_press-1.5.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.4.0",
+          "extVersion": "1.5.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050025/pngquant_for_thunderbird-1.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050040/pedantic_pixel_press-1.5.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17435,26 +17435,26 @@
         {
           "appVersion": "153",
           "type": "release",
-          "extVersion": "0.2.5",
+          "extVersion": "0.2.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049030/mail_auth_checker-0.2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050037/mail_auth_checker-0.2.6-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.2.5",
+          "extVersion": "0.2.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049030/mail_auth_checker-0.2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050037/mail_auth_checker-0.2.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.2.5",
+          "extVersion": "0.2.6",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049030/mail_auth_checker-0.2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050037/mail_auth_checker-0.2.6-tb.xpi?src="
         }
       ],
       "badges": []
@@ -19753,7 +19753,7 @@
     },
     {
       "id": "notebooklm-clipper-tb@mtfkarukera.dev",
-      "name": "Magic Clipper for Gemini Notebook (ex-NotebookLM)",
+      "name": "Magic Clipper pour Gemini Notebook (ex-NotebookLM)",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989771-32.png?modified=b94be05a",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989771-64.png?modified=b94be05a"
