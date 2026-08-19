@@ -1,5 +1,5 @@
 {
-  "generated": 1787088177386,
+  "generated": 1787174622229,
   "supported_versions": [
     91,
     102,
@@ -219,26 +219,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "1.6",
+          "extVersion": "1.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050049/pedantic_pixel_press-1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050353/pedantic_picture_packer-1.7-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.6",
+          "extVersion": "1.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050049/pedantic_pixel_press-1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050353/pedantic_picture_packer-1.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.6",
+          "extVersion": "1.7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050049/pedantic_pixel_press-1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050353/pedantic_picture_packer-1.7-tb.xpi?src="
         }
       ],
       "badges": []
@@ -1499,7 +1499,11 @@
       "compat": [
         {
           "appVersion": "154",
-          "type": "release"
+          "type": "release",
+          "extVersion": "6.9.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049601/quicktext-6.9.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -11523,18 +11527,18 @@
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "6",
+          "extVersion": "7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1021647/empty_folder-6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050064/empty_folder-7-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "6",
+          "extVersion": "7",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1021647/empty_folder-6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050064/empty_folder-7-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17076,26 +17080,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "2.2.0",
+          "extVersion": "2.3.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050058/magic_translator-2.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050352/magic_translator-2.3.9-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.2.0",
+          "extVersion": "2.3.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050058/magic_translator-2.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050352/magic_translator-2.3.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.2.0",
+          "extVersion": "2.3.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050058/magic_translator-2.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050352/magic_translator-2.3.9-tb.xpi?src="
         }
       ],
       "badges": []
@@ -19487,23 +19491,27 @@
       "compat": [
         {
           "appVersion": "154",
-          "type": "release"
+          "type": "release",
+          "extVersion": "5.0.5",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050214/nostalgy_emails_verwalten_suchen_archivieren-5.0.5-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "5.0.3",
+          "extVersion": "5.0.5",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043785/nostalgy_emails_verwalten_suchen_archivieren-5.0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050214/nostalgy_emails_verwalten_suchen_archivieren-5.0.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "5.0.3",
+          "extVersion": "5.0.5",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043785/nostalgy_emails_verwalten_suchen_archivieren-5.0.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050214/nostalgy_emails_verwalten_suchen_archivieren-5.0.5-tb.xpi?src="
         }
       ],
       "badges": []
@@ -26152,26 +26160,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "1.4.0",
+          "extVersion": "1.4.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050032/stop_phishing_me-1.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050141/stop_phishing_me-1.4.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.4.0",
+          "extVersion": "1.4.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050032/stop_phishing_me-1.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050141/stop_phishing_me-1.4.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.4.0",
+          "extVersion": "1.4.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050032/stop_phishing_me-1.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050141/stop_phishing_me-1.4.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -28171,6 +28179,41 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031236/mailhops-4.5.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "thunderbird@sendent.com",
+      "name": "Nextcloud for Thunderbird",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989396-32.png?modified=f6af8155",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989396-64.png?modified=f6af8155"
+      },
+      "compat": [
+        {
+          "appVersion": "154",
+          "type": "release",
+          "extVersion": "1.0.58",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049896/nextcloud_for_thunderbird-1.0.58-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.58",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049896/nextcloud_for_thunderbird-1.0.58-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.58",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049896/nextcloud_for_thunderbird-1.0.58-tb.xpi?src="
         }
       ],
       "badges": []
