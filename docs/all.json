@@ -1,5 +1,5 @@
 {
-  "generated": 1787174622229,
+  "generated": 1787261049459,
   "supported_versions": [
     91,
     102,
@@ -219,26 +219,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "1.7",
+          "extVersion": "1.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050353/pedantic_picture_packer-1.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050440/pedantic_picture_packer-1.8-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.7",
+          "extVersion": "1.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050353/pedantic_picture_packer-1.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050440/pedantic_picture_packer-1.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.7",
+          "extVersion": "1.8",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050353/pedantic_picture_packer-1.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050440/pedantic_picture_packer-1.8-tb.xpi?src="
         }
       ],
       "badges": []
@@ -1750,15 +1750,19 @@
         },
         {
           "appVersion": "153",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "3.10",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050434/folder_filters_button-3.10-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.9",
+          "extVersion": "3.10",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041615/folder_filters_button-3.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050434/folder_filters_button-3.10-tb.xpi?src="
         }
       ],
       "alternatives": [
@@ -7675,11 +7679,19 @@
       "compat": [
         {
           "appVersion": "154",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.6.10",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046231/calendarproject_tools_gantt_year_view_planner-2.6.10-tb.xpi?src="
         },
         {
           "appVersion": "153",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "2.6.10",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046231/calendarproject_tools_gantt_year_view_planner-2.6.10-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -11976,7 +11988,11 @@
       "compat": [
         {
           "appVersion": "154",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.8.47",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047360/expression_power_messagecalendar_search_ng-4.8.47-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -14766,7 +14782,11 @@
       "compat": [
         {
           "appVersion": "154",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044067/header_tools_lite-2.4.7-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -15113,7 +15133,11 @@
       "compat": [
         {
           "appVersion": "154",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.4.12",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044866/attachment_viewer_view_in_a_tab_slideshow-3.4.12-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -15599,7 +15623,11 @@
       "compat": [
         {
           "appVersion": "154",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.1.4",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049035/message_list_preview-2.1.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -19037,10 +19065,10 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "5.2",
+          "extVersion": "5.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048030/myphoneexplorer-5.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045815/myphoneexplorer-5.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -24890,8 +24918,8 @@
       "id": "shrunked@darktrojan.net",
       "name": "Shrunked Image Resizer",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/11/11005-32.png?modified=1672190665",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/11/11005-64.png?modified=1672190665"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/11/11005-32.png?modified=1787249029",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/11/11005-64.png?modified=1787249029"
       },
       "compat": [
         {
@@ -25985,26 +26013,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "1.7.1",
+          "extVersion": "1.8.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043127/standardtexter-1.7.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050439/standardtexter-1.8.3-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.7.1",
+          "extVersion": "1.8.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043127/standardtexter-1.7.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050439/standardtexter-1.8.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.7.1",
+          "extVersion": "1.8.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043127/standardtexter-1.7.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050439/standardtexter-1.8.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -31294,7 +31322,11 @@
       "compat": [
         {
           "appVersion": "154",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.7.14",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047526/xnote-4.7.14-tb.xpi?src="
         },
         {
           "appVersion": "153",
