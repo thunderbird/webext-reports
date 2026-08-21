@@ -1964,7 +1964,6 @@
     "989452-aveleshko.set-email-font@addons.thunderbird.net-set-e-mail-font",
     "989454-{26ad023f-6980-4219-8458-adbeaf9a2759}-glossy-new-tab",
     "989455-{ae237f87-80c1-4281-8ecf-8b619bd7b518}-delete-facebook-messages",
-    "989456-PerFolderPrefs@kamens.us-per-folder-preferences",
     "989458-gemini-watermark-remover@muzammil.work-gemini-watermark-remover",
     "989461-it@sfrev.de-simple-spoof-detector",
     "989462-inline-image-paste-plus@cancodr-inline-image-paste-plus",
@@ -2135,6 +2134,9 @@
     "989991-thunderclaw@addons.thunderbird.net-thunderclaw",
     "989996-filelink@mandalo.it-mandalo-it-filelink",
     "990003-sidenote-thunderbird@meyermedia.eu-sidenote",
+    "990026-plaintext-compose-helper@d.lech-plain-text-compose-helper",
+    "990028-mailzip@ximalu.dev-mailzip",
+    "990037-image-size-presets@local-image-auto-re-size",
     "9956-tonequilla@mesquilla.com-tonequilla",
     "9995-emailcrawler@torge.kummerow-email-address-crawler"
 ]
