@@ -1,5 +1,5 @@
 {
-  "generated": 1787347332536,
+  "generated": 1787433655143,
   "supported_versions": [
     91,
     102,
@@ -219,26 +219,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "1.8",
+          "extVersion": "1.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050440/pedantic_picture_packer-1.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050469/pedantic_picture_packer-1.9-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.8",
+          "extVersion": "1.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050440/pedantic_picture_packer-1.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050469/pedantic_picture_packer-1.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.8",
+          "extVersion": "1.9",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050440/pedantic_picture_packer-1.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050469/pedantic_picture_packer-1.9-tb.xpi?src="
         }
       ],
       "badges": []
@@ -910,23 +910,27 @@
       "compat": [
         {
           "appVersion": "154",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.6.8",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050470/correct_identity-2.6.8-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.6.7",
+          "extVersion": "2.6.8",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047728/correct_identity-2.6.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050470/correct_identity-2.6.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.6.7",
+          "extVersion": "2.6.8",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047728/correct_identity-2.6.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050470/correct_identity-2.6.8-tb.xpi?src="
         }
       ],
       "alternatives": [
@@ -22070,6 +22074,41 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039502/quick_folder_move-3.3.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "quicknote@jacobo-feijoo",
+      "name": "Take Notes for Thunderbird",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990039-32.png?modified=3f89c523",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990039-64.png?modified=3f89c523"
+      },
+      "compat": [
+        {
+          "appVersion": "154",
+          "type": "release",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050471/take_notes_for_thunderbird-1.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050471/take_notes_for_thunderbird-1.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050471/take_notes_for_thunderbird-1.0.1-tb.xpi?src="
         }
       ],
       "badges": []
