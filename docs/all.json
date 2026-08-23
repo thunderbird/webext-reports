@@ -1,5 +1,5 @@
 {
-  "generated": 1787433655143,
+  "generated": 1787520069436,
   "supported_versions": [
     91,
     102,
@@ -219,26 +219,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "1.9",
+          "extVersion": "1.9.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050469/pedantic_picture_packer-1.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050482/pedantic_picture_packer-1.9.5-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.9",
+          "extVersion": "1.9.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050469/pedantic_picture_packer-1.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050482/pedantic_picture_packer-1.9.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.9",
+          "extVersion": "1.9.5",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050469/pedantic_picture_packer-1.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050482/pedantic_picture_packer-1.9.5-tb.xpi?src="
         }
       ],
       "badges": []
@@ -952,23 +952,27 @@
       "compat": [
         {
           "appVersion": "154",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.3.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050488/nc_connector_for_thunderbird-3.3.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "3.3.0",
+          "extVersion": "3.3.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049544/nc_connector_for_thunderbird-3.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050488/nc_connector_for_thunderbird-3.3.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.3.0",
+          "extVersion": "3.3.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049544/nc_connector_for_thunderbird-3.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050488/nc_connector_for_thunderbird-3.3.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -1937,6 +1941,13 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049557/remove_duplicate_messages-0.6.7-tb.xpi?src="
+        }
+      ],
+      "alternatives": [
+        {
+          "name": "Duplicate Email Remover",
+          "link": "https://addons.thunderbird.net/addon/duplicate-email-remover/",
+          "id": "duplicate-email-remover@ljsch.local"
         }
       ],
       "badges": []
@@ -8819,26 +8830,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "5.15",
+          "extVersion": "5.16",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048159/compact_headers-5.15-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050473/compact_headers-5.16-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "5.15",
+          "extVersion": "5.16",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048159/compact_headers-5.15-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050473/compact_headers-5.16-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "5.15",
+          "extVersion": "5.16",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048159/compact_headers-5.15-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050473/compact_headers-5.16-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9483,26 +9494,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "1.2",
+          "extVersion": "1.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049535/copy_sent_to_current_pwe-1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050481/copy_sent_to_current_pwe-1.3-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.2",
+          "extVersion": "1.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049535/copy_sent_to_current_pwe-1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050481/copy_sent_to_current_pwe-1.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2",
+          "extVersion": "1.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049535/copy_sent_to_current_pwe-1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050481/copy_sent_to_current_pwe-1.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10777,26 +10788,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "1.1.6",
+          "extVersion": "1.2.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049737/duplicate_email_remover-1.1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050462/duplicate_email_remover-1.2.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.1.6",
+          "extVersion": "1.2.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049737/duplicate_email_remover-1.1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050462/duplicate_email_remover-1.2.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.1.6",
+          "extVersion": "1.2.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049737/duplicate_email_remover-1.1.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050462/duplicate_email_remover-1.2.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -15969,7 +15980,11 @@
       "compat": [
         {
           "appVersion": "154",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.1.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042186/sender_frequency-3.1.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -17373,41 +17388,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048358/mailauthinfoviewer-1.2.4-tb.xpi?src="
-        }
-      ],
-      "badges": []
-    },
-    {
-      "id": "mail-filter-alert@kengheng1024",
-      "name": "Mail Filter Alert",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989793-32.png?modified=074c30d1",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989793-64.png?modified=074c30d1"
-      },
-      "compat": [
-        {
-          "appVersion": "154",
-          "type": "release",
-          "extVersion": "1.1.4",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048164/mail_filter_alert-1.1.4-tb.xpi?src="
-        },
-        {
-          "appVersion": "153",
-          "type": "next-esr",
-          "extVersion": "1.1.4",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048164/mail_filter_alert-1.1.4-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "1.1.4",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048164/mail_filter_alert-1.1.4-tb.xpi?src="
         }
       ],
       "badges": []
@@ -20290,26 +20270,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "3.0",
+          "extVersion": "4.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039833/opendetachedattachments-3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050486/opendetachedattachments-4.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "3.0",
+          "extVersion": "4.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039833/opendetachedattachments-3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050486/opendetachedattachments-4.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.0",
+          "extVersion": "4.1",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039833/opendetachedattachments-3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050486/opendetachedattachments-4.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -24388,41 +24368,6 @@
       "badges": []
     },
     {
-      "id": "SelectInbox@jobisoft.de",
-      "name": "Select Inbox on Startup",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988128-32.png?modified=f7a49fd0",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988128-64.png?modified=f7a49fd0"
-      },
-      "compat": [
-        {
-          "appVersion": "154",
-          "type": "release",
-          "extVersion": "3.4",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041260/select_inbox_on_startup-3.4-tb.xpi?src="
-        },
-        {
-          "appVersion": "153",
-          "type": "next-esr",
-          "extVersion": "3.4",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041260/select_inbox_on_startup-3.4-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "3.4",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041260/select_inbox_on_startup-3.4-tb.xpi?src="
-        }
-      ],
-      "badges": []
-    },
-    {
       "id": "selectprevondelete@mistralconsulting.com",
       "name": "Select Prev on Delete",
       "icons": {
@@ -25007,26 +24952,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "1.5",
+          "extVersion": "1.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043101/showthread-1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050489/showthread-1.6-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.5",
+          "extVersion": "1.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043101/showthread-1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050489/showthread-1.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.5",
+          "extVersion": "1.6",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043101/showthread-1.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050489/showthread-1.6-tb.xpi?src="
         }
       ],
       "badges": []
@@ -30558,26 +30503,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "1.2.2",
+          "extVersion": "1.2.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039622/userchromejs-1.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050465/userchromejs-1.2.3-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.2.2",
+          "extVersion": "1.2.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039622/userchromejs-1.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050465/userchromejs-1.2.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2.2",
+          "extVersion": "1.2.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039622/userchromejs-1.2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050465/userchromejs-1.2.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -31448,26 +31393,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "4.7.14",
+          "extVersion": "4.7.24",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047526/xnote-4.7.14-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050463/xnote-4.7.24-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "4.7.14",
+          "extVersion": "4.7.24",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047526/xnote-4.7.14-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050463/xnote-4.7.24-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.7.14",
+          "extVersion": "4.7.24",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047526/xnote-4.7.14-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050463/xnote-4.7.24-tb.xpi?src="
         }
       ],
       "badges": []
