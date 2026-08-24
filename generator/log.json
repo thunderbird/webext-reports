@@ -2081,6 +2081,7 @@
     "989789-alarms-reminders-and-notifications@muzammil.work-alarm-reminders-notifications",
     "989791-postscriptum@lordl1515-postscriptum",
     "989792-nls-local-spam-filter@nls.local-nls-mail-manager",
+    "989793-mail-filter-alert@kengheng1024-mail-filter-alert",
     "989796-mav-thunderbird@tenpumailbin.com-添付メール便",
     "989797-site-snap@muzammil.work-chromakit",
     "989798-thunderbird-vacation-responder@findby.net-vacation-responder",
@@ -2132,10 +2133,14 @@
     "989991-thunderclaw@addons.thunderbird.net-thunderclaw",
     "989996-filelink@mandalo.it-mandalo-it-filelink",
     "990003-sidenote-thunderbird@meyermedia.eu-sidenote",
+    "990008-mailing-list-creator@rkfig.com-mailing-list-creator",
     "990026-plaintext-compose-helper@d.lech-plain-text-compose-helper",
+    "990027-report-sus-email-to-cert@xpu.pl-report-sus-email-to-cert-pl",
     "990028-mailzip@ximalu.dev-mailzip",
     "990037-image-size-presets@local-image-auto-re-size",
     "990039-quicknote@jacobo-feijoo-take-notes-for-thunderbird",
+    "990043-no-next-on-delete@example.local-no-next-message-on-delete",
+    "990046-{cccb12e9-cb99-4860-b03b-60acecaecd06}-mail-ticket-id-tb",
     "9956-tonequilla@mesquilla.com-tonequilla",
     "9995-emailcrawler@torge.kummerow-email-address-crawler"
 ]
