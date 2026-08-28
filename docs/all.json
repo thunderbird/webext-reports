@@ -1,5 +1,5 @@
 {
-  "generated": 1787782474649,
+  "generated": 1787876520952,
   "supported_versions": [
     91,
     102,
@@ -254,26 +254,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "2.1.1",
+          "extVersion": "2.1.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050691/pedantic_picture_packer-2.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050767/pedantic_picture_packer-2.1.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.1.1",
+          "extVersion": "2.1.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050691/pedantic_picture_packer-2.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050767/pedantic_picture_packer-2.1.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.1.1",
+          "extVersion": "2.1.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050691/pedantic_picture_packer-2.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050767/pedantic_picture_packer-2.1.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -4579,26 +4579,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "4.23",
+          "extVersion": "4.24",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049850/addressbooks_synchronizer-4.23-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050609/addressbooks_synchronizer-4.24-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "4.23",
+          "extVersion": "4.24",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049850/addressbooks_synchronizer-4.23-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050609/addressbooks_synchronizer-4.24-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "4.23",
+          "extVersion": "4.24",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049850/addressbooks_synchronizer-4.23-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050609/addressbooks_synchronizer-4.24-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10936,26 +10936,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "1.2.3",
+          "extVersion": "1.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050490/duplicate_email_remover-1.2.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050687/duplicate_email_remover-1.3.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.2.3",
+          "extVersion": "1.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050490/duplicate_email_remover-1.2.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050687/duplicate_email_remover-1.3.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2.3",
+          "extVersion": "1.3.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050490/duplicate_email_remover-1.2.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050687/duplicate_email_remover-1.3.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17118,6 +17118,41 @@
       "badges": []
     },
     {
+      "id": "llm-text-assistent-thunderbird@s1t5.dev",
+      "name": "LLM Text Assistent",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "154",
+          "type": "release",
+          "extVersion": "1.5.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050769/llm_text_assistent-1.5.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.5.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050769/llm_text_assistent-1.5.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.5.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050769/llm_text_assistent-1.5.2-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "local-to-imap-migrator@thunderbird-extension",
       "name": "IMAP Migrator",
       "icons": {
@@ -22338,26 +22373,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "6.16.3",
+          "extVersion": "6.17",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048019/quickfolders_tabbed_folders-6.16.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050692/quickfolders_tabbed_folders-6.17-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "6.16.3",
+          "extVersion": "6.17",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048019/quickfolders_tabbed_folders-6.16.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050692/quickfolders_tabbed_folders-6.17-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "6.16.3",
+          "extVersion": "6.17",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048019/quickfolders_tabbed_folders-6.16.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050692/quickfolders_tabbed_folders-6.17-tb.xpi?src="
         }
       ],
       "badges": []
@@ -28258,6 +28293,41 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049900/thunderbird_ai_reply_assistant-1.0.16-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "thunderbird-ai@felicitas-wisdom.com",
+      "name": "AI Mail Assistant",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990066-32.png?modified=4fe10f2d",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990066-64.png?modified=4fe10f2d"
+      },
+      "compat": [
+        {
+          "appVersion": "154",
+          "type": "release",
+          "extVersion": "3.5.6",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050780/ai_mail_assistant_for_thunderbird-3.5.6-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "3.5.6",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050780/ai_mail_assistant_for_thunderbird-3.5.6-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "3.5.6",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050780/ai_mail_assistant_for_thunderbird-3.5.6-tb.xpi?src="
         }
       ],
       "badges": []
