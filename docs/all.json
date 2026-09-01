@@ -1,5 +1,5 @@
 {
-  "generated": 1788212832935,
+  "generated": 1788298051915,
   "supported_versions": [
     91,
     102,
@@ -8722,26 +8722,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "1.3.0",
+          "extVersion": "1.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050820/clean_quote-1.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050831/clean_quote-1.4.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.3.0",
+          "extVersion": "1.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050820/clean_quote-1.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050831/clean_quote-1.4.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.3.0",
+          "extVersion": "1.4.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050820/clean_quote-1.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050831/clean_quote-1.4.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9689,26 +9689,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "1.3",
+          "extVersion": "2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050481/copy_sent_to_current_pwe-1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050908/copy_sent_to_current_pwe-2.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.3",
+          "extVersion": "2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050481/copy_sent_to_current_pwe-1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050908/copy_sent_to_current_pwe-2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.3",
+          "extVersion": "2.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050481/copy_sent_to_current_pwe-1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050908/copy_sent_to_current_pwe-2.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17175,26 +17175,26 @@
         {
           "appVersion": "154",
           "type": "release",
-          "extVersion": "1.5.2",
+          "extVersion": "1.5.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050769/llm_text_assistent-1.5.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050899/llm_text_assistent-1.5.3-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.5.2",
+          "extVersion": "1.5.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050769/llm_text_assistent-1.5.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050899/llm_text_assistent-1.5.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.5.2",
+          "extVersion": "1.5.3",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050769/llm_text_assistent-1.5.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050899/llm_text_assistent-1.5.3-tb.xpi?src="
         }
       ],
       "badges": []
