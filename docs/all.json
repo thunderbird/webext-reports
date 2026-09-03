@@ -1,5 +1,5 @@
 {
-  "generated": 1788384890103,
+  "generated": 1788470774052,
   "supported_versions": [
     91,
     102,
@@ -254,26 +254,26 @@
         {
           "appVersion": "155",
           "type": "release",
-          "extVersion": "2.3.0",
-          "isWebExtension": true,
+          "extVersion": "2.3.1",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051206/pedantic_picture_packer-2.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051210/pedantic_picture_packer-2.3.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.3.0",
-          "isWebExtension": true,
+          "extVersion": "2.3.1",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051206/pedantic_picture_packer-2.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051210/pedantic_picture_packer-2.3.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.3.0",
-          "isWebExtension": true,
+          "extVersion": "2.3.1",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051206/pedantic_picture_packer-2.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051210/pedantic_picture_packer-2.3.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13766,6 +13766,41 @@
       "badges": []
     },
     {
+      "id": "forward-subject-tagger@local.addon",
+      "name": "Forward Subject Tagger",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990086-32.png?modified=0b048fb9",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990086-64.png?modified=0b048fb9"
+      },
+      "compat": [
+        {
+          "appVersion": "155",
+          "type": "release",
+          "extVersion": "1.5",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051214/forward_subject_tagger-1.5-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.5",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051214/forward_subject_tagger-1.5-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.5",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051214/forward_subject_tagger-1.5-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "FrameWhite@Sungho.Hwang",
       "name": "FrameWhite",
       "icons": {
@@ -20195,19 +20230,11 @@
       "compat": [
         {
           "appVersion": "155",
-          "type": "release",
-          "extVersion": "1.7.1",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037120/old_classic_icons-1.7.1-tb.xpi?src="
+          "type": "release"
         },
         {
           "appVersion": "153",
-          "type": "next-esr",
-          "extVersion": "1.7.1",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037120/old_classic_icons-1.7.1-tb.xpi?src="
+          "type": "next-esr"
         },
         {
           "appVersion": "140",
