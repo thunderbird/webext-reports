@@ -1,5 +1,5 @@
 {
-  "generated": 1788557244586,
+  "generated": 1788643554455,
   "supported_versions": [
     91,
     102,
@@ -1302,7 +1302,11 @@
       "compat": [
         {
           "appVersion": "155",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037412/tag_toolbar_tag_popup-2.4.7-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -1956,26 +1960,26 @@
         {
           "appVersion": "155",
           "type": "release",
-          "extVersion": "0.6.6",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046495/remove_duplicate_messages-0.6.6-tb.xpi?src="
+          "extVersion": "0.6.7.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051247/remove_duplicate_messages-0.6.7.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.6.7",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049557/remove_duplicate_messages-0.6.7-tb.xpi?src="
+          "extVersion": "0.6.7.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051247/remove_duplicate_messages-0.6.7.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.6.7",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049557/remove_duplicate_messages-0.6.7-tb.xpi?src="
+          "extVersion": "0.6.7.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051247/remove_duplicate_messages-0.6.7.1-tb.xpi?src="
         }
       ],
       "alternatives": [
@@ -8703,33 +8707,33 @@
       "id": "cleanQuote@addons.thunderbird.net",
       "name": "Clean Quote",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990069-32.png?modified=425cccb4",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990069-64.png?modified=425cccb4"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990069-32.png?modified=13b38157",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990069-64.png?modified=13b38157"
       },
       "compat": [
         {
           "appVersion": "155",
           "type": "release",
-          "extVersion": "1.4.0",
-          "isWebExtension": true,
+          "extVersion": "1.4.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050831/clean_quote-1.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051248/clean_quote-1.4.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.4.0",
-          "isWebExtension": true,
+          "extVersion": "1.4.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050831/clean_quote-1.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051248/clean_quote-1.4.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.4.0",
-          "isWebExtension": true,
+          "extVersion": "1.4.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050831/clean_quote-1.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051248/clean_quote-1.4.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -15424,23 +15428,27 @@
       "compat": [
         {
           "appVersion": "155",
-          "type": "release"
+          "type": "release",
+          "extVersion": "15.0.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051224/importexporttools_ng-15.0.3-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "15.0.1",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048163/importexporttools_ng-15.0.1-tb.xpi?src="
+          "extVersion": "15.0.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051224/importexporttools_ng-15.0.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "15.0.1",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048163/importexporttools_ng-15.0.1-tb.xpi?src="
+          "extVersion": "15.0.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051224/importexporttools_ng-15.0.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -16866,15 +16874,19 @@
         },
         {
           "appVersion": "153",
-          "type": "next-esr"
+          "type": "next-esr",
+          "extVersion": "153.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051243/lightning_invitation_notifier_lin-153.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "140.0",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041345/lightning_invitation_notifier_lin-140.0-tb.xpi?src="
+          "extVersion": "153.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051243/lightning_invitation_notifier_lin-153.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -19406,7 +19418,11 @@
       "compat": [
         {
           "appVersion": "155",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.4",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037413/message_header_toolbar_customize-2.4.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -21784,15 +21800,19 @@
       "compat": [
         {
           "appVersion": "155",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.1.14",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050810/printingtools_ng-3.1.14-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "3.1.13",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046800/printingtools_ng-3.1.13-tb.xpi?src="
+          "extVersion": "3.1.14",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050810/printingtools_ng-3.1.14-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -27249,26 +27269,26 @@
         {
           "appVersion": "155",
           "type": "release",
-          "extVersion": "1.2.3",
+          "extVersion": "1.2.4",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051229/synology_filestation_filelink-1.2.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051242/synology_filestation_filelink-1.2.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.2.3",
+          "extVersion": "1.2.4",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051229/synology_filestation_filelink-1.2.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051242/synology_filestation_filelink-1.2.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.2.3",
+          "extVersion": "1.2.4",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051229/synology_filestation_filelink-1.2.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051242/synology_filestation_filelink-1.2.4-tb.xpi?src="
         }
       ],
       "badges": []
