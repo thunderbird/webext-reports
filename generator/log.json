@@ -2144,6 +2144,7 @@
     "990043-no-next-on-delete@example.local-no-next-message-on-delete",
     "990044-attach-print-all@msx44.extensions-attach-print-all",
     "990046-{cccb12e9-cb99-4860-b03b-60acecaecd06}-mail-ticket-id-tb",
+    "990049-replymonitor@antoniomorais360.github.io-replymonitor",
     "990051-translate-mail@luka-havrlisan-translate-mail",
     "990052-undo-send-delay@yourdomain.com-undo-send-delay",
     "990058-{161b9fcd-d6d4-449d-9d14-e0838289f8e8}-duck-alias-relay",
@@ -2155,6 +2156,8 @@
     "990086-forward-subject-tagger@local.addon-forward-subject-tagger",
     "990087-roam-activity@sprint-in.com-roam-virtual-office-activity",
     "990089-synology-filestation-filelink@local-synology-filestation-filelink",
+    "990103-extension@emojery.app-emojery",
+    "990104-multi-sign-editor@polesz.codeberg.org-multi-sign-editor",
     "9956-tonequilla@mesquilla.com-tonequilla",
     "9995-emailcrawler@torge.kummerow-email-address-crawler"
 ]
