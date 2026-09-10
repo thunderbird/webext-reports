@@ -1,5 +1,5 @@
 {
-  "generated": 1788989105126,
+  "generated": 1789082155732,
   "supported_versions": [
     91,
     102,
@@ -2519,41 +2519,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047392/fexnet_filelink-1.2.1-tb.xpi?src="
-        }
-      ],
-      "badges": []
-    },
-    {
-      "id": "{d8815e01-8ffc-4d85-a082-d750b35f21c1}",
-      "name": "Dark Plain Text",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988553-32.png?modified=e4d0f403",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988553-64.png?modified=e4d0f403"
-      },
-      "compat": [
-        {
-          "appVersion": "155",
-          "type": "release",
-          "extVersion": "1.1.0",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1025108/dark_plain_text-1.1.0-tb.xpi?src="
-        },
-        {
-          "appVersion": "153",
-          "type": "next-esr",
-          "extVersion": "1.1.0",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1025108/dark_plain_text-1.1.0-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "1.1.0",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1025108/dark_plain_text-1.1.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -6392,6 +6357,41 @@
       "badges": []
     },
     {
+      "id": "auto-dsn@lindesbs.de",
+      "name": "Auto DSN",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "155",
+          "type": "release",
+          "extVersion": "1.2.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051390/auto_dsn-1.2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.2.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051390/auto_dsn-1.2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.2.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051390/auto_dsn-1.2.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "auto-layout-switcher@go321.eu",
       "name": "Auto Layout Switcher",
       "icons": {
@@ -8252,41 +8252,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045905/mac_vendor_lookup-1.1-tb.xpi?src="
-        }
-      ],
-      "badges": []
-    },
-    {
-      "id": "change-link-appearance@thunderbird.extension",
-      "name": "Change Link Appearance",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988557-32.png?modified=13db1cdc",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988557-64.png?modified=13db1cdc"
-      },
-      "compat": [
-        {
-          "appVersion": "155",
-          "type": "release",
-          "extVersion": "1.1",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1024650/change_link_appearance-1.1-tb.xpi?src="
-        },
-        {
-          "appVersion": "153",
-          "type": "next-esr",
-          "extVersion": "1.1",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1024650/change_link_appearance-1.1-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "1.1",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1024650/change_link_appearance-1.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10521,41 +10486,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043684/disable_link-1.0.1-tb.xpi?src="
-        }
-      ],
-      "badges": []
-    },
-    {
-      "id": "DisplayMailUserAgent-T@Toshi_",
-      "name": "Display Mail User Agent T",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/987/987719-32.png?modified=3ab0d3bf",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/987/987719-64.png?modified=3ab0d3bf"
-      },
-      "compat": [
-        {
-          "appVersion": "155",
-          "type": "release",
-          "extVersion": "2.9.14",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045772/display_mail_user_agent_t-2.9.14-tb.xpi?src="
-        },
-        {
-          "appVersion": "153",
-          "type": "next-esr",
-          "extVersion": "2.9.14",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045772/display_mail_user_agent_t-2.9.14-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "2.9.14",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045772/display_mail_user_agent_t-2.9.14-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13307,26 +13237,26 @@
         {
           "appVersion": "155",
           "type": "release",
-          "extVersion": "0.1.0",
-          "isWebExtension": true,
+          "extVersion": "0.1.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050006/mandaloit_filelink-0.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051413/mandaloit_filelink-0.1.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.1.0",
-          "isWebExtension": true,
+          "extVersion": "0.1.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050006/mandaloit_filelink-0.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051413/mandaloit_filelink-0.1.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.1.0",
-          "isWebExtension": true,
+          "extVersion": "0.1.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050006/mandaloit_filelink-0.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051413/mandaloit_filelink-0.1.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13921,41 +13851,6 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047238/free_email_scrapper-0.0.1-tb.xpi?src="
-        }
-      ],
-      "badges": []
-    },
-    {
-      "id": "freecosys_filelink@birdiecode.ru",
-      "name": "Freecosys - Провайдер FileLink",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988561-32.png?modified=28cbc09a",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988561-64.png?modified=28cbc09a"
-      },
-      "compat": [
-        {
-          "appVersion": "155",
-          "type": "release",
-          "extVersion": "1.1",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1024812/freecosys_filelink-1.1-tb.xpi?src="
-        },
-        {
-          "appVersion": "153",
-          "type": "next-esr",
-          "extVersion": "1.1",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1024812/freecosys_filelink-1.1-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "1.1",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1024812/freecosys_filelink-1.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17229,26 +17124,26 @@
         {
           "appVersion": "155",
           "type": "release",
-          "extVersion": "1.5.6",
+          "extVersion": "1.5.7",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051308/llm_text_assistent-1.5.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051402/llm_text_assistent-1.5.7-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.5.6",
+          "extVersion": "1.5.7",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051308/llm_text_assistent-1.5.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051402/llm_text_assistent-1.5.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.5.6",
+          "extVersion": "1.5.7",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051308/llm_text_assistent-1.5.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051402/llm_text_assistent-1.5.7-tb.xpi?src="
         }
       ],
       "badges": []
@@ -25045,41 +24940,6 @@
       "badges": []
     },
     {
-      "id": "send_later123@extension.com",
-      "name": "Send Later Button",
-      "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988546-32.png?modified=a20e7cdb",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988546-64.png?modified=a20e7cdb"
-      },
-      "compat": [
-        {
-          "appVersion": "155",
-          "type": "release",
-          "extVersion": "1.2.7",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042305/send_later_button-1.2.7-tb.xpi?src="
-        },
-        {
-          "appVersion": "153",
-          "type": "next-esr",
-          "extVersion": "1.2.7",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042305/send_later_button-1.2.7-tb.xpi?src="
-        },
-        {
-          "appVersion": "140",
-          "type": "current-esr",
-          "extVersion": "1.2.7",
-          "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042305/send_later_button-1.2.7-tb.xpi?src="
-        }
-      ],
-      "badges": []
-    },
-    {
       "id": "send-and-archive@example.com",
       "name": "Send and Archive",
       "icons": {
@@ -27390,26 +27250,26 @@
         {
           "appVersion": "155",
           "type": "release",
-          "extVersion": "1.6.6",
+          "extVersion": "2.2.2",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051304/filelink_for_synology_filestation-1.6.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051421/filelink_for_synology_filestation-2.2.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.6.6",
+          "extVersion": "2.2.2",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051304/filelink_for_synology_filestation-1.6.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051421/filelink_for_synology_filestation-2.2.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.6.6",
+          "extVersion": "2.2.2",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051304/filelink_for_synology_filestation-1.6.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051421/filelink_for_synology_filestation-2.2.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -28093,6 +27953,41 @@
       "badges": []
     },
     {
+      "id": "template-inserter@bedios.de",
+      "name": "Template Inserter",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990116-32.png?modified=23a60efd",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990116-64.png?modified=23a60efd"
+      },
+      "compat": [
+        {
+          "appVersion": "155",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051399/template_inserter-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051399/template_inserter-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051399/template_inserter-1.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "template-menu@kooperatif.local",
       "name": "Template Menu",
       "icons": {
@@ -28619,26 +28514,26 @@
         {
           "appVersion": "155",
           "type": "release",
-          "extVersion": "3.6.0",
-          "isWebExtension": true,
+          "extVersion": "3.8.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050788/ai_mail_assistant-3.6.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051411/ai_mail_assistant_for_thunderbird-3.8.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "3.6.0",
-          "isWebExtension": true,
+          "extVersion": "3.8.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050788/ai_mail_assistant-3.6.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051411/ai_mail_assistant_for_thunderbird-3.8.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.6.0",
-          "isWebExtension": true,
+          "extVersion": "3.8.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050788/ai_mail_assistant-3.6.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051411/ai_mail_assistant_for_thunderbird-3.8.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -29657,18 +29552,18 @@
         {
           "appVersion": "155",
           "type": "release",
-          "extVersion": "0.3.7",
-          "isWebExtension": true,
+          "extVersion": "0.3.8",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050792/thundervim-0.3.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051384/thundervim-0.3.8-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.3.7",
-          "isWebExtension": true,
+          "extVersion": "0.3.8",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050792/thundervim-0.3.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051384/thundervim-0.3.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -30908,26 +30803,26 @@
         {
           "appVersion": "155",
           "type": "release",
-          "extVersion": "1.73.0",
+          "extVersion": "1.74.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051228/ubird-1.73.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051385/ubird-1.74.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.73.0",
+          "extVersion": "1.74.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051228/ubird-1.73.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051385/ubird-1.74.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.73.0",
+          "extVersion": "1.74.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051228/ubird-1.73.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051385/ubird-1.74.0-tb.xpi?src="
         }
       ],
       "badges": []

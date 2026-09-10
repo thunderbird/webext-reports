@@ -1628,11 +1628,6 @@
     "988542-edithtmlsource@jobisoft.de-html-source-editor",
     "988543-{a29be6e4-276b-35c7-7a16-28170470bac3}-selectall-button",
     "988545-open-lab.dev@proton.me-dropbox-paper",
-    "988546-send_later123@extension.com-später-senden-button",
-    "988553-{d8815e01-8ffc-4d85-a082-d750b35f21c1}-dark-plain-text",
-    "988557-change-link-appearance@thunderbird.extension-change-link-appearance",
-    "988559-unified-folders@extensions.thunderbird.net-unified-folders-debugging",
-    "988561-freecosys_filelink@birdiecode.ru-freecosys-filelink-provider",
     "988564-pastecode@wellnerbou.de-paste-code",
     "988565-{6a5fc2f3-e8eb-4897-81b8-432ffe6ea016}-close-search-tabs",
     "988566-markread@ontabopen.org-mark-read-on-tab-open",
@@ -2158,6 +2153,8 @@
     "990089-synology-filestation-filelink@local-synology-filestation-filelink",
     "990103-extension@emojery.app-emojery",
     "990104-multi-sign-editor@polesz.codeberg.org-multi-sign-editor",
+    "990111-auto-dsn@lindesbs.de-auto-dsn",
+    "990116-template-inserter@bedios.de-template-inserter",
     "9956-tonequilla@mesquilla.com-tonequilla",
     "9995-emailcrawler@torge.kummerow-email-address-crawler"
 ]
