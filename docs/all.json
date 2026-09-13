@@ -1,5 +1,5 @@
 {
-  "generated": 1789258664279,
+  "generated": 1789341201116,
   "supported_versions": [
     91,
     102,
@@ -254,26 +254,26 @@
         {
           "appVersion": "155",
           "type": "release",
-          "extVersion": "2.3.1",
+          "extVersion": "2.4.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051210/pedantic_picture_packer-2.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051456/pedantic_picture_packer-2.4.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.3.1",
+          "extVersion": "2.4.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051210/pedantic_picture_packer-2.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051456/pedantic_picture_packer-2.4.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.3.1",
+          "extVersion": "2.4.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051210/pedantic_picture_packer-2.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051456/pedantic_picture_packer-2.4.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -342,7 +342,7 @@
     },
     {
       "id": "{1add566c-e906-41be-b897-744463ccd5d3}",
-      "name": "Annuaire Monlycée.net",
+      "name": "Contacts from Monlycée.net",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989307-32.png?modified=7526be70",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989307-64.png?modified=7526be70"
@@ -351,26 +351,26 @@
         {
           "appVersion": "155",
           "type": "release",
-          "extVersion": "0.12",
-          "isWebExtension": true,
+          "extVersion": "0.13",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045806/annuaire_monlyceenet-0.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051444/annuaire_monlyceenet-0.13-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.12",
-          "isWebExtension": true,
+          "extVersion": "0.13",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045806/annuaire_monlyceenet-0.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051444/annuaire_monlyceenet-0.13-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.12",
-          "isWebExtension": true,
+          "extVersion": "0.13",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045806/annuaire_monlyceenet-0.12-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051444/annuaire_monlyceenet-0.13-tb.xpi?src="
         }
       ],
       "badges": []
@@ -1198,26 +1198,26 @@
         {
           "appVersion": "155",
           "type": "release",
-          "extVersion": "31.6.1",
-          "isWebExtension": true,
+          "extVersion": "31.8.1",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048775/g_app_launcher_googletm_shortcuts-31.6.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051469/g_app_launcher_googletm_shortcuts-31.8.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "31.6.1",
-          "isWebExtension": true,
+          "extVersion": "31.8.1",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048775/g_app_launcher_googletm_shortcuts-31.6.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051469/g_app_launcher_googletm_shortcuts-31.8.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "31.6.1",
-          "isWebExtension": true,
+          "extVersion": "31.8.1",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048775/g_app_launcher_googletm_shortcuts-31.6.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051469/g_app_launcher_googletm_shortcuts-31.8.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13726,18 +13726,18 @@
         {
           "appVersion": "155",
           "type": "release",
-          "extVersion": "0.3.0",
+          "extVersion": "0.3.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051386/folder_filter_scheduler-0.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051442/folder_filter_scheduler-0.3.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.3.0",
+          "extVersion": "0.3.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051386/folder_filter_scheduler-0.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051442/folder_filter_scheduler-0.3.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -17403,23 +17403,27 @@
       "compat": [
         {
           "appVersion": "155",
-          "type": "release"
+          "type": "release",
+          "extVersion": "7.4.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051394/lookout_fix_version-7.4.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "7.3.1",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050593/lookout_fix_version-7.3.1-tb.xpi?src="
+          "extVersion": "7.4.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051394/lookout_fix_version-7.4.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "7.3.1",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050593/lookout_fix_version-7.3.1-tb.xpi?src="
+          "extVersion": "7.4.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051394/lookout_fix_version-7.4.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -26369,6 +26373,41 @@
       "badges": []
     },
     {
+      "id": "snooze-ninja@digitalfracture.co.uk",
+      "name": "Snooze Ninja",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989802-32.png?modified=5c38455e",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989802-64.png?modified=5c38455e"
+      },
+      "compat": [
+        {
+          "appVersion": "155",
+          "type": "release",
+          "extVersion": "1.0.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048311/snooze_ninja-1.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048311/snooze_ninja-1.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048311/snooze_ninja-1.0.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "snooze@findby.net",
       "name": "Snooze – Remind Me Later",
       "icons": {
@@ -27383,33 +27422,33 @@
       "id": "synology-filestation-filelink@local",
       "name": "FileLink For Synology FileStation",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990089-32.png?modified=9c744739",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990089-64.png?modified=9c744739"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990089-32.png?modified=fab73ea7",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990089-64.png?modified=fab73ea7"
       },
       "compat": [
         {
           "appVersion": "155",
           "type": "release",
-          "extVersion": "2.22.222",
+          "extVersion": "2.3.7",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051446/filelink_for_synology_filestation-2.22.222-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051460/filelink_for_synology_filestation-2.3.7-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.22.222",
+          "extVersion": "2.3.7",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051446/filelink_for_synology_filestation-2.22.222-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051460/filelink_for_synology_filestation-2.3.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.22.222",
+          "extVersion": "2.3.7",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051446/filelink_for_synology_filestation-2.22.222-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051460/filelink_for_synology_filestation-2.3.7-tb.xpi?src="
         }
       ],
       "badges": []
@@ -31565,26 +31604,26 @@
         {
           "appVersion": "155",
           "type": "release",
-          "extVersion": "0.0.1",
-          "isWebExtension": true,
+          "extVersion": "0.0.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047239/vidstamp_youtube_upload_date_viewer-0.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051462/vidstamp_youtube_upload_date_viewer-0.0.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.0.1",
-          "isWebExtension": true,
+          "extVersion": "0.0.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047239/vidstamp_youtube_upload_date_viewer-0.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051462/vidstamp_youtube_upload_date_viewer-0.0.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.0.1",
-          "isWebExtension": true,
+          "extVersion": "0.0.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047239/vidstamp_youtube_upload_date_viewer-0.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051462/vidstamp_youtube_upload_date_viewer-0.0.2-tb.xpi?src="
         }
       ],
       "badges": []
