@@ -1,5 +1,5 @@
 {
-  "generated": 1789594068677,
+  "generated": 1789680597606,
   "supported_versions": [
     91,
     102,
@@ -5201,26 +5201,26 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "0.5.9",
+          "extVersion": "0.5.15",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051654/ai_writing_assistant-0.5.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051967/ai_writing_assistant-0.5.15-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.5.9",
+          "extVersion": "0.5.15",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051654/ai_writing_assistant-0.5.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051967/ai_writing_assistant-0.5.15-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.5.9",
+          "extVersion": "0.5.15",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051654/ai_writing_assistant-0.5.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051967/ai_writing_assistant-0.5.15-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13749,18 +13749,18 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "0.3.2",
+          "extVersion": "0.3.3",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051481/folder_filter_scheduler-0.3.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051949/folder_filter_scheduler-0.3.3-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.3.2",
+          "extVersion": "0.3.3",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051481/folder_filter_scheduler-0.3.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051949/folder_filter_scheduler-0.3.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -15332,26 +15332,26 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "0.2.7",
-          "isWebExtension": true,
+          "extVersion": "0.2.8",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043775/interstellar_alliance_social_experiment_step_3-0.2.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051966/interstellar_alliance_social_experiment_step_3-0.2.8-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.2.7",
-          "isWebExtension": true,
+          "extVersion": "0.2.8",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043775/interstellar_alliance_social_experiment_step_3-0.2.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051966/interstellar_alliance_social_experiment_step_3-0.2.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.2.7",
-          "isWebExtension": true,
+          "extVersion": "0.2.8",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043775/interstellar_alliance_social_experiment_step_3-0.2.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051966/interstellar_alliance_social_experiment_step_3-0.2.8-tb.xpi?src="
         }
       ],
       "badges": []
@@ -24790,26 +24790,26 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "2.1.3",
+          "extVersion": "2.1.4",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051236/schnelltextleiste-2.1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051964/schnelltextleiste-2.1.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.1.3",
+          "extVersion": "2.1.4",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051236/schnelltextleiste-2.1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051964/schnelltextleiste-2.1.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.1.3",
+          "extVersion": "2.1.4",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051236/schnelltextleiste-2.1.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051964/schnelltextleiste-2.1.4-tb.xpi?src="
         }
       ],
       "badges": []
