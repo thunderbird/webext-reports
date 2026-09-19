@@ -1,5 +1,5 @@
 {
-  "generated": 1789766872153,
+  "generated": 1789853224492,
   "supported_versions": [
     91,
     102,
@@ -2511,6 +2511,41 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047392/fexnet_filelink-1.2.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "{d364ee51-490d-4ce9-a256-0dfd910a70f6}",
+      "name": "Shared Mailbox Sent Cleanup",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990114-32.png?modified=6e52539b",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990114-64.png?modified=6e52539b"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "1.2.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051561/shared_mailbox_sent_cleanup-1.2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.2.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051561/shared_mailbox_sent_cleanup-1.2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.2.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051561/shared_mailbox_sent_cleanup-1.2.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9877,6 +9912,41 @@
       "badges": []
     },
     {
+      "id": "csv2mail@cubenote.de",
+      "name": "csv2mail",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990151-32.png?modified=05e4fce7",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990151-64.png?modified=05e4fce7"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051981/csv2mail-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051981/csv2mail-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051981/csv2mail-1.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "custom_headers_view@z-aki",
       "name": "Custom Headers View",
       "icons": {
@@ -11823,6 +11893,41 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050064/empty_folder-7-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "emptying@jacobo-feijoo",
+      "name": "Emptying",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990127-32.png?modified=7fbee834",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990127-64.png?modified=7fbee834"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "2.0.6",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051474/emptying-2.0.6-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "2.0.6",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051474/emptying-2.0.6-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "2.0.6",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051474/emptying-2.0.6-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14439,6 +14544,41 @@
       "badges": []
     },
     {
+      "id": "get-ics-file@laurentcozic",
+      "name": "Open Outlook Invitations",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990129-32.png?modified=6507cac2",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990129-64.png?modified=6507cac2"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "1.0.4",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051576/open_outlook_invitations-1.0.4-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.4",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051576/open_outlook_invitations-1.0.4-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.4",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051576/open_outlook_invitations-1.0.4-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "gimps@tealdulcet.com",
       "name": "GIMPS Opener",
       "icons": {
@@ -16753,10 +16893,10 @@
     },
     {
       "id": "krysgit.mswin1253-greek-fix@addons.thunderbird.net",
-      "name": "MSWIN1253 Greek Fix",
+      "name": "MSWIN1253 για μηνύματα από το ΕΚΔΔΑ",
       "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990098-32.png?modified=c0264a27",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990098-64.png?modified=c0264a27"
       },
       "compat": [
         {
@@ -17006,15 +17146,19 @@
       "compat": [
         {
           "appVersion": "156",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.11",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051977/lightning_calendar_tabs-3.11-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "3.10",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050595/lightning_calendar_tabs-3.10-tb.xpi?src="
+          "extVersion": "3.11",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051977/lightning_calendar_tabs-3.11-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -22524,26 +22668,26 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "2.2.0",
-          "isWebExtension": true,
+          "extVersion": "2.7.1",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1026026/quickarchiver-2.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051971/quickarchiver-2.7.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.7.0",
+          "extVersion": "2.7.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051795/quickarchiver-2.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051971/quickarchiver-2.7.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.7.0",
+          "extVersion": "2.7.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051795/quickarchiver-2.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051971/quickarchiver-2.7.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -23010,18 +23154,18 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "4.5",
-          "isWebExtension": true,
+          "extVersion": "4.6",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039540/toggle_quotes_collapse_quotes-4.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051974/toggle_quotes_quote_collapse-4.6-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "4.5",
-          "isWebExtension": true,
+          "extVersion": "4.6",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039540/toggle_quotes_collapse_quotes-4.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051974/toggle_quotes_quote_collapse-4.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -24864,26 +25008,26 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "2.1.4",
+          "extVersion": "2.2.5",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051964/schnelltextleiste-2.1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051982/schnelltextleiste-2.2.5-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.1.4",
+          "extVersion": "2.2.5",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051964/schnelltextleiste-2.1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051982/schnelltextleiste-2.2.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.1.4",
+          "extVersion": "2.2.5",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051964/schnelltextleiste-2.1.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051982/schnelltextleiste-2.2.5-tb.xpi?src="
         }
       ],
       "badges": []
@@ -28074,6 +28218,41 @@
       "badges": []
     },
     {
+      "id": "tbautoreply@renzluigi",
+      "name": "TB AutoReply",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "1.4.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051574/tb_autoreply-1.4.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.4.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051574/tb_autoreply-1.4.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.4.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051574/tb_autoreply-1.4.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "tbhints@addons.thunderbird.net",
       "name": "tbhints",
       "icons": {
@@ -29451,6 +29630,41 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045260/email_address_extractor_to_csv-1.2-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "thunderbird@writemail.ai",
+      "name": "WriteMail for Thunderbird",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990083-32.png?modified=ea24485b",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990083-64.png?modified=ea24485b"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "1.0.2",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051963/writemail_for_thunderbird-1.0.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.2",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051963/writemail_for_thunderbird-1.0.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.2",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051963/writemail_for_thunderbird-1.0.2-tb.xpi?src="
         }
       ],
       "badges": []
