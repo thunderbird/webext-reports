@@ -1,5 +1,5 @@
 {
-  "generated": 1790026021421,
+  "generated": 1790112475352,
   "supported_versions": [
     91,
     102,
@@ -406,6 +406,41 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1035472/check_and_send-2.1.7-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "{1fcb1868-e723-486b-941b-3224b04c24b0}",
+      "name": "Mail Timezone Converter",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989533-32.png?modified=c6550b6e",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989533-64.png?modified=c6550b6e"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "1.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048554/mail_timezone_to_jst-1.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048554/mail_timezone_to_jst-1.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048554/mail_timezone_to_jst-1.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -1019,26 +1054,26 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "0.2.0",
-          "isWebExtension": true,
+          "extVersion": "0.3.1",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050047/thunderclaude-0.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052112/thunderclaude-0.3.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.2.0",
-          "isWebExtension": true,
+          "extVersion": "0.3.1",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050047/thunderclaude-0.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052112/thunderclaude-0.3.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.2.0",
-          "isWebExtension": true,
+          "extVersion": "0.3.1",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050047/thunderclaude-0.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052112/thunderclaude-0.3.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -6024,7 +6059,7 @@
     },
     {
       "id": "att-hub@thrilldroid",
-      "name": "Att-Hub – Attachment Manager - Viewer, Zip, Backup",
+      "name": "Att-Hub Attachment Viewer, PDF, Image, Zip, Backup",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989482-32.png?modified=94e73a62",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989482-64.png?modified=94e73a62"
@@ -6033,26 +6068,26 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "2.3.6",
-          "isWebExtension": true,
+          "extVersion": "2.7.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047929/att_hub_anhang_vorschau_mangement_tool-2.3.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052021/att_hub_attachment_manager_viewer_zip_backup-2.7.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.3.6",
-          "isWebExtension": true,
+          "extVersion": "2.7.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047929/att_hub_anhang_vorschau_mangement_tool-2.3.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052021/att_hub_attachment_manager_viewer_zip_backup-2.7.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.3.6",
-          "isWebExtension": true,
+          "extVersion": "2.7.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047929/att_hub_anhang_vorschau_mangement_tool-2.3.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052021/att_hub_attachment_manager_viewer_zip_backup-2.7.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9254,26 +9289,26 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "0.3.0",
+          "extVersion": "1.0.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051802/tab_composer-0.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052025/tab_composer-1.0.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.3.0",
+          "extVersion": "1.0.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051802/tab_composer-0.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052025/tab_composer-1.0.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.3.0",
+          "extVersion": "1.0.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051802/tab_composer-0.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052025/tab_composer-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11508,6 +11543,41 @@
           "isWebExtension": false,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051990/email_cleaner-2.4-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "email-crm@example.com",
+      "name": "Email CRM",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989779-32.png?modified=1e68e401",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989779-64.png?modified=1e68e401"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "0.3.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048185/email_crm-0.3.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "0.3.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048185/email_crm-0.3.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.3.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048185/email_crm-0.3.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13854,18 +13924,18 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "0.3.3",
+          "extVersion": "0.3.4",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051949/folder_filter_scheduler-0.3.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052098/folder_filter_scheduler-0.3.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.3.3",
+          "extVersion": "0.3.4",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051949/folder_filter_scheduler-0.3.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052098/folder_filter_scheduler-0.3.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -16682,6 +16752,41 @@
       "badges": []
     },
     {
+      "id": "K-saver@k-tech-studio.com",
+      "name": "Multi-Attachment Saver",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989674-32.png?modified=1ab46aa2",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989674-64.png?modified=1ab46aa2"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "6.5",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046816/multi_attachment_saver-6.5-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "6.5",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046816/multi_attachment_saver-6.5-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "6.5",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046816/multi_attachment_saver-6.5-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "keepassxc-mail@kkapsner.de",
       "name": "keepassxc-mail",
       "icons": {
@@ -17591,8 +17696,8 @@
       "id": "logisign-connect@kidlogis.fr",
       "name": "LogiSign Connect",
       "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990162-32.png?modified=bc866639",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990162-64.png?modified=bc866639"
       },
       "compat": [
         {
@@ -19374,6 +19479,41 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1015802/m_hub_lite-2.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "migrate-messages-between-accounts@clear-code.com",
+      "name": "Migrate Messages Between Accounts",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990115-32.png?modified=f78211b9",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990115-64.png?modified=f78211b9"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "0.3.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051430/migrate_messages_between_accounts-0.3.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "0.3.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051430/migrate_messages_between_accounts-0.3.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.3.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051430/migrate_messages_between_accounts-0.3.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -21597,6 +21737,41 @@
       "badges": []
     },
     {
+      "id": "peczipper@piga.it",
+      "name": "PEC Zipper",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989623-32.png?modified=a3610357",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989623-64.png?modified=a3610357"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "1.1.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052103/pec_zipper-1.1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.1.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052103/pec_zipper-1.1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.1.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052103/pec_zipper-1.1.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "people-panel@example.org",
       "name": "People Panel",
       "icons": {
@@ -22252,18 +22427,18 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "3.1.14",
+          "extVersion": "3.1.16",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050810/printingtools_ng-3.1.14-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052095/printingtools_ng-3.1.16-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "3.1.14",
+          "extVersion": "3.1.16",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050810/printingtools_ng-3.1.14-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052095/printingtools_ng-3.1.16-tb.xpi?src="
         },
         {
           "appVersion": "140",
@@ -31880,6 +32055,41 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044021/unwrap_signature-0.3.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "usenet-intro@punchmonkey.app",
+      "name": "Custom Introduction Strings",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989699-32.png?modified=47119839",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989699-64.png?modified=47119839"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "1.2",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047126/custom_introduction_strings-1.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.2",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047126/custom_introduction_strings-1.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.2",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047126/custom_introduction_strings-1.2-tb.xpi?src="
         }
       ],
       "badges": []
