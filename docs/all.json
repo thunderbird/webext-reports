@@ -1,5 +1,5 @@
 {
-  "generated": 1790112475352,
+  "generated": 1790198993163,
   "supported_versions": [
     91,
     102,
@@ -9817,26 +9817,26 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "2.1",
-          "isWebExtension": true,
+          "extVersion": "2.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051133/copy_sent_to_current_pwe-2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052168/copy_sent_to_current_pwe-2.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.1",
-          "isWebExtension": true,
+          "extVersion": "2.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051133/copy_sent_to_current_pwe-2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052168/copy_sent_to_current_pwe-2.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.1",
-          "isWebExtension": true,
+          "extVersion": "2.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051133/copy_sent_to_current_pwe-2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052168/copy_sent_to_current_pwe-2.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -12811,6 +12811,41 @@
       "badges": []
     },
     {
+      "id": "feedsentry@scraplabs.dev",
+      "name": "Feed Sentry",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052125/feed_sentry-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052125/feed_sentry-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052125/feed_sentry-1.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "feranick.chatgpt-tab@addons.thunderbird.net",
       "name": "ChatGPT Spaces Tab",
       "icons": {
@@ -13843,6 +13878,41 @@
         {
           "appVersion": "140",
           "type": "current-esr"
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "firedashboard@scraplabs.dev",
+      "name": "FIRE Dashboard",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052128/fire_dashboard-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052128/fire_dashboard-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052128/fire_dashboard-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -15321,6 +15391,41 @@
       "badges": []
     },
     {
+      "id": "headerpeek@scraplabs.dev",
+      "name": "Header Peek",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052131/header_peek-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052131/header_peek-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052131/header_peek-1.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "headerToolsLite@kaosmos.nnp",
       "name": "Header Tools Lite",
       "icons": {
@@ -15562,6 +15667,41 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041161/bulk_attachment_deleter-0.1.4-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "hustletimer@scraplabs.dev",
+      "name": "Hustle Timer",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052126/hustle_timer-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052126/hustle_timer-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052126/hustle_timer-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17373,6 +17513,41 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039520/link_check-1.4.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "linkprobe@scraplabs.dev",
+      "name": "Link Probe",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052124/link_probe-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052124/link_probe-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052124/link_probe-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -22412,6 +22587,41 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031311/previous_colors-2.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "pricewatch@scraplabs.dev",
+      "name": "Price Watch",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052129/price_watch-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052129/price_watch-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052129/price_watch-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -29358,8 +29568,8 @@
       "id": "thunderbird-bimi-result-viewer@example.com",
       "name": "Thunderbird BIMI Result Viewer",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989774-32.png?modified=ada10769",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989774-64.png?modified=ada10769"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989774-32.png?modified=555190cf",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989774-64.png?modified=555190cf"
       },
       "compat": [
         {
