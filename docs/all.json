@@ -1,5 +1,5 @@
 {
-  "generated": 1790285325051,
+  "generated": 1790371659361,
   "supported_versions": [
     91,
     102,
@@ -1333,7 +1333,11 @@
       "compat": [
         {
           "appVersion": "156",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037412/tag_toolbar_tag_popup-2.4.7-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -4385,6 +4389,41 @@
         {
           "appVersion": "140",
           "type": "current-esr"
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "accent-letters@accentletters.wiki",
+      "name": "Accent Letters — type á é í ó ú ñ in email",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990200-32.png?modified=eed92606",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990200-64.png?modified=eed92606"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052275/accent_letters_type_a_e_i_o_u_n_in_email-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052275/accent_letters_type_a_e_i_o_u_n_in_email-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052275/accent_letters_type_a_e_i_o_u_n_in_email-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9887,26 +9926,26 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "2.2",
+          "extVersion": "2.3",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052168/copy_sent_to_current_pwe-2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052293/copy_sent_to_current_pwe-2.3-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.2",
+          "extVersion": "2.3",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052168/copy_sent_to_current_pwe-2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052293/copy_sent_to_current_pwe-2.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.2",
+          "extVersion": "2.3",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052168/copy_sent_to_current_pwe-2.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052293/copy_sent_to_current_pwe-2.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -18342,6 +18381,41 @@
       "badges": []
     },
     {
+      "id": "mail-bilingual-ai@mailsense.github.io",
+      "name": "MailBilingual AI",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "1.0.4",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052118/mailbilingual_ai-1.0.4-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.4",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052118/mailbilingual_ai-1.0.4-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.4",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052118/mailbilingual_ai-1.0.4-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "mail-filter-alert@kengheng1024",
       "name": "Mail Filter Alert",
       "icons": {
@@ -20153,7 +20227,11 @@
       "compat": [
         {
           "appVersion": "156",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.4",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037413/message_header_toolbar_customize-2.4.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -27641,10 +27719,10 @@
     },
     {
       "id": "starred-sidebar@koastal.com.au",
-      "name": "Starred Sidebar by KoaSOFT",
+      "name": "Starred Sidebar by Koastal Kollective",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989868-32.png?modified=b64fd62a",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989868-64.png?modified=b64fd62a"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989868-32.png?modified=f77f5255",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989868-64.png?modified=f77f5255"
       },
       "compat": [
         {
