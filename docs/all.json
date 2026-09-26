@@ -1,5 +1,5 @@
 {
-  "generated": 1790371659361,
+  "generated": 1790458234771,
   "supported_versions": [
     91,
     102,
@@ -16835,7 +16835,7 @@
     },
     {
       "id": "jpg-attacher@thrilldroid",
-      "name": "jpg-Attacher - paste from clipboard & edit images",
+      "name": "jpg-Attacher - paste & edit all imagetyps (+heic)",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989440-32.png?modified=0fe11849",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989440-64.png?modified=0fe11849"
@@ -16844,26 +16844,26 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "2.1.1",
-          "isWebExtension": true,
+          "extVersion": "2.2.0",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046638/jpg_attacher-2.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052305/jpg_attacher_bilder_einfugen_ansehen_editieren-2.2.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.1.1",
-          "isWebExtension": true,
+          "extVersion": "2.2.0",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046638/jpg_attacher-2.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052305/jpg_attacher_bilder_einfugen_ansehen_editieren-2.2.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.1.1",
-          "isWebExtension": true,
+          "extVersion": "2.2.0",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046638/jpg_attacher-2.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052305/jpg_attacher_bilder_einfugen_ansehen_editieren-2.2.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -22389,6 +22389,41 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048579/pixelguard-0.1.29-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "pixel-track@tinystrack",
+      "name": "Pixel Track for Thunderbird",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052316/pixel_track_for_thunderbird-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052316/pixel_track_for_thunderbird-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052316/pixel_track_for_thunderbird-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
