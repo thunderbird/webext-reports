@@ -1,5 +1,5 @@
 {
-  "generated": 1790458234771,
+  "generated": 1790544434355,
   "supported_versions": [
     91,
     102,
@@ -254,26 +254,26 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "2.4.2",
+          "extVersion": "2.5.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052007/pedantic_picture_packer-2.4.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052329/pedantic_pdf_picture_packer-2.5.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.4.2",
+          "extVersion": "2.5.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052007/pedantic_picture_packer-2.4.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052329/pedantic_pdf_picture_packer-2.5.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.4.2",
+          "extVersion": "2.5.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052007/pedantic_picture_packer-2.4.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052329/pedantic_pdf_picture_packer-2.5.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -8091,7 +8091,11 @@
       "compat": [
         {
           "appVersion": "156",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.6.10",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046231/calendarproject_tools_gantt_year_view_planner-2.6.10-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -10051,6 +10055,41 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041710/cross_weird_puzzle-3.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "crypt@neeteran",
+      "name": "Attachment Crypt",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990222-32.png?modified=35c1a8ef",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990222-64.png?modified=35c1a8ef"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "0.7.2",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052354/attachment_crypt-0.7.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "0.7.2",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052354/attachment_crypt-0.7.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.7.2",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052354/attachment_crypt-0.7.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -16482,7 +16521,11 @@
       "compat": [
         {
           "appVersion": "156",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.1.4",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049035/message_list_preview-2.1.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -16679,6 +16722,41 @@
       "badges": []
     },
     {
+      "id": "jevit@xvector.io",
+      "name": "JevIt: AI mail triage",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052350/jevit_ai_mail_triage-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052350/jevit_ai_mail_triage-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052350/jevit_ai_mail_triage-1.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "joaxap@gmail.com",
       "name": "Monterail Darkness Extended",
       "icons": {
@@ -16835,7 +16913,7 @@
     },
     {
       "id": "jpg-attacher@thrilldroid",
-      "name": "jpg-Attacher - paste & edit all imagetyps (+heic)",
+      "name": "jpg-Attacher - paste, shrink & edit images (+heic)",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989440-32.png?modified=0fe11849",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989440-64.png?modified=0fe11849"
@@ -16844,26 +16922,26 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "2.2.0",
+          "extVersion": "2.3.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052305/jpg_attacher_bilder_einfugen_ansehen_editieren-2.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052339/jpg_attacher_paste_edit_all_imagetyps_heic-2.3.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.2.0",
+          "extVersion": "2.3.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052305/jpg_attacher_bilder_einfugen_ansehen_editieren-2.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052339/jpg_attacher_paste_edit_all_imagetyps_heic-2.3.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.2.0",
+          "extVersion": "2.3.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052305/jpg_attacher_bilder_einfugen_ansehen_editieren-2.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052339/jpg_attacher_paste_edit_all_imagetyps_heic-2.3.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -18108,6 +18186,41 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046514/calendar_event_from_email_with_date_detection-0.19-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "m365-calendar-standard@3-5pe.com",
+      "name": "M365 Calendar Standard for Thunderbird",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "2.0.49",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052353/m365_calendar_standard_for_thunderbird-2.0.49-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "2.0.49",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052353/m365_calendar_standard_for_thunderbird-2.0.49-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "2.0.49",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052353/m365_calendar_standard_for_thunderbird-2.0.49-tb.xpi?src="
         }
       ],
       "badges": []
@@ -25611,26 +25724,26 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "2.2.5",
+          "extVersion": "2.3.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051982/schnelltextleiste-2.2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052356/schnelltextleiste-2.3.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.2.5",
+          "extVersion": "2.3.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051982/schnelltextleiste-2.2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052356/schnelltextleiste-2.3.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.2.5",
+          "extVersion": "2.3.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051982/schnelltextleiste-2.2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052356/schnelltextleiste-2.3.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -31076,6 +31189,41 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1030074/timetableforweb-34.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "tlp-classifier@Neeteran",
+      "name": "TLP 2.0 - Classification",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990214-32.png?modified=5f9d1871",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990214-64.png?modified=5f9d1871"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "0.2.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052337/tlp_20_classification-0.2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "0.2.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052337/tlp_20_classification-0.2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.2.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052337/tlp_20_classification-0.2.0-tb.xpi?src="
         }
       ],
       "badges": []
