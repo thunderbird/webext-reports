@@ -1,5 +1,5 @@
 {
-  "generated": 1790630903780,
+  "generated": 1790717422095,
   "supported_versions": [
     91,
     102,
@@ -5240,26 +5240,26 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "1.0.4",
-          "isWebExtension": true,
+          "extVersion": "1.0.5",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050060/ai_mail_support-1.0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052489/ai_mail_support-1.0.5-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.0.4",
-          "isWebExtension": true,
+          "extVersion": "1.0.5",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050060/ai_mail_support-1.0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052489/ai_mail_support-1.0.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.4",
-          "isWebExtension": true,
+          "extVersion": "1.0.5",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050060/ai_mail_support-1.0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052489/ai_mail_support-1.0.5-tb.xpi?src="
         }
       ],
       "badges": []
@@ -16513,7 +16513,7 @@
     },
     {
       "id": "insight@opto.one",
-      "name": "Quick Peek / Message List Preview",
+      "name": "Quick Peek / Message and Search List Preview",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/988/988392-32.png?modified=426a3876",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/988/988392-64.png?modified=426a3876"
@@ -19056,26 +19056,26 @@
         {
           "appVersion": "156",
           "type": "release",
-          "extVersion": "0.2.5",
-          "isWebExtension": true,
+          "extVersion": "0.2.7",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050449/mailzip-0.2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052467/mailzip-0.2.7-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.2.5",
-          "isWebExtension": true,
+          "extVersion": "0.2.7",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050449/mailzip-0.2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052467/mailzip-0.2.7-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.2.5",
-          "isWebExtension": true,
+          "extVersion": "0.2.7",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050449/mailzip-0.2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052467/mailzip-0.2.7-tb.xpi?src="
         }
       ],
       "badges": []
@@ -21741,6 +21741,37 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1018756/open_google_voice-1.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "openlanguagetoolclient@iglou.eu",
+      "name": "OpenLanguageToolClient",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990225-32.png?modified=e5a44b4b",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990225-64.png?modified=e5a44b4b"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052464/openlanguagetoolclient-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052464/openlanguagetoolclient-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr"
         }
       ],
       "badges": []
@@ -29510,6 +29541,37 @@
           "name": "Extract 'Em!",
           "link": "https://addons.thunderbird.net/addon/extract-em/",
           "id": "extractem@tmccoid.tech"
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "thin.your.inbox@gmail.com",
+      "name": "thinbox",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989529-32.png?modified=0598c464",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989529-64.png?modified=0598c464"
+      },
+      "compat": [
+        {
+          "appVersion": "156",
+          "type": "release",
+          "extVersion": "0.2.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052372/thinbox-0.2.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "0.2.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052372/thinbox-0.2.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr"
         }
       ],
       "badges": []
