@@ -1951,7 +1951,6 @@
     "989412-templatewing@julia-kalder.de-templatewing",
     "989413-local-to-imap-migrator@thunderbird-extension-imap-migrator",
     "989415-foldersync@thunderbird-addon-foldersync",
-    "989418-bulk-message-filter@thunder-bulk-message-filter-by-safe",
     "989421-fabrice@emulsion.io-ai-mail-extended",
     "989430-@nl-search.takap81-natural-language-email-search",
     "989437-{b87af2eb-dd17-4124-8f7e-f338f0a71b28}-open-in-gmail-web-ui",
@@ -2200,6 +2199,7 @@
     "990221-m365-calendar-standard@3-5pe.com-m365-calendar-std-thunderbird",
     "990222-crypt@neeteran-attachment-crypt",
     "990225-openlanguagetoolclient@iglou.eu-openlanguagetoolclient",
+    "990236-daynizer@precisioncrab.com-daynizer",
     "9956-tonequilla@mesquilla.com-tonequilla",
     "9995-emailcrawler@torge.kummerow-email-address-crawler"
 ]
