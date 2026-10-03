@@ -1,5 +1,5 @@
 {
-  "generated": 1790976517989,
+  "generated": 1791065725814,
   "supported_versions": [
     91,
     102,
@@ -254,26 +254,26 @@
         {
           "appVersion": "157",
           "type": "release",
-          "extVersion": "2.6.0",
+          "extVersion": "2.6.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052871/pedantic_pdf_picture_packer-2.6.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052878/pedantic_pdf_picture_packer-2.6.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.6.0",
+          "extVersion": "2.6.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052871/pedantic_pdf_picture_packer-2.6.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052878/pedantic_pdf_picture_packer-2.6.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.6.0",
+          "extVersion": "2.6.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052871/pedantic_pdf_picture_packer-2.6.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052878/pedantic_pdf_picture_packer-2.6.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -4066,6 +4066,37 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045802/natural_language_email_search-1.0.7-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "@one-click-sender-search.yamaki",
+      "name": "One-Click Sender Search",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990196-32.png?modified=a1466fd2",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990196-64.png?modified=a1466fd2"
+      },
+      "compat": [
+        {
+          "appVersion": "157",
+          "type": "release"
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "0.3.5",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052314/1-0.3.5-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "0.3.5",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052314/1-0.3.5-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10540,6 +10571,41 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045261/delight_erp_integration-2.4-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "demesos.copy-email-for-analysis@addons.thunderbird.net",
+      "name": "Copy Email for Analysis",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990156-32.png?modified=f92b8c96",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990156-64.png?modified=f92b8c96"
+      },
+      "compat": [
+        {
+          "appVersion": "157",
+          "type": "release",
+          "extVersion": "1.0.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052491/copy_email_for_analysis-1.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052491/copy_email_for_analysis-1.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052491/copy_email_for_analysis-1.0.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -19150,6 +19216,41 @@
       "badges": []
     },
     {
+      "id": "mark-as-read-unread-button@oubrecht.com",
+      "name": "Mark as read/unread button",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990191-32.png?modified=04fbfb97",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990191-64.png?modified=04fbfb97"
+      },
+      "compat": [
+        {
+          "appVersion": "157",
+          "type": "release",
+          "extVersion": "2.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052270/mark_as_readunread_button-2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "2.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052270/mark_as_readunread_button-2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "2.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052270/mark_as_readunread_button-2.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "mark-gmail-read@peci1.cz",
       "name": "Mark GMail Read",
       "icons": {
@@ -27441,6 +27542,33 @@
       "badges": []
     },
     {
+      "id": "smime-indicator@local",
+      "name": "S/MIME Indicator",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "157",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052291/smime_indicator-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr"
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr"
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "snooze-ninja@digitalfracture.co.uk",
       "name": "Snooze Ninja",
       "icons": {
@@ -29033,8 +29161,8 @@
       "id": "tbautoreply@renzluigi",
       "name": "TB AutoReply",
       "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989995-32.png?modified=55f6db11",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989995-64.png?modified=55f6db11"
       },
       "compat": [
         {
@@ -29823,26 +29951,26 @@
         {
           "appVersion": "157",
           "type": "release",
-          "extVersion": "5.0.1",
+          "extVersion": "5.0.4.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051952/thunderai_chatgpt_gemini_claude_ollama-5.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052884/thunderai_chatgpt_gemini_claude_ollama-5.0.4.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "5.0.1",
+          "extVersion": "5.0.4.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051952/thunderai_chatgpt_gemini_claude_ollama-5.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052884/thunderai_chatgpt_gemini_claude_ollama-5.0.4.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "5.0.1",
+          "extVersion": "5.0.4.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051952/thunderai_chatgpt_gemini_claude_ollama-5.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052884/thunderai_chatgpt_gemini_claude_ollama-5.0.4.0-tb.xpi?src="
         }
       ],
       "badges": []
