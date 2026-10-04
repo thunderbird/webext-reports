@@ -1,5 +1,5 @@
 {
-  "generated": 1791065725814,
+  "generated": 1791149987999,
   "supported_versions": [
     91,
     102,
@@ -4080,23 +4080,27 @@
       "compat": [
         {
           "appVersion": "157",
-          "type": "release"
+          "type": "release",
+          "extVersion": "0.3.6",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052902/one_click_sender_search-0.3.6-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.3.5",
+          "extVersion": "0.3.6",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052314/1-0.3.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052902/one_click_sender_search-0.3.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.3.5",
+          "extVersion": "0.3.6",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052314/1-0.3.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052902/one_click_sender_search-0.3.6-tb.xpi?src="
         }
       ],
       "badges": []
@@ -6216,8 +6220,8 @@
       "id": "att-hub@thrilldroid",
       "name": "Att-Hub Attachment Viewer, PDF, Image, Zip, Backup",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989482-32.png?modified=94e73a62",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989482-64.png?modified=94e73a62"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989482-32.png?modified=19a77d21",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989482-64.png?modified=19a77d21"
       },
       "compat": [
         {
@@ -16988,33 +16992,33 @@
       "id": "jpg-attacher@thrilldroid",
       "name": "jpg-Attacher - paste, shrink & edit images (+heic)",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989440-32.png?modified=0fe11849",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989440-64.png?modified=0fe11849"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989440-32.png?modified=106f637d",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989440-64.png?modified=106f637d"
       },
       "compat": [
         {
           "appVersion": "157",
           "type": "release",
-          "extVersion": "2.4.3",
+          "extVersion": "2.4.5",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052851/jpg_attacher_paste_shrink_edit_images_heic-2.4.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052901/jpg_attacher_paste_shrink_edit_images_heic-2.4.5-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.4.3",
+          "extVersion": "2.4.5",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052851/jpg_attacher_paste_shrink_edit_images_heic-2.4.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052901/jpg_attacher_paste_shrink_edit_images_heic-2.4.5-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.4.3",
+          "extVersion": "2.4.5",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052851/jpg_attacher_paste_shrink_edit_images_heic-2.4.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052901/jpg_attacher_paste_shrink_edit_images_heic-2.4.5-tb.xpi?src="
         }
       ],
       "badges": []
