@@ -1,5 +1,5 @@
 {
-  "generated": 1791149987999,
+  "generated": 1791236434960,
   "supported_versions": [
     91,
     102,
@@ -1356,7 +1356,11 @@
       "compat": [
         {
           "appVersion": "157",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037412/tag_toolbar_tag_popup-2.4.7-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -2121,7 +2125,11 @@
       "compat": [
         {
           "appVersion": "157",
-          "type": "release"
+          "type": "release",
+          "extVersion": "128.5.11",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045009/provider_for_google_calendar-128.5.11-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -15827,6 +15835,41 @@
       "badges": []
     },
     {
+      "id": "html-template-sender@example.com",
+      "name": "HTML Template Sender",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/feeds-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/feeds-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "157",
+          "type": "release",
+          "extVersion": "1.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052920/html_template_sender-1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052920/html_template_sender-1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052920/html_template_sender-1.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "hubspot-for-thunderbird@hughsheehy.github.io",
       "name": "HubSpot for Thunderbird",
       "icons": {
@@ -17200,7 +17243,11 @@
       "compat": [
         {
           "appVersion": "157",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.18.20260809.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049877/keepassxc_mail-1.18.20260809.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -20479,7 +20526,11 @@
       "compat": [
         {
           "appVersion": "157",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.4",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037413/message_header_toolbar_customize-2.4.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -23375,26 +23426,26 @@
         {
           "appVersion": "157",
           "type": "release",
-          "extVersion": "1.3.3.1",
-          "isWebExtension": true,
+          "extVersion": "2.0.0",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1032919/pushover_notifier-1.3.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052327/pushover_notifier-2.0.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.3.3.1",
-          "isWebExtension": true,
+          "extVersion": "2.0.0",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1032919/pushover_notifier-1.3.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052327/pushover_notifier-2.0.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.3.3.1",
-          "isWebExtension": true,
+          "extVersion": "2.0.0",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1032919/pushover_notifier-1.3.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052327/pushover_notifier-2.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -32594,26 +32645,26 @@
         {
           "appVersion": "157",
           "type": "release",
-          "extVersion": "1.0.1",
-          "isWebExtension": true,
+          "extVersion": "1.0.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050592/undo_send_delay-1.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052918/undo_send_delay-1.0.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.0.1",
-          "isWebExtension": true,
+          "extVersion": "1.0.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050592/undo_send_delay-1.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052918/undo_send_delay-1.0.2-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.1",
-          "isWebExtension": true,
+          "extVersion": "1.0.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050592/undo_send_delay-1.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052918/undo_send_delay-1.0.2-tb.xpi?src="
         }
       ],
       "badges": []
