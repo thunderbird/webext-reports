@@ -1,5 +1,5 @@
 {
-  "generated": 1791408821373,
+  "generated": 1791494907466,
   "supported_versions": [
     91,
     102,
@@ -254,26 +254,26 @@
         {
           "appVersion": "157",
           "type": "release",
-          "extVersion": "2.6.1",
+          "extVersion": "2.7.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052878/pedantic_pdf_picture_packer-2.6.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053204/pedantic_pdf_picture_packer-2.7.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.6.1",
+          "extVersion": "2.7.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052878/pedantic_pdf_picture_packer-2.6.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053204/pedantic_pdf_picture_packer-2.7.0-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.6.1",
+          "extVersion": "2.7.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052878/pedantic_pdf_picture_packer-2.6.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053204/pedantic_pdf_picture_packer-2.7.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -2161,10 +2161,10 @@
         {
           "appVersion": "157",
           "type": "release",
-          "extVersion": "128.5.11",
-          "isWebExtension": false,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045009/provider_for_google_calendar-128.5.11-tb.xpi?src="
+          "extVersion": "128.5.12",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048156/provider_for_google_calendar-128.5.12-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -2763,26 +2763,26 @@
         {
           "appVersion": "157",
           "type": "release",
-          "extVersion": "1.0.0",
+          "extVersion": "1.0.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052255/filelink_for_filesender-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053190/filelink_for_filesender-1.0.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "1.0.0",
+          "extVersion": "1.0.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052255/filelink_for_filesender-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053190/filelink_for_filesender-1.0.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "1.0.0",
+          "extVersion": "1.0.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052255/filelink_for_filesender-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053190/filelink_for_filesender-1.0.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10019,26 +10019,26 @@
         {
           "appVersion": "157",
           "type": "release",
-          "extVersion": "2.5",
+          "extVersion": "2.6",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052382/copy_sent_to_current_pwe-2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053200/copy_sent_to_current_pwe-2.6-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.5",
+          "extVersion": "2.6",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052382/copy_sent_to_current_pwe-2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053200/copy_sent_to_current_pwe-2.6-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.5",
+          "extVersion": "2.6",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052382/copy_sent_to_current_pwe-2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053200/copy_sent_to_current_pwe-2.6-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10532,26 +10532,26 @@
         {
           "appVersion": "157",
           "type": "release",
-          "extVersion": "0.8.3",
+          "extVersion": "0.8.4",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052817/daynizer-0.8.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053201/daynizer-0.8.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.8.3",
+          "extVersion": "0.8.4",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052817/daynizer-0.8.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053201/daynizer-0.8.4-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.8.3",
+          "extVersion": "0.8.4",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052817/daynizer-0.8.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053201/daynizer-0.8.4-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17334,6 +17334,41 @@
           "isWebExtension": false,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052160/multi_attachment_saver-6.7-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "kalender-duplikate@heinz.at",
+      "name": "Calendar Duplicate Finder",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990216-32.png?modified=520bef58",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990216-64.png?modified=520bef58"
+      },
+      "compat": [
+        {
+          "appVersion": "157",
+          "type": "release",
+          "extVersion": "1.4.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052383/kalender_duplikate-1.4.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.4.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052383/kalender_duplikate-1.4.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.4.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052383/kalender_duplikate-1.4.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -30455,6 +30490,37 @@
       "badges": []
     },
     {
+      "id": "thunderbird-email-exporter@git.jtheuer.de",
+      "name": "Email exporter (CSV, JSON)",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990164-32.png?modified=8f9f40ec",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990164-64.png?modified=8f9f40ec"
+      },
+      "compat": [
+        {
+          "appVersion": "157",
+          "type": "release",
+          "extVersion": "1.0.2",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052386/email_exporter_csv_json-1.0.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.2",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052386/email_exporter_csv_json-1.0.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr"
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "thunderbird-image-compressor@example.com",
       "name": "Mail-Bilder Verkleinere",
       "icons": {
@@ -30730,6 +30796,41 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048546/vacation_responder-1.1.7-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "thunderbird@asyntai.com",
+      "name": "Asyntai AI Reply Assistant",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990188-32.png?modified=cd10159b",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990188-64.png?modified=cd10159b"
+      },
+      "compat": [
+        {
+          "appVersion": "157",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052250/asyntai_ai_reply_assistant-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052250/asyntai_ai_reply_assistant-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052250/asyntai_ai_reply_assistant-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
