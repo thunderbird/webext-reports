@@ -1,5 +1,5 @@
 {
-  "generated": 1791494907466,
+  "generated": 1791581373244,
   "supported_versions": [
     91,
     102,
@@ -1322,26 +1322,26 @@
         {
           "appVersion": "157",
           "type": "release",
-          "extVersion": "3.0.2",
+          "extVersion": "3.0.3",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051443/soundmail-3.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053205/soundmail-3.0.3-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "3.0.2",
+          "extVersion": "3.0.3",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051443/soundmail-3.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053205/soundmail-3.0.3-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "3.0.2",
+          "extVersion": "3.0.3",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051443/soundmail-3.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053205/soundmail-3.0.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -6263,8 +6263,8 @@
       "id": "att-hub@thrilldroid",
       "name": "Att-Hub Attachment Viewer, PDF, Image, Zip, Backup",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989482-32.png?modified=19a77d21",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989482-64.png?modified=19a77d21"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989482-32.png?modified=33866a3b",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989482-64.png?modified=33866a3b"
       },
       "compat": [
         {
@@ -14892,26 +14892,26 @@
         {
           "appVersion": "157",
           "type": "release",
-          "extVersion": "2026.3.30",
-          "isWebExtension": true,
+          "extVersion": "2026.10.8",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045786/gemini-2026.3.30-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053206/gemini-2026.10.8-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2026.3.30",
-          "isWebExtension": true,
+          "extVersion": "2026.10.8",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045786/gemini-2026.3.30-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053206/gemini-2026.10.8-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2026.3.30",
-          "isWebExtension": true,
+          "extVersion": "2026.10.8",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045786/gemini-2026.3.30-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053206/gemini-2026.10.8-tb.xpi?src="
         }
       ],
       "badges": []
@@ -30421,7 +30421,7 @@
     },
     {
       "id": "thunderbird-bimi-result-viewer@example.com",
-      "name": "Thunderbird BIMI Result Viewer",
+      "name": "BIMI Result Viewer for Thunderbird",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989774-32.png?modified=555190cf",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989774-64.png?modified=555190cf"
