@@ -1,5 +1,5 @@
 {
-  "generated": 1791581373244,
+  "generated": 1791667809349,
   "supported_versions": [
     91,
     102,
@@ -1003,23 +1003,27 @@
       "compat": [
         {
           "appVersion": "157",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.6.9",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053220/correct_identity-2.6.9-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "2.6.8",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050470/correct_identity-2.6.8-tb.xpi?src="
+          "extVersion": "2.6.9",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053220/correct_identity-2.6.9-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "2.6.8",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050470/correct_identity-2.6.8-tb.xpi?src="
+          "extVersion": "2.6.9",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053220/correct_identity-2.6.9-tb.xpi?src="
         }
       ],
       "alternatives": [
@@ -2399,8 +2403,8 @@
       "id": "{c78d14dd-e4e7-4f78-ba6d-b688bb9e5498}",
       "name": "Dashbird",
       "icons": {
-        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989821-32.png?modified=7739cfd1",
-        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989821-64.png?modified=7739cfd1"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989821-32.png?modified=05f197a8",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989821-64.png?modified=05f197a8"
       },
       "compat": [
         {
@@ -14022,26 +14026,26 @@
         {
           "appVersion": "157",
           "type": "release",
-          "extVersion": "6.3",
+          "extVersion": "6.3.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050904/filtaquilla-6.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053233/filtaquilla-6.3.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "6.3",
+          "extVersion": "6.3.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050904/filtaquilla-6.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053233/filtaquilla-6.3.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "6.3",
+          "extVersion": "6.3.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050904/filtaquilla-6.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053233/filtaquilla-6.3.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17369,6 +17373,41 @@
           "isWebExtension": false,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052383/kalender_duplikate-1.4.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "kdrive-filelink@hifimage.com",
+      "name": "kDrive for FileLink",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "157",
+          "type": "release",
+          "extVersion": "1.2.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053230/kdrive_pour_filelink-1.2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "next-esr",
+          "extVersion": "1.2.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053230/kdrive_pour_filelink-1.2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "140",
+          "type": "current-esr",
+          "extVersion": "1.2.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053230/kdrive_pour_filelink-1.2.0-tb.xpi?src="
         }
       ],
       "badges": []
