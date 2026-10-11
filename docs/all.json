@@ -1,5 +1,5 @@
 {
-  "generated": 1791667809349,
+  "generated": 1791754147930,
   "supported_versions": [
     91,
     102,
@@ -2053,26 +2053,26 @@
         {
           "appVersion": "157",
           "type": "release",
-          "extVersion": "0.6.6",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046495/remove_duplicate_messages-0.6.6-tb.xpi?src="
+          "extVersion": "0.6.8.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053241/remove_duplicate_messages-0.6.8.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "next-esr",
-          "extVersion": "0.6.7.1",
+          "extVersion": "0.6.8.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051247/remove_duplicate_messages-0.6.7.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053241/remove_duplicate_messages-0.6.8.1-tb.xpi?src="
         },
         {
           "appVersion": "140",
           "type": "current-esr",
-          "extVersion": "0.6.7.1",
+          "extVersion": "0.6.8.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051247/remove_duplicate_messages-0.6.7.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053241/remove_duplicate_messages-0.6.8.1-tb.xpi?src="
         }
       ],
       "alternatives": [
