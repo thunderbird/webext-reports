@@ -1,5 +1,5 @@
 {
-  "generated": 1791926836579,
+  "generated": 1792013242321,
   "supported_versions": [
     91,
     102,
@@ -3199,15 +3199,19 @@
       "compat": [
         {
           "appVersion": "158",
-          "type": "release"
+          "type": "release",
+          "extVersion": "0.3.7",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053534/1-0.3.7-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "0.3.6",
+          "extVersion": "0.3.7",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052902/one_click_sender_search-0.3.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053534/1-0.3.7-tb.xpi?src="
         }
       ],
       "badges": []
@@ -8473,6 +8477,33 @@
       "badges": []
     },
     {
+      "id": "directorium@bulbashenko.dev",
+      "name": "Directorium — Exchange GAL & Contacts",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/bookmarks-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/bookmarks-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "158",
+          "type": "release",
+          "extVersion": "0.2.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047599/directorium_exchange_gal_contacts-0.2.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "0.2.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047599/directorium_exchange_gal_contacts-0.2.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "disable_dnd_tb_v2@pqrs.org",
       "name": "Disable DragAndDrop (New)",
       "icons": {
@@ -11332,6 +11363,33 @@
       "badges": []
     },
     {
+      "id": "forwardemail-manager@thunderbird-extension",
+      "name": "ForwardEmail Buddy",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989545-32.png?modified=72290df8",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989545-64.png?modified=72290df8"
+      },
+      "compat": [
+        {
+          "appVersion": "158",
+          "type": "release",
+          "extVersion": "0.1.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052171/forwardemail_alias_verwaltung-0.1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "0.1.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052171/forwardemail_alias_verwaltung-0.1.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "FrameWhite@Sungho.Hwang",
       "name": "FrameWhite",
       "icons": {
@@ -13761,6 +13819,33 @@
       "badges": []
     },
     {
+      "id": "kontakt-sammler@local",
+      "name": "Contact Pilot",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "158",
+          "type": "release",
+          "extVersion": "1.7.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052890/kontakt_pilot-1.7.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.7.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052890/kontakt_pilot-1.7.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "kontakt@sellizer.pl",
       "name": "Sellizer for Thunderbird",
       "icons": {
@@ -13905,7 +13990,11 @@
       "compat": [
         {
           "appVersion": "158",
-          "type": "release"
+          "type": "release",
+          "extVersion": "8.11.2",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031394/grammatik_und_rechtschreibprufung_languagetool-8.11.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -17385,18 +17474,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "1.0.0",
+          "extVersion": "1.0.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052464/openlanguagetoolclient-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053622/openlanguagetoolclient-1.0.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.0.0",
+          "extVersion": "1.0.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052464/openlanguagetoolclient-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053622/openlanguagetoolclient-1.0.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -19416,18 +19505,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "1.2.3.159",
-          "isWebExtension": true,
+          "extVersion": "1.2.4.160",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045420/regimail-1.2.3.159-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053532/regimail-1.2.4.160-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.2.3.159",
-          "isWebExtension": true,
+          "extVersion": "1.2.4.160",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045420/regimail-1.2.3.159-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053532/regimail-1.2.4.160-tb.xpi?src="
         }
       ],
       "badges": []
@@ -20463,7 +20552,7 @@
     },
     {
       "id": "schnelltextleiste@scribentia.de",
-      "name": "Schnelltextleiste",
+      "name": "Quick Workflow Bar",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990085-32.png?modified=a64d2cb4",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990085-64.png?modified=a64d2cb4"
@@ -20472,18 +20561,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "2.3.1",
+          "extVersion": "2.4.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052356/schnelltextleiste-2.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053539/schnelltextleiste-2.4.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "2.3.1",
+          "extVersion": "2.4.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052356/schnelltextleiste-2.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053539/schnelltextleiste-2.4.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -26937,6 +27026,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044448/zoom_meetings_for_thunderbird-1.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "ZoomButton@accessfirefox.org.redux",
+      "name": "Zoom Button for Thunderbird (Redux+)",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990245-32.png?modified=e2afac5a",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990245-64.png?modified=e2afac5a"
+      },
+      "compat": [
+        {
+          "appVersion": "158",
+          "type": "release",
+          "extVersion": "0.1.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052887/zoom_button_for_thunderbird_redux-0.1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "0.1.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052887/zoom_button_for_thunderbird_redux-0.1.1-tb.xpi?src="
         }
       ],
       "badges": []
