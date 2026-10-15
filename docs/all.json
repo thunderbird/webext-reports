@@ -1,5 +1,5 @@
 {
-  "generated": 1792013242321,
+  "generated": 1792099873984,
   "supported_versions": [
     91,
     102,
@@ -1271,15 +1271,19 @@
       "compat": [
         {
           "appVersion": "158",
-          "type": "release"
+          "type": "release",
+          "extVersion": "6.9.5",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053636/quicktext-6.9.5-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "6.9.4",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050479/quicktext-6.9.4-tb.xpi?src="
+          "extVersion": "6.9.5",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053636/quicktext-6.9.5-tb.xpi?src="
         }
       ],
       "alternatives": [
@@ -6359,7 +6363,11 @@
       "compat": [
         {
           "appVersion": "158",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.6.10",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046231/calendarproject_tools_gantt_year_view_planner-2.6.10-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -6665,6 +6673,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045905/mac_vendor_lookup-1.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "cert-medic@digitaldaddio.com",
+      "name": "Thunderbird Cert Medic Free",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990329-32.png?modified=5b0217b3",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990329-64.png?modified=5b0217b3"
+      },
+      "compat": [
+        {
+          "appVersion": "158",
+          "type": "release",
+          "extVersion": "1.0.0.22",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053631/thunderbird_cert_medic_free-1.0.0.22-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.0.0.22",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053631/thunderbird_cert_medic_free-1.0.0.22-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10063,18 +10098,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "157.0",
+          "extVersion": "158.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052485/exquilla_for_exchange-157.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053518/exquilla_for_exchange-158.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "157.0",
+          "extVersion": "158.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052485/exquilla_for_exchange-157.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053518/exquilla_for_exchange-158.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -12405,7 +12440,11 @@
       "compat": [
         {
           "appVersion": "158",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.5.4",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051215/header_tools_lite-2.5.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -12780,7 +12819,11 @@
       "compat": [
         {
           "appVersion": "158",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.4.12",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044866/attachment_viewer_view_in_a_tab_slideshow-3.4.12-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -14519,18 +14562,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "0.19",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046514/calendar_event_from_email_with_date_detection-0.19-tb.xpi?src="
+          "extVersion": "0.29",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052899/calendar_event_from_email_with_date_detection-0.29-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "0.19",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046514/calendar_event_from_email_with_date_detection-0.19-tb.xpi?src="
+          "extVersion": "0.29",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052899/calendar_event_from_email_with_date_detection-0.29-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14612,6 +14655,33 @@
           "isWebExtension": false,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051479/magic_translator-2.3.10-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "magic-voice-scriber@mtfkarukera.net",
+      "name": "Magic Voice Scriber",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990328-32.png?modified=0872a15f",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990328-64.png?modified=0872a15f"
+      },
+      "compat": [
+        {
+          "appVersion": "158",
+          "type": "release",
+          "extVersion": "1.2.7",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053629/magic_voice_scriber-1.2.7-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.2.7",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053629/magic_voice_scriber-1.2.7-tb.xpi?src="
         }
       ],
       "badges": []
@@ -16845,7 +16915,11 @@
       "compat": [
         {
           "appVersion": "158",
-          "type": "release"
+          "type": "release",
+          "extVersion": "5.2.10",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051299/nostalgy_emails_verwalten_suchen_archivieren-5.2.10-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -17696,15 +17770,19 @@
       "compat": [
         {
           "appVersion": "158",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.5.8.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053635/eule_fur_exchange-1.5.8.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.5.7",
+          "extVersion": "1.5.8.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052486/eule_fur_exchange-1.5.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053635/eule_fur_exchange-1.5.8.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -18761,18 +18839,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "2.2.0",
-          "isWebExtension": true,
+          "extVersion": "2.7.4",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1026026/quickarchiver-2.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053639/quickarchiver-2.7.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "2.7.3",
+          "extVersion": "2.7.4",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052837/quickarchiver-2.7.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053639/quickarchiver-2.7.4-tb.xpi?src="
         }
       ],
       "badges": []
@@ -20049,6 +20127,33 @@
           "isWebExtension": false,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053260/retyc-1.2.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "reveal-urls@magentron",
+      "name": "Reveal URLs",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989786-32.png?modified=f5331709",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989786-64.png?modified=f5331709"
+      },
+      "compat": [
+        {
+          "appVersion": "158",
+          "type": "release",
+          "extVersion": "0.1.40",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053627/reveal_urls-0.1.40-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "0.1.40",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053627/reveal_urls-0.1.40-tb.xpi?src="
         }
       ],
       "badges": []
@@ -24036,6 +24141,33 @@
       "badges": []
     },
     {
+      "id": "thunderbird-seoaudit@seowebchecker.com",
+      "name": "SEOWebChecker: Advanced Technical SEO Audit",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "158",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053006/seowebchecker_advanced_technical_seo_audit-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053006/seowebchecker_advanced_technical_seo_audit-1.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "thunderbird-tabs@joschka-huellmann.net",
       "name": "Open Google Tabs",
       "icons": {
@@ -26882,7 +27014,11 @@
       "compat": [
         {
           "appVersion": "158",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.10.31",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051267/xnote-4.10.31-tb.xpi?src="
         },
         {
           "appVersion": "153",
