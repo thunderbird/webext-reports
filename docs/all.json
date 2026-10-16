@@ -1,5 +1,5 @@
 {
-  "generated": 1792099873984,
+  "generated": 1792186041123,
   "supported_versions": [
     91,
     102,
@@ -1056,7 +1056,11 @@
       "compat": [
         {
           "appVersion": "158",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.7",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037412/tag_toolbar_tag_popup-2.4.7-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -3748,6 +3752,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048669/kim_attachment_search-1.0.7-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "address-book-list-finder@jcroft.net",
+      "name": "Address Book List Finder",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990280-32.png?modified=434559c1",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990280-64.png?modified=434559c1"
+      },
+      "compat": [
+        {
+          "appVersion": "158",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053029/address_book_list_finder-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053029/address_book_list_finder-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9757,6 +9788,33 @@
       "badges": []
     },
     {
+      "id": "envoyer-plus-tard@addons.thunderbird.net",
+      "name": "Messages et envoi différé local",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990286-32.png?modified=ea471b35",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990286-64.png?modified=ea471b35"
+      },
+      "compat": [
+        {
+          "appVersion": "158",
+          "type": "release",
+          "extVersion": "1.5.5",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053115/envoyer_plus_tard-1.5.5-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.5.5",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053115/envoyer_plus_tard-1.5.5-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "enygmail@dyrk.org",
       "name": "PGPGeek",
       "icons": {
@@ -13848,15 +13906,19 @@
       "compat": [
         {
           "appVersion": "158",
-          "type": "release"
+          "type": "release",
+          "extVersion": "0.6.2",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053668/group_favorite_folders-0.6.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "0.6.1",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050497/group_favorite_folders-0.6.1-tb.xpi?src="
+          "extVersion": "0.6.2",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053668/group_favorite_folders-0.6.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14670,18 +14732,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "1.2.7",
+          "extVersion": "1.3.2",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053629/magic_voice_scriber-1.2.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053663/magic_voice_scriber-1.3.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.2.7",
+          "extVersion": "1.3.2",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053629/magic_voice_scriber-1.2.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053663/magic_voice_scriber-1.3.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -16460,7 +16522,11 @@
       "compat": [
         {
           "appVersion": "158",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.4.4",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037413/message_header_toolbar_customize-2.4.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -25407,7 +25473,11 @@
         },
         {
           "appVersion": "153",
-          "type": "current-esr"
+          "type": "current-esr",
+          "extVersion": "1.6.6",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053675/toggle_line_wrap-1.6.6-tb.xpi?src="
         }
       ],
       "badges": []
