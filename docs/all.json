@@ -1,5 +1,5 @@
 {
-  "generated": 1792272392043,
+  "generated": 1792358853553,
   "supported_versions": [
     91,
     102,
@@ -2212,7 +2212,11 @@
       "compat": [
         {
           "appVersion": "158",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.3.1",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046952/eds_calendar_integration-1.3.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -8264,18 +8268,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "0.8.4",
+          "extVersion": "0.8.6",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053201/daynizer-0.8.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053706/daynizer-0.8.6-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "0.8.4",
+          "extVersion": "0.8.6",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053201/daynizer-0.8.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053706/daynizer-0.8.6-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10159,15 +10163,19 @@
       "compat": [
         {
           "appVersion": "158",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.9.58",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053649/expression_power_messagecalendar_search_ng-4.9.58-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "4.9.56",
+          "extVersion": "4.9.58",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051218/expression_power_messagecalendar_search_ng-4.9.56-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053649/expression_power_messagecalendar_search_ng-4.9.58-tb.xpi?src="
         }
       ],
       "badges": []
