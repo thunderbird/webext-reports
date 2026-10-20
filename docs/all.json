@@ -1,5 +1,5 @@
 {
-  "generated": 1792445285903,
+  "generated": 1792531666886,
   "supported_versions": [
     91,
     102,
@@ -8268,18 +8268,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "0.8.7",
+          "extVersion": "0.8.8",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053809/daynizer-0.8.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053822/daynizer-0.8.8-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "0.8.7",
+          "extVersion": "0.8.8",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053809/daynizer-0.8.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053822/daynizer-0.8.8-tb.xpi?src="
         }
       ],
       "badges": []
@@ -8719,18 +8719,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "6.3.0",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047394/dkim_verifier-6.3.0-tb.xpi?src="
+          "extVersion": "6.4.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053810/dkim_verifier-6.4.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "6.3.0",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047394/dkim_verifier-6.3.0-tb.xpi?src="
+          "extVersion": "6.4.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053810/dkim_verifier-6.4.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11567,6 +11567,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047238/free_email_scrapper-0.0.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "freecorrector@lapigeonnerie.fr",
+      "name": "FreeCorrector",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990368-32.png?modified=20f55b73",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990368-64.png?modified=20f55b73"
+      },
+      "compat": [
+        {
+          "appVersion": "158",
+          "type": "release",
+          "extVersion": "1.2.5",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053806/freecorrector-1.2.5-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.2.5",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053806/freecorrector-1.2.5-tb.xpi?src="
         }
       ],
       "badges": []
