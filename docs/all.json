@@ -1,5 +1,5 @@
 {
-  "generated": 1792531666886,
+  "generated": 1792618058399,
   "supported_versions": [
     91,
     102,
@@ -6750,18 +6750,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "1.0.0.22",
+          "extVersion": "1.0.0.23",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053631/thunderbird_cert_medic_free-1.0.0.22-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053918/thunderbird_cert_medic_free-1.0.0.23-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.0.0.22",
+          "extVersion": "1.0.0.23",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053631/thunderbird_cert_medic_free-1.0.0.22-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053918/thunderbird_cert_medic_free-1.0.0.23-tb.xpi?src="
         }
       ],
       "badges": []
@@ -7463,18 +7463,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "1.0.1",
+          "extVersion": "1.0.2",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052119/tab_composer-1.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053354/tab_composer-1.0.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.0.1",
+          "extVersion": "1.0.2",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052119/tab_composer-1.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053354/tab_composer-1.0.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11181,11 +11181,19 @@
       "compat": [
         {
           "appVersion": "158",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053243/filter_by_sender-2.0.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
-          "type": "current-esr"
+          "type": "current-esr",
+          "extVersion": "2.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053243/filter_by_sender-2.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11464,6 +11472,33 @@
       "badges": []
     },
     {
+      "id": "font-size@critrip.local",
+      "name": "Font Size px/pt",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990387-32.png?modified=1e10b5fd",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990387-64.png?modified=1e10b5fd"
+      },
+      "compat": [
+        {
+          "appVersion": "158",
+          "type": "release",
+          "extVersion": "1.1.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053925/font_size_pxpt-1.1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.1.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053925/font_size_pxpt-1.1.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "forward-subject-tagger@local.addon",
       "name": "Forward Subject Tagger",
       "icons": {
@@ -11582,18 +11617,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "1.2.5",
+          "extVersion": "1.2.6",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053806/freecorrector-1.2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053837/freecorrector-1.2.6-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.2.5",
+          "extVersion": "1.2.6",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053806/freecorrector-1.2.5-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053837/freecorrector-1.2.6-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17088,6 +17123,33 @@
       "badges": []
     },
     {
+      "id": "not-all-dark@critrip.local",
+      "name": "Not All Dark",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990386-32.png?modified=9fafd37b",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990386-64.png?modified=9fafd37b"
+      },
+      "compat": [
+        {
+          "appVersion": "158",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053921/not_all_dark-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053921/not_all_dark-1.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "notebird@saveriomorelli.com",
       "name": "Notebird (discontinued)",
       "icons": {
@@ -18916,7 +18978,11 @@
       "compat": [
         {
           "appVersion": "158",
-          "type": "release"
+          "type": "release",
+          "extVersion": "0.14.21",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049555/qnote-0.14.21-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -27255,18 +27321,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "1.9",
-          "isWebExtension": true,
+          "extVersion": "2.0.21",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041348/kurl_yourls_shortener-1.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053244/kurl_yourls_shortener-2.0.21-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.9",
-          "isWebExtension": true,
+          "extVersion": "2.0.21",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1041348/kurl_yourls_shortener-1.9-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053244/kurl_yourls_shortener-2.0.21-tb.xpi?src="
         }
       ],
       "badges": []
