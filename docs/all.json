@@ -1,5 +1,5 @@
 {
-  "generated": 1792618058399,
+  "generated": 1792704565695,
   "supported_versions": [
     91,
     102,
@@ -202,18 +202,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "2.8.0",
+          "extVersion": "2.9.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053724/pedantic_pdf_picture_packer-2.8.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054020/pedantic_pdf_picture_packer-2.9.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "2.8.0",
+          "extVersion": "2.9.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053724/pedantic_pdf_picture_packer-2.8.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054020/pedantic_pdf_picture_packer-2.9.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -922,18 +922,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "0.16.3",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042308/bidi_mail_ui-0.16.3-tb.xpi?src="
+          "extVersion": "0.16.5.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053515/bidi_mail_ui-0.16.5.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "0.16.4",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048773/bidi_mail_ui-0.16.4-tb.xpi?src="
+          "extVersion": "0.16.5.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053515/bidi_mail_ui-0.16.5.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -4888,7 +4888,7 @@
     },
     {
       "id": "att-hub@thrilldroid",
-      "name": "Att-Hub Attachment Viewer, PDF, Image, Zip, Backup",
+      "name": "Att-Hub Attachment Viewer: PDF, Image, Zip, Editor",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989482-32.png?modified=33866a3b",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989482-64.png?modified=33866a3b"
@@ -9459,18 +9459,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "1.0.4",
+          "extVersion": "1.0.6",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052309/email_translator-1.0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053516/email_translator-1.0.6-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.0.4",
+          "extVersion": "1.0.6",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052309/email_translator-1.0.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053516/email_translator-1.0.6-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11128,18 +11128,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "6.3.1",
+          "extVersion": "6.3.2",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053233/filtaquilla-6.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054016/filtaquilla-6.3.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "6.3.1",
+          "extVersion": "6.3.2",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053233/filtaquilla-6.3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054016/filtaquilla-6.3.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -15515,18 +15515,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "0.2.45",
+          "extVersion": "0.2.46",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053027/freatix_mailtools-0.2.45-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053537/freatix_mailtools-0.2.46-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "0.2.45",
+          "extVersion": "0.2.46",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053027/freatix_mailtools-0.2.45-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053537/freatix_mailtools-0.2.46-tb.xpi?src="
         }
       ],
       "badges": []
@@ -24465,6 +24465,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1042417/thunderbird_translate-1.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "thunderbird-translate@willlllliams.github.io",
+      "name": "Multi Translate for Thunderbird",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990392-32.png?modified=ddbfc02a",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990392-64.png?modified=ddbfc02a"
+      },
+      "compat": [
+        {
+          "appVersion": "158",
+          "type": "release",
+          "extVersion": "3.1.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054002/for_thunderbird-3.1.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "3.1.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054002/for_thunderbird-3.1.1-tb.xpi?src="
         }
       ],
       "badges": []
