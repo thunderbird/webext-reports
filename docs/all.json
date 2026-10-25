@@ -1,5 +1,5 @@
 {
-  "generated": 1792877180288,
+  "generated": 1792963716409,
   "supported_versions": [
     91,
     102,
@@ -202,18 +202,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "2.9.0",
+          "extVersion": "2.9.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054020/pedantic_pdf_picture_packer-2.9.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054078/pedantic_pdf_picture_packer-2.9.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "2.9.0",
+          "extVersion": "2.9.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054020/pedantic_pdf_picture_packer-2.9.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054078/pedantic_pdf_picture_packer-2.9.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -841,18 +841,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "3.4.4",
+          "extVersion": "3.5.0.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053005/nc_connector_for_thunderbird-3.4.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054000/nc_connector_for_thunderbird-3.5.0.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "3.4.4",
+          "extVersion": "3.5.0.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053005/nc_connector_for_thunderbird-3.4.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054000/nc_connector_for_thunderbird-3.5.0.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11671,18 +11671,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "1.2.6",
+          "extVersion": "1.2.7",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053837/freecorrector-1.2.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054072/freecorrector-1.2.7-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.2.6",
+          "extVersion": "1.2.7",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053837/freecorrector-1.2.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054072/freecorrector-1.2.7-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13715,18 +13715,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "2.5.0",
+          "extVersion": "2.6.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054059/jpg_attacher_compress_resize_edit_images-2.5.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054083/jpg_attacher_compress_resize_edit_images-2.6.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "2.5.0",
+          "extVersion": "2.6.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054059/jpg_attacher_compress_resize_edit_images-2.5.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054083/jpg_attacher_compress_resize_edit_images-2.6.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13950,18 +13950,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "1.18.20260809.0",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049877/keepassxc_mail-1.18.20260809.0-tb.xpi?src="
+          "extVersion": "1.19.20261018.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053714/keepassxc_mail-1.19.20261018.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.18.20260809.0",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049877/keepassxc_mail-1.18.20260809.0-tb.xpi?src="
+          "extVersion": "1.19.20261018.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053714/keepassxc_mail-1.19.20261018.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -15280,18 +15280,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "1.4.0",
+          "extVersion": "1.4.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053023/mailchat_for_thunderbird-1.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053691/mailchat_for_thunderbird-1.4.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.4.0",
+          "extVersion": "1.4.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053023/mailchat_for_thunderbird-1.4.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053691/mailchat_for_thunderbird-1.4.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -24858,18 +24858,18 @@
         {
           "appVersion": "158",
           "type": "release",
-          "extVersion": "0.1.2",
-          "isWebExtension": true,
+          "extVersion": "0.2.4",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051120/thunderclaw-0.1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054068/thunderclaw-0.2.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "0.1.2",
-          "isWebExtension": true,
+          "extVersion": "0.2.4",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051120/thunderclaw-0.1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054068/thunderclaw-0.2.4-tb.xpi?src="
         }
       ],
       "badges": []
