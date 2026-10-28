@@ -1,5 +1,5 @@
 {
-  "generated": 1793136318589,
+  "generated": 1793222773111,
   "supported_versions": [
     91,
     102,
@@ -202,18 +202,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "3.0.1",
+          "extVersion": "3.0.2",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054197/pedantic_pdf_picture_packer-3.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054442/pedantic_pdf_picture_packer-3.0.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "3.0.1",
+          "extVersion": "3.0.2",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054197/pedantic_pdf_picture_packer-3.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054442/pedantic_pdf_picture_packer-3.0.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -6428,7 +6428,11 @@
       "compat": [
         {
           "appVersion": "159",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.6.10",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1046231/calendarproject_tools_gantt_year_view_planner-2.6.10-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -10208,7 +10212,11 @@
       "compat": [
         {
           "appVersion": "159",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.9.58",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053649/expression_power_messagecalendar_search_ng-4.9.58-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -12632,7 +12640,11 @@
       "compat": [
         {
           "appVersion": "159",
-          "type": "release"
+          "type": "release",
+          "extVersion": "2.5.4",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051215/header_tools_lite-2.5.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -13007,7 +13019,11 @@
       "compat": [
         {
           "appVersion": "159",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.4.12",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1044866/attachment_viewer_view_in_a_tab_slideshow-3.4.12-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -13544,18 +13560,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "1.1.2",
+          "extVersion": "1.2.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052371/jevit_ai_mail_triage-1.1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054535/jevit_ai_mail_triage-1.2.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.1.2",
+          "extVersion": "1.2.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052371/jevit_ai_mail_triage-1.1.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054535/jevit_ai_mail_triage-1.2.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14846,18 +14862,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "1.4.3",
+          "extVersion": "1.4.5",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053717/magic_voice_scriber-1.4.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054437/magic_voice_scriber-1.4.5-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.4.3",
+          "extVersion": "1.4.5",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053717/magic_voice_scriber-1.4.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054437/magic_voice_scriber-1.4.5-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17114,7 +17130,11 @@
       "compat": [
         {
           "appVersion": "159",
-          "type": "release"
+          "type": "release",
+          "extVersion": "5.2.10",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051299/nostalgy_emails_verwalten_suchen_archivieren-5.2.10-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -19042,6 +19062,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1043604/quick_spaces-2.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "quick-translate-mail@local",
+      "name": "Quick Translate Mail",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990435-32.png?modified=1d1706fd",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990435-64.png?modified=1d1706fd"
+      },
+      "compat": [
+        {
+          "appVersion": "159",
+          "type": "release",
+          "extVersion": "0.3.4",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054443/quick_translate_mail-0.3.4-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "0.3.4",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054443/quick_translate_mail-0.3.4-tb.xpi?src="
         }
       ],
       "badges": []
@@ -27282,7 +27329,11 @@
       "compat": [
         {
           "appVersion": "159",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.10.31",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051267/xnote-4.10.31-tb.xpi?src="
         },
         {
           "appVersion": "153",
