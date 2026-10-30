@@ -1,5 +1,5 @@
 {
-  "generated": 1793309148897,
+  "generated": 1793395371828,
   "supported_versions": [
     91,
     102,
@@ -10259,15 +10259,19 @@
       "compat": [
         {
           "appVersion": "159",
-          "type": "release"
+          "type": "release",
+          "extVersion": "160.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054540/exquilla_for_exchange-160.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "158.0",
+          "extVersion": "160.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053518/exquilla_for_exchange-158.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054540/exquilla_for_exchange-160.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13726,18 +13730,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "2.6.1",
+          "extVersion": "2.7.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054183/jpg_attacher_compress_resize_edit_images-2.6.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054589/jpg_attacher_shrink_optimize_edit_draw_images-2.7.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "2.6.1",
+          "extVersion": "2.7.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054183/jpg_attacher_compress_resize_edit_images-2.6.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054589/jpg_attacher_shrink_optimize_edit_draw_images-2.7.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -24105,6 +24109,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1045759/thunder_org_protocol-1.1.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "thunderai-privacy@micz.it",
+      "name": "ThunderAI Privacy",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990453-32.png?modified=23338e21",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990453-64.png?modified=23338e21"
+      },
+      "compat": [
+        {
+          "appVersion": "159",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054576/thunderai_privacy-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054576/thunderai_privacy-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
