@@ -1,5 +1,5 @@
 {
-  "generated": 1793395371828,
+  "generated": 1793481627137,
   "supported_versions": [
     91,
     102,
@@ -540,15 +540,19 @@
       "compat": [
         {
           "appVersion": "159",
-          "type": "release"
+          "type": "release",
+          "extVersion": "1.1.20",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054598/no_tabs-1.1.20-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.1.19",
+          "extVersion": "1.1.20",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052849/no_tabs-1.1.19-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054598/no_tabs-1.1.20-tb.xpi?src="
         }
       ],
       "badges": []
@@ -7166,18 +7170,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "1.4.2",
+          "extVersion": "1.5.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051248/clean_quote-1.4.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054616/clean_quote-1.5.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.4.2",
+          "extVersion": "1.5.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051248/clean_quote-1.4.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054616/clean_quote-1.5.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11686,18 +11690,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "1.2.7",
+          "extVersion": "1.2.8",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054072/freecorrector-1.2.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054600/freecorrector-1.2.8-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.2.7",
+          "extVersion": "1.2.8",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054072/freecorrector-1.2.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054600/freecorrector-1.2.8-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14334,15 +14338,19 @@
       "compat": [
         {
           "appVersion": "159",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.12",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054601/lightning_calendar_tabs-3.12-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "3.11",
+          "extVersion": "3.12",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051977/lightning_calendar_tabs-3.11-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054601/lightning_calendar_tabs-3.12-tb.xpi?src="
         }
       ],
       "badges": []
@@ -19136,18 +19144,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "2.2.0",
-          "isWebExtension": true,
+          "extVersion": "2.7.5",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1026026/quickarchiver-2.2.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054593/quickarchiver-2.7.5-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "2.7.4",
+          "extVersion": "2.7.5",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053639/quickarchiver-2.7.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054593/quickarchiver-2.7.5-tb.xpi?src="
         }
       ],
       "badges": []
