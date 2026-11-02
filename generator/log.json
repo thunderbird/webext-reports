@@ -1950,6 +1950,7 @@
     "989412-templatewing@julia-kalder.de-templatewing",
     "989413-local-to-imap-migrator@thunderbird-extension-imap-migrator",
     "989415-foldersync@thunderbird-addon-foldersync",
+    "989418-bulk-message-filter@thunder-bulk-message-filter-by-safe",
     "989421-fabrice@emulsion.io-ai-mail-extended",
     "989430-@nl-search.takap81-natural-language-email-search",
     "989437-{b87af2eb-dd17-4124-8f7e-f338f0a71b28}-open-in-gmail-web-ui",
@@ -2235,7 +2236,9 @@
     "990277-mailchat-for-thunderbird@andrea199.github.io-mailchat-for-thunderbird",
     "990280-address-book-list-finder@jcroft.net-address-book-list-finder",
     "990286-envoyer-plus-tard@addons.thunderbird.net-messages-envoi-differe",
+    "990295-kalender-umzug@heinz.at-calendar-mover",
     "990301-kdrive-filelink@hifimage.com-kdrive-for-filelink",
+    "990304-tagstoolgr@kayhan.dev-tagstoolgr",
     "990309-thunderbird-jump@oplex-thunderjump",
     "990311-thundersnippet@oplex-thundersnippet",
     "990314-excelhtmlfixer@example.com-excelhtml-fixer",
@@ -2254,6 +2257,8 @@
     "990467-coworkingview@coworkingview.com-coworkingview-workspace-prices",
     "990469-url-route-omarchy-sync@local.invalid-url-route-omarchy-theme-sync",
     "990472-text-tools@gosavetool.com-gosavetool-text-tools",
+    "990480-quick-meeting-invite@local-quick-meeting-invite",
+    "990484-nextcloud-attachment@mikemx.net-cloud-attachment-for-nextcloud",
     "9956-tonequilla@mesquilla.com-tonequilla",
     "9995-emailcrawler@torge.kummerow-email-address-crawler"
 ]
