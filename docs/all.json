@@ -1,5 +1,5 @@
 {
-  "generated": 1793741335976,
+  "generated": 1793827496950,
   "supported_versions": [
     91,
     102,
@@ -255,11 +255,19 @@
       "compat": [
         {
           "appVersion": "159",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.4",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054860/threadkey-3.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
-          "type": "current-esr"
+          "type": "current-esr",
+          "extVersion": "3.4",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054860/threadkey-3.4-tb.xpi?src="
         }
       ],
       "badges": []
@@ -3518,6 +3526,33 @@
       "badges": []
     },
     {
+      "id": "3cx-telefonbuch-export@creatronics.de",
+      "name": "3CX Phonebook Export",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990342-32.png?modified=7f44f767",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990342-64.png?modified=7f44f767"
+      },
+      "compat": [
+        {
+          "appVersion": "159",
+          "type": "release",
+          "extVersion": "1.7.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053672/3cx_phonebook_export-1.7.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.7.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053672/3cx_phonebook_export-1.7.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "ab102-maps@xul.calypsoblue.org",
       "name": "Get Map for Thunderbird",
       "icons": {
@@ -4960,6 +4995,33 @@
       "badges": []
     },
     {
+      "id": "attach-and-reply@garywang.local",
+      "name": "Attach & Reply/带附件回复",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/posts-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/posts-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "159",
+          "type": "release",
+          "extVersion": "0.2.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053531/attach_reply-0.2.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "0.2.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053531/attach_reply-0.2.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "attach-print-all@msx44.extensions",
       "name": "Attach Print All",
       "icons": {
@@ -5028,6 +5090,33 @@
         {
           "appVersion": "153",
           "type": "current-esr"
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "attachment-remover@markus-kink.de",
+      "name": "Attachment Remover",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "159",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053676/attachment_remover-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053676/attachment_remover-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -5953,6 +6042,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1049761/enigma_axiom_mail_assistant-1.3.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "better-send-delay@addons.thunderbird.net",
+      "name": "Better Send Delay",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990350-32.png?modified=7f213e5a",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990350-64.png?modified=7f213e5a"
+      },
+      "compat": [
+        {
+          "appVersion": "159",
+          "type": "release",
+          "extVersion": "1.0.11",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053694/better_send_delay-1.0.11-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.0.11",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053694/better_send_delay-1.0.11-tb.xpi?src="
         }
       ],
       "badges": []
@@ -8037,6 +8153,33 @@
           "isWebExtension": false,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053735/copy_sent_to_current_pwe-2.7-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "correct-mail-translate@heinz.at",
+      "name": "Correct Mail Translate",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990345-32.png?modified=4fff9bf4",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990345-64.png?modified=4fff9bf4"
+      },
+      "compat": [
+        {
+          "appVersion": "159",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053677/correct_mail_translate-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053677/correct_mail_translate-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -11688,6 +11831,33 @@
       "badges": []
     },
     {
+      "id": "forward-buttons@riha.local",
+      "name": "Forward as Button",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "159",
+          "type": "release",
+          "extVersion": "1.2.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053670/tlacitko_preposlat_jako-1.2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.2.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053670/tlacitko_preposlat_jako-1.2.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "forward-subject-tagger@local.addon",
       "name": "Forward Subject Tagger",
       "icons": {
@@ -11806,18 +11976,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "1.2.8",
+          "extVersion": "1.2.9",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054600/freecorrector-1.2.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054861/freecorrector-1.2.9-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.2.8",
+          "extVersion": "1.2.9",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054600/freecorrector-1.2.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054861/freecorrector-1.2.9-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14910,6 +15080,33 @@
           "isWebExtension": false,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051394/lookout_fix_version-7.4.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "lossmol@wzmn.net",
+      "name": "Lossmol – The right direction",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990352-32.png?modified=e04252be",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990352-64.png?modified=e04252be"
+      },
+      "compat": [
+        {
+          "appVersion": "159",
+          "type": "release",
+          "extVersion": "0.1.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053693/lossmol_the_right_direction-0.1.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "0.1.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053693/lossmol_the_right_direction-0.1.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -18809,6 +19006,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1031162/europeanmx_spam_reporter-2.2.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "polimath-filters@haptonstahl.org",
+      "name": "Polimath Filters",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990351-32.png?modified=8bec4030",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990351-64.png?modified=8bec4030"
+      },
+      "compat": [
+        {
+          "appVersion": "159",
+          "type": "release",
+          "extVersion": "3.1.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054023/polimath_filters-3.1.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "3.1.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054023/polimath_filters-3.1.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -23418,18 +23642,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "5.0.8",
+          "extVersion": "5.0.10",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052853/filelink_for_synology_filestation-5.0.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054786/filelink_for_synology_filestation-5.0.10-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "5.0.8",
+          "extVersion": "5.0.10",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052853/filelink_for_synology_filestation-5.0.8-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054786/filelink_for_synology_filestation-5.0.10-tb.xpi?src="
         }
       ],
       "badges": []
@@ -25143,6 +25367,29 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1020373/sms77-1.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "thunderbird@transfernow.net",
+      "name": "TransferNow",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989933-32.png?modified=efafc209",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989933-64.png?modified=efafc209"
+      },
+      "compat": [
+        {
+          "appVersion": "159",
+          "type": "release"
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.0.2",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053660/transfernow-1.0.2-tb.xpi?src="
         }
       ],
       "badges": []
