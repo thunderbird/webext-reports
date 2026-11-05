@@ -1,5 +1,5 @@
 {
-  "generated": 1793827496950,
+  "generated": 1793913627304,
   "supported_versions": [
     91,
     102,
@@ -202,18 +202,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "3.1.0",
+          "extVersion": "3.1.2",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054763/pedantic_pdf_picture_packer-3.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054944/pedantic_pdf_picture_packer-3.1.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "3.1.0",
+          "extVersion": "3.1.2",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054763/pedantic_pdf_picture_packer-3.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054944/pedantic_pdf_picture_packer-3.1.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14941,18 +14941,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "1.6.6",
+          "extVersion": "1.6.7",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054640/llm_text_assistent-1.6.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054963/llm_text_assistent-1.6.7-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.6.6",
+          "extVersion": "1.6.7",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054640/llm_text_assistent-1.6.6-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054963/llm_text_assistent-1.6.7-tb.xpi?src="
         }
       ],
       "badges": []
@@ -15635,6 +15635,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1019990/urgentmail-1.5-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "mailboard@aki-dev.de",
+      "name": "Mailboard",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/bookmarks-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/bookmarks-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "159",
+          "type": "release",
+          "extVersion": "0.1.4",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054175/mailboard-0.1.4-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "0.1.4",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054175/mailboard-0.1.4-tb.xpi?src="
         }
       ],
       "badges": []
@@ -23642,18 +23669,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "5.0.10",
+          "extVersion": "5.0.12",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054786/filelink_for_synology_filestation-5.0.10-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054949/filelink_for_synology_filestation-5.0.12-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "5.0.10",
+          "extVersion": "5.0.12",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054786/filelink_for_synology_filestation-5.0.10-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054949/filelink_for_synology_filestation-5.0.12-tb.xpi?src="
         }
       ],
       "badges": []
@@ -24680,18 +24707,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "1.0.0",
+          "extVersion": "1.0.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054576/thunderai_privacy-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054967/thunderai_privacy-1.0.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.0.0",
+          "extVersion": "1.0.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054576/thunderai_privacy-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054967/thunderai_privacy-1.0.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -27425,18 +27452,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "0.0.2",
+          "extVersion": "0.0.4",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051462/vidstamp_youtube_upload_date_viewer-0.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054956/vidstamp_youtube_upload_date_viewer-0.0.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "0.0.2",
+          "extVersion": "0.0.4",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1051462/vidstamp_youtube_upload_date_viewer-0.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054956/vidstamp_youtube_upload_date_viewer-0.0.4-tb.xpi?src="
         }
       ],
       "badges": []
