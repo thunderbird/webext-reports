@@ -1,5 +1,5 @@
 {
-  "generated": 1793913627304,
+  "generated": 1794000325483,
   "supported_versions": [
     91,
     102,
@@ -3320,18 +3320,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "0.9.1",
-          "isWebExtension": true,
+          "extVersion": "2.0.0",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048133/paperless_ngx_uploader-0.9.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054605/paperless_ngx_uploader-2.0.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "0.9.1",
-          "isWebExtension": true,
+          "extVersion": "2.0.0",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048133/paperless_ngx_uploader-0.9.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054605/paperless_ngx_uploader-2.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -7869,6 +7869,33 @@
       "badges": []
     },
     {
+      "id": "contacts-cleanup@precisioncrab",
+      "name": "Contacts Cleanup",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990445-32.png?modified=33f0d998",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990445-64.png?modified=33f0d998"
+      },
+      "compat": [
+        {
+          "appVersion": "159",
+          "type": "release",
+          "extVersion": "0.1.28",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054530/contacts_cleanup-0.1.28-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "0.1.28",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054530/contacts_cleanup-0.1.28-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "contextkeys@local.dev",
       "name": "ContextKeys",
       "icons": {
@@ -11687,10 +11714,10 @@
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.6.2",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1038445/filter_on_folder_button-1.6.2-tb.xpi?src="
+          "extVersion": "1.6.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054996/filter_on_folder_button-1.6.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -15434,18 +15461,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "1.2.14",
+          "extVersion": "1.3.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054544/mailauthinfoviewer-1.2.14-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054995/mailauthinfoviewer-1.3.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.2.14",
+          "extVersion": "1.3.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054544/mailauthinfoviewer-1.2.14-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054995/mailauthinfoviewer-1.3.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17044,18 +17071,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "1.3.0",
+          "extVersion": "1.3.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053818/move_and_jump-1.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054972/move_and_jump-1.3.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.3.0",
+          "extVersion": "1.3.1",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053818/move_and_jump-1.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054972/move_and_jump-1.3.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -25584,6 +25611,33 @@
       "badges": []
     },
     {
+      "id": "thundergif@w1bbsy.github.io",
+      "name": "ThunderGIF",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990396-32.png?modified=66b1c99c",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990396-64.png?modified=66b1c99c"
+      },
+      "compat": [
+        {
+          "appVersion": "159",
+          "type": "release",
+          "extVersion": "1.2.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054990/thundergif-1.2.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.2.1",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054990/thundergif-1.2.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "thunderhawkmailer@gmail.com",
       "name": "Hawk (Like ChatGPT in your emails)",
       "icons": {
@@ -27560,18 +27614,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "2.21",
+          "extVersion": "2.22",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054618/warnattachment-2.21-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054625/warnattachment-2.22-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "2.21",
+          "extVersion": "2.22",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054618/warnattachment-2.21-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054625/warnattachment-2.22-tb.xpi?src="
         }
       ],
       "badges": []
@@ -27946,6 +28000,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1022123/wikipediasearchwebapp-1.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "winkk-ai@winkk.com",
+      "name": "winkk AI",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990524-32.png?modified=9d364690",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990524-64.png?modified=9d364690"
+      },
+      "compat": [
+        {
+          "appVersion": "159",
+          "type": "release",
+          "extVersion": "1.0.4",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055005/winkk_ai-1.0.4-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.0.4",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055005/winkk_ai-1.0.4-tb.xpi?src="
         }
       ],
       "badges": []
