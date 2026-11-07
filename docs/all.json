@@ -1,5 +1,5 @@
 {
-  "generated": 1794000325483,
+  "generated": 1794086530949,
   "supported_versions": [
     91,
     102,
@@ -3269,15 +3269,19 @@
       "compat": [
         {
           "appVersion": "159",
-          "type": "release"
+          "type": "release",
+          "extVersion": "0.4.0",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054633/1-0.4.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "0.3.7",
+          "extVersion": "0.4.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053534/1-0.3.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054633/1-0.4.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -5105,18 +5109,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "1.0.0",
+          "extVersion": "1.1.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053676/attachment_remover-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054788/attachment_remover-1.1.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.0.0",
+          "extVersion": "1.1.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053676/attachment_remover-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054788/attachment_remover-1.1.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10685,18 +10689,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "2.0.1",
-          "isWebExtension": true,
+          "extVersion": "2.0.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048548/extract_em-2.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054764/extract_em-2.0.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "2.0.1",
-          "isWebExtension": true,
+          "extVersion": "2.0.2",
+          "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1048548/extract_em-2.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054764/extract_em-2.0.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -10778,6 +10782,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1019470/simple_startup_minimizer-0.6-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "fastmail-tools@local",
+      "name": "Fastmail Tools",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "159",
+          "type": "release",
+          "extVersion": "1.0.6",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055040/fastmail_tools-1.0.6-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.0.6",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055040/fastmail_tools-1.0.6-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14047,18 +14078,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "2.7.0",
+          "extVersion": "2.8.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054589/jpg_attacher_shrink_optimize_edit_draw_images-2.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055016/jpg_attacher_shrink_optimize_edit_draw_images-2.8.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "2.7.0",
+          "extVersion": "2.8.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054589/jpg_attacher_shrink_optimize_edit_draw_images-2.7.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055016/jpg_attacher_shrink_optimize_edit_draw_images-2.8.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14968,18 +14999,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "1.6.7",
+          "extVersion": "1.6.8",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054963/llm_text_assistent-1.6.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055030/llm_text_assistent-1.6.8-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.6.7",
+          "extVersion": "1.6.8",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054963/llm_text_assistent-1.6.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055030/llm_text_assistent-1.6.8-tb.xpi?src="
         }
       ],
       "badges": []
@@ -16512,7 +16543,7 @@
     },
     {
       "id": "me@shiquda.link",
-      "name": "Thunderbird Vericode",
+      "name": "Vericode - Auto Detect & Copy Email Codes",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989012-32.png?modified=1032eea5",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989012-64.png?modified=1032eea5"
@@ -17445,18 +17476,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "0.6.4",
+          "extVersion": "0.7.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054759/cloud_attachment_for_nextcloud-0.6.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055028/cloud_attachment_for_nextcloud-0.7.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "0.6.4",
+          "extVersion": "0.7.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054759/cloud_attachment_for_nextcloud-0.6.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055028/cloud_attachment_for_nextcloud-0.7.0-tb.xpi?src="
         }
       ],
       "badges": []
