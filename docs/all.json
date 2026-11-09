@@ -1,5 +1,5 @@
 {
-  "generated": 1794172907428,
+  "generated": 1794259291997,
   "supported_versions": [
     91,
     102,
@@ -14078,18 +14078,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "2.8.0",
+          "extVersion": "2.9.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055016/jpg_attacher_shrink_optimize_edit_draw_images-2.8.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055118/jpg_attacher_shrink_optimize_edit_draw_images-2.9.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "2.8.0",
+          "extVersion": "2.9.0",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055016/jpg_attacher_shrink_optimize_edit_draw_images-2.8.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055118/jpg_attacher_shrink_optimize_edit_draw_images-2.9.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -15242,6 +15242,33 @@
         {
           "appVersion": "153",
           "type": "current-esr"
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "m365-reactions@jamesmorgan.local",
+      "name": "M365 Reactions for Thunderbird",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989895-32.png?modified=b0812d49",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989895-64.png?modified=b0812d49"
+      },
+      "compat": [
+        {
+          "appVersion": "159",
+          "type": "release",
+          "extVersion": "0.5.2",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053355/m365_reactions_for_thunderbird-0.5.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "0.5.2",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053355/m365_reactions_for_thunderbird-0.5.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17075,18 +17102,18 @@
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "4.0.0",
-          "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1037844/more_snooze-4.0.0-tb.xpi?src="
+          "extVersion": "4.0.3",
+          "isWebExtension": false,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055088/more_snooze-4.0.3-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "4.0.2",
+          "extVersion": "4.0.3",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052351/more_snooze-4.0.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055088/more_snooze-4.0.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -27052,25 +27079,25 @@
       "id": "uBird@celenity.dev",
       "name": "uBird",
       "icons": {
-        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
-        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/989/989489-32.png?modified=665edeb6",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/989/989489-64.png?modified=665edeb6"
       },
       "compat": [
         {
           "appVersion": "159",
           "type": "release",
-          "extVersion": "1.75.0",
+          "extVersion": "1.75.4",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053001/ubird-1.75.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055091/ubird-1.75.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.75.0",
+          "extVersion": "1.75.4",
           "isWebExtension": false,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053001/ubird-1.75.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055091/ubird-1.75.4-tb.xpi?src="
         }
       ],
       "badges": []
