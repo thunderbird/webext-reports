@@ -75,6 +75,44 @@ async function requestATN(addon_id, query_type, options) {
   return rv;
 }
 
+// Failed XPI downloads (HTTP 403) used to be stored as the default
+// {webExtension: false, legacy: false, experiment: false}, which misclassified
+// the add-on (sporadically since 2025, massively since 2026-09-03).
+// Such an entry is wrong, if it has the default values AND
+//  (a) a lower version of the same add-on is a WebExtension (a WebExtension
+//      never turns back into a legacy add-on), OR
+//  (b) the version requires at least Thunderbird 78 (ATN compatibility min),
+//      which cannot load legacy add-ons anymore.
+// Wrong entries are removed, so the regular processing scans them again.
+// Works on the stored data only, no requests.
+const NO_LEGACY_MIN_VERSION = 78;
+
+function removeFailedScans(extension) {
+  const ext_data = extension.xpilib?.ext_data;
+  if (!ext_data) {
+    return 0;
+  }
+  const isDefault = d => d.webExtension === false && d.legacy === false && d.experiment === false;
+  const atnMin = new Map((extension.versions || []).map(v =>
+    [v.version, parseInt(v.compatibility?.thunderbird?.min)]));
+
+  let removed = 0;
+  for (const [version, data] of Object.entries(ext_data)) {
+    if (!isDefault(data)) {
+      continue;
+    }
+    const hasLowerWebExtension = Object.entries(ext_data).some(([v, d]) =>
+      d.webExtension && utils.compareVer(v, version) < 0);
+    const requiresNoLegacyVersion = atnMin.get(version) >= NO_LEGACY_MIN_VERSION;
+    if (hasLowerWebExtension || requiresNoLegacyVersion) {
+      console.log(`     -> [${extension.guid} (v${version})] removing failed scan`);
+      delete ext_data[version];
+      removed++;
+    }
+  }
+  return removed;
+}
+
 async function getExtensionFiles(extension) {
   const addon_identifier = extension.guid;
   const extRootName = `${extension.id}-${extension.slug}`;
@@ -178,6 +216,7 @@ async function getExtensionFiles(extension) {
 
       // Skip, if this version had been scanned already.
       let ext_version = esr_data[ESR].version;
+
       if (ext_data[ext_version]) {
         continue;
       }
@@ -199,6 +238,7 @@ async function getExtensionFiles(extension) {
       console.log(`     -> [${addon_identifier} (v${esr_data[ESR].version})]`);
 
       const MAX_RUNS = 2;
+      let unzipped = false;
       for (let run = 1; run <= MAX_RUNS; run++) {
         let freshDownload = false;
         if (run > 1) {
@@ -229,8 +269,13 @@ async function getExtensionFiles(extension) {
         // Extract XPI.
         try {
           console.log(`         - Unzipping ${extRootDir}/xpi/${xpiFileName}`);
-          await utils.fileUnzip(path.resolve(`${extRootDir}/xpi/${xpiFileName}`), path.resolve(`${extRootDir}/src`));
+          let files = await utils.fileUnzip(path.resolve(`${extRootDir}/xpi/${xpiFileName}`), path.resolve(`${extRootDir}/src`));
+          // A file which is not a zip (for example an error page) is "unzipped" without error, but has no content.
+          if (!files || files.length == 0) {
+            throw new Error("XPI is empty or not a zip file");
+          }
           console.log(`         - Unzip succeeded`);
+          unzipped = true;
           break;
         } catch (ex) {
           console.log(`         - Unzip failed`, ex);
@@ -240,11 +285,18 @@ async function getExtensionFiles(extension) {
           if (freshDownload) {
             console.log(`         - Removing ${extRootDir}/xpi/${xpiFileName}`);
             await fs.unlink(`${extRootDir}/xpi/${xpiFileName}`);
-            console.log(`         - Removing succeeded`, ex);
+            console.log(`         - Removing succeeded`);
           }
         } catch (ex) {
           console.log(`         - Removing failed`, ex);
         }
+      }
+
+      // If we could not get the XPI, do not store anything, so the next run
+      // tries again. Storing the default data would misclassify the add-on.
+      if (!unzipped) {
+        console.log(`         - Giving up for now, will retry on next run`);
+        continue;
       }
 
       // Try to read the manifest.json.
@@ -374,6 +426,12 @@ async function main() {
       extensions = new Map(data.extension_data.map(e => [e.id, e]));
     }
   }
+
+  let removedScans = 0;
+  for (let extension of extensions.values()) {
+    removedScans += removeFailedScans(extension);
+  }
+  console.log(` => Removed ${removedScans} failed scans from the stored data.`);
 
   console.log(" => Requesting information from ATN...");
   await getExtensions(extensions);
