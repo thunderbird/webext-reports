@@ -131,48 +131,60 @@ export function compareVer(a, b) {
 /**
  * Helper function to download a file.
  *
+ * The first request goes to services.addons.thunderbird.net, which by-passes the
+ * CDN (which may throw a 403 at us). It redirects to the file on
+ * addons.thunderbird.net, which must NOT be rewritten, the file is not served
+ * by services.addons.thunderbird.net (403). If that fails, the original URL is
+ * tried as it is.
+ *
  * @param {string} url - The URL to download.
  * @param {string} filePath - The path to write the downloaded file to.
  */
-export function downloadToFile(url, filePath) {
-    let task = {}
-    task.promise = new Promise((res, rej) => {
-        task.resolve = res;
-        task.reject = rej;
-    });
+export async function downloadToFile(url, filePath) {
+    const bypassUrl = url.replace("//addons.thunderbird.net/", "//services.addons.thunderbird.net/");
+    try {
+        return await requestToFile(bypassUrl, filePath);
+    } catch (err) {
+        if (bypassUrl === url) {
+            throw err;
+        }
+        console.log(`         - Download via ${new URL(bypassUrl).host} failed (${err.message}), trying ${new URL(url).host}`);
+        return await requestToFile(url, filePath);
+    }
+}
 
-    // By-pass CDN, which may throw a 403 at us.
-    url = url.replace("//addons.thunderbird.net/", "//services.addons.thunderbird.net/")
+function requestToFile(url, filePath, redirects = 0) {
+    return new Promise((resolve, reject) => {
+        https
+            .get(url, (response) => {
+                const { statusCode, headers } = response;
 
-    https
-        .get(url, (response) => {
-            const { statusCode, headers } = response;
+                // Handle redirects (3xx), the target may be relative.
+                if (statusCode >= 300 && statusCode < 400 && headers.location) {
+                    response.resume(); // consume data to free up memory
+                    if (redirects >= 5) {
+                        return reject(new Error(`Too many redirects`));
+                    }
+                    return requestToFile(new URL(headers.location, url).href, filePath, redirects + 1)
+                        .then(resolve)
+                        .catch(reject);
+                }
 
-            // Handle redirects (3xx)
-            if (statusCode >= 300 && statusCode < 400 && headers.location) {
-                response.resume(); // consume data to free up memory
-                return downloadToFile(headers.location, filePath)
-                    .then(task.resolve)
-                    .catch(task.reject);
-            }
+                // Handle errors
+                if (statusCode !== 200) {
+                    response.resume(); // consume data to free up memory
+                    return reject(new Error(`Request Failed. Status Code: ${statusCode} (${new URL(url).host}${new URL(url).pathname.split("/").slice(0, 3).join("/")})`));
+                }
 
-            // Handle errors
-            if (statusCode !== 200) {
-                response.resume(); // consume data to free up memory
-                return task.reject(new Error(`Request Failed. Status Code: ${statusCode}`));
-            }
-
-            const file = createWriteStream(filePath);
-            response.pipe(file);
-            file.on("finish", () => {
-                file.close(() => {
-                    task.resolve(filePath);
+                const file = createWriteStream(filePath);
+                response.pipe(file);
+                file.on("finish", () => {
+                    file.close(() => {
+                        resolve(filePath);
+                    });
                 });
-            });
-        })
-        .on("error", (err) => {
-            task.reject(err);
-        });
-
-    return task.promise;
+                file.on("error", reject);
+            })
+            .on("error", reject);
+    });
 }
