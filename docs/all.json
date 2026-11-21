@@ -1,5 +1,5 @@
 {
-  "generated": 1795209844664,
+  "generated": 1795296147643,
   "supported_versions": [
     91,
     102,
@@ -5202,18 +5202,18 @@
         {
           "appVersion": "160",
           "type": "release",
-          "extVersion": "1.0.1",
+          "extVersion": "1.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050578/attach_print_all-1.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055621/attach_print_all-1.1.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.0.1",
+          "extVersion": "1.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050578/attach_print_all-1.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055621/attach_print_all-1.1.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -13912,7 +13912,7 @@
     },
     {
       "id": "icap-tbmail@icapsolutions.com",
-      "name": "iCap Inbox Assistant: Junk & Phishing Check",
+      "name": "iCap Inbox Assistant: Junk, Spam & Phishing",
       "icons": {
         "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990615-32.png?modified=42d6f935",
         "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990615-64.png?modified=42d6f935"
@@ -14646,18 +14646,18 @@
         {
           "appVersion": "160",
           "type": "release",
-          "extVersion": "1.2.1",
+          "extVersion": "1.2.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054638/jevit_ai_mail_triage-1.2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055906/jevit_ai_mail_triage-1.2.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.2.1",
+          "extVersion": "1.2.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054638/jevit_ai_mail_triage-1.2.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055906/jevit_ai_mail_triage-1.2.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17123,15 +17123,19 @@
       "compat": [
         {
           "appVersion": "160",
-          "type": "release"
+          "type": "release",
+          "extVersion": "4.1.3",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055618/markdown_here_revival-4.1.3-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "4.0.19",
+          "extVersion": "4.1.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053211/markdown_here_revival-4.0.19-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055618/markdown_here_revival-4.1.3-tb.xpi?src="
         }
       ],
       "badges": []
