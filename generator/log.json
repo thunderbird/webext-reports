@@ -1990,7 +1990,7 @@
     "989511-everforest-night@jarith-everforest-night",
     "989516-thunder-org-protocol@anq.fr-thunder-org-protocol",
     "989519-sec-deadlines-tab@CSendner-security-deadlines-tab",
-    "989522-{f71a3824-abda-4738-be82-e0ac2cce5f7c}-email-cleanup-utilities",
+    "989522-{f71a3824-abda-4738-be82-e0ac2cce5f7c}-email-cleaner-utilities",
     "989523-{122b4ddb-fd57-455e-ae56-d3392cf11564}-vfs-provider-webdav",
     "989529-thin.your.inbox@gmail.com-thinbox",
     "989530-cid-inline-preview@local.dmitry-open-email-in-browser-tab",
@@ -2007,6 +2007,7 @@
     "989554-reply-from-to@addons.thunderbird.net-set-from-from-to",
     "989555-mboxsleuth@forensic.tools-mboxsleuth",
     "989557-ccaaant@gmail.com-ai-mail-refiner-gemini",
+    "989558-woocommerce-customer-lookup@thunderbird-extension-woocommerce-customer-lookup",
     "989562-epubninja-thunderbird@epubninja.app-epub-ninja-ebook-reader",
     "989566-parashare-filelink@paramant.app-parashare-filelink",
     "989568-ai-mail-to-calendar@openclaw.ai-ai-mail-to-calendar",
@@ -2246,7 +2247,6 @@
     "990273-markov-auto-dictionary@local-auto-switch-dictionary",
     "990277-mailchat-for-thunderbird@andrea199.github.io-mailchat-for-thunderbird",
     "990280-address-book-list-finder@jcroft.net-address-book-list-finder",
-    "990286-envoyer-plus-tard@addons.thunderbird.net-messages-envoi-differe",
     "990292-veroqr-thunderbird@veroqr.app-veroqr-companion-for-tb",
     "990294-msg-opener@mendworks.dev-msg-opener",
     "990295-kalender-umzug@heinz.at-calendar-mover",
@@ -2351,6 +2351,8 @@
     "990660-insert-template-text@thizm3-insert-template-text",
     "990661-FolderHistory-Extension@local-folder-history",
     "990671-stationerylite@paulappau.nl-stationery-lite",
+    "990676-quick-snippets@usekingai.com-quick-snippets",
+    "990680-inline-comment@ih-engineering.de-inline-comment",
     "9956-tonequilla@mesquilla.com-tonequilla",
     "9995-emailcrawler@torge.kummerow-email-address-crawler"
 ]
