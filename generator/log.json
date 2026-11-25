@@ -2155,6 +2155,7 @@
     "989995-tbautoreply@renzluigi-tb-autoreply",
     "989996-filelink@mandalo.it-mandalo-it-filelink",
     "990001-projektxd@pegenau.de-projektxd-connector",
+    "990002-managesieve@mozilla.kewis.ch-manage-sieve-filters",
     "990003-sidenote-thunderbird@meyermedia.eu-sidenote",
     "990008-mailing-list-creator@rkfig.com-mailing-list-creator",
     "990011-people-panel@example.org-people-panel",
@@ -2322,6 +2323,7 @@
     "990541-answai@readei70-boop.github.io-answai",
     "990545-quick-rtl-toggle@local.addon-rtl-mail-direction-toggle",
     "990548-gabby@doginc.app-gabby",
+    "990550-link-guard@sayanetworks.eu-link-guard-for-thunderbird",
     "990561-odds-margin-calculator@betbetter.world-odds-margin-calculator",
     "990562-mathgpt-tb@mathssolvergpt.com-mathgpt-free-ai-math-solver",
     "990563-moreless@moreless.app-more-less",
@@ -2335,6 +2337,7 @@
     "990582-{b4dd9494-65c0-42da-b40e-5128555cae61}-cbkk-msg-importer",
     "990585-quick-signatures@cube-concept.com-quicksignatures",
     "990587-{0f034a1a-0d41-448e-a16d-8f9804a9e2f3}-tb-fullscreen",
+    "990605-linkedin-sender-viewer@cyberit.ma-linkedin-sender-viewer",
     "990612-mail-tracking-remover@papo-mail-tracking-remover",
     "990615-icap-tbmail@icapsolutions.com-icap-inbox-assistant",
     "990618-snapstorysaver@snapstorysaver.net-snapstorysaver",
@@ -2353,6 +2356,7 @@
     "990671-stationerylite@paulappau.nl-stationery-lite",
     "990676-quick-snippets@usekingai.com-quick-snippets",
     "990680-inline-comment@ih-engineering.de-inline-comment",
+    "990697-thunderbird@converter.studio-converter-studio",
     "9956-tonequilla@mesquilla.com-tonequilla",
     "9995-emailcrawler@torge.kummerow-email-address-crawler"
 ]

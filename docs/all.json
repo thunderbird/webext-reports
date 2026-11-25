@@ -1,5 +1,5 @@
 {
-  "generated": 1795555395817,
+  "generated": 1795642058320,
   "supported_versions": [
     91,
     102,
@@ -1434,10 +1434,10 @@
         {
           "appVersion": "161",
           "type": "release",
-          "extVersion": "6.9.4",
+          "extVersion": "6.9.5",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1050479/quicktext-6.9.4-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053636/quicktext-6.9.5-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -7797,18 +7797,18 @@
         {
           "appVersion": "161",
           "type": "release",
-          "extVersion": "3.18",
+          "extVersion": "3.19",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054539/clear_history_button-3.18-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056234/clear_history_button-3.19-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "3.18",
+          "extVersion": "3.19",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054539/clear_history_button-3.18-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056234/clear_history_button-3.19-tb.xpi?src="
         }
       ],
       "badges": []
@@ -9515,10 +9515,10 @@
         {
           "appVersion": "161",
           "type": "release",
-          "extVersion": "6.3.0",
+          "extVersion": "6.4.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1047394/dkim_verifier-6.3.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053810/dkim_verifier-6.4.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -12028,18 +12028,18 @@
         {
           "appVersion": "161",
           "type": "release",
-          "extVersion": "6.3.2",
+          "extVersion": "6.3.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054016/filtaquilla-6.3.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056237/filtaquilla-6.3.3-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "6.3.2",
+          "extVersion": "6.3.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054016/filtaquilla-6.3.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056237/filtaquilla-6.3.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -12274,18 +12274,18 @@
         {
           "appVersion": "161",
           "type": "release",
-          "extVersion": "0.4.3",
+          "extVersion": "0.4.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055755/folder_filter_scheduler-0.4.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056218/folder_filter_scheduler-0.4.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "0.4.3",
+          "extVersion": "0.4.4",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055755/folder_filter_scheduler-0.4.3-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056218/folder_filter_scheduler-0.4.4-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14513,7 +14513,7 @@
     },
     {
       "id": "insert-template-text@thizm3",
-      "name": "インサートテンプレートテキスト(InsertTemplateText)",
+      "name": "Insert Template Text（インサートテンプレートテキスト）",
       "icons": {
         "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
         "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
@@ -15652,6 +15652,33 @@
       "badges": []
     },
     {
+      "id": "link-guard@sayanetworks.eu",
+      "name": "Link Guard",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990550-32.png?modified=6c532015",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990550-64.png?modified=6c532015"
+      },
+      "compat": [
+        {
+          "appVersion": "161",
+          "type": "release",
+          "extVersion": "0.14.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055895/link_guard-0.14.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "0.14.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055895/link_guard-0.14.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "LinkCheck@example.com",
       "name": "Link Check",
       "icons": {
@@ -15674,6 +15701,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1039520/link_check-1.4.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "linkedin-sender-viewer@cyberit.ma",
+      "name": "LinkedIn Sender Viewer",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990605-32.png?modified=637248da",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990605-64.png?modified=637248da"
+      },
+      "compat": [
+        {
+          "appVersion": "161",
+          "type": "release",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055921/linkedin_sender_viewer-1.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055921/linkedin_sender_viewer-1.0.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -17146,6 +17200,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052467/mailzip-0.2.7-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "managesieve@mozilla.kewis.ch",
+      "name": "Manage Sieve Filters",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990002-32.png?modified=751671ee",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990002-64.png?modified=751671ee"
+      },
+      "compat": [
+        {
+          "appVersion": "161",
+          "type": "release",
+          "extVersion": "1.1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056243/manage_sieve_filters-1.1.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.1.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056243/manage_sieve_filters-1.1.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -27055,6 +27136,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1052250/asyntai_ai_reply_assistant-1.0.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "thunderbird@converter.studio",
+      "name": "Converter Studio",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990697-32.png?modified=5ca0af5f",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990697-64.png?modified=5ca0af5f"
+      },
+      "compat": [
+        {
+          "appVersion": "161",
+          "type": "release",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056320/converter_studio-1.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.0.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056320/converter_studio-1.0.0-tb.xpi?src="
         }
       ],
       "badges": []
