@@ -1,5 +1,5 @@
 {
-  "generated": 1795642058320,
+  "generated": 1795678626166,
   "supported_versions": [
     91,
     102,
@@ -634,6 +634,33 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054598/no_tabs-1.1.20-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "{359392b5-3954-47ae-baa8-294703c4519e}",
+      "name": "MailVault",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990623-32.png?modified=29a3e059",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990623-64.png?modified=29a3e059"
+      },
+      "compat": [
+        {
+          "appVersion": "161",
+          "type": "release",
+          "extVersion": "0.8.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055964/mailvault-0.8.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "0.8.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055964/mailvault-0.8.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -1434,18 +1461,18 @@
         {
           "appVersion": "161",
           "type": "release",
-          "extVersion": "6.9.5",
+          "extVersion": "7.0.3",
           "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053636/quicktext-6.9.5-tb.xpi?src="
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055914/quicktext-7.0.3-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "6.9.5",
+          "extVersion": "7.0.3",
           "isWebExtension": true,
-          "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053636/quicktext-6.9.5-tb.xpi?src="
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055914/quicktext-7.0.3-tb.xpi?src="
         }
       ],
       "alternatives": [
@@ -8352,6 +8379,33 @@
           "isWebExtension": true,
           "isExperiment": false,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055829/copiar_formato_format_painter-3.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "copy-email-as-md@vitorjustin",
+      "name": "Copy Email as Markdown",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990684-32.png?modified=7f5c4caf",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990684-64.png?modified=7f5c4caf"
+      },
+      "compat": [
+        {
+          "appVersion": "161",
+          "type": "release",
+          "extVersion": "1.2.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056217/copy_email_as_markdown-1.2.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.2.0",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056217/copy_email_as_markdown-1.2.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -20796,6 +20850,33 @@
       "badges": []
     },
     {
+      "id": "protect@matriqx.com",
+      "name": "Protect for Thunderbird",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990613-32.png?modified=45fabe29",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990613-64.png?modified=45fabe29"
+      },
+      "compat": [
+        {
+          "appVersion": "161",
+          "type": "release",
+          "extVersion": "1.0.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056042/protect_for_thunderbird-1.0.2-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.0.2",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056042/protect_for_thunderbird-1.0.2-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "protonmail-tab@example.com",
       "name": "ProtonMail Tab",
       "icons": {
@@ -21265,18 +21346,18 @@
         {
           "appVersion": "161",
           "type": "release",
-          "extVersion": "2.2.0",
+          "extVersion": "2.8.3",
           "isWebExtension": true,
-          "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1026026/quickarchiver-2.2.0-tb.xpi?src="
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056321/quickarchiver-2.8.3-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "2.8.2",
+          "extVersion": "2.8.3",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055733/quickarchiver-2.8.2-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056321/quickarchiver-2.8.3-tb.xpi?src="
         }
       ],
       "badges": []
@@ -25850,6 +25931,33 @@
         {
           "appVersion": "153",
           "type": "current-esr"
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "tb-tnef-renderer@djjo5923.github.io",
+      "name": "TNEF (winmail.dat) Viewer for Thunderbird",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990644-32.png?modified=d4f27edc",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990644-64.png?modified=d4f27edc"
+      },
+      "compat": [
+        {
+          "appVersion": "161",
+          "type": "release",
+          "extVersion": "0.5.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056228/tnef_winmaildat_viewer_for_thunderbird-0.5.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "0.5.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056228/tnef_winmaildat_viewer_for_thunderbird-0.5.1-tb.xpi?src="
         }
       ],
       "badges": []
