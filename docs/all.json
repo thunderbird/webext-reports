@@ -1,5 +1,5 @@
 {
-  "generated": 1795678626166,
+  "generated": 1795728338200,
   "supported_versions": [
     91,
     102,
@@ -7548,6 +7548,33 @@
       "badges": []
     },
     {
+      "id": "cid-jpeg-rescue-test@local.invalid",
+      "name": "CID JPEG Rescue",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990654-32.png?modified=71b09704",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990654-64.png?modified=71b09704"
+      },
+      "compat": [
+        {
+          "appVersion": "161",
+          "type": "release",
+          "extVersion": "1.4.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056123/cid_jpeg_rescue-1.4.3-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.4.3",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056123/cid_jpeg_rescue-1.4.3-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
       "id": "clacks@eskritt.ca",
       "name": "Clacks Overhead",
       "icons": {
@@ -8636,18 +8663,18 @@
         {
           "appVersion": "161",
           "type": "release",
-          "extVersion": "3.1",
+          "extVersion": "3.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056216/copy_sent_to_current_pwe-3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056343/copy_sent_to_current_pwe-3.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "3.1",
+          "extVersion": "3.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056216/copy_sent_to_current_pwe-3.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056343/copy_sent_to_current_pwe-3.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -15154,6 +15181,33 @@
           "isWebExtension": true,
           "isExperiment": true,
           "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055063/calendar_duplicate_finder-1.5.1-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "kalender-spalten@cooljeam",
+      "name": "Kalender-Spalten",
+      "icons": {
+        "32": "https://addons.thunderbird.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.thunderbird.net/static/img/addon-icons/default-64.png"
+      },
+      "compat": [
+        {
+          "appVersion": "161",
+          "type": "release",
+          "extVersion": "3.0.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056233/kalender_spalten-3.0.0-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "3.0.0",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056233/kalender_spalten-3.0.0-tb.xpi?src="
         }
       ],
       "badges": []
@@ -23389,18 +23443,18 @@
         {
           "appVersion": "161",
           "type": "release",
-          "extVersion": "0.1.7",
+          "extVersion": "0.1.10",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055049/mailglade-0.1.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055969/mailglade-0.1.10-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "0.1.7",
+          "extVersion": "0.1.10",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055049/mailglade-0.1.7-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055969/mailglade-0.1.10-tb.xpi?src="
         }
       ],
       "badges": []
@@ -24844,18 +24898,18 @@
         {
           "appVersion": "161",
           "type": "release",
-          "extVersion": "4.0.1",
+          "extVersion": "4.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055923/addon-4.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056333/addon-4.1.1-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "4.0.1",
+          "extVersion": "4.1.1",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055923/addon-4.0.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056333/addon-4.1.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -26141,11 +26195,19 @@
       "compat": [
         {
           "appVersion": "161",
-          "type": "release"
+          "type": "release",
+          "extVersion": "5.3.9",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055915/tbsync_manager-5.3.9-tb.xpi?src="
         },
         {
           "appVersion": "153",
-          "type": "current-esr"
+          "type": "current-esr",
+          "extVersion": "5.3.9",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055915/tbsync_manager-5.3.9-tb.xpi?src="
         }
       ],
       "badges": []
@@ -27259,18 +27321,18 @@
         {
           "appVersion": "161",
           "type": "release",
-          "extVersion": "1.0.0",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056320/converter_studio-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056340/converter_studio-1.1.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.0.0",
+          "extVersion": "1.1.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056320/converter_studio-1.0.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056340/converter_studio-1.1.0-tb.xpi?src="
         }
       ],
       "badges": []
