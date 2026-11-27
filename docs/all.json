@@ -1,5 +1,5 @@
 {
-  "generated": 1795728338200,
+  "generated": 1795814602317,
   "supported_versions": [
     91,
     102,
@@ -336,7 +336,11 @@
       "compat": [
         {
           "appVersion": "161",
-          "type": "release"
+          "type": "release",
+          "extVersion": "3.4",
+          "isWebExtension": true,
+          "isExperiment": true,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1054860/threadkey-3.4-tb.xpi?src="
         },
         {
           "appVersion": "153",
@@ -12382,18 +12386,45 @@
         {
           "appVersion": "161",
           "type": "release",
-          "extVersion": "1.6.0",
+          "extVersion": "1.7.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055920/folder_full_text_search-1.6.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056358/folder_full_text_search-1.7.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.6.0",
+          "extVersion": "1.7.0",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055920/folder_full_text_search-1.6.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056358/folder_full_text_search-1.7.0-tb.xpi?src="
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "folderfinder@example.local",
+      "name": "FolderFinder",
+      "icons": {
+        "32": "https://addons.thunderbird.net/user-media/addon_icons/990/990709-32.png?modified=d989af4b",
+        "64": "https://addons.thunderbird.net/user-media/addon_icons/990/990709-64.png?modified=d989af4b"
+      },
+      "compat": [
+        {
+          "appVersion": "161",
+          "type": "release",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056368/folderfinder-1.0.1-tb.xpi?src="
+        },
+        {
+          "appVersion": "153",
+          "type": "current-esr",
+          "extVersion": "1.0.1",
+          "isWebExtension": true,
+          "isExperiment": false,
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056368/folderfinder-1.0.1-tb.xpi?src="
         }
       ],
       "badges": []
@@ -12679,18 +12710,18 @@
         {
           "appVersion": "161",
           "type": "release",
-          "extVersion": "1.5.0",
+          "extVersion": "1.5.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055732/freecorrector_french_english_grammar_checker-1.5.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056367/freecorrector_french_english_grammar_checker-1.5.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "1.5.0",
+          "extVersion": "1.5.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055732/freecorrector_french_english_grammar_checker-1.5.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056367/freecorrector_french_english_grammar_checker-1.5.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -14091,18 +14122,18 @@
         {
           "appVersion": "161",
           "type": "release",
-          "extVersion": "0.13.1",
+          "extVersion": "0.13.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055891/icap_inbox_assistant_junk_phishing_check-0.13.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056349/icap_inbox_assistant_junk_spam_phishing-0.13.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "0.13.1",
+          "extVersion": "0.13.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1055891/icap_inbox_assistant_junk_phishing_check-0.13.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056349/icap_inbox_assistant_junk_spam_phishing-0.13.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -24898,18 +24929,18 @@
         {
           "appVersion": "161",
           "type": "release",
-          "extVersion": "4.1.1",
+          "extVersion": "4.1.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056333/addon-4.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056351/addon-4.1.2-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "4.1.1",
+          "extVersion": "4.1.2",
           "isWebExtension": true,
           "isExperiment": false,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056333/addon-4.1.1-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056351/addon-4.1.2-tb.xpi?src="
         }
       ],
       "badges": []
@@ -26754,18 +26785,18 @@
         {
           "appVersion": "161",
           "type": "release",
-          "extVersion": "3.1.0",
+          "extVersion": "3.2.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053684/thunderai_sparks-3.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056348/thunderai_sparks-3.2.0-tb.xpi?src="
         },
         {
           "appVersion": "153",
           "type": "current-esr",
-          "extVersion": "3.1.0",
+          "extVersion": "3.2.0",
           "isWebExtension": true,
           "isExperiment": true,
-          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1053684/thunderai_sparks-3.1.0-tb.xpi?src="
+          "url": "https://addons.thunderbird.net/thunderbird/downloads/file/1056348/thunderai_sparks-3.2.0-tb.xpi?src="
         }
       ],
       "badges": []
